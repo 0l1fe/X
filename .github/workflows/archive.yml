@@ -1,0 +1,32 @@
+name: Update RSS Archive
+
+# This controls when the action will run
+on:
+  schedule:
+    - cron: '0 5 * * *' # Runs at 5 AM UTC every day (after arXiv posts at 4 AM UTC)
+  workflow_dispatch: # Allows you to run this manually from the Actions tab
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: '24'
+
+      - name: Run update script
+        run: node update-archive.js
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add archive.json
+          # This checks if archive.json changed. If it did, it commits and pushes.
+          git diff --quiet && git diff --staged --quiet || git commit -m "Automated archive update"
+          git push
