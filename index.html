@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>X</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+  <style>
+    html { scrollbar-gutter: stable; }
+    #search-input { font-family: inherit; font-size: inherit; }
+  </style>
+</head>
+<body>
+  <!-- top navbar -->
+  <header class="navbar">
+    <div class="container" style="display: flex; align-items: center; gap: 1rem; padding: 0.4rem 3px;">
+      <b style="color: #000000; white-space: nowrap;">X</b>
+      <input
+        type="search"
+        id="search-input"
+        placeholder="Search"
+        style="flex-grow: 1; width: auto; margin-top: 0;"
+        autocomplete="off"
+        spellcheck="false"
+      >
+    </div>
+  </header>
+
+  <!-- main feed container -->
+  <main class="container" id="feed">
+    <!-- articles will be injected here -->
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
