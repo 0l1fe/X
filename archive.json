@@ -1,1 +1,161 @@
-[]
+[
+  {
+    "title": "Fusion rules from the Norton inequality",
+    "pubDate": "2026-07-07 04:00:00",
+    "link": "https://arxiv.org/abs/2607.03237",
+    "guid": "oai:arXiv.org:2607.03237v1",
+    "author": "Alonso Castillo-Ramirez",
+    "thumbnail": "",
+    "description": "arXiv:2607.03237v1 Announce Type: new \nAbstract: We study fusion rules forced by the Norton inequality in commutative non-associative real algebras equipped with a Frobenius form. We answer a question of T. M. Mudziiri Shumba and S. Shpectorov concerning whether the eigenspace $A_0(e)$ associated with an arbitrary idempotent $e\\in A$ must be a subalgebra of $A$. If the Frobenius form is non-degenerate, as in Majorana algebras, then for every idempotent $e\\in A$, both $A_0(e)$ and $A_1(e)$ are subalgebras of $A$, and \\[\n  A_0(e)A_1(e)\\subseteq A_{1/2}(e). \\] In the degenerate case, the corresponding inclusions hold modulo the radical of the Frobenius form. We also give an explicit axial algebra with a degenerate Frobenius form satisfying the Norton inequality for which $A_0(e)$ is not a subalgebra for one of its axes.",
+    "content": "arXiv:2607.03237v1 Announce Type: new \nAbstract: We study fusion rules forced by the Norton inequality in commutative non-associative real algebras equipped with a Frobenius form. We answer a question of T. M. Mudziiri Shumba and S. Shpectorov concerning whether the eigenspace $A_0(e)$ associated with an arbitrary idempotent $e\\in A$ must be a subalgebra of $A$. If the Frobenius form is non-degenerate, as in Majorana algebras, then for every idempotent $e\\in A$, both $A_0(e)$ and $A_1(e)$ are subalgebras of $A$, and \\[\n  A_0(e)A_1(e)\\subseteq A_{1/2}(e). \\] In the degenerate case, the corresponding inclusions hold modulo the radical of the Frobenius form. We also give an explicit axial algebra with a degenerate Frobenius form satisfying the Norton inequality for which $A_0(e)$ is not a subalgebra for one of its axes.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Lie algebras and coherence",
+    "pubDate": "2026-07-07 04:00:00",
+    "link": "https://arxiv.org/abs/2607.04539",
+    "guid": "oai:arXiv.org:2607.04539v1",
+    "author": "Dessislava H. Kochloukova",
+    "thumbnail": "",
+    "description": "arXiv:2607.04539v1 Announce Type: new \nAbstract: We determine some sufficient conditions for the split extension of two free finitely generated non-abelian Lie algebras $L = F_1 \\leftthreetimes F_2$ over an infinite field $K$ to be incoherent.",
+    "content": "arXiv:2607.04539v1 Announce Type: new \nAbstract: We determine some sufficient conditions for the split extension of two free finitely generated non-abelian Lie algebras $L = F_1 \\leftthreetimes F_2$ over an infinite field $K$ to be incoherent.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Some terminal orders on 3-folds",
+    "pubDate": "2026-07-07 04:00:00",
+    "link": "https://arxiv.org/abs/2607.02950",
+    "guid": "oai:arXiv.org:2607.02950v1",
+    "author": "Daniel Chan, Colin Ingalls",
+    "thumbnail": "",
+    "description": "arXiv:2607.02950v1 Announce Type: cross \nAbstract: We produce the first known examples of non-trivial terminal local orders in the 3-dimensional case. We exhibit two different constructions. The first produces maximal orders with given toric ramification data. Since toric terminal ramification data in dimension 3 has been classified this produces toric examples. The second construction yields maximal orders ramified on surfaces with Kleinian singularities. These are automatically terminal.",
+    "content": "arXiv:2607.02950v1 Announce Type: cross \nAbstract: We produce the first known examples of non-trivial terminal local orders in the 3-dimensional case. We exhibit two different constructions. The first produces maximal orders with given toric ramification data. Since toric terminal ramification data in dimension 3 has been classified this produces toric examples. The second construction yields maximal orders ramified on surfaces with Kleinian singularities. These are automatically terminal.",
+    "enclosure": {},
+    "categories": [
+      "math.AG",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Affine cellular algebras and asymptotic algebras",
+    "pubDate": "2026-07-07 04:00:00",
+    "link": "https://arxiv.org/abs/2607.03827",
+    "guid": "oai:arXiv.org:2607.03827v1",
+    "author": "Paula A. A. B. Carvalho, Steffen Koenig, Christian Lomp",
+    "thumbnail": "",
+    "description": "arXiv:2607.03827v1 Announce Type: cross \nAbstract: The theory of affine cellular algebras $A$ is extended to incorporate their asymptotic algebras $\\hat{A}$, clarifying unexpected differences between classical and affine situations and comparing with Lusztig's asymptotic Hecke algebras. The main new results are about a double centraliser property between $A$ and $\\hat{A}$, about constructing $\\hat{A}$ from cell modules of $A$, about existence of an embedding $A \\rightarrow \\hat{A}$ and about a faithful functor from torsionless $\\hat{A}$-modules to $A$-modules as well as about the embedding being weakly spectrum preserving (in the sense of Baum and Nistor) and about non-zero endomorphisms of cell modules being injective, while there are no non-zero homomorphisms between non-isomorphic cell modules.",
+    "content": "arXiv:2607.03827v1 Announce Type: cross \nAbstract: The theory of affine cellular algebras $A$ is extended to incorporate their asymptotic algebras $\\hat{A}$, clarifying unexpected differences between classical and affine situations and comparing with Lusztig's asymptotic Hecke algebras. The main new results are about a double centraliser property between $A$ and $\\hat{A}$, about constructing $\\hat{A}$ from cell modules of $A$, about existence of an embedding $A \\rightarrow \\hat{A}$ and about a faithful functor from torsionless $\\hat{A}$-modules to $A$-modules as well as about the embedding being weakly spectrum preserving (in the sense of Baum and Nistor) and about non-zero endomorphisms of cell modules being injective, while there are no non-zero homomorphisms between non-isomorphic cell modules.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.QA",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Piecewise Symmetric Tensors",
+    "pubDate": "2026-07-07 04:00:00",
+    "link": "https://arxiv.org/abs/2607.04712",
+    "guid": "oai:arXiv.org:2607.04712v1",
+    "author": "Felix Lotter, Rosa Prei{\\ss}",
+    "thumbnail": "",
+    "description": "arXiv:2607.04712v1 Announce Type: cross \nAbstract: Every square matrix is uniquely the sum of a symmetric matrix and a skew-symmetric matrix. We extend this familiar fact to higher order tensors: every cubic $k$-tensor is uniquely the sum of an $m$-piecewise symmetric tensor and a $(k\\!-\\!m)$-piecewise skew-symmetric tensor, for each choice of $m\\leq k$. We study these tensor spaces from the perspectives of linear algebra, representation theory and combinatorics. Our motivation stems from signature tensors in stochastic analysis, algebraic geometry and data science. More specifically, we show that our tensor space decompositions determine the vanishing ideals for signatures of piecewise linear paths with a fixed number of segments.",
+    "content": "arXiv:2607.04712v1 Announce Type: cross \nAbstract: Every square matrix is uniquely the sum of a symmetric matrix and a skew-symmetric matrix. We extend this familiar fact to higher order tensors: every cubic $k$-tensor is uniquely the sum of an $m$-piecewise symmetric tensor and a $(k\\!-\\!m)$-piecewise skew-symmetric tensor, for each choice of $m\\leq k$. We study these tensor spaces from the perspectives of linear algebra, representation theory and combinatorics. Our motivation stems from signature tensors in stochastic analysis, algebraic geometry and data science. More specifically, we show that our tensor space decompositions determine the vanishing ideals for signatures of piecewise linear paths with a fixed number of segments.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.PR",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Linearized Polynomial Chinese remainder codes",
+    "pubDate": "2026-07-07 04:00:00",
+    "link": "https://arxiv.org/abs/2505.15720",
+    "guid": "oai:arXiv.org:2505.15720v2",
+    "author": "Philippe Gaborit, Camille Garnier, Olivier Ruatta",
+    "thumbnail": "",
+    "description": "arXiv:2505.15720v2 Announce Type: replace \nAbstract: In this paper, we introduce a new family of codes relevent for rank and sum-rank metrics. These codes are based on an effective Chinese remainders theorem for linearized polynomials over finite fields. We propose a decoding algorithm for some instances of these codes.",
+    "content": "arXiv:2505.15720v2 Announce Type: replace \nAbstract: In this paper, we introduce a new family of codes relevent for rank and sum-rank metrics. These codes are based on an effective Chinese remainders theorem for linearized polynomials over finite fields. We propose a decoding algorithm for some instances of these codes.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "cs.IT",
+      "cs.SC",
+      "math.IT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On constructing deformations of noncommutative algebras",
+    "pubDate": "2026-07-07 04:00:00",
+    "link": "https://arxiv.org/abs/2507.04436",
+    "guid": "oai:arXiv.org:2507.04436v2",
+    "author": "Agata Smoktunowicz",
+    "thumbnail": "",
+    "description": "arXiv:2507.04436v2 Announce Type: replace \nAbstract: We show that if there is a flat deformation from a finite-dimensional algebra N to an algebra A, then such a deformation can be obtained by a slight generalization of the construction from [2]. The generalization allows negative powers of t to occur in the formula for f. The proof uses a result from [19].\n  We also prove that this modified construction produces well-defined formal deformations that are flat deformations from N to A.",
+    "content": "arXiv:2507.04436v2 Announce Type: replace \nAbstract: We show that if there is a flat deformation from a finite-dimensional algebra N to an algebra A, then such a deformation can be obtained by a slight generalization of the construction from [2]. The generalization allows negative powers of t to occur in the formula for f. The proof uses a result from [19].\n  We also prove that this modified construction produces well-defined formal deformations that are flat deformations from N to A.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Mal'cev clones over a three-element set up to minor-equivalence",
+    "pubDate": "2026-07-07 04:00:00",
+    "link": "https://arxiv.org/abs/2508.06918",
+    "guid": "oai:arXiv.org:2508.06918v2",
+    "author": "Stefano Fioravanti, Michael Kompatscher, Bernardo Rossi, Albert Vucaj",
+    "thumbnail": "",
+    "description": "arXiv:2508.06918v2 Announce Type: replace \nAbstract: We classify all Mal'cev clones over a three-element set up to minion homomorphisms. This is another step toward the complete classification of three-element relational structures up to pp-constructability. We furthermore provide an alternative proof of Bulatov's result that all Mal'cev clones over a three-element set have an at most 4-ary relational basis.",
+    "content": "arXiv:2508.06918v2 Announce Type: replace \nAbstract: We classify all Mal'cev clones over a three-element set up to minion homomorphisms. This is another step toward the complete classification of three-element relational structures up to pp-constructability. We furthermore provide an alternative proof of Bulatov's result that all Mal'cev clones over a three-element set have an at most 4-ary relational basis.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "cs.LO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Central polynomials of minimal degree for matrices",
+    "pubDate": "2026-07-07 04:00:00",
+    "link": "https://arxiv.org/abs/2601.07750",
+    "guid": "oai:arXiv.org:2601.07750v2",
+    "author": "Vesselin Drensky, Boyan Kostadinov",
+    "thumbnail": "",
+    "description": "arXiv:2601.07750v2 Announce Type: replace \nAbstract: Formanek made the conjecture that the minimal degree of the central polynomials for the $n\\times n$ matrix algebra over a field of characteristic 0 is $(n^2+3n-2)/2$ and this is true for $n\\leq 3$. For $n=4$ there are examples of central polynomials of degree $13=(4^2+3\\cdot 4-2)/2$ and we do not know whether there are central polynomials of lower degree. In this paper we discuss methods for searching for central polynomials of low degree and prove that the algebra of $4\\times 4$ matrices does not have central polynomials in two variables of degree $\\leq 12$. As a byproduct of our computations we obtain that this algebra does not have also polynomial identities in two variables of degree $\\leq 12$.",
+    "content": "arXiv:2601.07750v2 Announce Type: replace \nAbstract: Formanek made the conjecture that the minimal degree of the central polynomials for the $n\\times n$ matrix algebra over a field of characteristic 0 is $(n^2+3n-2)/2$ and this is true for $n\\leq 3$. For $n=4$ there are examples of central polynomials of degree $13=(4^2+3\\cdot 4-2)/2$ and we do not know whether there are central polynomials of lower degree. In this paper we discuss methods for searching for central polynomials of low degree and prove that the algebra of $4\\times 4$ matrices does not have central polynomials in two variables of degree $\\leq 12$. As a byproduct of our computations we obtain that this algebra does not have also polynomial identities in two variables of degree $\\leq 12$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Cohomological invariants of hermitian forms that detect hyperbolicity",
+    "pubDate": "2026-07-07 04:00:00",
+    "link": "https://arxiv.org/abs/2604.00581",
+    "guid": "oai:arXiv.org:2604.00581v2",
+    "author": "Yong Hu, Alexandre Lourdeaux",
+    "thumbnail": "",
+    "description": "arXiv:2604.00581v2 Announce Type: replace \nAbstract: By using unramified cohomology groups, we construct a full sequence of cohomological invariants for hermitian forms of any (orthogonal, symplectic or unitary) type that can be used to detect hyperbolicity. The base central simple algebra can have arbitrary degree and the base field can have arbitrary characteristic. In the orthogonal case, we work with hermitian pairs, and we apply our construction to show that over fields of separable dimension 3, hermitian pairs over quaternion algebras with trivial classical invariants are hyperbolic. This last result extends a result of Berhuy to arbitrary characteristic.",
+    "content": "arXiv:2604.00581v2 Announce Type: replace \nAbstract: By using unramified cohomology groups, we construct a full sequence of cohomological invariants for hermitian forms of any (orthogonal, symplectic or unitary) type that can be used to detect hyperbolicity. The base central simple algebra can have arbitrary degree and the base field can have arbitrary characteristic. In the orthogonal case, we work with hermitian pairs, and we apply our construction to show that over fields of separable dimension 3, hermitian pairs over quaternion algebras with trivial classical invariants are hyperbolic. This last result extends a result of Berhuy to arbitrary characteristic.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  }
+]
