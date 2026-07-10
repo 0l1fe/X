@@ -1,5 +1,169 @@
 [
   {
+    "title": "Waring Problem for matrices over finite local rings",
+    "pubDate": "2026-07-10 04:00:00",
+    "link": "https://arxiv.org/abs/2607.07755",
+    "guid": "oai:arXiv.org:2607.07755v1",
+    "author": "Ram Karan Choudhary, Harish Kishnani, Anupam Singh",
+    "thumbnail": "",
+    "description": "arXiv:2607.07755v1 Announce Type: new \nAbstract: This paper addresses the matrix Waring problem for matrices over finite principal local rings. Let $\\mathcal{O}_{\\ell}$ be a finite principal local ring of length $\\ell$ with the maximal ideal $\\mathfrak{m}$ and the residue field $\\mathbb{F}_q = \\mathcal{O}_\\ell/\\mathfrak{m}$. When $-1$ is a $k$-th power in $\\mathbb{F}_q$ and the characteristic of $\\mathbb{F}_q$ does not divide $k$, we show that for sufficiently large $q$, any matrix in $M_n(\\mathcal{O}_\\ell)$ can be expressed as a sum of two $k$-th powers. Furthermore, we establish that these two conditions are strictly necessary for the result to hold in general.",
+    "content": "arXiv:2607.07755v1 Announce Type: new \nAbstract: This paper addresses the matrix Waring problem for matrices over finite principal local rings. Let $\\mathcal{O}_{\\ell}$ be a finite principal local ring of length $\\ell$ with the maximal ideal $\\mathfrak{m}$ and the residue field $\\mathbb{F}_q = \\mathcal{O}_\\ell/\\mathfrak{m}$. When $-1$ is a $k$-th power in $\\mathbb{F}_q$ and the characteristic of $\\mathbb{F}_q$ does not divide $k$, we show that for sufficiently large $q$, any matrix in $M_n(\\mathcal{O}_\\ell)$ can be expressed as a sum of two $k$-th powers. Furthermore, we establish that these two conditions are strictly necessary for the result to hold in general.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AC",
+      "math.AG",
+      "math.GR",
+      "math.NT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A majorization relation for a sum of two tensor products of positive semidefinite operators",
+    "pubDate": "2026-07-10 04:00:00",
+    "link": "https://arxiv.org/abs/2607.07913",
+    "guid": "oai:arXiv.org:2607.07913v1",
+    "author": "Mohammad A. Alhejji, Cole Kelson-Packer",
+    "thumbnail": "",
+    "description": "arXiv:2607.07913v1 Announce Type: new \nAbstract: We use linear programming to prove a separable version of Ky Fan's majorization relation for a sum of two operators that are each a tensor product of $n$ positive semidefinite operators. We give an example showing that such a relation does not hold in general for sums of three or more tensor products of three or more positive semidefinite operators.",
+    "content": "arXiv:2607.07913v1 Announce Type: new \nAbstract: We use linear programming to prove a separable version of Ky Fan's majorization relation for a sum of two operators that are each a tensor product of $n$ positive semidefinite operators. We give an example showing that such a relation does not hold in general for sums of three or more tensor products of three or more positive semidefinite operators.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math-ph",
+      "math.CO",
+      "math.MP",
+      "quant-ph"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Invertibility of Anticommutator and Commutators of Higher Degree of $n$-potent Elements",
+    "pubDate": "2026-07-10 04:00:00",
+    "link": "https://arxiv.org/abs/2607.08139",
+    "guid": "oai:arXiv.org:2607.08139v1",
+    "author": "Vivek Bhabani Lama, Suhas B N",
+    "thumbnail": "",
+    "description": "arXiv:2607.08139v1 Announce Type: new \nAbstract: We introduce and study the notion of commutators and anti-commutator of higher degrees for ring elements, which generalize the concept of commutator and anti-commutator of ring elements. In particular, we study the invertibility of the degree $n$ commutators and anticommutator of $n$-potent elements. Under natural conditions on the ring, we relate the invertibility of degree $n$ commutators and anticommutator of $n$-potent elements. We also relate the invertibility of degree $n$ commutators and anticommutator of $n$-potent elements with the invertibililty of higher commutators and anticommutator. Finally, we study ring extensions in which the invertibility of degree $n$ commutators and anticommutator of $n$-potent elements is inherited from its base ring.",
+    "content": "arXiv:2607.08139v1 Announce Type: new \nAbstract: We introduce and study the notion of commutators and anti-commutator of higher degrees for ring elements, which generalize the concept of commutator and anti-commutator of ring elements. In particular, we study the invertibility of the degree $n$ commutators and anticommutator of $n$-potent elements. Under natural conditions on the ring, we relate the invertibility of degree $n$ commutators and anticommutator of $n$-potent elements. We also relate the invertibility of degree $n$ commutators and anticommutator of $n$-potent elements with the invertibililty of higher commutators and anticommutator. Finally, we study ring extensions in which the invertibility of degree $n$ commutators and anticommutator of $n$-potent elements is inherited from its base ring.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On Complement and Supplement Ideals of Nearrings",
+    "pubDate": "2026-07-10 04:00:00",
+    "link": "https://arxiv.org/abs/2607.08311",
+    "guid": "oai:arXiv.org:2607.08311v1",
+    "author": "Yashaswini H L, Vinay Madhusudanan, Kavitha Koppula, Kedukodi Babushri Srinivas, Kuncham Syam Prasad",
+    "thumbnail": "",
+    "description": "arXiv:2607.08311v1 Announce Type: new \nAbstract: In this article we study complement ideals, and the dual concept of supplement ideals, in nearrings, both of which are generalizations of the concept of complement in a bounded modular lattice. We prove fundamental properties of complements and supplements in arbitrary nearrings. We then establish Galois connections between the ideal lattices of a nearring and of its matrix nearrings, yielding one-to-one correspondences between their respective complement and supplement ideals. We also define graphs associated with complement and supplement ideals of nearrings and study some of their combinatorial properties such as girth and clique number.",
+    "content": "arXiv:2607.08311v1 Announce Type: new \nAbstract: In this article we study complement ideals, and the dual concept of supplement ideals, in nearrings, both of which are generalizations of the concept of complement in a bounded modular lattice. We prove fundamental properties of complements and supplements in arbitrary nearrings. We then establish Galois connections between the ideal lattices of a nearring and of its matrix nearrings, yielding one-to-one correspondences between their respective complement and supplement ideals. We also define graphs associated with complement and supplement ideals of nearrings and study some of their combinatorial properties such as girth and clique number.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On $q$-pre-Lie algebras",
+    "pubDate": "2026-07-10 04:00:00",
+    "link": "https://arxiv.org/abs/2607.08389",
+    "guid": "oai:arXiv.org:2607.08389v1",
+    "author": "Chengyang Lu, Yanyong Hong",
+    "thumbnail": "",
+    "description": "arXiv:2607.08389v1 Announce Type: new \nAbstract: In this paper, we introduce the notion of $q$-pre-Lie algebras from the perspective of representations of Lie algebras, providing a parametrized generalization that unifies pre-Lie algebras and anti-pre-Lie algebras. For a $q$-pre-Lie algebra $(A,\\circ)$, the commutator of $\\circ$ is a Lie bracket and the left multiplication operator scaled by $q$ gives a representation of the associated commutator Lie algebra. We also introduce the notions of $q$-$\\mathcal{O}$-operators and $q$-Novikov algebras, and investigate their relationships with $q$-pre-Lie algebras. Several explicit constructions of $q$-pre-Lie algebras are provided. Moreover, we give a complete classification of graded $q$-pre-Lie algebra structures on the Witt algebra and prove the nonexistence of such structures on the Virasoro algebra when $q\\neq 1$. Finally, for finite-dimensional complex simple Lie algebras, we show that compatible root-graded $q$-pre-Lie algebras exist on $\\mathfrak{sl}_2(\\mathbb{C})$ precisely when $q=2$ or $q=-1$, and do not exist on any other simple Lie algebra.",
+    "content": "arXiv:2607.08389v1 Announce Type: new \nAbstract: In this paper, we introduce the notion of $q$-pre-Lie algebras from the perspective of representations of Lie algebras, providing a parametrized generalization that unifies pre-Lie algebras and anti-pre-Lie algebras. For a $q$-pre-Lie algebra $(A,\\circ)$, the commutator of $\\circ$ is a Lie bracket and the left multiplication operator scaled by $q$ gives a representation of the associated commutator Lie algebra. We also introduce the notions of $q$-$\\mathcal{O}$-operators and $q$-Novikov algebras, and investigate their relationships with $q$-pre-Lie algebras. Several explicit constructions of $q$-pre-Lie algebras are provided. Moreover, we give a complete classification of graded $q$-pre-Lie algebra structures on the Witt algebra and prove the nonexistence of such structures on the Virasoro algebra when $q\\neq 1$. Finally, for finite-dimensional complex simple Lie algebras, we show that compatible root-graded $q$-pre-Lie algebras exist on $\\mathfrak{sl}_2(\\mathbb{C})$ precisely when $q=2$ or $q=-1$, and do not exist on any other simple Lie algebra.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A technique for computing oriented cohomology rings of semisimple algebraic groups",
+    "pubDate": "2026-07-10 04:00:00",
+    "link": "https://arxiv.org/abs/2607.07900",
+    "guid": "oai:arXiv.org:2607.07900v1",
+    "author": "Raj Gandhi",
+    "thumbnail": "",
+    "description": "arXiv:2607.07900v1 Announce Type: cross \nAbstract: We present a technique for computing a finite set of generators and relations for the ring $\\mathrm{h}^*(G)$ in terms of formal Demazure operators, where $\\mathrm{h}^*$ is an oriented cohomology theory satisfying the localization axiom and $G$ is a semisimple algebraic group. Using this technique, we give minimal presentations for the oriented cohomology rings of the adjoint and simply-connected groups of types $A_1$, $A_2$, and $B_2$.",
+    "content": "arXiv:2607.07900v1 Announce Type: cross \nAbstract: We present a technique for computing a finite set of generators and relations for the ring $\\mathrm{h}^*(G)$ in terms of formal Demazure operators, where $\\mathrm{h}^*$ is an oriented cohomology theory satisfying the localization axiom and $G$ is a semisimple algebraic group. Using this technique, we give minimal presentations for the oriented cohomology rings of the adjoint and simply-connected groups of types $A_1$, $A_2$, and $B_2$.",
+    "enclosure": {},
+    "categories": [
+      "math.AG",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A Study Of Skew-Polycyclic Codes Over A Non-Chain Ring",
+    "pubDate": "2026-07-10 04:00:00",
+    "link": "https://arxiv.org/abs/2607.08304",
+    "guid": "oai:arXiv.org:2607.08304v1",
+    "author": "Seema Antil, Seema Chahal, Manju Khan, Sugandha Maheshwary",
+    "thumbnail": "",
+    "description": "arXiv:2607.08304v1 Announce Type: cross \nAbstract: For a prime \\(p\\) and a positive integer \\(m\\), let \\(\\mathbb{F}_{p^m}\\) be the finite field of cardinality \\(p^m\\), and let\n  $\n  R_{u^2,v^2,p^m}\n  =\\mathbb{F}_{p^m}+u\\mathbb{F}_{p^m}+v\\mathbb{F}_{p^m}\n  +uv\\mathbb{F}_{p^m},\n  ~ u^2=v^2=0,\\ uv=vu,\n  $\n  be a finite non-chain ring. In this paper, we study skew polycyclic codes of length \\(lj\\) associated with \\(f(x)^j\\), where \\(f(x)\\) is a central polynomial of degree \\(l\\) in $R_{u^2, v^2, p^m}[x; \\Theta],$ where $\\Theta$ being an automorphism of \\(R_{u^2,v^2,p^m}\\). We describe these codes, characterize free skew polycyclic codes, and determine their ranks.\n  Under suitable centrality assumptions, we decompose the quotient ring associated with \\(x^{np^s}-\\lambda\\), where \\(\\gcd(n,p)=1\\) and \\(\\Theta(\\lambda)=\\lambda\\). This reduces the study of skew \\((\\lambda,\\Theta)\\)-constacyclic codes of length \\(np^s\\) to the study of left ideals of\n  $\\frac{R_{u^2,v^2,p^m}[x;\\Theta]}{\\langle f(x)^j\\rangle},\n  $ where \\(f(x)\\) is a central irreducible divisor of degree \\(l\\) of \\(x^{np^s}-\\lambda\\), for an invertible element \\(\\lambda\\in R_{u^2,v^2,p^m}\\) and \\(j\\in\\mathbb{N}\\).\n  We then apply these results to skew \\((\\lambda,\\Theta)\\)-constacyclic codes of length \\(p^s\\) for different classes of units \\(\\lambda\\). Several examples are presented to illustrate the theory and to obtain optimal codes. Finally, when \\(\\Theta\\) is the identity automorphism, we study constacyclic codes of length \\(np^s\\) over \\(R_{u^2,v^2,p^m}\\), according as \\(x^n-\\alpha_0\\) is irreducible or reducible over \\(\\mathbb{F}_{p^m}\\). These results extend the work of \\cite{CCDF18} and \\cite{ZTG18} on constacyclic codes of length \\(np^s\\) over \\(\\mathbb{F}_{p^m}+u\\mathbb{F}_{p^m}\\) to the finite non-chain ring \\(R_{u^2,v^2,p^m}\\).",
+    "content": "arXiv:2607.08304v1 Announce Type: cross \nAbstract: For a prime \\(p\\) and a positive integer \\(m\\), let \\(\\mathbb{F}_{p^m}\\) be the finite field of cardinality \\(p^m\\), and let\n  $\n  R_{u^2,v^2,p^m}\n  =\\mathbb{F}_{p^m}+u\\mathbb{F}_{p^m}+v\\mathbb{F}_{p^m}\n  +uv\\mathbb{F}_{p^m},\n  ~ u^2=v^2=0,\\ uv=vu,\n  $\n  be a finite non-chain ring. In this paper, we study skew polycyclic codes of length \\(lj\\) associated with \\(f(x)^j\\), where \\(f(x)\\) is a central polynomial of degree \\(l\\) in $R_{u^2, v^2, p^m}[x; \\Theta],$ where $\\Theta$ being an automorphism of \\(R_{u^2,v^2,p^m}\\). We describe these codes, characterize free skew polycyclic codes, and determine their ranks.\n  Under suitable centrality assumptions, we decompose the quotient ring associated with \\(x^{np^s}-\\lambda\\), where \\(\\gcd(n,p)=1\\) and \\(\\Theta(\\lambda)=\\lambda\\). This reduces the study of skew \\((\\lambda,\\Theta)\\)-constacyclic codes of length \\(np^s\\) to the study of left ideals of\n  $\\frac{R_{u^2,v^2,p^m}[x;\\Theta]}{\\langle f(x)^j\\rangle},\n  $ where \\(f(x)\\) is a central irreducible divisor of degree \\(l\\) of \\(x^{np^s}-\\lambda\\), for an invertible element \\(\\lambda\\in R_{u^2,v^2,p^m}\\) and \\(j\\in\\mathbb{N}\\).\n  We then apply these results to skew \\((\\lambda,\\Theta)\\)-constacyclic codes of length \\(p^s\\) for different classes of units \\(\\lambda\\). Several examples are presented to illustrate the theory and to obtain optimal codes. Finally, when \\(\\Theta\\) is the identity automorphism, we study constacyclic codes of length \\(np^s\\) over \\(R_{u^2,v^2,p^m}\\), according as \\(x^n-\\alpha_0\\) is irreducible or reducible over \\(\\mathbb{F}_{p^m}\\). These results extend the work of \\cite{CCDF18} and \\cite{ZTG18} on constacyclic codes of length \\(np^s\\) over \\(\\mathbb{F}_{p^m}+u\\mathbb{F}_{p^m}\\) to the finite non-chain ring \\(R_{u^2,v^2,p^m}\\).",
+    "enclosure": {},
+    "categories": [
+      "cs.IT",
+      "math.IT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Proof of Rump's Retraction Conjecture for Quasilinear Cycle Sets",
+    "pubDate": "2026-07-10 04:00:00",
+    "link": "https://arxiv.org/abs/2607.08609",
+    "guid": "oai:arXiv.org:2607.08609v1",
+    "author": "Carsten Dietzel",
+    "thumbnail": "",
+    "description": "arXiv:2607.08609v1 Announce Type: cross \nAbstract: Nondegenerate cycle sets were introduced by Rump as an algebraic framework for nondegenerate, involutive solutions to the Yang--Baxter equation. Nondegenerate cycle set structures on abelian groups, such as translation-invariant and quasilinear cycle sets, are of particular interest when studying the retraction problem in the theory of the Yang--Baxter equation. In this article, we solve the retraction problem for finite quasilinear cycle sets by showing that each nontrivial quasilinear cycle set is retractable, thus proving a conjecture of Rump.",
+    "content": "arXiv:2607.08609v1 Announce Type: cross \nAbstract: Nondegenerate cycle sets were introduced by Rump as an algebraic framework for nondegenerate, involutive solutions to the Yang--Baxter equation. Nondegenerate cycle set structures on abelian groups, such as translation-invariant and quasilinear cycle sets, are of particular interest when studying the retraction problem in the theory of the Yang--Baxter equation. In this article, we solve the retraction problem for finite quasilinear cycle sets by showing that each nontrivial quasilinear cycle set is retractable, thus proving a conjecture of Rump.",
+    "enclosure": {},
+    "categories": [
+      "math.QA",
+      "math.GR",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Non-abelian Extensions of Lie algebras with derivations",
+    "pubDate": "2026-07-10 04:00:00",
+    "link": "https://arxiv.org/abs/2604.26276",
+    "guid": "oai:arXiv.org:2604.26276v2",
+    "author": "Jun Jiang, Kanghe Xu",
+    "thumbnail": "",
+    "description": "arXiv:2604.26276v2 Announce Type: replace \nAbstract: In this paper, we investigate non-abelian extensions of Lie algebras with derivations using several different approaches. We show that the theory of non-abelian extensions of a Lie algebra with a derivation can be characterized by means of the second non-abelian cohomology, the Deligne groupoid, the homotopy category of strict Lie $2$-algebras with strict derivations, and the notion of a $(\\g, D)$-kernel, respectively. Moreover, within this unified framework, we address the following existence problem: given a non-abelian extension of Lie algebras \\[\\begin{CD} 0@&gt;&gt;&gt;\\h@&gt;i&gt;&gt;\\hat{\\g}@&gt;p&gt;&gt;\\g @&gt;&gt;&gt;0, \\end{CD}\\] let $(K,D)\\in\\Der(\\h)\\times\\Der(\\g)$ be a pair of derivations of $\\h$ and $\\g$ respectively. When does there exist a derivation $\\hat{D}$ of $\\hat{\\g}$ such that $\\hat{D}|_\\h=K$ and $D\\circ p=p\\circ\\hat{D}.$ We provide an obstruction class for the existence of such a lift.",
+    "content": "arXiv:2604.26276v2 Announce Type: replace \nAbstract: In this paper, we investigate non-abelian extensions of Lie algebras with derivations using several different approaches. We show that the theory of non-abelian extensions of a Lie algebra with a derivation can be characterized by means of the second non-abelian cohomology, the Deligne groupoid, the homotopy category of strict Lie $2$-algebras with strict derivations, and the notion of a $(\\g, D)$-kernel, respectively. Moreover, within this unified framework, we address the following existence problem: given a non-abelian extension of Lie algebras \\[\\begin{CD} 0@&gt;&gt;&gt;\\h@&gt;i&gt;&gt;\\hat{\\g}@&gt;p&gt;&gt;\\g @&gt;&gt;&gt;0, \\end{CD}\\] let $(K,D)\\in\\Der(\\h)\\times\\Der(\\g)$ be a pair of derivations of $\\h$ and $\\g$ respectively. When does there exist a derivation $\\hat{D}$ of $\\hat{\\g}$ such that $\\hat{D}|_\\h=K$ and $D\\circ p=p\\circ\\hat{D}.$ We provide an obstruction class for the existence of such a lift.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Product of two matrices similar to companion matrices over sufficiently large fields",
+    "pubDate": "2026-07-10 04:00:00",
+    "link": "https://arxiv.org/abs/2606.20007",
+    "guid": "oai:arXiv.org:2606.20007v2",
+    "author": "Flavien Mabilat",
+    "thumbnail": "",
+    "description": "arXiv:2606.20007v2 Announce Type: replace \nAbstract: In this note, we prove that a square matrix of size $n$ over a field containing at least $2n$ elements can be expressed as the product of two matrices similar to companion matrices, that is to say matrices with the same minimal and characteristic polynomial, if and only if the rank of $A$ is greater than $n-2$, using only classical facts. We will also give some partial results valid over smaller fields.",
+    "content": "arXiv:2606.20007v2 Announce Type: replace \nAbstract: In this note, we prove that a square matrix of size $n$ over a field containing at least $2n$ elements can be expressed as the product of two matrices similar to companion matrices, that is to say matrices with the same minimal and characteristic polynomial, if and only if the rank of $A$ is greater than $n-2$, using only classical facts. We will also give some partial results valid over smaller fields.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Graded Locally Finite and Just Infinite Steinberg Algebras",
     "pubDate": "2026-07-09 04:00:00",
     "link": "https://arxiv.org/abs/2607.06733",
