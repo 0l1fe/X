@@ -1,5 +1,102 @@
 [
   {
+    "title": "On Polar Decomposition of Dual Matrices",
+    "pubDate": "2026-07-13 04:00:00",
+    "link": "https://arxiv.org/abs/2607.09302",
+    "guid": "oai:arXiv.org:2607.09302v1",
+    "author": "V. Bhagyalakshmi, T. Kurmayya",
+    "thumbnail": "",
+    "description": "arXiv:2607.09302v1 Announce Type: new \nAbstract: A number of the form $a_s+a_d \\epsilon$, where $a_s, a_d \\in\\mathbb{C}^{n \\times n}$ and $\\epsilon$ is an infinitesimal unit satisfying $\\epsilon^2=0$, is called a dual number. A matrix with dual number entries is known as dual matrix. The objective of this article is to derive a polar decomposition of dual matrices and to study the existence and uniqueness conditions. To illustrate these results, some examples are constructed.",
+    "content": "arXiv:2607.09302v1 Announce Type: new \nAbstract: A number of the form $a_s+a_d \\epsilon$, where $a_s, a_d \\in\\mathbb{C}^{n \\times n}$ and $\\epsilon$ is an infinitesimal unit satisfying $\\epsilon^2=0$, is called a dual number. A matrix with dual number entries is known as dual matrix. The objective of this article is to derive a polar decomposition of dual matrices and to study the existence and uniqueness conditions. To illustrate these results, some examples are constructed.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Lie 2-algebras of toral rank 3",
+    "pubDate": "2026-07-13 04:00:00",
+    "link": "https://arxiv.org/abs/2406.07554",
+    "guid": "oai:arXiv.org:2406.07554v2",
+    "author": "Germ\\'an Benitez, Carlos R. Payares Guevara, Elkin O. Quintero Vanegas",
+    "thumbnail": "",
+    "description": "arXiv:2406.07554v2 Announce Type: replace \nAbstract: In this paper we study Lie 2-algebras over an algebraically closed field of characteristic two, which have a triangulable Cartan subalgebra, and derive some general properties of centerless ones. These properties allow us to do an analysis on simple Lie 2-algebras of toral rank three and provide a necessary condition for simplicity. By means of this latter condition we also conclude that simple Lie 2-algebras with a triangulable Cartan subalgebra of toral rank three and of dimension less than or equal to 16 cannot exist.",
+    "content": "arXiv:2406.07554v2 Announce Type: replace \nAbstract: In this paper we study Lie 2-algebras over an algebraically closed field of characteristic two, which have a triangulable Cartan subalgebra, and derive some general properties of centerless ones. These properties allow us to do an analysis on simple Lie 2-algebras of toral rank three and provide a necessary condition for simplicity. By means of this latter condition we also conclude that simple Lie 2-algebras with a triangulable Cartan subalgebra of toral rank three and of dimension less than or equal to 16 cannot exist.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On the sub-adjacent Hopf algebra of the universal enveloping algebra of a post-Lie algebra",
+    "pubDate": "2026-07-13 04:00:00",
+    "link": "https://arxiv.org/abs/2408.01345",
+    "guid": "oai:arXiv.org:2408.01345v2",
+    "author": "Yunnan Li",
+    "thumbnail": "",
+    "description": "arXiv:2408.01345v2 Announce Type: replace \nAbstract: Recently the notion of post-Hopf algebra was introduced, with the universal enveloping algebra of a post-Lie algebra as the fundamental example. A novel property is that any cocommutative post-Hopf algebra gives rise to a sub-adjacent Hopf algebra with a generalized Grossman-Larson product. By twisting the post-Hopf product, we provide a combinatorial antipode formula for the sub-adjacent Hopf algebra of the universal enveloping algebra of a post-Lie algebra. Relating to such a sub-adjacent Hopf algebra, we also obtain a closed inverse formula for the Guin-Oudom isomorphism in the context of post-Lie algebras. Especially as a byproduct, we derive a cancellation-free antipode formula for the Grossman-Larson Hopf algebra of ordered trees through a concrete tree-grafting expression.",
+    "content": "arXiv:2408.01345v2 Announce Type: replace \nAbstract: Recently the notion of post-Hopf algebra was introduced, with the universal enveloping algebra of a post-Lie algebra as the fundamental example. A novel property is that any cocommutative post-Hopf algebra gives rise to a sub-adjacent Hopf algebra with a generalized Grossman-Larson product. By twisting the post-Hopf product, we provide a combinatorial antipode formula for the sub-adjacent Hopf algebra of the universal enveloping algebra of a post-Lie algebra. Relating to such a sub-adjacent Hopf algebra, we also obtain a closed inverse formula for the Guin-Oudom isomorphism in the context of post-Lie algebras. Especially as a byproduct, we derive a cancellation-free antipode formula for the Grossman-Larson Hopf algebra of ordered trees through a concrete tree-grafting expression.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math-ph",
+      "math.CO",
+      "math.MP",
+      "math.QA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Differential graded Brauer groups over dg-rings",
+    "pubDate": "2026-07-13 04:00:00",
+    "link": "https://arxiv.org/abs/2604.08069",
+    "guid": "oai:arXiv.org:2604.08069v3",
+    "author": "Xiaoxiao Xu, Alexander Zimmermann",
+    "thumbnail": "",
+    "description": "arXiv:2604.08069v3 Announce Type: replace \nAbstract: Brauer groups of graded rings were defined and studied by Caenepeel and van Oystaeyen. We study the question what happens to this group if a ${\\mathbb Z}$-graded ring carries a differential graded structure in addition. We define a Brauer group for differential graded algebras over differential graded graded-commutative or commutative base rings. Based on previous work we give an explicit classification of dg-fields, and compute as an example the so-defined Brauer group in each case explicitly.",
+    "content": "arXiv:2604.08069v3 Announce Type: replace \nAbstract: Brauer groups of graded rings were defined and studied by Caenepeel and van Oystaeyen. We study the question what happens to this group if a ${\\mathbb Z}$-graded ring carries a differential graded structure in addition. We define a Brauer group for differential graded algebras over differential graded graded-commutative or commutative base rings. Based on previous work we give an explicit classification of dg-fields, and compute as an example the so-defined Brauer group in each case explicitly.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A guide to topological reconstruction on endomorphism monoids and polymorphism clones",
+    "pubDate": "2026-07-13 04:00:00",
+    "link": "https://arxiv.org/abs/2512.01086",
+    "guid": "oai:arXiv.org:2512.01086v2",
+    "author": "Paolo Marimon, Michael Pinsker",
+    "thumbnail": "",
+    "description": "arXiv:2512.01086v2 Announce Type: replace-cross \nAbstract: Various spaces of symmetries of a structure are naturally endowed with both an algebraic and a topological structure. For example, the automorphism group of a structure is, on top of being a group, a topological group when equipped with the topology of pointwise convergence. In some cases, the algebraic structure of such space alone is sufficiently rich to determine its topology (under some requirements on the topology). For automorphism groups, the problem of when this happens has been actively pursued over the last 40 years. With the exception of some early work of Lascar, the analogue of this problem for endomorphism monoids and polymorphism clones has only received attention in the past 15 years. In this guide, we survey the current state of affairs in this relatively young line of research. We moreover use this opportunity to polish several existing results and to extend them beyond what was hitherto known.",
+    "content": "arXiv:2512.01086v2 Announce Type: replace-cross \nAbstract: Various spaces of symmetries of a structure are naturally endowed with both an algebraic and a topological structure. For example, the automorphism group of a structure is, on top of being a group, a topological group when equipped with the topology of pointwise convergence. In some cases, the algebraic structure of such space alone is sufficiently rich to determine its topology (under some requirements on the topology). For automorphism groups, the problem of when this happens has been actively pursued over the last 40 years. With the exception of some early work of Lascar, the analogue of this problem for endomorphism monoids and polymorphism clones has only received attention in the past 15 years. In this guide, we survey the current state of affairs in this relatively young line of research. We moreover use this opportunity to polish several existing results and to extend them beyond what was hitherto known.",
+    "enclosure": {},
+    "categories": [
+      "math.LO",
+      "math.GR",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Deconstructible classes of modules and stability",
+    "pubDate": "2026-07-13 04:00:00",
+    "link": "https://arxiv.org/abs/2512.17799",
+    "guid": "oai:arXiv.org:2512.17799v2",
+    "author": "Marcos Mazari-Armida, Jan Trlifaj",
+    "thumbnail": "",
+    "description": "arXiv:2512.17799v2 Announce Type: replace-cross \nAbstract: We show that every deconstructible class of modules with all embeddings, all pure embedding and all RD-embeddings is stable. The argument is presented in the context of abstract classes of modules without amalgamation and the key idea is to construct a stable-like independence relation.\n  In particular, the following classes of modules with all embeddings, all pure embedding and all RD-embeddings are shown to be stable: all free and torsion-free modules over any ring, and for each $n \\geq 0$, the classes of all modules of projective and flat dimension $\\leq n$ over any ring, and the class of all modules of injective dimension $\\leq n$ over any right noetherian ring.",
+    "content": "arXiv:2512.17799v2 Announce Type: replace-cross \nAbstract: We show that every deconstructible class of modules with all embeddings, all pure embedding and all RD-embeddings is stable. The argument is presented in the context of abstract classes of modules without amalgamation and the key idea is to construct a stable-like independence relation.\n  In particular, the following classes of modules with all embeddings, all pure embedding and all RD-embeddings are shown to be stable: all free and torsion-free modules over any ring, and for each $n \\geq 0$, the classes of all modules of projective and flat dimension $\\leq n$ over any ring, and the class of all modules of injective dimension $\\leq n$ over any right noetherian ring.",
+    "enclosure": {},
+    "categories": [
+      "math.LO",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Waring Problem for matrices over finite local rings",
     "pubDate": "2026-07-10 04:00:00",
     "link": "https://arxiv.org/abs/2607.07755",
