@@ -1,5 +1,159 @@
 [
   {
+    "title": "Undecidability of the quasi-isomorphism problem for semi-free dg algebras via the cobar construction",
+    "pubDate": "2026-07-14 04:00:00",
+    "link": "https://arxiv.org/abs/2607.09667",
+    "guid": "oai:arXiv.org:2607.09667v1",
+    "author": "Manuel Rivera",
+    "thumbnail": "",
+    "description": "arXiv:2607.09667v1 Announce Type: new \nAbstract: We explain how the undecidability of the quasi-isomorphism and derived Morita equivalence problems for semi-free finitely presented dg associative algebras follow as an immediate consequence of an extension of Adams' cobar theorem to non-simply connected spaces and the triviality problem for finitely presented groups.",
+    "content": "arXiv:2607.09667v1 Announce Type: new \nAbstract: We explain how the undecidability of the quasi-isomorphism and derived Morita equivalence problems for semi-free finitely presented dg associative algebras follow as an immediate consequence of an extension of Adams' cobar theorem to non-simply connected spaces and the triviality problem for finitely presented groups.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Higher-power inverse functional identities and Frobenius collision obstructions",
+    "pubDate": "2026-07-14 04:00:00",
+    "link": "https://arxiv.org/abs/2607.09669",
+    "guid": "oai:arXiv.org:2607.09669v1",
+    "author": "Mohsen Aliabadi",
+    "thumbnail": "",
+    "description": "arXiv:2607.09669v1 Announce Type: new \nAbstract: Let $D$ be a division ring, let $n\\geq 2$, and let $f,g:D\\to D$ be additive maps satisfying \\[\n  f(x)x^{-1}+x^n g(x^{-1})=0\\qquad (x\\in D^\\times). \\] The paper studies when this inverse functional identity forces $f=g=0$, and where the natural vanishing statement fails. The main obstruction in positive characteristic comes from Frobenius homogeneity. We first give an exact finite-field classification. If $q=p^m$, then the $\\mathbb{F}_q$-dimension of the solution space is the number of ordered pairs $(i,j)$, $0\\leq i,j\\leq m-1$, such that \\[\n  p^i+p^j\\equiv n+1\\pmod {q-1}. \\] We next prove vanishing theorems for arbitrary division rings using prime-field and central-subfield scaling. In characteristic zero the identity always forces $f=g=0$. In positive characteristic, the same method gives vanishing whenever the relevant central weights are incompatible. Finally, we examine characteristic two. The characteristic-two case is not completely resolved here. We prove a reduction theorem showing that a nonzero value $f(1)=g(1)$ produces a generalized polynomial identity except for one explicit central Frobenius-degenerate possibility. In particular, for non-centrally-finite division rings, all characteristic-two solutions reduce to a one-map identity with $h(1)=0$, apart from the exceptional case where $f(1)=g(1)$ is central and $n+1$ is a power of two. For $n=2$, this exceptional case is absent, and the reduction holds over every noncommutative division ring of characteristic two.",
+    "content": "arXiv:2607.09669v1 Announce Type: new \nAbstract: Let $D$ be a division ring, let $n\\geq 2$, and let $f,g:D\\to D$ be additive maps satisfying \\[\n  f(x)x^{-1}+x^n g(x^{-1})=0\\qquad (x\\in D^\\times). \\] The paper studies when this inverse functional identity forces $f=g=0$, and where the natural vanishing statement fails. The main obstruction in positive characteristic comes from Frobenius homogeneity. We first give an exact finite-field classification. If $q=p^m$, then the $\\mathbb{F}_q$-dimension of the solution space is the number of ordered pairs $(i,j)$, $0\\leq i,j\\leq m-1$, such that \\[\n  p^i+p^j\\equiv n+1\\pmod {q-1}. \\] We next prove vanishing theorems for arbitrary division rings using prime-field and central-subfield scaling. In characteristic zero the identity always forces $f=g=0$. In positive characteristic, the same method gives vanishing whenever the relevant central weights are incompatible. Finally, we examine characteristic two. The characteristic-two case is not completely resolved here. We prove a reduction theorem showing that a nonzero value $f(1)=g(1)$ produces a generalized polynomial identity except for one explicit central Frobenius-degenerate possibility. In particular, for non-centrally-finite division rings, all characteristic-two solutions reduce to a one-map identity with $h(1)=0$, apart from the exceptional case where $f(1)=g(1)$ is central and $n+1$ is a power of two. For $n=2$, this exceptional case is absent, and the reduction holds over every noncommutative division ring of characteristic two.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Universal optimality of the double-centred matrix under unitarily invariant norms for dissimilarity data",
+    "pubDate": "2026-07-14 04:00:00",
+    "link": "https://arxiv.org/abs/2607.09670",
+    "guid": "oai:arXiv.org:2607.09670v1",
+    "author": "M. Nuria de las Heras Santos, Antonio Falc\\'o, Francisco Javier Mu\\~noz Almaraz",
+    "thumbnail": "",
+    "description": "arXiv:2607.09670v1 Announce Type: new \nAbstract: Let $D=(D_{ij})_{i,j=1}^{n}$ be a symmetric dissimilarity matrix and let $D^{(2)}=(D_{ij}^{2})_{i,j=1}^{n}$. We study the affine family of real symmetric matrices \\[\n  A(\\mathbf{g})=\\tfrac{1}{2}\\!\\left(\\mathbf{1}\\mathbf{g}^{\\top}\n  +\\mathbf{g}\\mathbf{1}^{\\top}-D^{(2)}\\right),\n  \\qquad \\mathbf{g}\\in\\mathbb{R}^{n}, \\] parametrised by a free diagonal vector $\\mathbf{g}\\in\\mathbb{R}^n$, whose off-diagonal entries satisfy \\[\n  D_{ij}^{2}=a_{ii}+a_{jj}-2a_{ij},\n  \\qquad i\\neq j. \\] We prove that the double-centred matrix \\[\n  A(\\mathbf{g}^F)=-\\tfrac{1}{2}J D^{(2)} J,\n  \\qquad\n  J=I-\\tfrac{1}{n}\\mathbf{1}\\mathbf{1}^{\\top}, \\] is the unique minimiser of the Frobenius norm over this family, with minimiser $\\mathbf{g}^F$ given explicitly by \\[\n  g^{F}_{k}\n  =\n  \\frac{1}{n}\\sum_{i=1}^{n}D_{ik}^{2}\n  -\n  \\frac{1}{2n^{2}}\\sum_{i,j=1}^{n}D_{ij}^{2},\n  \\qquad k=1,\\dots,n, \\] and that this same representative simultaneously minimises every unitarily invariant norm \\[\n  \\min_{\\mathbf{g}\\in\\mathbb{R}^n}\\left|\\!\\left|\\!\\left|A(\\mathbf{g})\\right|\\!\\right|\\!\\right|, \\] including the spectral norm, the nuclear norm, and all Schatten $p$-norms and Ky Fan $k$-norms. Thus the double-centred matrix, central to classical multidimensional scaling, admits a purely variational characterisation that does not depend on the choice of norm and requires no Euclidean realisability assumption on $D$.",
+    "content": "arXiv:2607.09670v1 Announce Type: new \nAbstract: Let $D=(D_{ij})_{i,j=1}^{n}$ be a symmetric dissimilarity matrix and let $D^{(2)}=(D_{ij}^{2})_{i,j=1}^{n}$. We study the affine family of real symmetric matrices \\[\n  A(\\mathbf{g})=\\tfrac{1}{2}\\!\\left(\\mathbf{1}\\mathbf{g}^{\\top}\n  +\\mathbf{g}\\mathbf{1}^{\\top}-D^{(2)}\\right),\n  \\qquad \\mathbf{g}\\in\\mathbb{R}^{n}, \\] parametrised by a free diagonal vector $\\mathbf{g}\\in\\mathbb{R}^n$, whose off-diagonal entries satisfy \\[\n  D_{ij}^{2}=a_{ii}+a_{jj}-2a_{ij},\n  \\qquad i\\neq j. \\] We prove that the double-centred matrix \\[\n  A(\\mathbf{g}^F)=-\\tfrac{1}{2}J D^{(2)} J,\n  \\qquad\n  J=I-\\tfrac{1}{n}\\mathbf{1}\\mathbf{1}^{\\top}, \\] is the unique minimiser of the Frobenius norm over this family, with minimiser $\\mathbf{g}^F$ given explicitly by \\[\n  g^{F}_{k}\n  =\n  \\frac{1}{n}\\sum_{i=1}^{n}D_{ik}^{2}\n  -\n  \\frac{1}{2n^{2}}\\sum_{i,j=1}^{n}D_{ij}^{2},\n  \\qquad k=1,\\dots,n, \\] and that this same representative simultaneously minimises every unitarily invariant norm \\[\n  \\min_{\\mathbf{g}\\in\\mathbb{R}^n}\\left|\\!\\left|\\!\\left|A(\\mathbf{g})\\right|\\!\\right|\\!\\right|, \\] including the spectral norm, the nuclear norm, and all Schatten $p$-norms and Ky Fan $k$-norms. Thus the double-centred matrix, central to classical multidimensional scaling, admits a purely variational characterisation that does not depend on the choice of norm and requires no Euclidean realisability assumption on $D$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Completing the rank identity for Hadamard powers of Euclidean distance matrices",
+    "pubDate": "2026-07-14 04:00:00",
+    "link": "https://arxiv.org/abs/2607.09671",
+    "guid": "oai:arXiv.org:2607.09671v1",
+    "author": "Boris Horvat, Alen Orbani\\'c, Iztok Kavkler",
+    "thumbnail": "",
+    "description": "arXiv:2607.09671v1 Announce Type: new \nAbstract: Horvat et al. (J. Math. Chem., 2014) showed that the rank of the $n$-th Hadamard power $D^{(n)}$ of a Euclidean distance matrix satisfies $\\operatorname{rank}D^{(n)} \\le R_d^n$, and proved that the inequality is strict whenever an annihilating polynomial exists. The converse - that the absence of annihilating polynomials forces $\\operatorname{rank}D^{(n)} = R_d^n$ - was left as an open problem. We resolve it by exhibiting a kernel factorisation $D^{(n)} = \\Phi_V\\, M\\, \\Phi_V^T$, where $\\Phi_V$ is the evaluation matrix on the polynomial space $V$ and $M$ is a universal matrix independent of the point configuration. A trinomial expansion of the kernel reveals that $M$ has a block-diagonal structure whose blocks are sums of Gram matrices with positive coefficients; this yields the non-singularity of~$M$ and completes the rank identity.",
+    "content": "arXiv:2607.09671v1 Announce Type: new \nAbstract: Horvat et al. (J. Math. Chem., 2014) showed that the rank of the $n$-th Hadamard power $D^{(n)}$ of a Euclidean distance matrix satisfies $\\operatorname{rank}D^{(n)} \\le R_d^n$, and proved that the inequality is strict whenever an annihilating polynomial exists. The converse - that the absence of annihilating polynomials forces $\\operatorname{rank}D^{(n)} = R_d^n$ - was left as an open problem. We resolve it by exhibiting a kernel factorisation $D^{(n)} = \\Phi_V\\, M\\, \\Phi_V^T$, where $\\Phi_V$ is the evaluation matrix on the polynomial space $V$ and $M$ is a universal matrix independent of the point configuration. A trinomial expansion of the kernel reveals that $M$ has a block-diagonal structure whose blocks are sums of Gram matrices with positive coefficients; this yields the non-singularity of~$M$ and completes the rank identity.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Gelfand--Dorfman Algebras: Nilpotency, Solvability, Construction and Classification",
+    "pubDate": "2026-07-14 04:00:00",
+    "link": "https://arxiv.org/abs/2607.09672",
+    "guid": "oai:arXiv.org:2607.09672v1",
+    "author": "Ziyi Zhang, Zeyu Hao, Yining Sun, Liangyun Chen",
+    "thumbnail": "",
+    "description": "arXiv:2607.09672v1 Announce Type: new \nAbstract: In this paper, we characterize the nilpotency and solvability of Gelfand--Dorfman (GD) algebras. In contrast with Poisson algebras and transposed Poisson algebras, we give examples show the nilpotency and solvability of a GD algebra are not determined by the nilpotency and solvability of its underlying algebras. To obtain more examples of special and non-special GD algebras, we give several construction methods and determine whether the resulting algebras are special. Futhermore, we study GD algebra structures on simple Lie algebras. We provide examples demonstrating that GD algebra structures on simple Lie algebras are not necessarily trivial, distinguishing them from Poisson and transposed Poisson algebras. Finally, we provide a complete algebraic classification of low-dimensional complex GD algebras, and determine their nilpotency, solvability and speciality.",
+    "content": "arXiv:2607.09672v1 Announce Type: new \nAbstract: In this paper, we characterize the nilpotency and solvability of Gelfand--Dorfman (GD) algebras. In contrast with Poisson algebras and transposed Poisson algebras, we give examples show the nilpotency and solvability of a GD algebra are not determined by the nilpotency and solvability of its underlying algebras. To obtain more examples of special and non-special GD algebras, we give several construction methods and determine whether the resulting algebras are special. Futhermore, we study GD algebra structures on simple Lie algebras. We provide examples demonstrating that GD algebra structures on simple Lie algebras are not necessarily trivial, distinguishing them from Poisson and transposed Poisson algebras. Finally, we provide a complete algebraic classification of low-dimensional complex GD algebras, and determine their nilpotency, solvability and speciality.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The finite basis problem for matrix semirings $\\mathbf{M}_n(S_7)$",
+    "pubDate": "2026-07-14 04:00:00",
+    "link": "https://arxiv.org/abs/2607.09677",
+    "guid": "oai:arXiv.org:2607.09677v1",
+    "author": "Jun Jiao, Miaomiao Ren",
+    "thumbnail": "",
+    "description": "arXiv:2607.09677v1 Announce Type: new \nAbstract: We first prove an embedding theorem for matrix semirings $\\mathbf{M}_n(S)$ over an additively idempotent semiring $S$: for all $n \\geq 2$, $\\mathbf{M}_n(S)$ embeds into $\\mathbf{M}_{n+1}(S)$. This yields an ascending chain of varieties $\\mathsf{V}(\\mathbf{M}_2(S)) \\leq \\mathsf{V}(\\mathbf{M}_3(S)) \\leq \\cdots$, which is strictly ascending when $S$ is the two-element distributive lattice.\n  We then show that every variety in the interval $[\\mathsf{V}(S_c(abc)), \\mathsf{V}(\\mathbf{M}_n(S_7))]$ is nonfinitely based (i.e., has no finite basis for its identities), where $S_c(abc)$ is an eight-element flat semiring and $S_7$ is the unique nonfinitely based three-element additively idempotent semiring. Consequently, $\\mathbf{M}_n(S_7)$ is nonfinitely based, yielding an ascending chain $\\mathsf{V}(\\mathbf{M}_2(S_7)) \\leq \\mathsf{V}(\\mathbf{M}_3(S_7)) \\leq \\cdots$; moreover, every variety in $[\\mathsf{V}(S_7), \\mathsf{V}(\\mathbf{M}_n(S_7))]$ is also nonfinitely based, and this interval contains at least countably infinitely many distinct varieties.\n  Although we do not know whether $\\mathsf{V}(\\mathbf{M}_n(S_7)) = \\mathsf{V}(\\mathbf{M}_{n+1}(S_7))$ holds, we show that the multiplicative reduct of $\\mathbf{M}_n(S_7)$ without the constant matrix $[1]_n$ is $5$-nilpotent, which strongly suggests that the equality may indeed hold for all $n \\geq 2$.",
+    "content": "arXiv:2607.09677v1 Announce Type: new \nAbstract: We first prove an embedding theorem for matrix semirings $\\mathbf{M}_n(S)$ over an additively idempotent semiring $S$: for all $n \\geq 2$, $\\mathbf{M}_n(S)$ embeds into $\\mathbf{M}_{n+1}(S)$. This yields an ascending chain of varieties $\\mathsf{V}(\\mathbf{M}_2(S)) \\leq \\mathsf{V}(\\mathbf{M}_3(S)) \\leq \\cdots$, which is strictly ascending when $S$ is the two-element distributive lattice.\n  We then show that every variety in the interval $[\\mathsf{V}(S_c(abc)), \\mathsf{V}(\\mathbf{M}_n(S_7))]$ is nonfinitely based (i.e., has no finite basis for its identities), where $S_c(abc)$ is an eight-element flat semiring and $S_7$ is the unique nonfinitely based three-element additively idempotent semiring. Consequently, $\\mathbf{M}_n(S_7)$ is nonfinitely based, yielding an ascending chain $\\mathsf{V}(\\mathbf{M}_2(S_7)) \\leq \\mathsf{V}(\\mathbf{M}_3(S_7)) \\leq \\cdots$; moreover, every variety in $[\\mathsf{V}(S_7), \\mathsf{V}(\\mathbf{M}_n(S_7))]$ is also nonfinitely based, and this interval contains at least countably infinitely many distinct varieties.\n  Although we do not know whether $\\mathsf{V}(\\mathbf{M}_n(S_7)) = \\mathsf{V}(\\mathbf{M}_{n+1}(S_7))$ holds, we show that the multiplicative reduct of $\\mathbf{M}_n(S_7)$ without the constant matrix $[1]_n$ is $5$-nilpotent, which strongly suggests that the equality may indeed hold for all $n \\geq 2$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Commutativity of Factor Ring R/P via *-Reverse P-Derivations",
+    "pubDate": "2026-07-14 04:00:00",
+    "link": "https://arxiv.org/abs/2607.09681",
+    "guid": "oai:arXiv.org:2607.09681v1",
+    "author": "Deepak Kumar, Sukhchain Singh",
+    "thumbnail": "",
+    "description": "arXiv:2607.09681v1 Announce Type: new \nAbstract: In this paper, we establish commutativity criteria for the quotient ring $R/P$ through pairs of $\\ast$-reverse $P$-derivations satisfying suitable commutator and anti-commutator differential identities. As applications, a number of results concerning $\\ast$-reverse derivations on prime rings are recovered.",
+    "content": "arXiv:2607.09681v1 Announce Type: new \nAbstract: In this paper, we establish commutativity criteria for the quotient ring $R/P$ through pairs of $\\ast$-reverse $P$-derivations satisfying suitable commutator and anti-commutator differential identities. As applications, a number of results concerning $\\ast$-reverse derivations on prime rings are recovered.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Commutator-based Solutions to $AXA = XAX$ when $A^n = tA^2$",
+    "pubDate": "2026-07-14 04:00:00",
+    "link": "https://arxiv.org/abs/2607.09720",
+    "guid": "oai:arXiv.org:2607.09720v1",
+    "author": "Bogdan D. Djordjevic, Nebojsa C. Dincic, Mihailo Djuric",
+    "thumbnail": "",
+    "description": "arXiv:2607.09720v1 Announce Type: new \nAbstract: This paper offers a novel analytical method for obtaining new non-commuting solutions for the Yang-Baxter-like matrix equation $AXA=XAX$, when the coefficient matrix $A$ satisfies the square-cyclic condition $A^n=tA^2$. All the consistency criteria are proved and the obtained results are demonstrated on worked examples. The findings provided by this article simultaneously generalize several existing special cases regarding this topic. Consequently, by employing the obtained results, the previously unstudied inhomogeneous Yang-Baxter matrix equation $AXA=XAX+B$ is solved when $A$ is either invertible, or satisfies $A^2=0$.",
+    "content": "arXiv:2607.09720v1 Announce Type: new \nAbstract: This paper offers a novel analytical method for obtaining new non-commuting solutions for the Yang-Baxter-like matrix equation $AXA=XAX$, when the coefficient matrix $A$ satisfies the square-cyclic condition $A^n=tA^2$. All the consistency criteria are proved and the obtained results are demonstrated on worked examples. The findings provided by this article simultaneously generalize several existing special cases regarding this topic. Consequently, by employing the obtained results, the previously unstudied inhomogeneous Yang-Baxter matrix equation $AXA=XAX+B$ is solved when $A$ is either invertible, or satisfies $A^2=0$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.SP"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Generalized EP properties of (b c) inverses",
+    "pubDate": "2026-07-14 04:00:00",
+    "link": "https://arxiv.org/abs/2607.09726",
+    "guid": "oai:arXiv.org:2607.09726v1",
+    "author": "Huanyin Chen",
+    "thumbnail": "",
+    "description": "arXiv:2607.09726v1 Announce Type: new \nAbstract: In this paper, we introduce the notion of the generalized (b,c) EP inverse within the framework of a *-Banach algebra. This concept emerges as a logical extension of the weak group inverse and EP-like property, which is applicable to complex matrices and bounded linear operators in Hilbert spaces. We provide its characterizations in relation to its associated decomposition and the generalized Drazin inverse. A polar-like property for the generalized (b,c) EP inverse is presented. Furthermore, we reveal an intrinsic connection between the generalized (b,b) EP inverse and the converse law for the generalized group inverse.",
+    "content": "arXiv:2607.09726v1 Announce Type: new \nAbstract: In this paper, we introduce the notion of the generalized (b,c) EP inverse within the framework of a *-Banach algebra. This concept emerges as a logical extension of the weak group inverse and EP-like property, which is applicable to complex matrices and bounded linear operators in Hilbert spaces. We provide its characterizations in relation to its associated decomposition and the generalized Drazin inverse. A polar-like property for the generalized (b,c) EP inverse is presented. Furthermore, we reveal an intrinsic connection between the generalized (b,b) EP inverse and the converse law for the generalized group inverse.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.OA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Matrix generators for the unit groups of $L_K(1,d)$",
+    "pubDate": "2026-07-14 04:00:00",
+    "link": "https://arxiv.org/abs/2607.10351",
+    "guid": "oai:arXiv.org:2607.10351v1",
+    "author": "Huynh Viet Khanh, Vo Hoang Thanh",
+    "thumbnail": "",
+    "description": "arXiv:2607.10351v1 Announce Type: new \nAbstract: Let $K$ be a field and put $L_d=L_K(R_d)\\cong L_K(1,d)$. Ordered leaf sets in the rooted $d$-ary tree determine copies of general linear groups over $K$ inside $L_d^\\times$. We prove that these copies generate $L_d^\\times$ for every $d\\geq2$. In the binary case, $L_2^\\times=\\langle 1+eaf^*,1+fbe^*:a,b\\in L_2\\rangle$. We characterize finite generation of $L_d^\\times$, determine the subgroup represented by monomial matrices, and embed $\\GL_\\infty(K)$ in $L_2^\\times$. Over a finite field, finite presentability of $L_d^\\times$ is equivalent to finite generation of the unstable $K_2$-group $K_2(n,L_d)$ for every $n=1+r(d-1)\\geq5$, where $r\\geq0$; we also compute $K_2(L_d)$.",
+    "content": "arXiv:2607.10351v1 Announce Type: new \nAbstract: Let $K$ be a field and put $L_d=L_K(R_d)\\cong L_K(1,d)$. Ordered leaf sets in the rooted $d$-ary tree determine copies of general linear groups over $K$ inside $L_d^\\times$. We prove that these copies generate $L_d^\\times$ for every $d\\geq2$. In the binary case, $L_2^\\times=\\langle 1+eaf^*,1+fbe^*:a,b\\in L_2\\rangle$. We characterize finite generation of $L_d^\\times$, determine the subgroup represented by monomial matrices, and embed $\\GL_\\infty(K)$ in $L_2^\\times$. Over a finite field, finite presentability of $L_d^\\times$ is equivalent to finite generation of the unstable $K_2$-group $K_2(n,L_d)$ for every $n=1+r(d-1)\\geq5$, where $r\\geq0$; we also compute $K_2(L_d)$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "On Polar Decomposition of Dual Matrices",
     "pubDate": "2026-07-13 04:00:00",
     "link": "https://arxiv.org/abs/2607.09302",
