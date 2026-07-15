@@ -1,5 +1,150 @@
 [
   {
+    "title": "Dual orthogonal tripotent matrices",
+    "pubDate": "2026-07-15 04:00:00",
+    "link": "https://arxiv.org/abs/2607.11900",
+    "guid": "oai:arXiv.org:2607.11900v1",
+    "author": "Tan Mei, Kezheng Zuo, Yang Si",
+    "thumbnail": "",
+    "description": "arXiv:2607.11900v1 Announce Type: new \nAbstract: In this paper, we study dual orthogonal tripotent matrices, defined by $\\hat{A}^3=\\hat{A} = \\hat{A}^*$, and examine their fundamental algebraic properties.\n  Additionally, we establish several characterizations of this class of matrices using matrix averages involving $\\hat{A}$, $\\hat{A}_e$, $\\hat{A}^*$, $\\hat{A}\\sp{\\scriptscriptstyle N}$, as well as integer powers of products such as $\\hat{A}\\hat{A}^*$ and $\\hat{A}^*\\hat{A}$. These results enrich the theory of dual generalized matrix classes and reveal new perspectives on related dual quaternion matrices.",
+    "content": "arXiv:2607.11900v1 Announce Type: new \nAbstract: In this paper, we study dual orthogonal tripotent matrices, defined by $\\hat{A}^3=\\hat{A} = \\hat{A}^*$, and examine their fundamental algebraic properties.\n  Additionally, we establish several characterizations of this class of matrices using matrix averages involving $\\hat{A}$, $\\hat{A}_e$, $\\hat{A}^*$, $\\hat{A}\\sp{\\scriptscriptstyle N}$, as well as integer powers of products such as $\\hat{A}\\hat{A}^*$ and $\\hat{A}^*\\hat{A}$. These results enrich the theory of dual generalized matrix classes and reveal new perspectives on related dual quaternion matrices.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Initial pre-algebras as a generalization of dendriform algebras",
+    "pubDate": "2026-07-15 04:00:00",
+    "link": "https://arxiv.org/abs/2607.12393",
+    "guid": "oai:arXiv.org:2607.12393v1",
+    "author": "P. S. Kolesnikov, B. K. Sartayev",
+    "thumbnail": "",
+    "description": "arXiv:2607.12393v1 Announce Type: new \nAbstract: We continue the study of \\emph{initial dialgebras} defined in~\\cite{DMS2026}. For a binary operad $\\Var$ we define the class of initial pre-$\\Var$-algebras and the corresponding operad $\\pre\\Var^{\\I}$ in such a way that \\[ (\\di\\Var^{\\I})^{!}=(\\pre(\\Var^{!}))^{\\I} \\] in the case when $\\Var $ is quadratic. We propose an intuitive algorithm for finding the defining relations of the operad $\\pre\\Var^{\\I}$ in the case when $\\Var$ is a binary quadratic operad. We also study free initial pre-algebras in the associative and commutative settings. For the nonsymmetric operad $\\pre\\As^{\\I}$, we construct a Grobner--Shirshov basis in the free magma operad, describe a linear basis in terms of admissible decorated planar binary trees, and establish a bijection between these trees and certain combinatorial objects.",
+    "content": "arXiv:2607.12393v1 Announce Type: new \nAbstract: We continue the study of \\emph{initial dialgebras} defined in~\\cite{DMS2026}. For a binary operad $\\Var$ we define the class of initial pre-$\\Var$-algebras and the corresponding operad $\\pre\\Var^{\\I}$ in such a way that \\[ (\\di\\Var^{\\I})^{!}=(\\pre(\\Var^{!}))^{\\I} \\] in the case when $\\Var $ is quadratic. We propose an intuitive algorithm for finding the defining relations of the operad $\\pre\\Var^{\\I}$ in the case when $\\Var$ is a binary quadratic operad. We also study free initial pre-algebras in the associative and commutative settings. For the nonsymmetric operad $\\pre\\As^{\\I}$, we construct a Grobner--Shirshov basis in the free magma operad, describe a linear basis in terms of admissible decorated planar binary trees, and establish a bijection between these trees and certain combinatorial objects.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Quantum algorithm for Clifford multiplication",
+    "pubDate": "2026-07-15 04:00:00",
+    "link": "https://arxiv.org/abs/2607.10473",
+    "guid": "oai:arXiv.org:2607.10473v1",
+    "author": "Kagwe A. Muchane",
+    "thumbnail": "",
+    "description": "arXiv:2607.10473v1 Announce Type: cross \nAbstract: Given two dense multivectors of the Clifford algebra $C\\ell(V, Q)$ with $N=2^{p+q}$ coefficients, the fastest known classical algorithms compute their geometric product in $O(N^{\\omega/2})$ arithmetic operations, where $\\omega$ denotes the matrix multiplication exponent. I show that, under amplitude encoding, a quantum computer executes the geometric product in $O(\\operatorname{polylog} N)$ time, using logarithmic space with sublogarithmic circuit depth. This exponential speedup establishes Clifford multiplication as a quantum primitive, providing an efficient computational foundation for quantum geometric algorithms and relativistic simulations.",
+    "content": "arXiv:2607.10473v1 Announce Type: cross \nAbstract: Given two dense multivectors of the Clifford algebra $C\\ell(V, Q)$ with $N=2^{p+q}$ coefficients, the fastest known classical algorithms compute their geometric product in $O(N^{\\omega/2})$ arithmetic operations, where $\\omega$ denotes the matrix multiplication exponent. I show that, under amplitude encoding, a quantum computer executes the geometric product in $O(\\operatorname{polylog} N)$ time, using logarithmic space with sublogarithmic circuit depth. This exponential speedup establishes Clifford multiplication as a quantum primitive, providing an efficient computational foundation for quantum geometric algorithms and relativistic simulations.",
+    "enclosure": {},
+    "categories": [
+      "quant-ph",
+      "cs.CC",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The Center of the Temperley-Lieb Algebra",
+    "pubDate": "2026-07-15 04:00:00",
+    "link": "https://arxiv.org/abs/2607.12247",
+    "guid": "oai:arXiv.org:2607.12247v1",
+    "author": "Anthony Giaquinto, Mitja Mastnak",
+    "thumbnail": "",
+    "description": "arXiv:2607.12247v1 Announce Type: cross \nAbstract: We compute the dimension of the center of the Temperley--Lieb algebra $\\operatorname{TL_n}(\\delta)$ over a field of characteristic zero for every nonzero value of the parameter $\\delta$. The proof uses the cellular filtration by cup number, together with known facts about the representation theory of the Temperley--Lieb algebra, especially the structure of its standard modules and their radicals. Dilation and compression maps compare the induced graded pieces of the center at levels $n$ and $n-2$, giving an upper bound of one for each such piece. A deformation argument gives the matching lower bound, and hence $ \\dim Z(\\operatorname{TL}_n(\\delta))=1+\\Bigl\\lfloor \\frac{n}{2}\\Bigr\\rfloor$.\n  We also prove that every central element is fixed by the canonical anti-automorphism and by the natural diagram-reflection automorphism. Finally, we give a congruence criterion for the trivial-radical case and record a Gram-matrix computation for leading terms.",
+    "content": "arXiv:2607.12247v1 Announce Type: cross \nAbstract: We compute the dimension of the center of the Temperley--Lieb algebra $\\operatorname{TL_n}(\\delta)$ over a field of characteristic zero for every nonzero value of the parameter $\\delta$. The proof uses the cellular filtration by cup number, together with known facts about the representation theory of the Temperley--Lieb algebra, especially the structure of its standard modules and their radicals. Dilation and compression maps compare the induced graded pieces of the center at levels $n$ and $n-2$, giving an upper bound of one for each such piece. A deformation argument gives the matching lower bound, and hence $ \\dim Z(\\operatorname{TL}_n(\\delta))=1+\\Bigl\\lfloor \\frac{n}{2}\\Bigr\\rfloor$.\n  We also prove that every central element is fixed by the canonical anti-automorphism and by the natural diagram-reflection automorphism. Finally, we give a congruence criterion for the trivial-radical case and record a Gram-matrix computation for leading terms.",
+    "enclosure": {},
+    "categories": [
+      "math.QA",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Algebraic structures on non-Archimedean Urysohn universal metric spaces",
+    "pubDate": "2026-07-15 04:00:00",
+    "link": "https://arxiv.org/abs/2607.12528",
+    "guid": "oai:arXiv.org:2607.12528v1",
+    "author": "Yoshito Ishiki",
+    "thumbnail": "",
+    "description": "arXiv:2607.12528v1 Announce Type: cross \nAbstract: We investigate valued-field structures on Urysohn universal ultrametric spaces. We introduce $p$-adic Levi--Civita fields as subfields of $p$-adic Hahn fields and treat them together with ordinary Levi--Civita fields. For a subgroup $G$ of $\\mathbb{R}$ containing $\\mathbb{Z}$ and a countably infinite perfect field $k$, the corresponding Levi--Civita valued field is isometric to the $R$-Urysohn universal ultrametric space, where $R=\\{0\\}\\cup\\{\\eta^{-g}\\mid g\\in G\\}$. Thus these spaces admit field structures extending prescribed prime valued fields, including $\\mathbb{Q}$ with the trivial valuation and the $p$-adic fields $\\mathbb{Q}_{p}$. We also prove that complete valued fields with infinite residue fields are haloed, and hence universal for separable ultrametric spaces with corresponding distance sets. In the separable case, such a valued field is itself isometric to the corresponding Urysohn space. Examples include $\\mathbb{C}_{p}$, the completion of the maximal unramified extension of $\\mathbb{Q}_{p}$, Laurent series fields, and completions of their algebraic closures. Finally, for a countably infinite perfect residue field, the corresponding full Hahn-type valued field is a Urysohn universal ultrametric space exactly when its value group is order-isomorphic to $\\mathbb{Z}$.",
+    "content": "arXiv:2607.12528v1 Announce Type: cross \nAbstract: We investigate valued-field structures on Urysohn universal ultrametric spaces. We introduce $p$-adic Levi--Civita fields as subfields of $p$-adic Hahn fields and treat them together with ordinary Levi--Civita fields. For a subgroup $G$ of $\\mathbb{R}$ containing $\\mathbb{Z}$ and a countably infinite perfect field $k$, the corresponding Levi--Civita valued field is isometric to the $R$-Urysohn universal ultrametric space, where $R=\\{0\\}\\cup\\{\\eta^{-g}\\mid g\\in G\\}$. Thus these spaces admit field structures extending prescribed prime valued fields, including $\\mathbb{Q}$ with the trivial valuation and the $p$-adic fields $\\mathbb{Q}_{p}$. We also prove that complete valued fields with infinite residue fields are haloed, and hence universal for separable ultrametric spaces with corresponding distance sets. In the separable case, such a valued field is itself isometric to the corresponding Urysohn space. Examples include $\\mathbb{C}_{p}$, the completion of the maximal unramified extension of $\\mathbb{Q}_{p}$, Laurent series fields, and completions of their algebraic closures. Finally, for a countably infinite perfect residue field, the corresponding full Hahn-type valued field is a Urysohn universal ultrametric space exactly when its value group is order-isomorphic to $\\mathbb{Z}$.",
+    "enclosure": {},
+    "categories": [
+      "math.MG",
+      "math.GN",
+      "math.LO",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Clifford semigroups and the monoidal Grothendieck construction",
+    "pubDate": "2026-07-15 04:00:00",
+    "link": "https://arxiv.org/abs/2607.12944",
+    "guid": "oai:arXiv.org:2607.12944v1",
+    "author": "Elena Caviglia, Peter F. Faul, Graham Manuell, Luca Mesiti",
+    "thumbnail": "",
+    "description": "arXiv:2607.12944v1 Announce Type: cross \nAbstract: Clifford semigroups are known to correspond to functors from a semilattice into the category of groups. We show that this correspondence is an instance of the monoidal Grothendieck construction. Moreover, applying the Grothendieck construction to the functor sending a semilattice L to the functor category [L, Grp] yields the category of all Clifford semigroups. We use this to construct a number of factorisation systems on the category of Clifford monoids. Finally, we prove a general result on taking monoids in a monoidal fibration and apply it to give a correspondence between inverse semirings and lax monoidal functors from idempotent semirings into the category of abelian groups.",
+    "content": "arXiv:2607.12944v1 Announce Type: cross \nAbstract: Clifford semigroups are known to correspond to functors from a semilattice into the category of groups. We show that this correspondence is an instance of the monoidal Grothendieck construction. Moreover, applying the Grothendieck construction to the functor sending a semilattice L to the functor category [L, Grp] yields the category of all Clifford semigroups. We use this to construct a number of factorisation systems on the category of Clifford monoids. Finally, we prove a general result on taking monoids in a monoidal fibration and apply it to give a correspondence between inverse semirings and lax monoidal functors from idempotent semirings into the category of abelian groups.",
+    "enclosure": {},
+    "categories": [
+      "math.CT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Trace ideals and uniserial modules",
+    "pubDate": "2026-07-15 04:00:00",
+    "link": "https://arxiv.org/abs/2605.12459",
+    "guid": "oai:arXiv.org:2605.12459v2",
+    "author": "Dolors Herbera, Pavel P\\v{r}\\'i hoda",
+    "thumbnail": "",
+    "description": "arXiv:2605.12459v2 Announce Type: replace \nAbstract: We thoroughly investigate the trace ideals of projective modules over the endomorphism ring of a uniserial module. After the work of Dubrovin and Puninski, it is known that this class of rings provides examples of trace ideals of projective right modules that are not trace ideals of projective left modules. In this paper we further investigate when this happens, giving an intrinsic description of such trace ideals and their properties. We also use the theory associated to lifting projective modules modulo a trace ideal to give an alternative approach to Puninski's construction of a direct summand of a serial module that is not serial.",
+    "content": "arXiv:2605.12459v2 Announce Type: replace \nAbstract: We thoroughly investigate the trace ideals of projective modules over the endomorphism ring of a uniserial module. After the work of Dubrovin and Puninski, it is known that this class of rings provides examples of trace ideals of projective right modules that are not trace ideals of projective left modules. In this paper we further investigate when this happens, giving an intrinsic description of such trace ideals and their properties. We also use the theory associated to lifting projective modules modulo a trace ideal to give an alternative approach to Puninski's construction of a direct summand of a serial module that is not serial.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On Krull's Dimension Theorem for Certain Graded Rings and Its Applications",
+    "pubDate": "2026-07-15 04:00:00",
+    "link": "https://arxiv.org/abs/2605.00463",
+    "guid": "oai:arXiv.org:2605.00463v3",
+    "author": "Rirai Ikeda",
+    "thumbnail": "",
+    "description": "arXiv:2605.00463v3 Announce Type: replace-cross \nAbstract: This paper explores the dimension theory of non-Noetherian graded rings by introducing the class of Hilbert--Serre rings. Motivated by Krull's dimension theorem and Smoke's dimension theorem, we establish the fundamental inequalities $\\operatorname{dim_{gr}}(R) \\leq \\dim(R) \\leq \\operatorname{GKdim}_k(R) \\leq d(R)$ for any Hilbert--Serre ring $R$, where $d(R)$ is the pole order of its Poincar\\'e series at $t=1$. We then prove that all these dimensions, including the transcendence degree in the domain case, coincide for monomial algebras. As an application, let $S$ be a finitely generated homogeneous subalgebra of a polynomial ring over a field $k$, and let $\\mathrm{in}_{",
+    "content": "arXiv:2605.00463v3 Announce Type: replace-cross \nAbstract: This paper explores the dimension theory of non-Noetherian graded rings by introducing the class of Hilbert--Serre rings. Motivated by Krull's dimension theorem and Smoke's dimension theorem, we establish the fundamental inequalities $\\operatorname{dim_{gr}}(R) \\leq \\dim(R) \\leq \\operatorname{GKdim}_k(R) \\leq d(R)$ for any Hilbert--Serre ring $R$, where $d(R)$ is the pole order of its Poincar\\'e series at $t=1$. We then prove that all these dimensions, including the transcendence degree in the domain case, coincide for monomial algebras. As an application, let $S$ be a finitely generated homogeneous subalgebra of a polynomial ring over a field $k$, and let $\\mathrm{in}_{",
+    "enclosure": {},
+    "categories": [
+      "math.AC",
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Chain conditions on skew braces and solutions of the Yang-Baxter Equation",
+    "pubDate": "2026-07-15 04:00:00",
+    "link": "https://arxiv.org/abs/2606.28177",
+    "guid": "oai:arXiv.org:2606.28177v2",
+    "author": "Massimiliano Di Matteo, Ram\\'on Esteban-Romero, Maria Ferrara, Vicent P\\'erez-Calabuig",
+    "thumbnail": "",
+    "description": "arXiv:2606.28177v2 Announce Type: replace-cross \nAbstract: Classical works of Hall and McLain show that solubility and local nilpotency play a key role in deriving finite generation in groups from maximal or minimal conditions on normal subgroups. In this work, brace-theoretical analogues of Hall's and McLain's results are analysed for skew braces satisfying the maximal or minimal condition on ideals. We also introduce finiteness and chain conditions on non-degenerate set-theoretic solutions of the Yang-Baxter equation, and their impact on associated structure and permutation skew braces of solutions is also described.",
+    "content": "arXiv:2606.28177v2 Announce Type: replace-cross \nAbstract: Classical works of Hall and McLain show that solubility and local nilpotency play a key role in deriving finite generation in groups from maximal or minimal conditions on normal subgroups. In this work, brace-theoretical analogues of Hall's and McLain's results are analysed for skew braces satisfying the maximal or minimal condition on ideals. We also introduce finiteness and chain conditions on non-degenerate set-theoretic solutions of the Yang-Baxter equation, and their impact on associated structure and permutation skew braces of solutions is also described.",
+    "enclosure": {},
+    "categories": [
+      "math.GR",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Undecidability of the quasi-isomorphism problem for semi-free dg algebras via the cobar construction",
     "pubDate": "2026-07-14 04:00:00",
     "link": "https://arxiv.org/abs/2607.09667",
