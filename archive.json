@@ -1,5 +1,166 @@
 [
   {
+    "title": "Words don't come easy: strong affine representations of the polycyclic monoids",
+    "pubDate": "2026-07-16 04:00:00",
+    "link": "https://arxiv.org/abs/2607.13290",
+    "guid": "oai:arXiv.org:2607.13290v1",
+    "author": "Krist\\'of Varga, Tam\\'as Waldhauser",
+    "thumbnail": "",
+    "description": "arXiv:2607.13290v1 Announce Type: new \nAbstract: Each one-dimensional strong affine representation of the polycyclic monoid $\\mathcal{P}_n$ is induced by a complete system of residues modulo $n$. We completely characterize these representations in the case when the system of residues is an arithmetic sequence. We accomplish this by introducing a closure operator on the set of primitive words over $\\{0,1,\\dots,n-1\\}$, and we also describe the lattice of closed sets. This characterization covers all one-dimensional strong affine representations of $\\mathcal{P}_2$.",
+    "content": "arXiv:2607.13290v1 Announce Type: new \nAbstract: Each one-dimensional strong affine representation of the polycyclic monoid $\\mathcal{P}_n$ is induced by a complete system of residues modulo $n$. We completely characterize these representations in the case when the system of residues is an arithmetic sequence. We accomplish this by introducing a closure operator on the set of primitive words over $\\{0,1,\\dots,n-1\\}$, and we also describe the lattice of closed sets. This characterization covers all one-dimensional strong affine representations of $\\mathcal{P}_2$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Involutions of (twisted) diagram monoids",
+    "pubDate": "2026-07-16 04:00:00",
+    "link": "https://arxiv.org/abs/2607.13445",
+    "guid": "oai:arXiv.org:2607.13445v1",
+    "author": "James East, P. A. Azeef Muhammed",
+    "thumbnail": "",
+    "description": "arXiv:2607.13445v1 Announce Type: new \nAbstract: We classify the involutions of all of the most well-studied diagram monoids -- namely the partition, planar partition, partial Brauer, Motzkin, Brauer and Temperley--Lieb monoids -- and characterise those that give rise to star-regular or regular star-monoid structures. We then complete the same program for the associated twisted diagram monoids, with respect to both the canonical float-counting twisting, and the recently-discovered rank-based twisting. This necessitates developing a general theory of involutions of twisted products. Some of our results were quite unexpected. For example, a Brauer monoid is star-regular with respect to many of its involutions, but only a regular star-monoid for one of them. We will also see that twisted diagram monoids over the integers are always star-regular, thereby providing new and very natural examples of star-regular monoids. Along the way, we also obtain (by necessity) a number of results of independent interest; specifically, we classify the automorphisms of the Motzkin and Temperley--Lieb monoids (and hence also of the planar partition monoids), and we show that all of our diagram monoids generically have trivial centre.",
+    "content": "arXiv:2607.13445v1 Announce Type: new \nAbstract: We classify the involutions of all of the most well-studied diagram monoids -- namely the partition, planar partition, partial Brauer, Motzkin, Brauer and Temperley--Lieb monoids -- and characterise those that give rise to star-regular or regular star-monoid structures. We then complete the same program for the associated twisted diagram monoids, with respect to both the canonical float-counting twisting, and the recently-discovered rank-based twisting. This necessitates developing a general theory of involutions of twisted products. Some of our results were quite unexpected. For example, a Brauer monoid is star-regular with respect to many of its involutions, but only a regular star-monoid for one of them. We will also see that twisted diagram monoids over the integers are always star-regular, thereby providing new and very natural examples of star-regular monoids. Along the way, we also obtain (by necessity) a number of results of independent interest; specifically, we classify the automorphisms of the Motzkin and Temperley--Lieb monoids (and hence also of the planar partition monoids), and we show that all of our diagram monoids generically have trivial centre.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GR"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Gaussian solutions to the Yang--Baxter equation and their twists",
+    "pubDate": "2026-07-16 04:00:00",
+    "link": "https://arxiv.org/abs/2607.13876",
+    "guid": "oai:arXiv.org:2607.13876v1",
+    "author": "Yasmeen S. Baki, Padmini Veerapen",
+    "thumbnail": "",
+    "description": "arXiv:2607.13876v1 Announce Type: cross \nAbstract: In this paper, we consider two explicit Gaussian solutions to the constant (or parameter-independent) quantum Yang--Baxter equation and produce the corresponding bialgebras using the Faddeev--Reshetikhin--Takhtajan construction (FRT). Additionally, we twist these two Gaussian solutions, via Zhang twists and corresponding 2-cocycle twists, to obtain solutions to the Yang--Baxter equation which are not necessarily Gaussian.",
+    "content": "arXiv:2607.13876v1 Announce Type: cross \nAbstract: In this paper, we consider two explicit Gaussian solutions to the constant (or parameter-independent) quantum Yang--Baxter equation and produce the corresponding bialgebras using the Faddeev--Reshetikhin--Takhtajan construction (FRT). Additionally, we twist these two Gaussian solutions, via Zhang twists and corresponding 2-cocycle twists, to obtain solutions to the Yang--Baxter equation which are not necessarily Gaussian.",
+    "enclosure": {},
+    "categories": [
+      "math.QA",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On monotone alternating inverse monoids",
+    "pubDate": "2026-07-16 04:00:00",
+    "link": "https://arxiv.org/abs/2503.00820",
+    "guid": "oai:arXiv.org:2503.00820v2",
+    "author": "V\\'itor Hugo Fernandes",
+    "thumbnail": "",
+    "description": "arXiv:2503.00820v2 Announce Type: replace \nAbstract: In this paper, we consider the inverse submonoids $AM_n$ of monotone transformations and $AO_n$ of order-preserving transformations of the alternating inverse monoid $AI_n$ on a chain with $n$ elements. We compute the cardinalities, describe the Green's structures and the congruences, and calculate the ranks of these two submonoids of $AI_n$.",
+    "content": "arXiv:2503.00820v2 Announce Type: replace \nAbstract: In this paper, we consider the inverse submonoids $AM_n$ of monotone transformations and $AO_n$ of order-preserving transformations of the alternating inverse monoid $AI_n$ on a chain with $n$ elements. We compute the cardinalities, describe the Green's structures and the congruences, and calculate the ranks of these two submonoids of $AI_n$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Stabilizing Automorphisms of Quantum Affine Space",
+    "pubDate": "2026-07-16 04:00:00",
+    "link": "https://arxiv.org/abs/2511.17802",
+    "guid": "oai:arXiv.org:2511.17802v2",
+    "author": "Ethan Jensen, Anne Shepler",
+    "thumbnail": "",
+    "description": "arXiv:2511.17802v2 Announce Type: replace \nAbstract: We examine the graded automorphism groups of quantum affine spaces and classify these groups for spaces of dimension 7 or less. Using permutation actions on partitions, we investigate cases when the group decomposes as a product of graded automorphism groups of smaller dimensional spaces, and we describe the groups arising from the Kronecker tensor product of independent quantum parameter matrices.",
+    "content": "arXiv:2511.17802v2 Announce Type: replace \nAbstract: We examine the graded automorphism groups of quantum affine spaces and classify these groups for spaces of dimension 7 or less. Using permutation actions on partitions, we investigate cases when the group decomposes as a product of graded automorphism groups of smaller dimensional spaces, and we describe the groups arising from the Kronecker tensor product of independent quantum parameter matrices.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Radicals of Lie-solvable Novikov algebras",
+    "pubDate": "2026-07-16 04:00:00",
+    "link": "https://arxiv.org/abs/2601.13185",
+    "guid": "oai:arXiv.org:2601.13185v2",
+    "author": "A. S. Panasenko",
+    "thumbnail": "",
+    "description": "arXiv:2601.13185v2 Announce Type: replace \nAbstract: We prove that in a Lie-solvable Novikov algebra, the Baer radical coincides with the set of all right-nilpotent elements, and the Andrunakievich radical coincides with the largest left-quasiregular ideal. We investigate the stability of some properties of commutative algebras with derivation after applying the Gelfand-Dorfman construction.",
+    "content": "arXiv:2601.13185v2 Announce Type: replace \nAbstract: We prove that in a Lie-solvable Novikov algebra, the Baer radical coincides with the set of all right-nilpotent elements, and the Andrunakievich radical coincides with the largest left-quasiregular ideal. We investigate the stability of some properties of commutative algebras with derivation after applying the Gelfand-Dorfman construction.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Inversion of the Multiplicative Matrix Compound Operator",
+    "pubDate": "2026-07-16 04:00:00",
+    "link": "https://arxiv.org/abs/2605.27682",
+    "guid": "oai:arXiv.org:2605.27682v3",
+    "author": "Debojyoti Dey, Ron Ofir, Christian Grussler",
+    "thumbnail": "",
+    "description": "arXiv:2605.27682v3 Announce Type: replace \nAbstract: We study the problem of determining a matrix whose $k$th multiplicative compound, with $k &gt; 1$, is a prescribed matrix $M$. The cardinality of the set of matrices whose $k$th multiplicative compound equals $M$ is characterized in terms of $\\rank(M)$. On the one hand, if $\\rank(M)\\le 1$, it is shown that there exist infinitely many such matrices for which a complete characterization is determined. On the other hand, if $\\rank(M)&gt;1$, then there exists a unique matrix -- up to an overall sign -- whose compound is $M$. An algorithm for finding a matrix whose compound equals $M$ is detailed, and its time complexity is analyzed.",
+    "content": "arXiv:2605.27682v3 Announce Type: replace \nAbstract: We study the problem of determining a matrix whose $k$th multiplicative compound, with $k &gt; 1$, is a prescribed matrix $M$. The cardinality of the set of matrices whose $k$th multiplicative compound equals $M$ is characterized in terms of $\\rank(M)$. On the one hand, if $\\rank(M)\\le 1$, it is shown that there exist infinitely many such matrices for which a complete characterization is determined. On the other hand, if $\\rank(M)&gt;1$, then there exists a unique matrix -- up to an overall sign -- whose compound is $M$. An algorithm for finding a matrix whose compound equals $M$ is detailed, and its time complexity is analyzed.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "cs.NA",
+      "cs.SY",
+      "eess.SY",
+      "math.AG",
+      "math.NA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A Note on Quaternions over Commutative Rings",
+    "pubDate": "2026-07-16 04:00:00",
+    "link": "https://arxiv.org/abs/2606.23376",
+    "guid": "oai:arXiv.org:2606.23376v2",
+    "author": "Antony Telveenus",
+    "thumbnail": "",
+    "description": "arXiv:2606.23376v2 Announce Type: replace \nAbstract: The ring of quaternions is defined over the field of real numbers. This article extends that framework by defining quaternions over a class of commutative unital rings and generalising several of their properties. It also studies the properties of the unit group of quaternions over commutative rings with special attention to halidon rings.",
+    "content": "arXiv:2606.23376v2 Announce Type: replace \nAbstract: The ring of quaternions is defined over the field of real numbers. This article extends that framework by defining quaternions over a class of commutative unital rings and generalising several of their properties. It also studies the properties of the unit group of quaternions over commutative rings with special attention to halidon rings.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "An Alternative Framework for Irreducibility and Primitivity of Nonnegative Tensors",
+    "pubDate": "2026-07-16 04:00:00",
+    "link": "https://arxiv.org/abs/2606.30482",
+    "guid": "oai:arXiv.org:2606.30482v2",
+    "author": "Jianhong Xu",
+    "thumbnail": "",
+    "description": "arXiv:2606.30482v2 Announce Type: replace \nAbstract: Motivated by some recent studies on higher order Markov chains and well-known characterizations for irreducibility and primitivity of nonnegative matrices, we propose in this paper an alternative framework for irreducibility and primitivity of nonnegative tensors, giving rise to the concepts of s-irreducibility and s-primitivity. This framework includes the relevant results on matrices as its special cases, yet it expands existing results regarding irreducibility and primitivity for tensors. In addition to its tensor theoretic significance, such a framework has important implications for applied fields, especially when it comes to higher order Markov chains.",
+    "content": "arXiv:2606.30482v2 Announce Type: replace \nAbstract: Motivated by some recent studies on higher order Markov chains and well-known characterizations for irreducibility and primitivity of nonnegative matrices, we propose in this paper an alternative framework for irreducibility and primitivity of nonnegative tensors, giving rise to the concepts of s-irreducibility and s-primitivity. This framework includes the relevant results on matrices as its special cases, yet it expands existing results regarding irreducibility and primitivity for tensors. In addition to its tensor theoretic significance, such a framework has important implications for applied fields, especially when it comes to higher order Markov chains.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On Conservative Matrix Fields: Continuous Asymptotics and Arithmetic",
+    "pubDate": "2026-07-16 04:00:00",
+    "link": "https://arxiv.org/abs/2507.08138",
+    "guid": "oai:arXiv.org:2507.08138v2",
+    "author": "Shachar Weinbaum, Elyasheev Leibtag, Rotem Kalisch, Michael Shalyt, Ido Kaminer",
+    "thumbnail": "",
+    "description": "arXiv:2507.08138v2 Announce Type: replace-cross \nAbstract: We present the Conservative Matrix Field (CMF) as a tool for the analysis and computation of D-finite functions. We use conservative matrix fields to establish asymptotic properties of families of linear forms in periods, including (but not limited to) multivariate Mellin integrals, via a discrete Levinson-type framework due to Benzaid and Lutz. Finally, we present an experimental analysis of the families of linear forms generated by these objects and formalize the resulting observations as conjectures on their continuous asymptotic and arithmetic properties.",
+    "content": "arXiv:2507.08138v2 Announce Type: replace-cross \nAbstract: We present the Conservative Matrix Field (CMF) as a tool for the analysis and computation of D-finite functions. We use conservative matrix fields to establish asymptotic properties of families of linear forms in periods, including (but not limited to) multivariate Mellin integrals, via a discrete Levinson-type framework due to Benzaid and Lutz. Finally, we present an experimental analysis of the families of linear forms generated by these objects and formalize the resulting observations as conjectures on their continuous asymptotic and arithmetic properties.",
+    "enclosure": {},
+    "categories": [
+      "math.NT",
+      "cs.SC",
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Dual orthogonal tripotent matrices",
     "pubDate": "2026-07-15 04:00:00",
     "link": "https://arxiv.org/abs/2607.11900",
