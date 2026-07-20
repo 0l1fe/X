@@ -1,5 +1,146 @@
 [
   {
+    "title": "New partial orders on Rickart *-rings",
+    "pubDate": "2026-07-20 04:00:00",
+    "link": "https://arxiv.org/abs/2607.15871",
+    "guid": "oai:arXiv.org:2607.15871v1",
+    "author": "Cecilia Rossana Cimadamore, Laura Alicia Rueda, Melina Vanina Verdecchia",
+    "thumbnail": "",
+    "description": "arXiv:2607.15871v1 Announce Type: new \nAbstract: In this paper, we define and study partial orders on a Rickart *-ring obtained by imposing an additional condition on the star and the one-sided star partial orders. For each such order, we show that the down-set of any element is order-isomorphic to a suitable subset of self-adjoint idempotent elements. As an application, we characterize the elements which are below a given element with respect to each of the new orders. We further prove that the down-set of any element is a lattice whenever the ring is regular. We analyze the existence of supremum and infimum of pairs of elements in a regular Rickart *-ring and provide characterizations of these operations whenever they exist. Finally, we extend the latter results for a nonempty subset of elements for regular Baer *-rings.",
+    "content": "arXiv:2607.15871v1 Announce Type: new \nAbstract: In this paper, we define and study partial orders on a Rickart *-ring obtained by imposing an additional condition on the star and the one-sided star partial orders. For each such order, we show that the down-set of any element is order-isomorphic to a suitable subset of self-adjoint idempotent elements. As an application, we characterize the elements which are below a given element with respect to each of the new orders. We further prove that the down-set of any element is a lattice whenever the ring is regular. We analyze the existence of supremum and infimum of pairs of elements in a regular Rickart *-ring and provide characterizations of these operations whenever they exist. Finally, we extend the latter results for a nonempty subset of elements for regular Baer *-rings.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Bounds on Frobenius dimension",
+    "pubDate": "2026-07-20 04:00:00",
+    "link": "https://arxiv.org/abs/2607.15999",
+    "guid": "oai:arXiv.org:2607.15999v1",
+    "author": "D. Artenstein, J. C\\'oppola, J. Finot, A. Gonz\\'alez, G. Mata",
+    "thumbnail": "",
+    "description": "arXiv:2607.15999v1 Announce Type: new \nAbstract: In this article, we prove two types of results about the Frobenius dimension of associative algebras. First, we refine the known upper bound for the Frobenius dimension of a finite dimensional algebra in terms of its dimension as a vector space, and show that the only algebras reaching this bound are radical square zero algebras associated with single-vertex quivers. Second, we compute Frobenius dimension for low-dimensional algebras explicitly, and for truncated path algebras in terms of paths with no detours in their underlying quivers.",
+    "content": "arXiv:2607.15999v1 Announce Type: new \nAbstract: In this article, we prove two types of results about the Frobenius dimension of associative algebras. First, we refine the known upper bound for the Frobenius dimension of a finite dimensional algebra in terms of its dimension as a vector space, and show that the only algebras reaching this bound are radical square zero algebras associated with single-vertex quivers. Second, we compute Frobenius dimension for low-dimensional algebras explicitly, and for truncated path algebras in terms of paths with no detours in their underlying quivers.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Direct Methods for Singular Fuzzy Linear Systems Using Generalized Inverses and Its Applications",
+    "pubDate": "2026-07-20 04:00:00",
+    "link": "https://arxiv.org/abs/2607.15318",
+    "guid": "oai:arXiv.org:2607.15318v1",
+    "author": "Abinaya R, Ashish Kumar Nandi",
+    "thumbnail": "",
+    "description": "arXiv:2607.15318v1 Announce Type: cross \nAbstract: Fuzzy matrices provide an effective framework for modeling uncertainty in scientific and engineering problems, particularly fuzzy linear systems. This work transforms a general FLS into a crisp linear system using an embedding approach and reduces it to a standard block structured form via column operations. A direct LU decomposition is developed under suitable range conditions, enabling the computation of minimum norm solutions of rectangular FLS using the generalized inverses. A full rank decomposition is further proposed to compute the Moore Penrose inverse for arbitrary rectangular matrices, and consistency conditions for these inverses are established. A unified framework for obtaining strong fuzzy solutions based on monotonicity and non-negativity constraints are presented. Efficient algorithms based on LU, QR, and SVD decompositions are developed for the block structured matrix. The applicability and computational efficiency of the proposed methods are demonstrated through fuzzy circuit equations and Markov chain processes.",
+    "content": "arXiv:2607.15318v1 Announce Type: cross \nAbstract: Fuzzy matrices provide an effective framework for modeling uncertainty in scientific and engineering problems, particularly fuzzy linear systems. This work transforms a general FLS into a crisp linear system using an embedding approach and reduces it to a standard block structured form via column operations. A direct LU decomposition is developed under suitable range conditions, enabling the computation of minimum norm solutions of rectangular FLS using the generalized inverses. A full rank decomposition is further proposed to compute the Moore Penrose inverse for arbitrary rectangular matrices, and consistency conditions for these inverses are established. A unified framework for obtaining strong fuzzy solutions based on monotonicity and non-negativity constraints are presented. Efficient algorithms based on LU, QR, and SVD decompositions are developed for the block structured matrix. The applicability and computational efficiency of the proposed methods are demonstrated through fuzzy circuit equations and Markov chain processes.",
+    "enclosure": {},
+    "categories": [
+      "math.GM",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Notes on universal C*-algebras",
+    "pubDate": "2026-07-20 04:00:00",
+    "link": "https://arxiv.org/abs/2607.15539",
+    "guid": "oai:arXiv.org:2607.15539v1",
+    "author": "Gilles G. de Castro",
+    "thumbnail": "",
+    "description": "arXiv:2607.15539v1 Announce Type: cross \nAbstract: In these notes, we explain in details the construction of the universal C*-algebra as done by Blackadar, starting with the construction of the free *-algebra. At the end, we explain the extension done by Boava and the author to include relations described using the strong operator topology. As an example, we show that a graph C*-algebra can be defined using infinite sums.",
+    "content": "arXiv:2607.15539v1 Announce Type: cross \nAbstract: In these notes, we explain in details the construction of the universal C*-algebra as done by Blackadar, starting with the construction of the free *-algebra. At the end, we explain the extension done by Boava and the author to include relations described using the strong operator topology. As an example, we show that a graph C*-algebra can be defined using infinite sums.",
+    "enclosure": {},
+    "categories": [
+      "math.OA",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On Generalized von Neumann Inverse Graphs of Finite Commutative Regular Rings",
+    "pubDate": "2026-07-20 04:00:00",
+    "link": "https://arxiv.org/abs/2607.15568",
+    "guid": "oai:arXiv.org:2607.15568v1",
+    "author": "Felicia Servina Djuang, Indah Emilia Wijayanti, Yeni Susanti",
+    "thumbnail": "",
+    "description": "arXiv:2607.15568v1 Announce Type: cross \nAbstract: Let $R$ be a ring with identity. The generalized von Neumann inverse graph of $R$, denoted by $\\Gamma_{Reg}(R)$, is defined as the graph whose vertex set is $Reg(R)$, where two distinct vertices $a,b \\in R$ are adjacent if and only if $aba=a$ or $bab=b$. In this work, we consider the reduced graph $\\Gamma'_{Reg}(R)$ obtained by restricting the vertex set to $Reg(R)\\setminus{0_R}$, so that $\\Gamma_{Reg}(R) \\cong K_1 + \\Gamma'_{Reg}(R)$, allowing the analysis to focus on its nontrivial structure. We investigate the structure of $\\Gamma'_{Reg}(R)$ for finite commutative von Neumann regular rings and establish several results describing its graph-theoretic properties in relation to the algebraic structure of $R$. In particular, we derive conditions that characterize connectivity, acyclicity, and planarity, and examine structural features such as vertex degrees, girth, and the existence of pendant vertices, along with their algebraic implications. We also identify circumstances under which $\\Gamma'_{Reg}(R)$ exhibits specific graph classes, including paths, cycles, and wheels, as well as the presence of certain induced subgraphs. Furthermore, an explicit algorithm is provided to construct $\\Gamma'_{Reg}(R)$, and connections with the inclusion ideal graph of $R$ are discussed, offering additional insight into the interplay between ring-theoretic properties and graph structures.",
+    "content": "arXiv:2607.15568v1 Announce Type: cross \nAbstract: Let $R$ be a ring with identity. The generalized von Neumann inverse graph of $R$, denoted by $\\Gamma_{Reg}(R)$, is defined as the graph whose vertex set is $Reg(R)$, where two distinct vertices $a,b \\in R$ are adjacent if and only if $aba=a$ or $bab=b$. In this work, we consider the reduced graph $\\Gamma'_{Reg}(R)$ obtained by restricting the vertex set to $Reg(R)\\setminus{0_R}$, so that $\\Gamma_{Reg}(R) \\cong K_1 + \\Gamma'_{Reg}(R)$, allowing the analysis to focus on its nontrivial structure. We investigate the structure of $\\Gamma'_{Reg}(R)$ for finite commutative von Neumann regular rings and establish several results describing its graph-theoretic properties in relation to the algebraic structure of $R$. In particular, we derive conditions that characterize connectivity, acyclicity, and planarity, and examine structural features such as vertex degrees, girth, and the existence of pendant vertices, along with their algebraic implications. We also identify circumstances under which $\\Gamma'_{Reg}(R)$ exhibits specific graph classes, including paths, cycles, and wheels, as well as the presence of certain induced subgraphs. Furthermore, an explicit algorithm is provided to construct $\\Gamma'_{Reg}(R)$, and connections with the inclusion ideal graph of $R$ are discussed, offering additional insight into the interplay between ring-theoretic properties and graph structures.",
+    "enclosure": {},
+    "categories": [
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The Mathieu group ${\\sf M}_{12}$ vs ${\\mathbf{SL_3(3)}}$ in characteristic 3",
+    "pubDate": "2026-07-20 04:00:00",
+    "link": "https://arxiv.org/abs/2607.15825",
+    "guid": "oai:arXiv.org:2607.15825v1",
+    "author": "Shigeo Koshitani, Tetsuro Okuyama",
+    "thumbnail": "",
+    "description": "arXiv:2607.15825v1 Announce Type: cross \nAbstract: We prove that the principal $3$-blocks of the Mathieu group ${\\sf M_{12}}$ and the special linear group $\\SL_3(3)$ are splendidly Rickard equivalent, and hence derived equivalent, by applying Rickard's theorem whose origin goes back to the second author. As a byproduct we answer to a question on the first Hochschild cohomology of the principal $3$-blocks above posed by W. Murphy.",
+    "content": "arXiv:2607.15825v1 Announce Type: cross \nAbstract: We prove that the principal $3$-blocks of the Mathieu group ${\\sf M_{12}}$ and the special linear group $\\SL_3(3)$ are splendidly Rickard equivalent, and hence derived equivalent, by applying Rickard's theorem whose origin goes back to the second author. As a byproduct we answer to a question on the first Hochschild cohomology of the principal $3$-blocks above posed by W. Murphy.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Polynomial functions on a class of finite non-commutative rings",
+    "pubDate": "2026-07-20 04:00:00",
+    "link": "https://arxiv.org/abs/2409.10208",
+    "guid": "oai:arXiv.org:2409.10208v3",
+    "author": "Amr Ali Abdulkader Al-Maktry, Susan F. El-Deken",
+    "thumbnail": "",
+    "description": "arXiv:2409.10208v3 Announce Type: replace \nAbstract: Let $R$ be a finite non-commutative ring with $1\\ne 0$. By a polynomial function on $R$, we mean a function $F\\colon R\\longrightarrow R$ induced by a polynomial $f=\\sum\\limits_{i=0}^{n}a_ix^i\\in R[x]$ via right substitution of the variable $x$, i.e.\n  $F(a)=f(a)= \\sum\\limits_{i=0}^{n}a_ia^i$ for every $a\\in R$. In this paper, we study the polynomial functions of the free $R$-algebra with a central basis $\\{1,\\beta_1,\\ldots,\\beta_k\\}$ ($k\\ge 1$) such that $\\beta_i\\beta_j=0$ for every $1\\le i,j\\le k$, $R[\\beta_1,\\ldots,\\beta_k]$. %, the ring of dual numbers over $R$ in $k$ variables.\n  Our investigation revolves around assigning a polynomial $\\lambda_f(y,z)$ over $R$ in non-commutating variables $y$ and $z$ to each polynomial $f$ in $R[x]$; and describing the polynomial functions on $R[\\beta_1,\\ldots,\\beta_k]$ through the polynomial functions induced on $R$ by polynomials in $R[x]$ and by their assigned polynomials in the non-commutating variables $y$ and $z$. %and analyzing the resulting polynomial functions on $R[\\beta_1,\\ldots,\\beta_k]$.\n  By extending results from the commutative case to the non-commutative scenario, we demonstrate that several properties and theorems in the commutative case can be generalized to the non-commutative setting with appropriate adjustments.",
+    "content": "arXiv:2409.10208v3 Announce Type: replace \nAbstract: Let $R$ be a finite non-commutative ring with $1\\ne 0$. By a polynomial function on $R$, we mean a function $F\\colon R\\longrightarrow R$ induced by a polynomial $f=\\sum\\limits_{i=0}^{n}a_ix^i\\in R[x]$ via right substitution of the variable $x$, i.e.\n  $F(a)=f(a)= \\sum\\limits_{i=0}^{n}a_ia^i$ for every $a\\in R$. In this paper, we study the polynomial functions of the free $R$-algebra with a central basis $\\{1,\\beta_1,\\ldots,\\beta_k\\}$ ($k\\ge 1$) such that $\\beta_i\\beta_j=0$ for every $1\\le i,j\\le k$, $R[\\beta_1,\\ldots,\\beta_k]$. %, the ring of dual numbers over $R$ in $k$ variables.\n  Our investigation revolves around assigning a polynomial $\\lambda_f(y,z)$ over $R$ in non-commutating variables $y$ and $z$ to each polynomial $f$ in $R[x]$; and describing the polynomial functions on $R[\\beta_1,\\ldots,\\beta_k]$ through the polynomial functions induced on $R$ by polynomials in $R[x]$ and by their assigned polynomials in the non-commutating variables $y$ and $z$. %and analyzing the resulting polynomial functions on $R[\\beta_1,\\ldots,\\beta_k]$.\n  By extending results from the commutative case to the non-commutative scenario, we demonstrate that several properties and theorems in the commutative case can be generalized to the non-commutative setting with appropriate adjustments.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The free $F$-restriction semigroups",
+    "pubDate": "2026-07-20 04:00:00",
+    "link": "https://arxiv.org/abs/2512.13332",
+    "guid": "oai:arXiv.org:2512.13332v2",
+    "author": "Ganna Kudryavtseva, Ajda Lemut Furlani",
+    "thumbnail": "",
+    "description": "arXiv:2512.13332v2 Announce Type: replace \nAbstract: We provide a geometric model for the free $X$-generated $F$-restriction semigroup in the extended signature $(\\cdot\\,, ^+,\\mx{},\\lambda)$, where the unary operation $\\mx{}$ maps an element $a$ to the maximum element $\\mx{a}$ of its $\\sigma$-class, and the constant $\\lambda$ is the unique left identity. This model is based on a certain quotient of the Cayley graph expansion of the free monoid $X^*$ with respect to the extended set of generators $X\\cup \\overline{X^*}$, where the generators from $\\overline{X^*}$ are in a bijection with the free monoid $X^*$ and serve to capture the maximum elements of $\\sigma$-classes of the quotient. We also provide models for the free $X$-generated strong and perfect $F$-restriction semigroups in the same extended signature. The constructed models enable us to solve the word problems for all the free objects under consideration.",
+    "content": "arXiv:2512.13332v2 Announce Type: replace \nAbstract: We provide a geometric model for the free $X$-generated $F$-restriction semigroup in the extended signature $(\\cdot\\,, ^+,\\mx{},\\lambda)$, where the unary operation $\\mx{}$ maps an element $a$ to the maximum element $\\mx{a}$ of its $\\sigma$-class, and the constant $\\lambda$ is the unique left identity. This model is based on a certain quotient of the Cayley graph expansion of the free monoid $X^*$ with respect to the extended set of generators $X\\cup \\overline{X^*}$, where the generators from $\\overline{X^*}$ are in a bijection with the free monoid $X^*$ and serve to capture the maximum elements of $\\sigma$-classes of the quotient. We also provide models for the free $X$-generated strong and perfect $F$-restriction semigroups in the same extended signature. The constructed models enable us to solve the word problems for all the free objects under consideration.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Maximal subgroups of free projection- and idempotent-generated semigroups with applications to partition monoids",
+    "pubDate": "2026-07-20 04:00:00",
+    "link": "https://arxiv.org/abs/2507.06600",
+    "guid": "oai:arXiv.org:2507.06600v2",
+    "author": "James East, Robert D. Gray, P. A. Azeef Muhammed, Nik Ruskuc",
+    "thumbnail": "",
+    "description": "arXiv:2507.06600v2 Announce Type: replace-cross \nAbstract: This paper investigates the maximal subgroups of a free projection-generated regular $*$-semigroup $PG(P)$ over a projection algebra $P$, and their relationship to the maximal subgroups of the free idempotent-generated semigroup $IG(E)$ over the corresponding biordered set $E = E(P)$. In the first part of the paper we obtain a number of general presentations by generators and defining relations, in each case reflecting salient combinatorial/topological properties of the groups. In the second part we apply these to explicitly compute the groups when $P = P(P_n)$ and $E = E(P_n)$ arise from the partition monoid $P_n$. Specifically, we show that the maximal subgroup of $PG(P(P_n))$ corresponding to a projection of rank $r\\leq n-2$ is (isomorphic to) the symmetric group $S_r$. In $IG(E(P_n))$, the corresponding subgroup is the direct product $Z \\times S_r$. The appearance of the infinite cyclic group $Z$ is explained by a connection to a certain twisted partition monoid $P_n^\\Phi$, which has the same biordered set as $P_n$.",
+    "content": "arXiv:2507.06600v2 Announce Type: replace-cross \nAbstract: This paper investigates the maximal subgroups of a free projection-generated regular $*$-semigroup $PG(P)$ over a projection algebra $P$, and their relationship to the maximal subgroups of the free idempotent-generated semigroup $IG(E)$ over the corresponding biordered set $E = E(P)$. In the first part of the paper we obtain a number of general presentations by generators and defining relations, in each case reflecting salient combinatorial/topological properties of the groups. In the second part we apply these to explicitly compute the groups when $P = P(P_n)$ and $E = E(P_n)$ arise from the partition monoid $P_n$. Specifically, we show that the maximal subgroup of $PG(P(P_n))$ corresponding to a projection of rank $r\\leq n-2$ is (isomorphic to) the symmetric group $S_r$. In $IG(E(P_n))$, the corresponding subgroup is the direct product $Z \\times S_r$. The appearance of the infinite cyclic group $Z$ is explained by a connection to a certain twisted partition monoid $P_n^\\Phi$, which has the same biordered set as $P_n$.",
+    "enclosure": {},
+    "categories": [
+      "math.GR",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "$m$-nil-clean nonderogatory matrices",
     "pubDate": "2026-07-17 04:00:00",
     "link": "https://arxiv.org/abs/2607.14270",
