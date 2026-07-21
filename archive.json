@@ -1,5 +1,167 @@
 [
   {
+    "title": "Directed Extended Zero Divisor Graphs Of Non-Commutative Semigroups",
+    "pubDate": "2026-07-21 04:00:00",
+    "link": "https://arxiv.org/abs/2607.16375",
+    "guid": "oai:arXiv.org:2607.16375v1",
+    "author": "Defne Somer, Didem Ye\\c{s}il, \\.Ismail Naci Cang\\&quot;ul",
+    "thumbnail": "",
+    "description": "arXiv:2607.16375v1 Announce Type: new \nAbstract: In this paper, the directed extended zero-divisor graph $\\overrightarrow{\\Gamma}_E(S)$ of a non-commutative semigroup $S$ is introduced and the relationships between $\\overrightarrow{\\Gamma}_E(S)$ and the zero-divisor graph $\\overrightarrow{\\Gamma}(S)$ of $S$ are examined. The fact that $\\overrightarrow{\\Gamma}(S)$ is a spanning subgraph of $\\overrightarrow{\\Gamma}_E(S)$ is proved. Necessary and sufficient conditions for the equality $\\overrightarrow{\\Gamma}_E(S)=\\overrightarrow{\\Gamma}(S)$ are obtained. Moreover, the conditions under which $\\overrightarrow{\\Gamma}_E(S)$ contains a cycle were established. In addition, conditions under which the diameter of $\\overrightarrow{\\Gamma}_E(S)$ is strictly smaller than that of $\\overrightarrow{\\Gamma}(S)$ are characterized. The vertices that are adjacent to or adjacent from all other vertices are investigated. The results are established by using several algebraic notions such as nilpotent elements, their nilpotency indices, and annihilator sets of elements.",
+    "content": "arXiv:2607.16375v1 Announce Type: new \nAbstract: In this paper, the directed extended zero-divisor graph $\\overrightarrow{\\Gamma}_E(S)$ of a non-commutative semigroup $S$ is introduced and the relationships between $\\overrightarrow{\\Gamma}_E(S)$ and the zero-divisor graph $\\overrightarrow{\\Gamma}(S)$ of $S$ are examined. The fact that $\\overrightarrow{\\Gamma}(S)$ is a spanning subgraph of $\\overrightarrow{\\Gamma}_E(S)$ is proved. Necessary and sufficient conditions for the equality $\\overrightarrow{\\Gamma}_E(S)=\\overrightarrow{\\Gamma}(S)$ are obtained. Moreover, the conditions under which $\\overrightarrow{\\Gamma}_E(S)$ contains a cycle were established. In addition, conditions under which the diameter of $\\overrightarrow{\\Gamma}_E(S)$ is strictly smaller than that of $\\overrightarrow{\\Gamma}(S)$ are characterized. The vertices that are adjacent to or adjacent from all other vertices are investigated. The results are established by using several algebraic notions such as nilpotent elements, their nilpotency indices, and annihilator sets of elements.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The group $\\mathrm{TK}_1$ of graded and valued division algebras",
+    "pubDate": "2026-07-21 04:00:00",
+    "link": "https://arxiv.org/abs/2607.17231",
+    "guid": "oai:arXiv.org:2607.17231v1",
+    "author": "Huynh Viet Khanh, Nguyen Duc Anh Khoa, Adrian R. Wadsworth",
+    "thumbnail": "",
+    "description": "arXiv:2607.17231v1 Announce Type: new \nAbstract: For a division algebra $D$, let $K_1(D) = D^*/[D^*, D^*]$ and let $\\operatorname{TK}_1(D)$ be the torsion subgroup of the abelian group $K_1(D)$. We study this torsion group for graded and valued division algebras, in parallel with the known theory of $\\operatorname{SK}_1$. For a graded division algebra $E$ finite-dimensional over its center, we give exact sequences describing $\\operatorname{TK}_1(E)$ in terms of $E_0$, the grade group~$\\Gamma_E$, and the conjugation action of $E^*$ on $E_0$. These yield explicit formulas for $\\operatorname{TK}_1(E)$ in the unramified, totally ramified, and semiramified cases.\n  For a tame valued division algebra $D$ over its Henselian-valued center $K$, we identify the obstruction group $\\mathbf H$ to a congruence theorem for $\\TK(D)$. We show that if the residue field~$\\overline K$ of the valuation on $K$ has characteristic $p &gt; 0$, then $\\mathbf H \\cong\\mu_K[p]$, the $p$-primary component of the group $\\mu_K$ of roots of unity in $K$; but if $\\operatorname{char}(\\overline K)=0$, then $\\mathbf H=1$. We further prove a short exact sequence $$\n  1\\,\\longrightarrow \\,\\mathbf H\\,\n  \\longrightarrow \\,\\operatorname{TK}_1(D)\\,\n  \\longrightarrow\\, \\operatorname{TK}_1(\\gr(D))\\,\n  \\longrightarrow \\,1, $$ where $\\gr(D)$ is the associated graded division algebra determined by the valuation on $D$ obtained from the valuation on $K$.\n  We also prove a stability theorem for a graded division algebra $E$ with quotient division ring~$q(E)$, i.e., $$\n  \\operatorname{TK}_1(E)\\,\\cong \\,\\operatorname{TK}_1(q(E)), $$ together with a new proof of the corresponding stability theorem for $\\operatorname{SK}_1$. As applications, we obtain graded analogues of Motiee's primary decomposition and scalar-extension results for torsion Whitehead groups.",
+    "content": "arXiv:2607.17231v1 Announce Type: new \nAbstract: For a division algebra $D$, let $K_1(D) = D^*/[D^*, D^*]$ and let $\\operatorname{TK}_1(D)$ be the torsion subgroup of the abelian group $K_1(D)$. We study this torsion group for graded and valued division algebras, in parallel with the known theory of $\\operatorname{SK}_1$. For a graded division algebra $E$ finite-dimensional over its center, we give exact sequences describing $\\operatorname{TK}_1(E)$ in terms of $E_0$, the grade group~$\\Gamma_E$, and the conjugation action of $E^*$ on $E_0$. These yield explicit formulas for $\\operatorname{TK}_1(E)$ in the unramified, totally ramified, and semiramified cases.\n  For a tame valued division algebra $D$ over its Henselian-valued center $K$, we identify the obstruction group $\\mathbf H$ to a congruence theorem for $\\TK(D)$. We show that if the residue field~$\\overline K$ of the valuation on $K$ has characteristic $p &gt; 0$, then $\\mathbf H \\cong\\mu_K[p]$, the $p$-primary component of the group $\\mu_K$ of roots of unity in $K$; but if $\\operatorname{char}(\\overline K)=0$, then $\\mathbf H=1$. We further prove a short exact sequence $$\n  1\\,\\longrightarrow \\,\\mathbf H\\,\n  \\longrightarrow \\,\\operatorname{TK}_1(D)\\,\n  \\longrightarrow\\, \\operatorname{TK}_1(\\gr(D))\\,\n  \\longrightarrow \\,1, $$ where $\\gr(D)$ is the associated graded division algebra determined by the valuation on $D$ obtained from the valuation on $K$.\n  We also prove a stability theorem for a graded division algebra $E$ with quotient division ring~$q(E)$, i.e., $$\n  \\operatorname{TK}_1(E)\\,\\cong \\,\\operatorname{TK}_1(q(E)), $$ together with a new proof of the corresponding stability theorem for $\\operatorname{SK}_1$. As applications, we obtain graded analogues of Motiee's primary decomposition and scalar-extension results for torsion Whitehead groups.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GR",
+      "math.KT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Hochschild theory of multiplicative sequences of algebras and coalgebra measurings",
+    "pubDate": "2026-07-21 04:00:00",
+    "link": "https://arxiv.org/abs/2607.17470",
+    "guid": "oai:arXiv.org:2607.17470v1",
+    "author": "Abhishek Banerjee, Surjeet Kour, Dipti Paik",
+    "thumbnail": "",
+    "description": "arXiv:2607.17470v1 Announce Type: new \nAbstract: We study coalgebra measurings between multiplicative sequences of algebras and the maps induced by them on Hochschild homology. The Hochschild theory of multiplicative sequences is introduced as a functor taking values in graded algebras in the symmetric monoidal category of chain complexes, constructed with the help of the shuffle product. We develop the universal measuring coalgebra, or Sweedler Hom for multiplicative sequences, as well as study several other Sweedler operations in this context. In particular, we obtain an enrichment of multiplicative sequences over cocommutative coalgebras. Using an appropriate theory of bimodules over multiplicative sequences, we study maps induced by comodule measurings on the Hochschild theory with coefficients, as well as the corresponding enriched categories. Finally, we consider measurings and generalized Sweedler operations between multiplicative sequences induced by comultiplicative sequences of coalgebras, and also the maps in Hochschild theory obtained from them.",
+    "content": "arXiv:2607.17470v1 Announce Type: new \nAbstract: We study coalgebra measurings between multiplicative sequences of algebras and the maps induced by them on Hochschild homology. The Hochschild theory of multiplicative sequences is introduced as a functor taking values in graded algebras in the symmetric monoidal category of chain complexes, constructed with the help of the shuffle product. We develop the universal measuring coalgebra, or Sweedler Hom for multiplicative sequences, as well as study several other Sweedler operations in this context. In particular, we obtain an enrichment of multiplicative sequences over cocommutative coalgebras. Using an appropriate theory of bimodules over multiplicative sequences, we study maps induced by comodule measurings on the Hochschild theory with coefficients, as well as the corresponding enriched categories. Finally, we consider measurings and generalized Sweedler operations between multiplicative sequences induced by comultiplicative sequences of coalgebras, and also the maps in Hochschild theory obtained from them.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Affinization of algebraic structures: Poisson algebras",
+    "pubDate": "2026-07-21 04:00:00",
+    "link": "https://arxiv.org/abs/2607.17860",
+    "guid": "oai:arXiv.org:2607.17860v1",
+    "author": "Tomasz Brzezi\\'nski, Krzysztof Radziszewski, Brais Ramos P\\'erez",
+    "thumbnail": "",
+    "description": "arXiv:2607.17860v1 Announce Type: new \nAbstract: An affinization of the notion of a Poisson algebra is presented. This is termed a Poisson affgebra and consists of an affine space together with an associative bi-affine multiplication and a bi-affine Lie bracket that acts as an affine derivation for the associative product. The constructive relation between Poisson affgebras and Poisson algebras is described and several low-dimensional examples are studied in detail.",
+    "content": "arXiv:2607.17860v1 Announce Type: new \nAbstract: An affinization of the notion of a Poisson algebra is presented. This is termed a Poisson affgebra and consists of an affine space together with an associative bi-affine multiplication and a bi-affine Lie bracket that acts as an affine derivation for the associative product. The constructive relation between Poisson affgebras and Poisson algebras is described and several low-dimensional examples are studied in detail.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.QA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Cohomology for Deformation maps on quasi-twilled Lie triple systems",
+    "pubDate": "2026-07-21 04:00:00",
+    "link": "https://arxiv.org/abs/2607.17945",
+    "guid": "oai:arXiv.org:2607.17945v1",
+    "author": "Jia Zhao",
+    "thumbnail": "",
+    "description": "arXiv:2607.17945v1 Announce Type: new \nAbstract: Due to the importance of invariant, in the present paper, we provide a unified approach to study various kinds of operators on Lie triple systems such as crossed homomorphisms, relative Rota-Baxter operators, Reynolds operators etc. For this purpose, we examine two kinds of deformation maps on quasi-twilled Lie triple systems. A quasi-twilled Lie triple system is a Lie triple system which can be decomposed into two subspaces, one of which is a subalgebra. Moreover, we establish cohomologies of two kinds of deformation maps, which recover those of several kinds of operators on Lie triple systems.",
+    "content": "arXiv:2607.17945v1 Announce Type: new \nAbstract: Due to the importance of invariant, in the present paper, we provide a unified approach to study various kinds of operators on Lie triple systems such as crossed homomorphisms, relative Rota-Baxter operators, Reynolds operators etc. For this purpose, we examine two kinds of deformation maps on quasi-twilled Lie triple systems. A quasi-twilled Lie triple system is a Lie triple system which can be decomposed into two subspaces, one of which is a subalgebra. Moreover, we establish cohomologies of two kinds of deformation maps, which recover those of several kinds of operators on Lie triple systems.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Expanding Generalized Fine Rings",
+    "pubDate": "2026-07-21 04:00:00",
+    "link": "https://arxiv.org/abs/2607.18125",
+    "guid": "oai:arXiv.org:2607.18125v1",
+    "author": "Ahmad Moussavi, Peter Danchev, Arash Javan, Omid Hasanzadeh",
+    "thumbnail": "",
+    "description": "arXiv:2607.18125v1 Announce Type: new \nAbstract: We introduce and study the so-called {\\it generalized $\\sqrt{J}$-fine rings}, where every element outside the Jacobson radical is the sum of a unit and an element from the set $\\sqrt{J(R)} := \\{ x \\in R : x^{n} \\in J(R) \\text{ for some } n \\ge 1 \\}$. This commonly extends the notions of {\\it fine} and {\\it generalized fine rings} defined, respectively, by C\\u{a}lug\\u{a}reanu-Lam (J. Algebra \\&amp; Appl., 2016) and Zhou (J. Algebra \\&amp; Appl., 2022).\n  Specifically, we prove that this class is closed under full matrix rings of any size, as well as we completely characterize when group rings over locally finite groups are generalized $\\sqrt{J}$-fine. We also show that every such ring is 2-clean, thus properly placing it between generalized fine rings and 2-clean rings. Several examples are also provided to illustrate the complicated behavior of the introduced concept and its numerous boundaries.",
+    "content": "arXiv:2607.18125v1 Announce Type: new \nAbstract: We introduce and study the so-called {\\it generalized $\\sqrt{J}$-fine rings}, where every element outside the Jacobson radical is the sum of a unit and an element from the set $\\sqrt{J(R)} := \\{ x \\in R : x^{n} \\in J(R) \\text{ for some } n \\ge 1 \\}$. This commonly extends the notions of {\\it fine} and {\\it generalized fine rings} defined, respectively, by C\\u{a}lug\\u{a}reanu-Lam (J. Algebra \\&amp; Appl., 2016) and Zhou (J. Algebra \\&amp; Appl., 2022).\n  Specifically, we prove that this class is closed under full matrix rings of any size, as well as we completely characterize when group rings over locally finite groups are generalized $\\sqrt{J}$-fine. We also show that every such ring is 2-clean, thus properly placing it between generalized fine rings and 2-clean rings. Several examples are also provided to illustrate the complicated behavior of the introduced concept and its numerous boundaries.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A Log-Log Saving for Matrix-Algebra Length and Terseness",
+    "pubDate": "2026-07-21 04:00:00",
+    "link": "https://arxiv.org/abs/2607.16679",
+    "guid": "oai:arXiv.org:2607.16679v1",
+    "author": "Florian Ito Sprung",
+    "thumbnail": "",
+    "description": "arXiv:2607.16679v1 Announce Type: cross \nAbstract: Let $\\ell(\\Mat_n(F))$ denote the length of the full matrix algebra for a field $F$, i.e. the largest of the least word length needed to span $\\Mat_n(F)$, over all generating sets $S$ of $\\Mat_n(F)$. \\v{S}itov proved the general estimate $$\n  \\ell(\\Mat_n(F)) \\leq 2n\\log_2 n+4n-4. $$ The purpose of this paper is to obtain a log-log saving, and prove that for every $n&gt;1$, $$\n  \\ell(\\Mat_n(F)) \\leq 2n\\log_2 n-2n\\log_2\\log_2 n+5n. $$\n  A theorem of Specht gives a word-criterion for unitary similarity of complex $n\\times n$ matrices. The trace argument of Freedman--Gupta--Guralnick, as used by Pappacena, shows that any upper bound on $\\ell(\\Mat_n(F))$ can be used to bound the \\emph{terseness} $\\tau(n)$, i.e. the least upper bound for the length of words needed in Specht's theorem. Thus, for $n&gt; 1$, $$\n  \\tau(n)\\leq 4n\\log_2 n-4n\\log_2\\log_2 n+10n+1. $$",
+    "content": "arXiv:2607.16679v1 Announce Type: cross \nAbstract: Let $\\ell(\\Mat_n(F))$ denote the length of the full matrix algebra for a field $F$, i.e. the largest of the least word length needed to span $\\Mat_n(F)$, over all generating sets $S$ of $\\Mat_n(F)$. \\v{S}itov proved the general estimate $$\n  \\ell(\\Mat_n(F)) \\leq 2n\\log_2 n+4n-4. $$ The purpose of this paper is to obtain a log-log saving, and prove that for every $n&gt;1$, $$\n  \\ell(\\Mat_n(F)) \\leq 2n\\log_2 n-2n\\log_2\\log_2 n+5n. $$\n  A theorem of Specht gives a word-criterion for unitary similarity of complex $n\\times n$ matrices. The trace argument of Freedman--Gupta--Guralnick, as used by Pappacena, shows that any upper bound on $\\ell(\\Mat_n(F))$ can be used to bound the \\emph{terseness} $\\tau(n)$, i.e. the least upper bound for the length of words needed in Specht's theorem. Thus, for $n&gt; 1$, $$\n  \\tau(n)\\leq 4n\\log_2 n-4n\\log_2\\log_2 n+10n+1. $$",
+    "enclosure": {},
+    "categories": [
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Clifford and Weyl algebras in symmetric tensor categories",
+    "pubDate": "2026-07-21 04:00:00",
+    "link": "https://arxiv.org/abs/2607.16910",
+    "guid": "oai:arXiv.org:2607.16910v1",
+    "author": "Pavel Etingof",
+    "thumbnail": "",
+    "description": "arXiv:2607.16910v1 Announce Type: cross \nAbstract: Let $\\mathcal C$ be a symmetric tensor category over an algebraically closed field $\\mathbf k$ of characteristic $\\ne 2$. We study Clifford and Weyl algebras of objects of $\\mathcal C$ with a (skew-)symmetric bilinear form. When the form is non-degenerate, we establish simplicity and the Azumaya property for such algebras under suitable assumptions. We also compute Clifford and Weyl algebras in the Verlinde category ${\\rm Ver}_p$ and use them to prove that if $\\mathcal C$ is Frobenius exact then the Weyl algebra of a symplectic object of $\\mathcal C$ with finite symmetric algebra is Azumaya. Using this, we introduce the symplectic Witt group $\\mathcal S\\mathcal W(\\mathcal C)$, the subgroup of the Brauer group ${\\rm Br}(\\mathcal C)$ consisting of Morita classes of such Azumaya algebras, and when $\\mathcal C={\\rm Rep}(G)\\boxtimes{\\rm sVec}$ for a finite group $G$ of order coprime to ${\\rm char}(\\mathbf k)$, express $\\mathcal S\\mathcal W(\\mathcal C)$ in terms of second Stiefel-Whitney classes of orthogonal representations of $G$.",
+    "content": "arXiv:2607.16910v1 Announce Type: cross \nAbstract: Let $\\mathcal C$ be a symmetric tensor category over an algebraically closed field $\\mathbf k$ of characteristic $\\ne 2$. We study Clifford and Weyl algebras of objects of $\\mathcal C$ with a (skew-)symmetric bilinear form. When the form is non-degenerate, we establish simplicity and the Azumaya property for such algebras under suitable assumptions. We also compute Clifford and Weyl algebras in the Verlinde category ${\\rm Ver}_p$ and use them to prove that if $\\mathcal C$ is Frobenius exact then the Weyl algebra of a symplectic object of $\\mathcal C$ with finite symmetric algebra is Azumaya. Using this, we introduce the symplectic Witt group $\\mathcal S\\mathcal W(\\mathcal C)$, the subgroup of the Brauer group ${\\rm Br}(\\mathcal C)$ consisting of Morita classes of such Azumaya algebras, and when $\\mathcal C={\\rm Rep}(G)\\boxtimes{\\rm sVec}$ for a finite group $G$ of order coprime to ${\\rm char}(\\mathbf k)$, express $\\mathcal S\\mathcal W(\\mathcal C)$ in terms of second Stiefel-Whitney classes of orthogonal representations of $G$.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.CT",
+      "math.QA",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Variations on a circular Hessenberg pair",
+    "pubDate": "2026-07-21 04:00:00",
+    "link": "https://arxiv.org/abs/2607.16964",
+    "guid": "oai:arXiv.org:2607.16964v1",
+    "author": "Kazumasa Nomura, Paul Terwilliger",
+    "thumbnail": "",
+    "description": "arXiv:2607.16964v1 Announce Type: cross \nAbstract: A square matrix is called Hessenberg whenever each entry below the subdiagonal is zero and each entry on the subdiagonal is nonzero. A Hessenberg pair is an ordered pair of diagonalizable linear maps on a nonzero finite-dimensional vector space, that each act on an eigenbasis of the other one in a Hessenberg fashion. A Hessenberg system $\\Phi$ an `oriented' version of a Hessenberg pair. It is known that $\\Phi$ is determined up to isomorphism by its parameter array; this consists of the eigenvalue sequence of $\\Phi$, the dual eigenvalue sequence of $\\Phi$, and a sequence of nonzero scalars $\\{\\phi_i\\}_{i=1}^d$ called the split sequence of $\\Phi$. We are interested in some types of Hessenberg matrices, said to be circular, quasi-circular, tridiagonal, and irreducible tridiagonal. We are interested in the families of Hessenberg systems for which the associated Hessenberg matrices have one of the above types. A Hessenberg system of irreducible tridiagonal type is often called a Leonard system. In this case the associated Hessenberg pair\n  satisfies two relations, called the tridiagonal relations. We are interested in the family of Hessenberg systems for which the associated Hessenberg pair satisfies the tridiagonal relations. We are also interested in the family of Hessenberg systems for which the eigenvalue sequence and dual eigenvalue sequence\n  satisfy a linear three-term recurrence. In the present paper we have two main goals. First, we show how the above families of Hessenberg systems are related to each other. Second, we describe each family in terms of the parameter array.",
+    "content": "arXiv:2607.16964v1 Announce Type: cross \nAbstract: A square matrix is called Hessenberg whenever each entry below the subdiagonal is zero and each entry on the subdiagonal is nonzero. A Hessenberg pair is an ordered pair of diagonalizable linear maps on a nonzero finite-dimensional vector space, that each act on an eigenbasis of the other one in a Hessenberg fashion. A Hessenberg system $\\Phi$ an `oriented' version of a Hessenberg pair. It is known that $\\Phi$ is determined up to isomorphism by its parameter array; this consists of the eigenvalue sequence of $\\Phi$, the dual eigenvalue sequence of $\\Phi$, and a sequence of nonzero scalars $\\{\\phi_i\\}_{i=1}^d$ called the split sequence of $\\Phi$. We are interested in some types of Hessenberg matrices, said to be circular, quasi-circular, tridiagonal, and irreducible tridiagonal. We are interested in the families of Hessenberg systems for which the associated Hessenberg matrices have one of the above types. A Hessenberg system of irreducible tridiagonal type is often called a Leonard system. In this case the associated Hessenberg pair\n  satisfies two relations, called the tridiagonal relations. We are interested in the family of Hessenberg systems for which the associated Hessenberg pair satisfies the tridiagonal relations. We are also interested in the family of Hessenberg systems for which the eigenvalue sequence and dual eigenvalue sequence\n  satisfy a linear three-term recurrence. In the present paper we have two main goals. First, we show how the above families of Hessenberg systems are related to each other. Second, we describe each family in terms of the parameter array.",
+    "enclosure": {},
+    "categories": [
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Skew CRT codes and their decoding in poly skew metric",
+    "pubDate": "2026-07-21 04:00:00",
+    "link": "https://arxiv.org/abs/2607.17737",
+    "guid": "oai:arXiv.org:2607.17737v1",
+    "author": "Kayode Epiphane Nouetowa, Olivier Ruatta",
+    "thumbnail": "",
+    "description": "arXiv:2607.17737v1 Announce Type: cross \nAbstract: In this paper, we introduce skew CRT codes and the poly-skew metric with associated error model, and we provide a decoding algorithm for this family of codes under the poly-skew metric.",
+    "content": "arXiv:2607.17737v1 Announce Type: cross \nAbstract: In this paper, we introduce skew CRT codes and the poly-skew metric with associated error model, and we provide a decoding algorithm for this family of codes under the poly-skew metric.",
+    "enclosure": {},
+    "categories": [
+      "cs.IT",
+      "math.IT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "New partial orders on Rickart *-rings",
     "pubDate": "2026-07-20 04:00:00",
     "link": "https://arxiv.org/abs/2607.15871",
