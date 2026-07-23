@@ -1,5 +1,152 @@
 [
   {
+    "title": "Constructing a complex Lie algebra isomorphic to its complex conjugate but not definable over reals",
+    "pubDate": "2026-07-23 04:00:00",
+    "link": "https://arxiv.org/abs/2607.19513",
+    "guid": "oai:arXiv.org:2607.19513v1",
+    "author": "Mikhail Borovoi, Willem A. de Graaf, Robert M. Guralnick",
+    "thumbnail": "",
+    "description": "arXiv:2607.19513v1 Announce Type: new \nAbstract: Following an idea of Demarche and using computer calculations of the authors and ideas of LLM Claude Fable, we construct an explicit 10-dimensional complex two-step nilpotent Lie algebra that is isomorphic to its complex conjugate but cannot be defined over the field of real numbers R.",
+    "content": "arXiv:2607.19513v1 Announce Type: new \nAbstract: Following an idea of Demarche and using computer calculations of the authors and ideas of LLM Claude Fable, we construct an explicit 10-dimensional complex two-step nilpotent Lie algebra that is isomorphic to its complex conjugate but cannot be defined over the field of real numbers R.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A Reduced-Trace-Zero Element That Is Not a Commutator in a Central Division Algebra",
+    "pubDate": "2026-07-23 04:00:00",
+    "link": "https://arxiv.org/abs/2607.20315",
+    "guid": "oai:arXiv.org:2607.20315v1",
+    "author": "Hau-Yuan Jang",
+    "thumbnail": "",
+    "description": "arXiv:2607.20315v1 Announce Type: new \nAbstract: We exhibit a finite-dimensional central division algebra, of degree four over its center, together with an explicit element of reduced trace zero that is not a single commutator. This answers negatively the single-commutator question for finite-dimensional central division algebras, the case left open by Amitsur and Rowen. The algebra is a skew Laurent series ring, the element has only two terms, and the proof uses the $x$-adic valuation, a first-obstruction lemma based on two commuting involutions of the associated graded ring, and a parity argument for quadratic forms over iterated Laurent series fields.",
+    "content": "arXiv:2607.20315v1 Announce Type: new \nAbstract: We exhibit a finite-dimensional central division algebra, of degree four over its center, together with an explicit element of reduced trace zero that is not a single commutator. This answers negatively the single-commutator question for finite-dimensional central division algebras, the case left open by Amitsur and Rowen. The algebra is a skew Laurent series ring, the element has only two terms, and the proof uses the $x$-adic valuation, a first-obstruction lemma based on two commuting involutions of the associated graded ring, and a parity argument for quadratic forms over iterated Laurent series fields.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Dittert's conjecture in dimension 16 via a joint-deficit scaling lemma",
+    "pubDate": "2026-07-23 04:00:00",
+    "link": "https://arxiv.org/abs/2607.19439",
+    "guid": "oai:arXiv.org:2607.19439v1",
+    "author": "Boris Kafidov",
+    "thumbnail": "",
+    "description": "arXiv:2607.19439v1 Announce Type: cross \nAbstract: Dittert's conjecture asserts that, among nonnegative $n\\times n$ matrices whose entries sum to $n$, the functional $\\phi(A)=\\prod_{i=1}^n r_i+\\prod_{j=1}^n c_j-\\operatorname{per}(A)$ is uniquely maximized by the uniform matrix $J_n/n$. This paper proves the conjecture for $n=16$. The key observation is that, for a near-maximizer, the deficits of the row-sum and column-sum products satisfy a single joint constraint rather than two independent bounds. Combining this joint-deficit estimate with a Pinsker-type subset-sum bound yields a sharper scalar dilation to a doubly superstochastic matrix. The Knopp-Sinkhorn boundary lower bound for permanents then excludes maximizers with a zero entry, and Hwang's positive-support theorem identifies the unique maximizer. Together with Pang's result for $n\\ge 17$ (arXiv:2606.01531), this establishes Dittert's conjecture for every $n\\ge 16$.",
+    "content": "arXiv:2607.19439v1 Announce Type: cross \nAbstract: Dittert's conjecture asserts that, among nonnegative $n\\times n$ matrices whose entries sum to $n$, the functional $\\phi(A)=\\prod_{i=1}^n r_i+\\prod_{j=1}^n c_j-\\operatorname{per}(A)$ is uniquely maximized by the uniform matrix $J_n/n$. This paper proves the conjecture for $n=16$. The key observation is that, for a near-maximizer, the deficits of the row-sum and column-sum products satisfy a single joint constraint rather than two independent bounds. Combining this joint-deficit estimate with a Pinsker-type subset-sum bound yields a sharper scalar dilation to a doubly superstochastic matrix. The Knopp-Sinkhorn boundary lower bound for permanents then excludes maximizers with a zero entry, and Hwang's positive-support theorem identifies the unique maximizer. Together with Pang's result for $n\\ge 17$ (arXiv:2606.01531), this establishes Dittert's conjecture for every $n\\ge 16$.",
+    "enclosure": {},
+    "categories": [
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Derived representation schemes with arbitrary coefficients and associative smoothness",
+    "pubDate": "2026-07-23 04:00:00",
+    "link": "https://arxiv.org/abs/2607.19654",
+    "guid": "oai:arXiv.org:2607.19654v1",
+    "author": "Guanyu Li",
+    "thumbnail": "",
+    "description": "arXiv:2607.19654v1 Announce Type: cross \nAbstract: We study associative smoothness through representation homology with coefficients in arbitrary finite-dimensional algebras. We prove that the higher representation homology of a finitely generated formally smooth algebra with arbitrary finite-dimensional coefficients vanishes. We further show that allowing arbitrary coefficients yields a strictly stronger smoothness test: suitable non-matrix coefficients detect nonsmoothness in situations where matrix coefficients do not. These results raise the question of whether representation homology with arbitrary coefficients furnishes a homotopical characterization of associative smoothness in the spirit of the derived Kontsevich-Rosenberg principle. For finite-dimensional algebras, we prove that representation homology with arbitrary coefficients completely characterizes formal smoothness, providing supporting evidence for this philosophy.",
+    "content": "arXiv:2607.19654v1 Announce Type: cross \nAbstract: We study associative smoothness through representation homology with coefficients in arbitrary finite-dimensional algebras. We prove that the higher representation homology of a finitely generated formally smooth algebra with arbitrary finite-dimensional coefficients vanishes. We further show that allowing arbitrary coefficients yields a strictly stronger smoothness test: suitable non-matrix coefficients detect nonsmoothness in situations where matrix coefficients do not. These results raise the question of whether representation homology with arbitrary coefficients furnishes a homotopical characterization of associative smoothness in the spirit of the derived Kontsevich-Rosenberg principle. For finite-dimensional algebras, we prove that representation homology with arbitrary coefficients completely characterizes formal smoothness, providing supporting evidence for this philosophy.",
+    "enclosure": {},
+    "categories": [
+      "math.AG",
+      "math.KT",
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A Counterexample to the Global Injectivity of a Jacobian Mapping in \\mathbb{C}^5 and Its Analytical Roots",
+    "pubDate": "2026-07-23 04:00:00",
+    "link": "https://arxiv.org/abs/2607.20049",
+    "guid": "oai:arXiv.org:2607.20049v1",
+    "author": "Sergey Sverchkov",
+    "thumbnail": "",
+    "description": "arXiv:2607.20049v1 Announce Type: cross \nAbstract: We study a specific polynomial mapping G: \\mathbb{C}^5 \\to \\mathbb{C}^5 induced by a homogeneous polynomial F of degree 6 consisting of four tridiagonal harmonic blocks. We prove that while the Jacobian matrix of this mapping is unipotent at every point (implying det J_G(x) \\equiv 1), the mapping itself is not globally injective. We construct explicit algebraic sparse pairs of distinct points a \\neq b that map to the identical image G(a) = G(b) = \\vec{0}. Furthermore, we perform a comprehensive classification of the zero-set structure of the corresponding gradient field, uncovering a total of 37 precise analytical complex solutions split across six distinct geometric series.",
+    "content": "arXiv:2607.20049v1 Announce Type: cross \nAbstract: We study a specific polynomial mapping G: \\mathbb{C}^5 \\to \\mathbb{C}^5 induced by a homogeneous polynomial F of degree 6 consisting of four tridiagonal harmonic blocks. We prove that while the Jacobian matrix of this mapping is unipotent at every point (implying det J_G(x) \\equiv 1), the mapping itself is not globally injective. We construct explicit algebraic sparse pairs of distinct points a \\neq b that map to the identical image G(a) = G(b) = \\vec{0}. Furthermore, we perform a comprehensive classification of the zero-set structure of the corresponding gradient field, uncovering a total of 37 precise analytical complex solutions split across six distinct geometric series.",
+    "enclosure": {},
+    "categories": [
+      "math.AC",
+      "math.AG",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A Matrix-Degree Obstruction to Rational Generation of Boolean-Lattice Pseudo-Roots",
+    "pubDate": "2026-07-23 04:00:00",
+    "link": "https://arxiv.org/abs/2607.20248",
+    "guid": "oai:arXiv.org:2607.20248v1",
+    "author": "Mahesh Ramani",
+    "thumbnail": "",
+    "description": "arXiv:2607.20248v1 Announce Type: cross \nAbstract: For the neighborhood seed associated with the four-vertex path $P_4$, the diamond operations do not recover all Boolean-lattice pseudo-roots. The corresponding question for unrestricted rational operations in the free skew field is subtler: the seed map has an invertible linearization and therefore a unique formal inverse near every generic scalar point. We prove that this formal inverse is not free rational. A symmetric one-parameter curve of $2 \\times 2$ matrix outputs has a formal inverse whose coefficient field contains an element of degree three over $\\mathbb{Q}(t)$. An exact elimination in a quadratic Pauli algebra produces the irreducible cubic. Its conjugate inverse branches are unramified, forcing the generic matrix degree of the seed map to be at least three in every size $n \\ge 2$. This contradicts the degree-one consequence of any free rational inverse. The same matrix-degree argument, without specializing a hypothetical inverse, extends the obstruction to every graph containing an induced $P_4$.",
+    "content": "arXiv:2607.20248v1 Announce Type: cross \nAbstract: For the neighborhood seed associated with the four-vertex path $P_4$, the diamond operations do not recover all Boolean-lattice pseudo-roots. The corresponding question for unrestricted rational operations in the free skew field is subtler: the seed map has an invertible linearization and therefore a unique formal inverse near every generic scalar point. We prove that this formal inverse is not free rational. A symmetric one-parameter curve of $2 \\times 2$ matrix outputs has a formal inverse whose coefficient field contains an element of degree three over $\\mathbb{Q}(t)$. An exact elimination in a quadratic Pauli algebra produces the irreducible cubic. Its conjugate inverse branches are unramified, forcing the generic matrix degree of the seed map to be at least three in every size $n \\ge 2$. This contradicts the degree-one consequence of any free rational inverse. The same matrix-degree argument, without specializing a hypothetical inverse, extends the obstruction to every graph containing an induced $P_4$.",
+    "enclosure": {},
+    "categories": [
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On some admissible lattices",
+    "pubDate": "2026-07-23 04:00:00",
+    "link": "https://arxiv.org/abs/2504.03659",
+    "guid": "oai:arXiv.org:2504.03659v4",
+    "author": "Stefano Fioravanti",
+    "thumbnail": "",
+    "description": "arXiv:2504.03659v4 Announce Type: replace \nAbstract: This paper explores applications of the so-called Freese's technique, a classical approach to study the congruence variety of a given algebra. We leverage this tool to investigate lattices that are admissible in a given congruence variety. In particular, we present characterizations of congruence modular varieties, Taylor varieties, and varieties satisfying a non-trivial congruence identity by means of lattice omission provable using Freese's technique.",
+    "content": "arXiv:2504.03659v4 Announce Type: replace \nAbstract: This paper explores applications of the so-called Freese's technique, a classical approach to study the congruence variety of a given algebra. We leverage this tool to investigate lattices that are admissible in a given congruence variety. In particular, we present characterizations of congruence modular varieties, Taylor varieties, and varieties satisfying a non-trivial congruence identity by means of lattice omission provable using Freese's technique.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Universal Operator Envelopes and Defect Geometry of Additive Ternary $\\Gamma$-Modules",
+    "pubDate": "2026-07-23 04:00:00",
+    "link": "https://arxiv.org/abs/2511.02544",
+    "guid": "oai:arXiv.org:2511.02544v3",
+    "author": "Chandrasekhar Gokavarapu (Department of Mathematics, Acharya Nagarjuna University, Guntur, Andhra Pradesh 522510, India, Department of Mathematics, Government College), Sajani Lavanya Madasi (Department of Mathematics, Government College), Madhusudhana Rao Dasari (Department of Mathematics, Acharya Nagarjuna University, Pedakakani, Guntur, Andhra Pradesh 522510, India, Department of Mathematics, Government College for Women)",
+    "thumbnail": "",
+    "description": "arXiv:2511.02544v3 Announce Type: replace \nAbstract: For an additive ternary $\\Gamma$-ring $T$, we construct an associative operator rng $\\cO(T,\\Gamma)$ characterized by a universal property for the two-element, two-index operators occurring in ternary modules, and prove that the Dorroh extension $\\cA(T,\\Gamma)$ represents the entire module category. The regular module gives a quotient $\\cA\\twoheadrightarrow\\cR_T$ with kernel $K$. We develop the resulting defect geometry through the conormal module $K/K^2$, the graded tower $K^n/K^{n+1}$, higher relation modules, and, for square-zero kernels, a canonical Hochschild extension class. First relative $\\Tor$ and $\\Ext$ are identified intrinsically with the conormal defect, while nilpotent kernels are shown to be detected completely by their first conormal layer.\n  Formation of the universal envelope commutes with arbitrary scalar extension, although formation of the regular kernel need not. For two-step tensor systems $T_\\mu=E\\oplus W$, the envelope and its regular defect are determined by two explicit integral matrices: a visible flattening $\\Theta_\\mu$ and a middle-relation matrix $B_\\mu$. We prove a base-change obstruction exact sequence, define an operator discriminant from maximal-rank minors, and construct determinantal/Fitting strata on the parameter space of tensors; defect dimension is upper semicontinuous and constant on a dense open stratum. Exact examples exhibit non-binary periodic homology in every degree, an infinite arithmetic conormal tower, torsion defects on torsion-free groups, and characteristic jumps. A complete exact census of all $256$ integral $2\\times2\\times2$ sign tensors is included. Smith-normal-form algorithms and a reproducible notebook provide certificates for every finite computation.",
+    "content": "arXiv:2511.02544v3 Announce Type: replace \nAbstract: For an additive ternary $\\Gamma$-ring $T$, we construct an associative operator rng $\\cO(T,\\Gamma)$ characterized by a universal property for the two-element, two-index operators occurring in ternary modules, and prove that the Dorroh extension $\\cA(T,\\Gamma)$ represents the entire module category. The regular module gives a quotient $\\cA\\twoheadrightarrow\\cR_T$ with kernel $K$. We develop the resulting defect geometry through the conormal module $K/K^2$, the graded tower $K^n/K^{n+1}$, higher relation modules, and, for square-zero kernels, a canonical Hochschild extension class. First relative $\\Tor$ and $\\Ext$ are identified intrinsically with the conormal defect, while nilpotent kernels are shown to be detected completely by their first conormal layer.\n  Formation of the universal envelope commutes with arbitrary scalar extension, although formation of the regular kernel need not. For two-step tensor systems $T_\\mu=E\\oplus W$, the envelope and its regular defect are determined by two explicit integral matrices: a visible flattening $\\Theta_\\mu$ and a middle-relation matrix $B_\\mu$. We prove a base-change obstruction exact sequence, define an operator discriminant from maximal-rank minors, and construct determinantal/Fitting strata on the parameter space of tensors; defect dimension is upper semicontinuous and constant on a dense open stratum. Exact examples exhibit non-binary periodic homology in every degree, an infinite arithmetic conormal tower, torsion defects on torsion-free groups, and characteristic jumps. A complete exact census of all $256$ integral $2\\times2\\times2$ sign tensors is included. Smith-normal-form algorithms and a reproducible notebook provide certificates for every finite computation.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Lie Algebra Decomposition Classes for Reductive Algebraic Groups in Arbitrary Characteristic",
+    "pubDate": "2026-07-23 04:00:00",
+    "link": "https://arxiv.org/abs/2511.01440",
+    "guid": "oai:arXiv.org:2511.01440v2",
+    "author": "Joel Summerfield",
+    "thumbnail": "",
+    "description": "arXiv:2511.01440v2 Announce Type: replace-cross \nAbstract: In this paper, we investigate the decomposition classes of the Lie algebras of connected reductive algebraic groups, over algebraically closed fields of arbitrary characteristic. We extend some results proved previously under restrictions on the characteristic, including a formula for the dimension of a decomposition class, and introduce Levi-type decomposition classes to account for some of the difficulties encountered in bad characteristic. We also establish properties of Lusztig--Spaltenstein induction of non-nilpotent orbits, such as parabolic independence, extending the known results for nilpotent orbits. Finally, we determine the covering relation for the closure order on decomposition classes, in the case of good characteristic.",
+    "content": "arXiv:2511.01440v2 Announce Type: replace-cross \nAbstract: In this paper, we investigate the decomposition classes of the Lie algebras of connected reductive algebraic groups, over algebraically closed fields of arbitrary characteristic. We extend some results proved previously under restrictions on the characteristic, including a formula for the dimension of a decomposition class, and introduce Levi-type decomposition classes to account for some of the difficulties encountered in bad characteristic. We also establish properties of Lusztig--Spaltenstein induction of non-nilpotent orbits, such as parabolic independence, extending the known results for nilpotent orbits. Finally, we determine the covering relation for the closure order on decomposition classes, in the case of good characteristic.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.AC",
+      "math.AG",
+      "math.GR",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Basic Zero Divisor Mathematics (I)",
     "pubDate": "2026-07-22 04:00:00",
     "link": "https://arxiv.org/abs/2607.18721",
