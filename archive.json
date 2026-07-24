@@ -1,5 +1,155 @@
 [
   {
+    "title": "A note on symmetric midpoint algebras, or scales",
+    "pubDate": "2026-07-24 04:00:00",
+    "link": "https://arxiv.org/abs/2607.20931",
+    "guid": "oai:arXiv.org:2607.20931v1",
+    "author": "Wataru Tanizaki",
+    "thumbnail": "",
+    "description": "arXiv:2607.20931v1 Announce Type: new \nAbstract: In this paper, we investigate some basic properties of algebraic structures called symmetric midpoint algebras, for which we borrow the term \"scales\" from Peter Freyd. Scales are broadly divided into cancellative ones and non-cancellative ones; the former are precisely subscales of modules over the ring of dyadic rational numbers, and include free scales; the latter can be turned cancellative by taking quotient scales. Furthermore, we can define tensor products of scales similarly to those of abelian groups, with respect to which the category of scales is a symmetric monoidal closed category. We shall call its monoid objects \"scalic rings\" after the fact that rings are monoid objects in the category of abelian groups.",
+    "content": "arXiv:2607.20931v1 Announce Type: new \nAbstract: In this paper, we investigate some basic properties of algebraic structures called symmetric midpoint algebras, for which we borrow the term \"scales\" from Peter Freyd. Scales are broadly divided into cancellative ones and non-cancellative ones; the former are precisely subscales of modules over the ring of dyadic rational numbers, and include free scales; the latter can be turned cancellative by taking quotient scales. Furthermore, we can define tensor products of scales similarly to those of abelian groups, with respect to which the category of scales is a symmetric monoidal closed category. We shall call its monoid objects \"scalic rings\" after the fact that rings are monoid objects in the category of abelian groups.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The space of two-dimensional vectors over a four-dimensional division algebra over $F_2$",
+    "pubDate": "2026-07-24 04:00:00",
+    "link": "https://arxiv.org/abs/2607.20932",
+    "guid": "oai:arXiv.org:2607.20932v1",
+    "author": "Daisuke Tambara",
+    "thumbnail": "",
+    "description": "arXiv:2607.20932v1 Announce Type: new \nAbstract: Let $A$ be a non-associative division algebra over a field $F$. Let $A$ act on the space $A^2$ by left multiplication. For nonzero elements $v, v'$ of $A^2$ we ask when the subspaces $Av$ and $Av'$ coincide. The paper gives an answer in the case where $A$ is four-dimensional and $F$ is the field of order 2. In this case $A$ is known to be isotopic to either of two algebras, system $V$ and system $W$ of Knuth. For each of these two algebras we give an explicit solution of the equation $Av=Av'$. The result is stated for any four-dimensional algebra $A$ defined over an arbitrary base field $F$ and equipped with the multiplication rule of system $V$ or system $W$.",
+    "content": "arXiv:2607.20932v1 Announce Type: new \nAbstract: Let $A$ be a non-associative division algebra over a field $F$. Let $A$ act on the space $A^2$ by left multiplication. For nonzero elements $v, v'$ of $A^2$ we ask when the subspaces $Av$ and $Av'$ coincide. The paper gives an answer in the case where $A$ is four-dimensional and $F$ is the field of order 2. In this case $A$ is known to be isotopic to either of two algebras, system $V$ and system $W$ of Knuth. For each of these two algebras we give an explicit solution of the equation $Av=Av'$. The result is stated for any four-dimensional algebra $A$ defined over an arbitrary base field $F$ and equipped with the multiplication rule of system $V$ or system $W$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Surjectivity of Engel Maps over trace zero matrices in $\\mathrm{M}_2(\\mathcal{O})$",
+    "pubDate": "2026-07-24 04:00:00",
+    "link": "https://arxiv.org/abs/2607.21171",
+    "guid": "oai:arXiv.org:2607.21171v1",
+    "author": "Ayon Roy, Anupam Singh",
+    "thumbnail": "",
+    "description": "arXiv:2607.21171v1 Announce Type: cross \nAbstract: The surjectivity of various noncommutative polynomials has been studied extensively on Lie algebras over fields of different characteristics. In this article, we study the surjectivity of Engel Maps over trace zero matrices in $\\mathrm{M}_2(\\mathcal{O})$, where $\\mathcal{O}$ is a local principal ideal ring complete with respect to its maximal ideal and has a residue field $k$ of characteristic $\\neq 2$. We show that the image of $(m+1)$-th Engel map induced by the Engel polynomial $e_{m+1}(x, y) = [\\cdots[[x, \\underbrace{y], y], \\dots, y]}_{m+1 \\text{ times}}$ over $\\mathrm{M}_2(\\mathcal{O})$ can be determined by the image of the corresponding Engel map over $\\mathrm{M}_2(k)$, for $m\\geq 1$. Moreover, we prove that the $(m+1)$-th Engel map on $\\mathfrak{sl}_2^{\\circ}(\\mathcal{O})=\\left\\{\\ A\\in \\mathrm{M}_2(\\mathcal{O})\\ \\mid\\ \\mathrm{tr}(A)=0\\right\\}$ is surjective if and only if the corresponding Engel map on $\\mathfrak{sl}_2(k)$ is surjective. Under some mild condition on the residue field $k$, our results shows that every $g\\in \\mathfrak{sl}_2^{\\circ}(\\mathcal{O})$ can be expressed as $g = e_{m+1}(h_1, h_2)$ for $m\\geq 1$, where both $h_1, h_2$ are in $\\mathfrak{sl}_2^{\\circ}(\\mathcal{O})$.",
+    "content": "arXiv:2607.21171v1 Announce Type: cross \nAbstract: The surjectivity of various noncommutative polynomials has been studied extensively on Lie algebras over fields of different characteristics. In this article, we study the surjectivity of Engel Maps over trace zero matrices in $\\mathrm{M}_2(\\mathcal{O})$, where $\\mathcal{O}$ is a local principal ideal ring complete with respect to its maximal ideal and has a residue field $k$ of characteristic $\\neq 2$. We show that the image of $(m+1)$-th Engel map induced by the Engel polynomial $e_{m+1}(x, y) = [\\cdots[[x, \\underbrace{y], y], \\dots, y]}_{m+1 \\text{ times}}$ over $\\mathrm{M}_2(\\mathcal{O})$ can be determined by the image of the corresponding Engel map over $\\mathrm{M}_2(k)$, for $m\\geq 1$. Moreover, we prove that the $(m+1)$-th Engel map on $\\mathfrak{sl}_2^{\\circ}(\\mathcal{O})=\\left\\{\\ A\\in \\mathrm{M}_2(\\mathcal{O})\\ \\mid\\ \\mathrm{tr}(A)=0\\right\\}$ is surjective if and only if the corresponding Engel map on $\\mathfrak{sl}_2(k)$ is surjective. Under some mild condition on the residue field $k$, our results shows that every $g\\in \\mathfrak{sl}_2^{\\circ}(\\mathcal{O})$ can be expressed as $g = e_{m+1}(h_1, h_2)$ for $m\\geq 1$, where both $h_1, h_2$ are in $\\mathfrak{sl}_2^{\\circ}(\\mathcal{O})$.",
+    "enclosure": {},
+    "categories": [
+      "math.GR",
+      "math.AC",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Jordan algebras, hemiplex numbers, and the Cholesky decomposition of arbitrary symmetric matrices",
+    "pubDate": "2026-07-24 04:00:00",
+    "link": "https://arxiv.org/abs/2607.21383",
+    "guid": "oai:arXiv.org:2607.21383v1",
+    "author": "Alan Edelman, Timothy E. Holy",
+    "thumbnail": "",
+    "description": "arXiv:2607.21383v1 Announce Type: cross \nAbstract: Positive-semidefinite matrices are most efficiently factored using the Cholesky decomposition. For indefinite matrices, the Cholesky factorization does not exist, and the alternatives face greater challenges in achieving numeric stability and preservation of banded structure. Here we pursue an analogy between the requirement for positive-semidefinite matrices and the solution of the quadratic equation x^2 = c for c ",
+    "content": "arXiv:2607.21383v1 Announce Type: cross \nAbstract: Positive-semidefinite matrices are most efficiently factored using the Cholesky decomposition. For indefinite matrices, the Cholesky factorization does not exist, and the alternatives face greater challenges in achieving numeric stability and preservation of banded structure. Here we pursue an analogy between the requirement for positive-semidefinite matrices and the solution of the quadratic equation x^2 = c for c ",
+    "enclosure": {},
+    "categories": [
+      "math.NA",
+      "cs.NA",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Hyper-dual group inverse: existence, characterizations, and applications",
+    "pubDate": "2026-07-24 04:00:00",
+    "link": "https://arxiv.org/abs/2504.05264",
+    "guid": "oai:arXiv.org:2504.05264v2",
+    "author": "Tikesh Verma, Amit Kumar, Vaibhav Shekhar, Nestor Thome",
+    "thumbnail": "",
+    "description": "arXiv:2504.05264v2 Announce Type: replace \nAbstract: Motivated by the recent work of Xiao and Zhong [AIMS Math. 9 (2024), 35125--35150: MR4840882], we propose a generalized inverse for a hyper-dual matrix called hyper-dual group generalized inverse (HDGGI). Firstly, we characterize the existence of the HDGGI of a hyper-dual matrix and we show that it is unique, whenever exists. The HDGGI is then used to solve a linear hyper-dual system. We discuss the minimal $P$-norm least-squares properties of hyper-dual group inverse. We also exploit some sufficient conditions under which the reverse and forward-order laws for a particular form of the HDGGI and hyper-dual Moore-Penrose generalized inverse (HDMPGI) hold. Using the definition of dual matrix of order $n$, we finally establish necessary and sufficient condition for the existence of the group inverse of a dual matrix of order $n$.",
+    "content": "arXiv:2504.05264v2 Announce Type: replace \nAbstract: Motivated by the recent work of Xiao and Zhong [AIMS Math. 9 (2024), 35125--35150: MR4840882], we propose a generalized inverse for a hyper-dual matrix called hyper-dual group generalized inverse (HDGGI). Firstly, we characterize the existence of the HDGGI of a hyper-dual matrix and we show that it is unique, whenever exists. The HDGGI is then used to solve a linear hyper-dual system. We discuss the minimal $P$-norm least-squares properties of hyper-dual group inverse. We also exploit some sufficient conditions under which the reverse and forward-order laws for a particular form of the HDGGI and hyper-dual Moore-Penrose generalized inverse (HDMPGI) hold. Using the definition of dual matrix of order $n$, we finally establish necessary and sufficient condition for the existence of the group inverse of a dual matrix of order $n$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AC",
+      "math.FA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Polyadic line objects over semirings: fpqc Kummer torsors, arity spectra, and binary descent",
+    "pubDate": "2026-07-24 04:00:00",
+    "link": "https://arxiv.org/abs/2512.20784",
+    "guid": "oai:arXiv.org:2512.20784v3",
+    "author": "Chandrasekhar Gokavarapu (Department of Mathematics, Acharya Nagarjuna University, Guntur, Andhra Pradesh 522510, India,Department of Mathematics, Government College), Sajani Lavanya Madasi (Department of Mathematics, Government College), Madhusudhana Rao Dasari (Department of Mathematics, Government College for Women)",
+    "thumbnail": "",
+    "description": "arXiv:2512.20784v3 Announce Type: replace \nAbstract: Let $X$ be a semiring scheme, let $L$ be a line bundle on $X$, and put $m=n-1$ for $n\\geq2$. We classify $\\mathcal O_X$-multilinear $n$-ary products on $L$ and show that nondegeneracy is equivalent to a trivialization of $L^m$. The main result identifies the symmetric monoidal groupoid of nondegenerate $n$-ary line objects with the groupoid of $\\mu_m$-torsors for the fpqc topology. The essential semiring step is an explicit root construction: for every unit $u$ of a semiring $A$, adjoining an $m$th root produces a finite free faithfully flat $A$-algebra. Thus the Kummer power map on $\\mathbf G_{\\mathrm m}$ is fpqc-locally surjective without additive inverses. We obtain a Kummer exact sequence for arbitrary semiring schemes and prove that its torsor class is the complete obstruction to descent from a bilinear binary product. Over the proper semirings $\\mathbb N[q^{\\pm1}]$ and $\\mathbb B[q^{\\pm1}]$, the product $q x_1\\cdots x_n$ has exact obstruction order $m$ and acquires a binary envelope precisely on the explicit root torsor $q=z^m$. We also establish arity detection by Picard torsion, intrinsic degeneracy loci, faithfully flat descent, and arithmetic examples from torsion ideal classes.}% {semiring scheme, polyadic product, Kummer torsor, Picard group, binary descent, faithfully flat cover",
+    "content": "arXiv:2512.20784v3 Announce Type: replace \nAbstract: Let $X$ be a semiring scheme, let $L$ be a line bundle on $X$, and put $m=n-1$ for $n\\geq2$. We classify $\\mathcal O_X$-multilinear $n$-ary products on $L$ and show that nondegeneracy is equivalent to a trivialization of $L^m$. The main result identifies the symmetric monoidal groupoid of nondegenerate $n$-ary line objects with the groupoid of $\\mu_m$-torsors for the fpqc topology. The essential semiring step is an explicit root construction: for every unit $u$ of a semiring $A$, adjoining an $m$th root produces a finite free faithfully flat $A$-algebra. Thus the Kummer power map on $\\mathbf G_{\\mathrm m}$ is fpqc-locally surjective without additive inverses. We obtain a Kummer exact sequence for arbitrary semiring schemes and prove that its torsor class is the complete obstruction to descent from a bilinear binary product. Over the proper semirings $\\mathbb N[q^{\\pm1}]$ and $\\mathbb B[q^{\\pm1}]$, the product $q x_1\\cdots x_n$ has exact obstruction order $m$ and acquires a binary envelope precisely on the explicit root torsor $q=z^m$. We also establish arity detection by Picard torsion, intrinsic degeneracy loci, faithfully flat descent, and arithmetic examples from torsion ideal classes.}% {semiring scheme, polyadic product, Kummer torsor, Picard group, binary descent, faithfully flat cover",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Totally decomposable algebras with involution and R-triviality",
+    "pubDate": "2026-07-24 04:00:00",
+    "link": "https://arxiv.org/abs/2602.10302",
+    "guid": "oai:arXiv.org:2602.10302v2",
+    "author": "M. Archita, Karim Johannes Becher",
+    "thumbnail": "",
+    "description": "arXiv:2602.10302v2 Announce Type: replace \nAbstract: We show that the group of proper projective similitudes of a totally decomposable algebra with orthogonal or symplectic involution of index at most 2 over a field of characteristic different from 2 is R-trivial. We further give an example showing that the statement does not extend to index 4 in the orthogonal case.",
+    "content": "arXiv:2602.10302v2 Announce Type: replace \nAbstract: We show that the group of proper projective similitudes of a totally decomposable algebra with orthogonal or symplectic involution of index at most 2 over a field of characteristic different from 2 is R-trivial. We further give an example showing that the statement does not extend to index 4 in the orthogonal case.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AG",
+      "math.NT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Relative Calabi-Yau structures and ice quivers with potential",
+    "pubDate": "2026-07-24 04:00:00",
+    "link": "https://arxiv.org/abs/2307.16222",
+    "guid": "oai:arXiv.org:2307.16222v4",
+    "author": "Bernhard Keller, Junyang Liu",
+    "thumbnail": "",
+    "description": "arXiv:2307.16222v4 Announce Type: replace-cross \nAbstract: In 2015, Van den Bergh showed that complete $3$-Calabi-Yau algebras over an algebraically closed field of characteristic $0$ are equivalent to Ginzburg dg algebras associated with quivers with potential. He also proved the natural generalisation to higher dimensions and non-algebraically closed ground fields. The relative version of the notion of Ginzburg dg algebra is that of Ginzburg morphism. For example, every ice quiver with potential gives rise to a Ginzburg morphism. We generalise Van den Bergh's theorem by showing that, under suitable assumptions, any morphism with a relative Calabi-Yau structure is equivalent to a Ginzburg(-Lazaroiu) morphism. In particular, in dimension $3$ and over an algebraically closed ground field of characteristic $0$, it is given by an ice quiver with potential. Thanks to the work of Bozec-Calaque-Scherotzke, this result can also be viewed as a noncommutative analogue of Joyce-Safronov's Lagrangian neighbourhood theorem in derived symplectic geometry.",
+    "content": "arXiv:2307.16222v4 Announce Type: replace-cross \nAbstract: In 2015, Van den Bergh showed that complete $3$-Calabi-Yau algebras over an algebraically closed field of characteristic $0$ are equivalent to Ginzburg dg algebras associated with quivers with potential. He also proved the natural generalisation to higher dimensions and non-algebraically closed ground fields. The relative version of the notion of Ginzburg dg algebra is that of Ginzburg morphism. For example, every ice quiver with potential gives rise to a Ginzburg morphism. We generalise Van den Bergh's theorem by showing that, under suitable assumptions, any morphism with a relative Calabi-Yau structure is equivalent to a Ginzburg(-Lazaroiu) morphism. In particular, in dimension $3$ and over an algebraically closed ground field of characteristic $0$, it is given by an ice quiver with potential. Thanks to the work of Bozec-Calaque-Scherotzke, this result can also be viewed as a noncommutative analogue of Joyce-Safronov's Lagrangian neighbourhood theorem in derived symplectic geometry.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.AG",
+      "math.KT",
+      "math.RA",
+      "math.SG"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Zero-divisor algebras of graph functions: quantum caging, entangling routing and stochastic first-passage exclusion",
+    "pubDate": "2026-07-24 04:00:00",
+    "link": "https://arxiv.org/abs/2311.11978",
+    "guid": "oai:arXiv.org:2311.11978v2",
+    "author": "F\\&quot;ul\\&quot;op Bazs\\'o",
+    "thumbnail": "",
+    "description": "arXiv:2311.11978v2 Announce Type: replace-cross \nAbstract: We construct Lie-bialgebraic differential structures on vertex functions of a finite graph using coefficients in commutative algebras with zero divisors. We derive the exact Jacobi criterion for the graph bracket and classify its solutions. Over an integral domain, each connected component of the nonzero support is a uniformly weighted clique; over $\\mathbb C^q$, the general solution is a superposition of such clique layers. A four-vertex diamond built from overlapping triangle layers shows that Jacobi compatibility is strictly broader than the matching geometry generated by proper edge colouring.\n  For the canonical cobracket, we prove a rigidity theorem over commutative $2$-torsion-free rings: Lie-bialgebra compatibility is equivalent to the local annihilation condition $w_{ij}w_{ik}=0$ for distinct incident edges. Hence the canonical bialgebra selects matching layers from the wider Jacobi-compatible class. The same structure makes the weighted graph Laplacian an inner derivation and yields an incidence-type vertex--edge calculus with a positive squared-Laplacian factorization.\n  Representing the idempotent channels by internal-state projectors gives exact quantum caging and channel-controlled transfer that creates path--channel entanglement. The ordered real realization gives an intrinsic graph Fokker--Planck equation, exact first-passage exclusion, and a solvable crossover to escape under weak channel switching. These models are deliberately reducible; their role is to exhibit the quantum and stochastic consequences of the matching geometry selected by canonical bialgebra compatibility.",
+    "content": "arXiv:2311.11978v2 Announce Type: replace-cross \nAbstract: We construct Lie-bialgebraic differential structures on vertex functions of a finite graph using coefficients in commutative algebras with zero divisors. We derive the exact Jacobi criterion for the graph bracket and classify its solutions. Over an integral domain, each connected component of the nonzero support is a uniformly weighted clique; over $\\mathbb C^q$, the general solution is a superposition of such clique layers. A four-vertex diamond built from overlapping triangle layers shows that Jacobi compatibility is strictly broader than the matching geometry generated by proper edge colouring.\n  For the canonical cobracket, we prove a rigidity theorem over commutative $2$-torsion-free rings: Lie-bialgebra compatibility is equivalent to the local annihilation condition $w_{ij}w_{ik}=0$ for distinct incident edges. Hence the canonical bialgebra selects matching layers from the wider Jacobi-compatible class. The same structure makes the weighted graph Laplacian an inner derivation and yields an incidence-type vertex--edge calculus with a positive squared-Laplacian factorization.\n  Representing the idempotent channels by internal-state projectors gives exact quantum caging and channel-controlled transfer that creates path--channel entanglement. The ordered real realization gives an intrinsic graph Fokker--Planck equation, exact first-passage exclusion, and a solvable crossover to escape under weak channel switching. These models are deliberately reducible; their role is to exhibit the quantum and stochastic consequences of the matching geometry selected by canonical bialgebra compatibility.",
+    "enclosure": {},
+    "categories": [
+      "math-ph",
+      "math.CO",
+      "math.MP",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Constructing a complex Lie algebra isomorphic to its complex conjugate but not definable over reals",
     "pubDate": "2026-07-23 04:00:00",
     "link": "https://arxiv.org/abs/2607.19513",
