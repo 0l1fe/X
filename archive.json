@@ -1,5 +1,102 @@
 [
   {
+    "title": "Level Quotients of Free Metabelian Lie Algebras: Inverse Systems and Graded Deformations",
+    "pubDate": "2026-07-27 04:00:00",
+    "link": "https://arxiv.org/abs/2607.22116",
+    "guid": "oai:arXiv.org:2607.22116v1",
+    "author": "Marcel Blattner",
+    "thumbnail": "",
+    "description": "arXiv:2607.22116v1 Announce Type: new \nAbstract: Let $M(U)$ be the free metabelian Lie algebra on a finite-dimensional vector space $U$, and let $B(U)=M(U)'$ be its derived module over $\\operatorname{Sym}(U)$. We describe finite-dimensional positively graded metabelian Lie algebras generated in degree one through inverse systems for $B(U)$. The restricted graded dual of $B(U)$ identifies with the module of closed divided-power polynomial $2$-forms, and the resulting quotient construction defines an equivalence of groupoids. On the level locus, an intrinsic terminal commutator tensor recovers the top inverse-system space, yielding an orbit classification and a sharp catalecticant lower bound for terminally marked realizations.\n  When $\\dim U=2$, the module $B(U)$ is cyclic, and the construction becomes a determinant-twisted equivalence between subspaces of binary forms and finite-dimensional, two-generated level metabelian Lie algebras. We also determine their graded and full automorphism groups. In contrast, in rank three we exhibit distinct finite-colength scalar ideals that produce the same Lie quotient, showing that scalar ideals do not faithfully parametrize the higher-rank construction.\n  For the $14$-dimensional algebra associated with a regular pencil of binary quartics, exact rational computation gives the complete Carnot-weight decompositions of adjoint $H^2$ and $H^3$, with $\\dim H^2_0=11$ and $H^3_0=0$. The graded deformation base is therefore smooth of dimension $11$; its metabelian locus is a smooth $3$-dimensional subgerm, and terminal restriction identifies the $8$-dimensional normal space with new derived--derived brackets. We determine the residual $V_4$-action, the corresponding invariant rings, and the terminal rank strata. Weight-zero deformations are unobstructed, whereas four negative-weight primary obstruction pairings are surjective.",
+    "content": "arXiv:2607.22116v1 Announce Type: new \nAbstract: Let $M(U)$ be the free metabelian Lie algebra on a finite-dimensional vector space $U$, and let $B(U)=M(U)'$ be its derived module over $\\operatorname{Sym}(U)$. We describe finite-dimensional positively graded metabelian Lie algebras generated in degree one through inverse systems for $B(U)$. The restricted graded dual of $B(U)$ identifies with the module of closed divided-power polynomial $2$-forms, and the resulting quotient construction defines an equivalence of groupoids. On the level locus, an intrinsic terminal commutator tensor recovers the top inverse-system space, yielding an orbit classification and a sharp catalecticant lower bound for terminally marked realizations.\n  When $\\dim U=2$, the module $B(U)$ is cyclic, and the construction becomes a determinant-twisted equivalence between subspaces of binary forms and finite-dimensional, two-generated level metabelian Lie algebras. We also determine their graded and full automorphism groups. In contrast, in rank three we exhibit distinct finite-colength scalar ideals that produce the same Lie quotient, showing that scalar ideals do not faithfully parametrize the higher-rank construction.\n  For the $14$-dimensional algebra associated with a regular pencil of binary quartics, exact rational computation gives the complete Carnot-weight decompositions of adjoint $H^2$ and $H^3$, with $\\dim H^2_0=11$ and $H^3_0=0$. The graded deformation base is therefore smooth of dimension $11$; its metabelian locus is a smooth $3$-dimensional subgerm, and terminal restriction identifies the $8$-dimensional normal space with new derived--derived brackets. We determine the residual $V_4$-action, the corresponding invariant rings, and the terminal rank strata. Weight-zero deformations are unobstructed, whereas four negative-weight primary obstruction pairings are surjective.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "$n$-Absolutely pure and $n$-flat modules, revisited",
+    "pubDate": "2026-07-27 04:00:00",
+    "link": "https://arxiv.org/abs/2607.22482",
+    "guid": "oai:arXiv.org:2607.22482v1",
+    "author": "Rafael Parra, Marco A. P{\\'e}rez",
+    "thumbnail": "",
+    "description": "arXiv:2607.22482v1 Announce Type: new \nAbstract: We revisit the concepts of $n$-absolutely pure and $n$-flat modules, and their relation with $n$-coherent rings in the sense of Lee. We provide new proofs for some known claims about these modules and rings, and show other new properties. We also give some corrections to the existing literature.",
+    "content": "arXiv:2607.22482v1 Announce Type: new \nAbstract: We revisit the concepts of $n$-absolutely pure and $n$-flat modules, and their relation with $n$-coherent rings in the sense of Lee. We provide new proofs for some known claims about these modules and rings, and show other new properties. We also give some corrections to the existing literature.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Dynamics Decomposition of Boolean Networks: An algebraic foundation",
+    "pubDate": "2026-07-27 04:00:00",
+    "link": "https://arxiv.org/abs/2607.21795",
+    "guid": "oai:arXiv.org:2607.21795v1",
+    "author": "Alan Veliz-Cuba, Claus Kadelka, David Murrugarra, Matthew Wheeler, Kiara Boehringer, Benjamin Coberly, Reinhard Laubenbacher",
+    "thumbnail": "",
+    "description": "arXiv:2607.21795v1 Announce Type: cross \nAbstract: Understanding the dynamics of Boolean networks is central to problems such as network reduction, design, control, and reverse engineering. As Boolean network models continue to grow in size and complexity, it becomes increasingly important to decompose networks into modules in a manner that is compatible with their dynamics. In this paper, we show that endowing the space of possible dynamics with a semiring structure enables a systematic decomposition of the dynamics of any Boolean network in terms of the dynamics of its constituent modules. This algebraic framework provides a systematic way to analyze how local dynamical behaviors combine to produce global dynamics. Our results establish a concrete algebraic foundation for network modularity and introduce new mathematical tools for the study of complex Boolean networks, and opens the door to the application of algebraic methods to problems of network analysis, decomposition, and control.",
+    "content": "arXiv:2607.21795v1 Announce Type: cross \nAbstract: Understanding the dynamics of Boolean networks is central to problems such as network reduction, design, control, and reverse engineering. As Boolean network models continue to grow in size and complexity, it becomes increasingly important to decompose networks into modules in a manner that is compatible with their dynamics. In this paper, we show that endowing the space of possible dynamics with a semiring structure enables a systematic decomposition of the dynamics of any Boolean network in terms of the dynamics of its constituent modules. This algebraic framework provides a systematic way to analyze how local dynamical behaviors combine to produce global dynamics. Our results establish a concrete algebraic foundation for network modularity and introduce new mathematical tools for the study of complex Boolean networks, and opens the door to the application of algebraic methods to problems of network analysis, decomposition, and control.",
+    "enclosure": {},
+    "categories": [
+      "q-bio.QM",
+      "cs.DM",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Quotients of mosaics and related hyperstructures",
+    "pubDate": "2026-07-27 04:00:00",
+    "link": "https://arxiv.org/abs/2607.21844",
+    "guid": "oai:arXiv.org:2607.21844v1",
+    "author": "Siddhant Jajodia, So Nakamura, Manuel Reyes",
+    "thumbnail": "",
+    "description": "arXiv:2607.21844v1 Announce Type: cross \nAbstract: This is a thorough study of quotients of hyperstructures that generalize hypergroups, namely mosaics and semimosaics. The quotients in these categories generalize those studied previously in the literature on hypergroups. We describe the effective congruences in these categories by characterizing them in terms of their underlying equivalence relation. This characterization is applied to provide new methods of constructing quotient objects modulo the action of endomorphisms, as well as to study explicit quotient mosaics of some small groups. We also show that the category of mosaics has a natural proto-exact structure.",
+    "content": "arXiv:2607.21844v1 Announce Type: cross \nAbstract: This is a thorough study of quotients of hyperstructures that generalize hypergroups, namely mosaics and semimosaics. The quotients in these categories generalize those studied previously in the literature on hypergroups. We describe the effective congruences in these categories by characterizing them in terms of their underlying equivalence relation. This characterization is applied to provide new methods of constructing quotient objects modulo the action of endomorphisms, as well as to study explicit quotient mosaics of some small groups. We also show that the category of mosaics has a natural proto-exact structure.",
+    "enclosure": {},
+    "categories": [
+      "math.CT",
+      "math.GR",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On the Drazin Index of an Anti-Triangular Block Matrix",
+    "pubDate": "2026-07-27 04:00:00",
+    "link": "https://arxiv.org/abs/2604.08137",
+    "guid": "oai:arXiv.org:2604.08137v2",
+    "author": "Faustino Maciala, Xavier Mary, C. Mendes Ara\\'ujo, Pedro Patr\\'icio",
+    "thumbnail": "",
+    "description": "arXiv:2604.08137v2 Announce Type: replace-cross \nAbstract: The Drazin index is a fundamental invariant in the analysis of singular matrices and their generalized inverses. While sharp results are available for block triangular matrices, the corresponding theory for anti-triangular block matrices is less developed. In this paper, we study matrices of the form \\[ M=\\begin{bmatrix} A &amp; B \\\\ C &amp; 0 \\end{bmatrix}, \\] under algebraic constraints on the blocks.\n  Building on additive decompositions involving von Neumann inverses, we relate the Drazin index of $M$ to invariance properties of the index and minimal polynomial of expressions of the form $A^{2}A^{-}+I-AA^{-}$. This connection provides an effective mechanism to control the index of $M$ through suitable factorizations and associated block products.\n  As a consequence, we derive explicit lower and upper bounds for $i(M)$ in terms of $i(A)$ and $i(BC)$, and characterize situations in which these bounds are attained. Under additional annihilation or orthogonality conditions on the blocks, we obtain closed-form representations for the Drazin inverse of $M$. Applications to adjacency matrices of directed graphs illustrate the sharpness of the bounds and the applicability of the results to structured matrices arising in graph-theoretic settings.",
+    "content": "arXiv:2604.08137v2 Announce Type: replace-cross \nAbstract: The Drazin index is a fundamental invariant in the analysis of singular matrices and their generalized inverses. While sharp results are available for block triangular matrices, the corresponding theory for anti-triangular block matrices is less developed. In this paper, we study matrices of the form \\[ M=\\begin{bmatrix} A &amp; B \\\\ C &amp; 0 \\end{bmatrix}, \\] under algebraic constraints on the blocks.\n  Building on additive decompositions involving von Neumann inverses, we relate the Drazin index of $M$ to invariance properties of the index and minimal polynomial of expressions of the form $A^{2}A^{-}+I-AA^{-}$. This connection provides an effective mechanism to control the index of $M$ through suitable factorizations and associated block products.\n  As a consequence, we derive explicit lower and upper bounds for $i(M)$ in terms of $i(A)$ and $i(BC)$, and characterize situations in which these bounds are attained. Under additional annihilation or orthogonality conditions on the blocks, we obtain closed-form representations for the Drazin inverse of $M$. Applications to adjacency matrices of directed graphs illustrate the sharpness of the bounds and the applicability of the results to structured matrices arising in graph-theoretic settings.",
+    "enclosure": {},
+    "categories": [
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The Dirac equation in (split-)octonions: origins, variants, and modern context",
+    "pubDate": "2026-07-27 04:00:00",
+    "link": "https://arxiv.org/abs/2607.09703",
+    "guid": "oai:arXiv.org:2607.09703v2",
+    "author": "J. K\\&quot;oplinger",
+    "thumbnail": "",
+    "description": "arXiv:2607.09703v2 Announce Type: replace-cross \nAbstract: Octonions and split-octonions have been used to express the Dirac equation in physics in several conceptually distinct ways. This review organizes them into four groups: the 2-factor, 3-factor, and projection representations, which use (split-)octonion basis elements natively to model a spacetime basis, and the conventional use of octonions to carry Dirac algebra acting on spinors. For each group we identify the originating construction, relate later variants to it, and point to modern applications and to recent methods for native split-octonionic analysis. Because the multiplication table of the (split-)octonions is not unique, forms that look different in print can coincide after a structure-preserving rotation and a relabeling of basis elements; we make such relations explicit and tabulate the basis conventions used across the sources. The 2-factor representation is treated in most detail: we document its origin and show that a recently proposed split-octonionic Dirac equation reduces to it up to such a rotation and relabeling, while crediting the independent contributions of that work.",
+    "content": "arXiv:2607.09703v2 Announce Type: replace-cross \nAbstract: Octonions and split-octonions have been used to express the Dirac equation in physics in several conceptually distinct ways. This review organizes them into four groups: the 2-factor, 3-factor, and projection representations, which use (split-)octonion basis elements natively to model a spacetime basis, and the conventional use of octonions to carry Dirac algebra acting on spinors. For each group we identify the originating construction, relate later variants to it, and point to modern applications and to recent methods for native split-octonionic analysis. Because the multiplication table of the (split-)octonions is not unique, forms that look different in print can coincide after a structure-preserving rotation and a relabeling of basis elements; we make such relations explicit and tabulate the basis conventions used across the sources. The 2-factor representation is treated in most detail: we document its origin and show that a recently proposed split-octonionic Dirac equation reduces to it up to such a rotation and relabeling, while crediting the independent contributions of that work.",
+    "enclosure": {},
+    "categories": [
+      "math-ph",
+      "math.MP",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "A note on symmetric midpoint algebras, or scales",
     "pubDate": "2026-07-24 04:00:00",
     "link": "https://arxiv.org/abs/2607.20931",
