@@ -1,5 +1,164 @@
 [
   {
+    "title": "Non-isomorphism of rings of integer-coefficient holomorphic functions on disks of varying radius",
+    "pubDate": "2026-07-28 04:00:00",
+    "link": "https://arxiv.org/abs/2607.22912",
+    "guid": "oai:arXiv.org:2607.22912v1",
+    "author": "Jon Bannon, David Feldman",
+    "thumbnail": "",
+    "description": "arXiv:2607.22912v1 Announce Type: new \nAbstract: For $\\rho \\in (0,1]$, let $R(\\rho) = \\mathbb{Z}[[z]] \\cap O(B(0,\\rho))$ denote the ring of power series with integer Taylor coefficients converging on the open disk $B(0,\\rho)$. We prove that these rings are pairwise non-isomorphic as abstract rings. Three ingredients drive the proof: the ideal $(z)$ is the unique principal ideal with quotient $\\mathbb{Z}$, so any isomorphism sends $z$ to a generator $g$ of $(z)$; every isomorphism is substitution by $g$, because it respects the $(z)$-adic filtration; and a Hadamard gap series with a natural boundary at $|w| = \\rho_1$ forces the image $g(B(0,\\rho_2))$ into $B(0,\\rho_1)$, after which the Schwarz lemma and integrality of coefficients force $g = \\pm z$ and $\\rho_1 = \\rho_2$.",
+    "content": "arXiv:2607.22912v1 Announce Type: new \nAbstract: For $\\rho \\in (0,1]$, let $R(\\rho) = \\mathbb{Z}[[z]] \\cap O(B(0,\\rho))$ denote the ring of power series with integer Taylor coefficients converging on the open disk $B(0,\\rho)$. We prove that these rings are pairwise non-isomorphic as abstract rings. Three ingredients drive the proof: the ideal $(z)$ is the unique principal ideal with quotient $\\mathbb{Z}$, so any isomorphism sends $z$ to a generator $g$ of $(z)$; every isomorphism is substitution by $g$, because it respects the $(z)$-adic filtration; and a Hadamard gap series with a natural boundary at $|w| = \\rho_1$ forces the image $g(B(0,\\rho_2))$ into $B(0,\\rho_1)$, after which the Schwarz lemma and integrality of coefficients force $g = \\pm z$ and $\\rho_1 = \\rho_2$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CV",
+      "math.NT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Local Derivations on a Block-type Lie Algebra",
+    "pubDate": "2026-07-28 04:00:00",
+    "link": "https://arxiv.org/abs/2607.23102",
+    "guid": "oai:arXiv.org:2607.23102v1",
+    "author": "Shiyu Wu, Hengyun Yang",
+    "thumbnail": "",
+    "description": "arXiv:2607.23102v1 Announce Type: new \nAbstract: We study local derivations on a Block-type Lie algebra \\(\\mathcal B\\). Using the structure of the derivation algebra of \\(\\mathcal B\\) and a series of normalizations and coefficient comparisons, we prove that every local derivation on \\(\\mathcal B\\) is a derivation.",
+    "content": "arXiv:2607.23102v1 Announce Type: new \nAbstract: We study local derivations on a Block-type Lie algebra \\(\\mathcal B\\). Using the structure of the derivation algebra of \\(\\mathcal B\\) and a series of normalizations and coefficient comparisons, we prove that every local derivation on \\(\\mathcal B\\) is a derivation.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Local and 2-Local automorphisms of n-dimensional totally graded filiform Lie algebras",
+    "pubDate": "2026-07-28 04:00:00",
+    "link": "https://arxiv.org/abs/2607.23190",
+    "guid": "oai:arXiv.org:2607.23190v1",
+    "author": "Farkhodzhon Arzikulov, Mirzobek Shodiev",
+    "thumbnail": "",
+    "description": "arXiv:2607.23190v1 Announce Type: new \nAbstract: This paper aims to provide a complete description of the spaces of local and 2-local automorphisms for the families of finite-dimensional totally graded complex filiform Lie algebras of maximum length, building upon established classification frameworks and algebraic-filtration methods. We systematically investigate six infinite sequences ($\\mathfrak{m}_0(n)$, $\\mathfrak{m}_2(n)$, $W^+(n)$, $\\mathfrak{m}_{0,1}(n)$, $\\mathfrak{m}_{0,2}(n)$, $\\mathfrak{m}_{0,3}(n)$) and five one-parameter families ($\\mathfrak{g}_{k,\\alpha}$ for $k=7,\\dots,11$). The analysis utilizes internal commutation boundaries and constructs non-linear, non-additive transformations on specialized parametric coordinate subspaces. We prove that for the structures $\\mathfrak{m}_0(n)$ and $\\mathfrak{m}_{0,1}(n)$, the space of local automorphisms strictly encapsulates the group of automorphisms, confirming the existence of pure local automorphisms. Conversely, for $\\mathfrak{m}_2(n)$, $W^+(n)$, $\\mathfrak{m}_{0,2}(n)$, $\\mathfrak{m}_{0,3}(n)$, and $\\mathfrak{g}_{k,\\alpha}$, the local automorphisms are restricted to an invertible lower triangular matrix form due to rigid power constraints. Furthermore, the sequences $\\mathfrak{m}_{0,1}(n)$, $\\mathfrak{m}_{0,2}(n)$, and $\\mathfrak{m}_{0,3}(n)$ are shown to possess pure non-linear 2-local automorphismsThe remaining investigated structures adhere strictly to linearity, forcing every 2-local automorphism to coincide with a genuine automorphism. This establishes a clear boundary between structures allowing non-linear transformations and those maintaining strict linearity within filiform Lie algebras of maximum length.",
+    "content": "arXiv:2607.23190v1 Announce Type: new \nAbstract: This paper aims to provide a complete description of the spaces of local and 2-local automorphisms for the families of finite-dimensional totally graded complex filiform Lie algebras of maximum length, building upon established classification frameworks and algebraic-filtration methods. We systematically investigate six infinite sequences ($\\mathfrak{m}_0(n)$, $\\mathfrak{m}_2(n)$, $W^+(n)$, $\\mathfrak{m}_{0,1}(n)$, $\\mathfrak{m}_{0,2}(n)$, $\\mathfrak{m}_{0,3}(n)$) and five one-parameter families ($\\mathfrak{g}_{k,\\alpha}$ for $k=7,\\dots,11$). The analysis utilizes internal commutation boundaries and constructs non-linear, non-additive transformations on specialized parametric coordinate subspaces. We prove that for the structures $\\mathfrak{m}_0(n)$ and $\\mathfrak{m}_{0,1}(n)$, the space of local automorphisms strictly encapsulates the group of automorphisms, confirming the existence of pure local automorphisms. Conversely, for $\\mathfrak{m}_2(n)$, $W^+(n)$, $\\mathfrak{m}_{0,2}(n)$, $\\mathfrak{m}_{0,3}(n)$, and $\\mathfrak{g}_{k,\\alpha}$, the local automorphisms are restricted to an invertible lower triangular matrix form due to rigid power constraints. Furthermore, the sequences $\\mathfrak{m}_{0,1}(n)$, $\\mathfrak{m}_{0,2}(n)$, and $\\mathfrak{m}_{0,3}(n)$ are shown to possess pure non-linear 2-local automorphismsThe remaining investigated structures adhere strictly to linearity, forcing every 2-local automorphism to coincide with a genuine automorphism. This establishes a clear boundary between structures allowing non-linear transformations and those maintaining strict linearity within filiform Lie algebras of maximum length.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AG"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Cohomological dimension of a Lie algebra homomorphism",
+    "pubDate": "2026-07-28 04:00:00",
+    "link": "https://arxiv.org/abs/2607.23378",
+    "guid": "oai:arXiv.org:2607.23378v1",
+    "author": "Nursultan Kuanyshov",
+    "thumbnail": "",
+    "description": "arXiv:2607.23378v1 Announce Type: new \nAbstract: We introduce the notions of the cohomological dimension and the homological dimension of Lie algebra homomorphisms, extending the corresponding invariants for group homomorphisms. We establish their basic properties, including their behavior under monomorphisms, epimorphisms, pullbacks, composition, and restriction to the image. We also obtain a chain homotopy characterization of the cohomological dimension and compute these invariants explicitly for homomorphisms between free and abelian Lie algebras.",
+    "content": "arXiv:2607.23378v1 Announce Type: new \nAbstract: We introduce the notions of the cohomological dimension and the homological dimension of Lie algebra homomorphisms, extending the corresponding invariants for group homomorphisms. We establish their basic properties, including their behavior under monomorphisms, epimorphisms, pullbacks, composition, and restriction to the image. We also obtain a chain homotopy characterization of the cohomological dimension and compute these invariants explicitly for homomorphisms between free and abelian Lie algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "General Polynomials and Eigenvalues Over Cayley--Dickson Algebras",
+    "pubDate": "2026-07-28 04:00:00",
+    "link": "https://arxiv.org/abs/2607.23613",
+    "guid": "oai:arXiv.org:2607.23613v1",
+    "author": "Adam Chapman, Ilan Levin, Solomon Vishkautsan",
+    "thumbnail": "",
+    "description": "arXiv:2607.23613v1 Announce Type: new \nAbstract: In this paper, we provide an explicit method for determining the zero set of monic quadratic general polynomials over Cayley--Dickson algebras with any base field of characteristic not equal to $2$. For the special case of locally-complex Cayley--Dickson algebras over the reals, we prove that every such polynomial always has a root. We prove the existence of right eigenvalues for any $2 \\times 2$ matrix over Cayley's Octonions (the real octonion division algebra), and our root-finding method allows the computation of some of the right eigenvalues.",
+    "content": "arXiv:2607.23613v1 Announce Type: new \nAbstract: In this paper, we provide an explicit method for determining the zero set of monic quadratic general polynomials over Cayley--Dickson algebras with any base field of characteristic not equal to $2$. For the special case of locally-complex Cayley--Dickson algebras over the reals, we prove that every such polynomial always has a root. We prove the existence of right eigenvalues for any $2 \\times 2$ matrix over Cayley's Octonions (the real octonion division algebra), and our root-finding method allows the computation of some of the right eigenvalues.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A canonical rigid direct-system representation of finite local-unit-aligned totally ordered monoids",
+    "pubDate": "2026-07-28 04:00:00",
+    "link": "https://arxiv.org/abs/2607.23801",
+    "guid": "oai:arXiv.org:2607.23801v1",
+    "author": "S\\'andor Jenei",
+    "thumbnail": "",
+    "description": "arXiv:2607.23801v1 Announce Type: new \nAbstract: We study finite local-unit-aligned totally ordered monoids, that is, finite totally ordered monoids in which each element has coinciding greatest right and left local units. We prove that every such monoid admits a canonical rigid chain-indexed direct-system representation, and conversely that every rigid system of the corresponding kind reconstructs a finite local-unit-aligned totally ordered monoid. The representation is induced intrinsically by the local-unit map $\\tau$, through the canonical stratification of the positive idempotent skeleton into $\\tau$-multiplication-coherent blocks. More precisely, from $\\tau$ we construct component monoids and transition maps forming a strictly compatible finite chain-indexed direct system from which both the ambient order and the ambient multiplication are recovered. In the finite case, strict compatibility forces every proper transition map to be unit-constant; this rigidity makes the canonical components $\\tau$-multiplication-cohesive and yields a Clifford-type ordinal-sum-like reconstruction theorem for finite local-unit-aligned totally ordered monoids.",
+    "content": "arXiv:2607.23801v1 Announce Type: new \nAbstract: We study finite local-unit-aligned totally ordered monoids, that is, finite totally ordered monoids in which each element has coinciding greatest right and left local units. We prove that every such monoid admits a canonical rigid chain-indexed direct-system representation, and conversely that every rigid system of the corresponding kind reconstructs a finite local-unit-aligned totally ordered monoid. The representation is induced intrinsically by the local-unit map $\\tau$, through the canonical stratification of the positive idempotent skeleton into $\\tau$-multiplication-coherent blocks. More precisely, from $\\tau$ we construct component monoids and transition maps forming a strictly compatible finite chain-indexed direct system from which both the ambient order and the ambient multiplication are recovered. In the finite case, strict compatibility forces every proper transition map to be unit-constant; this rigidity makes the canonical components $\\tau$-multiplication-cohesive and yields a Clifford-type ordinal-sum-like reconstruction theorem for finite local-unit-aligned totally ordered monoids.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Residual coherentization of balanced residuated partially ordered semigroups",
+    "pubDate": "2026-07-28 04:00:00",
+    "link": "https://arxiv.org/abs/2607.24689",
+    "guid": "oai:arXiv.org:2607.24689v1",
+    "author": "S\\'andor Jenei",
+    "thumbnail": "",
+    "description": "arXiv:2607.24689v1 Announce Type: new \nAbstract: This paper develops a canonical decomposition--reconstruction theory for balanced residuated partially ordered semigroups. The starting point is the intrinsic local-unit map $\\tau(x)=x\\backslash x=x/x, $ whose values are positive idempotents. The primitive fibres of this map are generally too fine to be compatible with multiplication and residuals: the local units of $xy$, $x\\backslash y$, and $x/y$ need not be determined by the local units of $x$ and $y$. We therefore construct the residual coherentization $\\mathcal C_{\\mathrm r}(\\mathbf M)$, the finest quotient of the positive-idempotent skeleton on which these three local-unit outputs are well defined at quotient level. The blocks of $\\mathcal C_{\\mathrm r}(\\mathbf M)$ define the canonical components, while the quotient skeleton records the target component for products and residuals. Together with the component algebras, the product-shadow maps $x\\mapsto xq$, and the residual-shadow maps $y\\mapsto y/q$, these data reconstruct the original algebra. The final part compares this construction with subsemilattice-steady visibility decompositions. At every finite stage of the induced iterative decompositions, the partition obtained from residual coherentization is finer than the partition obtained from any subsemilattice-steady visibility choice. Equivalently, each component produced by the subsemilattice-steady construction is a union of residual-coherent components.",
+    "content": "arXiv:2607.24689v1 Announce Type: new \nAbstract: This paper develops a canonical decomposition--reconstruction theory for balanced residuated partially ordered semigroups. The starting point is the intrinsic local-unit map $\\tau(x)=x\\backslash x=x/x, $ whose values are positive idempotents. The primitive fibres of this map are generally too fine to be compatible with multiplication and residuals: the local units of $xy$, $x\\backslash y$, and $x/y$ need not be determined by the local units of $x$ and $y$. We therefore construct the residual coherentization $\\mathcal C_{\\mathrm r}(\\mathbf M)$, the finest quotient of the positive-idempotent skeleton on which these three local-unit outputs are well defined at quotient level. The blocks of $\\mathcal C_{\\mathrm r}(\\mathbf M)$ define the canonical components, while the quotient skeleton records the target component for products and residuals. Together with the component algebras, the product-shadow maps $x\\mapsto xq$, and the residual-shadow maps $y\\mapsto y/q$, these data reconstruct the original algebra. The final part compares this construction with subsemilattice-steady visibility decompositions. At every finite stage of the induced iterative decompositions, the partition obtained from residual coherentization is finer than the partition obtained from any subsemilattice-steady visibility choice. Equivalently, each component produced by the subsemilattice-steady construction is a union of residual-coherent components.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GR",
+      "math.LO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A Counterexample to Byott's Conjecture for Finite Skew Braces",
+    "pubDate": "2026-07-28 04:00:00",
+    "link": "https://arxiv.org/abs/2607.22795",
+    "guid": "oai:arXiv.org:2607.22795v1",
+    "author": "Massimiliano Di Matteo, Maria Ferrara, Marco Trombetti",
+    "thumbnail": "",
+    "description": "arXiv:2607.22795v1 Announce Type: cross \nAbstract: We construct a finite skew brace with soluble additive group and insoluble multiplicative group. The multiplicative group has a quotient isomorphic to $\\PSL_2(7)$, and hence the example disproves Byott's conjecture.",
+    "content": "arXiv:2607.22795v1 Announce Type: cross \nAbstract: We construct a finite skew brace with soluble additive group and insoluble multiplicative group. The multiplicative group has a quotient isomorphic to $\\PSL_2(7)$, and hence the example disproves Byott's conjecture.",
+    "enclosure": {},
+    "categories": [
+      "math.GR",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The factorization system of a radical on a homological category",
+    "pubDate": "2026-07-28 04:00:00",
+    "link": "https://arxiv.org/abs/2607.23105",
+    "guid": "oai:arXiv.org:2607.23105v1",
+    "author": "Dali Zangurashvili",
+    "thumbnail": "",
+    "description": "arXiv:2607.23105v1 Announce Type: cross \nAbstract: Employing the techniques of transporting a factorization system from one category to another via an adjunction, developed in our earlier papers, a factorization system is related to a radical on a homological category.",
+    "content": "arXiv:2607.23105v1 Announce Type: cross \nAbstract: Employing the techniques of transporting a factorization system from one category to another via an adjunction, developed in our earlier papers, a factorization system is related to a radical on a homological category.",
+    "enclosure": {},
+    "categories": [
+      "math.CT",
+      "math.GN",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Categorical Algebra of Atomic Monoids: Presentability, Regularity, and Pretorsion Theories",
+    "pubDate": "2026-07-28 04:00:00",
+    "link": "https://arxiv.org/abs/2607.23144",
+    "guid": "oai:arXiv.org:2607.23144v1",
+    "author": "Federico Campanini, Laura Cossu",
+    "thumbnail": "",
+    "description": "arXiv:2607.23144v1 Announce Type: cross \nAbstract: We study the category $\\mathsf{AtoMon}$ of atomic monoids and atom-preserving homomorphisms. We prove that $\\mathsf{AtoMon}$ is locally finitely presentable by exhibiting a strong generator consisting of compact objects. We show that $\\mathsf{AtoMon}$ admits (regular epi, mono)-factorizations but that it is not a regular category: we construct a regular epimorphism which is not pullback-stable. We also establish adjunctions for the group of units and explicitly construct the ``cofree atomic monoid'' over an arbitrary monoid. Finally, we exhibit a way to lift torsion theories of $\\mathsf{Grp}$ to pretorsion theories of $\\mathsf{AtoMon}$ and extend this construction to a more general setting.",
+    "content": "arXiv:2607.23144v1 Announce Type: cross \nAbstract: We study the category $\\mathsf{AtoMon}$ of atomic monoids and atom-preserving homomorphisms. We prove that $\\mathsf{AtoMon}$ is locally finitely presentable by exhibiting a strong generator consisting of compact objects. We show that $\\mathsf{AtoMon}$ admits (regular epi, mono)-factorizations but that it is not a regular category: we construct a regular epimorphism which is not pullback-stable. We also establish adjunctions for the group of units and explicitly construct the ``cofree atomic monoid'' over an arbitrary monoid. Finally, we exhibit a way to lift torsion theories of $\\mathsf{Grp}$ to pretorsion theories of $\\mathsf{AtoMon}$ and extend this construction to a more general setting.",
+    "enclosure": {},
+    "categories": [
+      "math.CT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Level Quotients of Free Metabelian Lie Algebras: Inverse Systems and Graded Deformations",
     "pubDate": "2026-07-27 04:00:00",
     "link": "https://arxiv.org/abs/2607.22116",
