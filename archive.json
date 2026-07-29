@@ -1,5 +1,156 @@
 [
   {
+    "title": "Positive definite matrices and involutions: the manners of their infinite cousins",
+    "pubDate": "2026-07-29 04:00:00",
+    "link": "https://arxiv.org/abs/2607.25134",
+    "guid": "oai:arXiv.org:2607.25134v1",
+    "author": "Pere Ara, Ken Goodearl, Kevin C. O'Meara",
+    "thumbnail": "",
+    "description": "arXiv:2607.25134v1 Announce Type: new \nAbstract: Matrices and involutions in/on the algebras $B(\\mathbb{R})$ and $B(\\mathbb{C})$ of real (resp., complex) row- and column-finite $\\omega\\times\\omega$ matrices are studied. It is proved that any positive definite $\\mathbb{R}$-algebra involution on $B(\\mathbb{R})$ (resp., any positive definite conjugate-linear involution on $B(\\mathbb{C})$) is given by conjugating the transpose involution (resp., the conjugate-transpose involution) with a positive definite matrix from the algebra in question. All positive definite matrices in these algebras have Cholesky factorizations within the algebra. Examples are constructed to show that such positive definite matrices need not have any eigenvalues for their canonical action on column-finite column vectors, and they need not have any square roots in $B(\\mathbb{C})$.",
+    "content": "arXiv:2607.25134v1 Announce Type: new \nAbstract: Matrices and involutions in/on the algebras $B(\\mathbb{R})$ and $B(\\mathbb{C})$ of real (resp., complex) row- and column-finite $\\omega\\times\\omega$ matrices are studied. It is proved that any positive definite $\\mathbb{R}$-algebra involution on $B(\\mathbb{R})$ (resp., any positive definite conjugate-linear involution on $B(\\mathbb{C})$) is given by conjugating the transpose involution (resp., the conjugate-transpose involution) with a positive definite matrix from the algebra in question. All positive definite matrices in these algebras have Cholesky factorizations within the algebra. Examples are constructed to show that such positive definite matrices need not have any eigenvalues for their canonical action on column-finite column vectors, and they need not have any square roots in $B(\\mathbb{C})$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Closure operators on semilattice-ordered semigroups and spectrality of induced operations",
+    "pubDate": "2026-07-29 04:00:00",
+    "link": "https://arxiv.org/abs/2607.25674",
+    "guid": "oai:arXiv.org:2607.25674v1",
+    "author": "Damian Siejwa",
+    "thumbnail": "",
+    "description": "arXiv:2607.25674v1 Announce Type: new \nAbstract: Let $S$ be a semilattice-ordered semigroup and let $\\mathrm{cl}$ be a closure operator on $S$. We consider the space $$X := \\{A \\in \\mathcal{P}(S) \\mid A^\\mathrm{cl} = A\\}$$ of all $\\mathrm{cl}$-closed subsets of $S$, endowed with the subspace topology induced by the hull-kernel topology on $\\mathcal{P}(S)$. We prove that $X$ is a spectral space and a retrocompact subset of $\\mathcal{P}(S)$ if and only if $\\mathrm{cl}$ is algebraic. Assuming that $\\mathrm{cl}$ is algebraic, we then investigate the operation $$A \\star B := (AB)^\\mathrm{cl}$$ induced on $X$ by the multiplication on $S$. Our main result provides several equivalent characterizations of spectrality of the map $\\star~:~X~\\times X~\\rightarrow~X$. In addition, we obtain a sufficient condition for spectrality of $\\star$ from a well-quasi-order condition on finitely generated $\\mathrm{cl}$-closed subsets. Finally, we introduce three closure operators naturally associated with semilattice-ordered semigroups, study their algebraic and multiplicative properties, and apply the general results to the corresponding spaces and induced operations.",
+    "content": "arXiv:2607.25674v1 Announce Type: new \nAbstract: Let $S$ be a semilattice-ordered semigroup and let $\\mathrm{cl}$ be a closure operator on $S$. We consider the space $$X := \\{A \\in \\mathcal{P}(S) \\mid A^\\mathrm{cl} = A\\}$$ of all $\\mathrm{cl}$-closed subsets of $S$, endowed with the subspace topology induced by the hull-kernel topology on $\\mathcal{P}(S)$. We prove that $X$ is a spectral space and a retrocompact subset of $\\mathcal{P}(S)$ if and only if $\\mathrm{cl}$ is algebraic. Assuming that $\\mathrm{cl}$ is algebraic, we then investigate the operation $$A \\star B := (AB)^\\mathrm{cl}$$ induced on $X$ by the multiplication on $S$. Our main result provides several equivalent characterizations of spectrality of the map $\\star~:~X~\\times X~\\rightarrow~X$. In addition, we obtain a sufficient condition for spectrality of $\\star$ from a well-quasi-order condition on finitely generated $\\mathrm{cl}$-closed subsets. Finally, we introduce three closure operators naturally associated with semilattice-ordered semigroups, study their algebraic and multiplicative properties, and apply the general results to the corresponding spaces and induced operations.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GN"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Iterate Wronskians over $\\mathbb{R}^d$ as $N$-ary brackets on $\\mathbb{R}[x^1,\\ldots,x^d]$: the $N$-bonacci numbers bound the highest total degrees",
+    "pubDate": "2026-07-29 04:00:00",
+    "link": "https://arxiv.org/abs/2607.26039",
+    "guid": "oai:arXiv.org:2607.26039v1",
+    "author": "Markuss G. Kenins, Arthemy V. Kiselev",
+    "thumbnail": "",
+    "description": "arXiv:2607.26039v1 Announce Type: new \nAbstract: For the algebra $\\mathbb{R}[x^1,\\ldots,x^d]$ of polynomials in $d\\geqslant 1$ variables, regard the complete generalised Wronskian $W_d^k$ of differential order $k\\geqslant 1$ over $\\mathbb{R}^d$ as the $N=\\tbinom{d+k}{d}$-ary Lie bracket. Take an $N$-tuple of polynomials, calculate their Wronskian, and keep re-using the newly-created polynomials to produce more of them. The problem is: how fast do their maximal total degrees grow with the number $n$ of iterations of the bracket? Here enter the $N$-bonacci numbers defined by the recurrence $F^{(N)}_n=F^{(N)}_{n-1}+\\cdots+F^{(N)}_{n-N}\\in \\mathbb{N}$. We prove that for any choice of the initial arguments, the sequence of highest total degrees $d^{(N)}_n \\geqslant 0$ grows (if at all) asymptotically no faster than the $n$th $N$-bonacci number: $\\lim_{n\\to+\\infty} (d^{(N)}_n/F^{(N)}_n )",
+    "content": "arXiv:2607.26039v1 Announce Type: new \nAbstract: For the algebra $\\mathbb{R}[x^1,\\ldots,x^d]$ of polynomials in $d\\geqslant 1$ variables, regard the complete generalised Wronskian $W_d^k$ of differential order $k\\geqslant 1$ over $\\mathbb{R}^d$ as the $N=\\tbinom{d+k}{d}$-ary Lie bracket. Take an $N$-tuple of polynomials, calculate their Wronskian, and keep re-using the newly-created polynomials to produce more of them. The problem is: how fast do their maximal total degrees grow with the number $n$ of iterations of the bracket? Here enter the $N$-bonacci numbers defined by the recurrence $F^{(N)}_n=F^{(N)}_{n-1}+\\cdots+F^{(N)}_{n-N}\\in \\mathbb{N}$. We prove that for any choice of the initial arguments, the sequence of highest total degrees $d^{(N)}_n \\geqslant 0$ grows (if at all) asymptotically no faster than the $n$th $N$-bonacci number: $\\lim_{n\\to+\\infty} (d^{(N)}_n/F^{(N)}_n )",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math-ph",
+      "math.CO",
+      "math.MP",
+      "math.NT",
+      "math.QA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Hyperstructures as complete atomic Boolean algebras",
+    "pubDate": "2026-07-29 04:00:00",
+    "link": "https://arxiv.org/abs/2607.25165",
+    "guid": "oai:arXiv.org:2607.25165v1",
+    "author": "Ariel E. Rosenfield",
+    "thumbnail": "",
+    "description": "arXiv:2607.25165v1 Announce Type: cross \nAbstract: We show that several categories of hyperstructures, including the mosaics of Nakamura and Reyes and the hypergroups of Marty, are realizable as categories of objects with extra structure within the category of complete atomic Boolean algebras (CABAs).",
+    "content": "arXiv:2607.25165v1 Announce Type: cross \nAbstract: We show that several categories of hyperstructures, including the mosaics of Nakamura and Reyes and the hypergroups of Marty, are realizable as categories of objects with extra structure within the category of complete atomic Boolean algebras (CABAs).",
+    "enclosure": {},
+    "categories": [
+      "math.CT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Nijenhuis modules and the ring of Nijenhuis operators",
+    "pubDate": "2026-07-29 04:00:00",
+    "link": "https://arxiv.org/abs/2607.25246",
+    "guid": "oai:arXiv.org:2607.25246v1",
+    "author": "Shilong Zhang, Xiao-Song Peng, Liuqing Dong",
+    "thumbnail": "",
+    "description": "arXiv:2607.25246v1 Announce Type: cross \nAbstract: In this paper, we study the Nijenhuis modules of Nijenhuis algebras. The concepts of free, projective, injective, and flat Nijenhuis modules are introduced, and a construction of free Nijenhuis modules is given. The ring of Nijenhuis operators is introduced, and the relationship between Nijenhuis modules and modules over this ring is established by proving an isomorphism of the corresponding categories. Finally, it is proved that the category of Nijenhuis modules has enough projective, injective, and flat objects.",
+    "content": "arXiv:2607.25246v1 Announce Type: cross \nAbstract: In this paper, we study the Nijenhuis modules of Nijenhuis algebras. The concepts of free, projective, injective, and flat Nijenhuis modules are introduced, and a construction of free Nijenhuis modules is given. The ring of Nijenhuis operators is introduced, and the relationship between Nijenhuis modules and modules over this ring is established by proving an isomorphism of the corresponding categories. Finally, it is proved that the category of Nijenhuis modules has enough projective, injective, and flat objects.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Protomodularity of cocommutative Hopf monoids in duoidal categories and quasitriangular Hopf algebras",
+    "pubDate": "2026-07-29 04:00:00",
+    "link": "https://arxiv.org/abs/2607.25512",
+    "guid": "oai:arXiv.org:2607.25512v1",
+    "author": "Alessandro Ardizzoni, Lucrezia Bottegoni, Alan Cigoli, Andrea Sciandra",
+    "thumbnail": "",
+    "description": "arXiv:2607.25512v1 Announce Type: cross \nAbstract: In this work, we extend the protomodularity of the category of cocommutative Hopf algebras to the quasitriangular setting. Every quasitriangular Hopf algebra admits a minimal quasitriangular Hopf subalgebra and, as we show, can be regarded as a cocommutative bimonoid in the tensor-braided duoidal category of bimodules over it. This leads us to investigate protomodularity in the broader context of Hopf monoids in duoidal categories. To this end, we adopt a slight modification of B\\\"ohm's notion of antipode associated with a reversion, further refining an earlier one due to B\\\"ohm-Lack. This framework allows us to study Hopf monoids in this setting, Galois and co-Galois maps, and the factorization of Hopf monoids. Using these tools, we prove a factorization of points, the Split Short Five Lemma, and the existence of pullbacks of split epimorphisms along arbitrary morphisms in the category of cocommutative Hopf monoids with monic unit in any tensor-braided duoidal category with a reversion; hence this category is protomodular. As applications, we recover the protomodularity of cocommutative Hopf algebras in symmetric monoidal categories under mild assumptions, and we obtain that of the coslice category of quasitriangular (resp. triangular) Hopf algebras under a fixed subobject; in the triangular case, this can be traced back to a category of generalized internal groups, introduced in the present work. When the fixed subobject is minimal, we infer the protomodularity of the category of quasitriangular Hopf algebras whose minimal quasitriangular Hopf subalgebra is isomorphic to the fixed subobject, which we interpret as the protomodularity of an essential fibre of a functor. As a byproduct, our results extend the double cross product of cocommutative Hopf algebras to the quasitriangular setting.",
+    "content": "arXiv:2607.25512v1 Announce Type: cross \nAbstract: In this work, we extend the protomodularity of the category of cocommutative Hopf algebras to the quasitriangular setting. Every quasitriangular Hopf algebra admits a minimal quasitriangular Hopf subalgebra and, as we show, can be regarded as a cocommutative bimonoid in the tensor-braided duoidal category of bimodules over it. This leads us to investigate protomodularity in the broader context of Hopf monoids in duoidal categories. To this end, we adopt a slight modification of B\\\"ohm's notion of antipode associated with a reversion, further refining an earlier one due to B\\\"ohm-Lack. This framework allows us to study Hopf monoids in this setting, Galois and co-Galois maps, and the factorization of Hopf monoids. Using these tools, we prove a factorization of points, the Split Short Five Lemma, and the existence of pullbacks of split epimorphisms along arbitrary morphisms in the category of cocommutative Hopf monoids with monic unit in any tensor-braided duoidal category with a reversion; hence this category is protomodular. As applications, we recover the protomodularity of cocommutative Hopf algebras in symmetric monoidal categories under mild assumptions, and we obtain that of the coslice category of quasitriangular (resp. triangular) Hopf algebras under a fixed subobject; in the triangular case, this can be traced back to a category of generalized internal groups, introduced in the present work. When the fixed subobject is minimal, we infer the protomodularity of the category of quasitriangular Hopf algebras whose minimal quasitriangular Hopf subalgebra is isomorphic to the fixed subobject, which we interpret as the protomodularity of an essential fibre of a functor. As a byproduct, our results extend the double cross product of cocommutative Hopf algebras to the quasitriangular setting.",
+    "enclosure": {},
+    "categories": [
+      "math.CT",
+      "math.QA",
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On the flatness of the Bergman space as a module over the Hardy algebra",
+    "pubDate": "2026-07-29 04:00:00",
+    "link": "https://arxiv.org/abs/2607.25649",
+    "guid": "oai:arXiv.org:2607.25649v1",
+    "author": "Amol Sasane",
+    "thumbnail": "",
+    "description": "arXiv:2607.25649v1 Announce Type: cross \nAbstract: Let $A^2$ be the Bergman space of the open unit disc $\\mathbb{D}$ in the complex plane consisting of holomorphic functions that are square integrable with respect to the area measure in the disc, and $H^\\infty$ be the Hardy algebra of bounded and holomorphic functions on $\\mathbb{D}$. With pointwise operations, $A^2$ is an $H^\\infty$-module. It is shown that the $H^\\infty$-module $A^2$ is not flat. It is also shown that there exists a maximal ideal $\\mathfrak{m}$ in $H^\\infty$ such that $\\mathfrak{m}A^2=A^2$.",
+    "content": "arXiv:2607.25649v1 Announce Type: cross \nAbstract: Let $A^2$ be the Bergman space of the open unit disc $\\mathbb{D}$ in the complex plane consisting of holomorphic functions that are square integrable with respect to the area measure in the disc, and $H^\\infty$ be the Hardy algebra of bounded and holomorphic functions on $\\mathbb{D}$. With pointwise operations, $A^2$ is an $H^\\infty$-module. It is shown that the $H^\\infty$-module $A^2$ is not flat. It is also shown that there exists a maximal ideal $\\mathfrak{m}$ in $H^\\infty$ such that $\\mathfrak{m}A^2=A^2$.",
+    "enclosure": {},
+    "categories": [
+      "math.CV",
+      "math.AC",
+      "math.FA",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Hochschild Cohomology of the Symmetric Square of an Annulus with Stops",
+    "pubDate": "2026-07-29 04:00:00",
+    "link": "https://arxiv.org/abs/2607.25944",
+    "guid": "oai:arXiv.org:2607.25944v1",
+    "author": "Xingyuan Lu, Zhengfang Wang",
+    "thumbnail": "",
+    "description": "arXiv:2607.25944v1 Announce Type: cross \nAbstract: We compute the Hochschild cohomology of the partially wrapped Fukaya category of the symmetric square of an annulus with stops. Using an explicit generating set in this category, we give a description of its dg endomorphism algebra $\\widetilde{\\mathcal{A}}_{n_1,n_2}$ via a quiver with relations. We show that when one boundary component has a single stop, the dg algebra is formal; however, when both boundaries contain at least two stops, it is not formal, and its minimal $A_\\infty$-model carries a nontrivial operation $m_3$. This allows us to compute its Hochschild cohomology via reduction systems and spectral sequences, and to construct a family of dg deformations associated to the resulting Hochschild cocycles.",
+    "content": "arXiv:2607.25944v1 Announce Type: cross \nAbstract: We compute the Hochschild cohomology of the partially wrapped Fukaya category of the symmetric square of an annulus with stops. Using an explicit generating set in this category, we give a description of its dg endomorphism algebra $\\widetilde{\\mathcal{A}}_{n_1,n_2}$ via a quiver with relations. We show that when one boundary component has a single stop, the dg algebra is formal; however, when both boundaries contain at least two stops, it is not formal, and its minimal $A_\\infty$-model carries a nontrivial operation $m_3$. This allows us to compute its Hochschild cohomology via reduction systems and spectral sequences, and to construct a family of dg deformations associated to the resulting Hochschild cocycles.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA",
+      "math.SG"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On the structure of finite Novikov conformal algebras",
+    "pubDate": "2026-07-29 04:00:00",
+    "link": "https://arxiv.org/abs/2606.15087",
+    "guid": "oai:arXiv.org:2606.15087v2",
+    "author": "Pavel Kolesnikov, Jiefeng Liu",
+    "thumbnail": "",
+    "description": "arXiv:2606.15087v2 Announce Type: replace \nAbstract: We classify finite simple Novikov conformal algebras over an algebraically closed field of characteristic zero. The classification consists of the current conformal algebra over the base field and a one-parameter list of Virasoro-like conformal algebras. A semisimple finite Novikov conformal algebra is proved to be a direct sum of simple ones. We also describe deformations and central extensions of finite simple Novikov conformal algebras.",
+    "content": "arXiv:2606.15087v2 Announce Type: replace \nAbstract: We classify finite simple Novikov conformal algebras over an algebraically closed field of characteristic zero. The classification consists of the current conformal algebra over the base field and a one-parameter list of Virasoro-like conformal algebras. A semisimple finite Novikov conformal algebra is proved to be a direct sum of simple ones. We also describe deformations and central extensions of finite simple Novikov conformal algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Non-isomorphism of rings of integer-coefficient holomorphic functions on disks of varying radius",
     "pubDate": "2026-07-28 04:00:00",
     "link": "https://arxiv.org/abs/2607.22912",
