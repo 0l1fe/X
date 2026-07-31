@@ -1,5 +1,162 @@
 [
   {
+    "title": "A Bounded Determinantal Ratio for Positive Definite Matrices",
+    "pubDate": "2026-07-31 04:00:00",
+    "link": "https://arxiv.org/abs/2607.27216",
+    "guid": "oai:arXiv.org:2607.27216v1",
+    "author": "Hristo Sendov",
+    "thumbnail": "",
+    "description": "arXiv:2607.27216v1 Announce Type: new \nAbstract: Bounded ratios between products of minors of a positive definite matrix have a long history. Starting with Hadamard's inequality which bounds from above the determinant by the product of its diagonal entries and progressing through its generalizations the Fischer's inequality and the Koteljanskii's inequality. Finding new bounded determinantal ratios is a difficult task and finding their supremum is even more difficult. In 2008, Hall and Johnson showed that the ratio $$ \\frac{\\det A[\\{1,2,4\\}] \\det A[\\{1,3,4\\}] \\det A[\\{2,3\\}] \\det A[\\{1\\}] \\det A[\\{4\\}]}{\\det A[\\{1,2\\}] \\det A[ \\{1,3\\}] \\det A[\\{1,4\\}] \\det A[\\{2,4\\}] \\det A[\\{3,4\\}]} $$ is bounded above by $4$. They conjectured that the supremum of the ratio, over all $4 \\times 4$ positive definite matrices $A$, is $27/16$. Here, $A[\\alpha]$ denotes the principal minor of $A$ corresponding to the rows and columns indexed by $\\alpha \\subseteq \\{1,2,3,4\\}$. In this paper we confirm that the supremum of the ratio is $27/16$ and exhibit a sequence of matrices that approaches it.",
+    "content": "arXiv:2607.27216v1 Announce Type: new \nAbstract: Bounded ratios between products of minors of a positive definite matrix have a long history. Starting with Hadamard's inequality which bounds from above the determinant by the product of its diagonal entries and progressing through its generalizations the Fischer's inequality and the Koteljanskii's inequality. Finding new bounded determinantal ratios is a difficult task and finding their supremum is even more difficult. In 2008, Hall and Johnson showed that the ratio $$ \\frac{\\det A[\\{1,2,4\\}] \\det A[\\{1,3,4\\}] \\det A[\\{2,3\\}] \\det A[\\{1\\}] \\det A[\\{4\\}]}{\\det A[\\{1,2\\}] \\det A[ \\{1,3\\}] \\det A[\\{1,4\\}] \\det A[\\{2,4\\}] \\det A[\\{3,4\\}]} $$ is bounded above by $4$. They conjectured that the supremum of the ratio, over all $4 \\times 4$ positive definite matrices $A$, is $27/16$. Here, $A[\\alpha]$ denotes the principal minor of $A$ corresponding to the rows and columns indexed by $\\alpha \\subseteq \\{1,2,3,4\\}$. In this paper we confirm that the supremum of the ratio is $27/16$ and exhibit a sequence of matrices that approaches it.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.SP"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On equivalence classes of dissipative Hamiltonian pencils",
+    "pubDate": "2026-07-31 04:00:00",
+    "link": "https://arxiv.org/abs/2607.27218",
+    "guid": "oai:arXiv.org:2607.27218v1",
+    "author": "Maria Dronka",
+    "thumbnail": "",
+    "description": "arXiv:2607.27218v1 Announce Type: new \nAbstract: We study matrix pencils of the form $\\lambda E - (J-R)Q$, where $Q^*E = E^*Q \\geq 0$, $J^* = -J$, $R^* = R \\geq 0$, and $\\lambda E - Q$ is regular, in the framework of Pokrzywa's ordering of strict equivalence orbits. We characterise the maximal elements, analyse some properties of the orbit closures, and derive a restriction on possible degenerations when $Q = I$. We also consider the case where $\\lambda E - Q$ may be singular, which naturally arises in the study of orbit closures, and obtain a partial result on the Kronecker canonical form. The theory is illustrated by numerous examples.",
+    "content": "arXiv:2607.27218v1 Announce Type: new \nAbstract: We study matrix pencils of the form $\\lambda E - (J-R)Q$, where $Q^*E = E^*Q \\geq 0$, $J^* = -J$, $R^* = R \\geq 0$, and $\\lambda E - Q$ is regular, in the framework of Pokrzywa's ordering of strict equivalence orbits. We characterise the maximal elements, analyse some properties of the orbit closures, and derive a restriction on possible degenerations when $Q = I$. We also consider the case where $\\lambda E - Q$ may be singular, which naturally arises in the study of orbit closures, and obtain a partial result on the Kronecker canonical form. The theory is illustrated by numerous examples.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The Type III realisation conjecture of Kirkland and \\v{S}migoc",
+    "pubDate": "2026-07-31 04:00:00",
+    "link": "https://arxiv.org/abs/2607.27219",
+    "guid": "oai:arXiv.org:2607.27219v1",
+    "author": "Brecht Verbeken, Vincent Ginis",
+    "thumbnail": "",
+    "description": "arXiv:2607.27219v1 Announce Type: new \nAbstract: Kirkland and \\v{S}migoc constructed a family of stochastic matrices realising the Type III boundary polynomials in the Karpelevi\\v{c} region and conjectured that, conversely, every stochastic realisation of such a polynomial must come from their construction. We prove this conjecture for the full nonzero parameter range $0",
+    "content": "arXiv:2607.27219v1 Announce Type: new \nAbstract: Kirkland and \\v{S}migoc constructed a family of stochastic matrices realising the Type III boundary polynomials in the Karpelevi\\v{c} region and conjectured that, conversely, every stochastic realisation of such a polynomial must come from their construction. We prove this conjecture for the full nonzero parameter range $0",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.PR",
+      "math.SP"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Hidden decay in the inverses of acyclic matrices",
+    "pubDate": "2026-07-31 04:00:00",
+    "link": "https://arxiv.org/abs/2607.27220",
+    "guid": "oai:arXiv.org:2607.27220v1",
+    "author": "Reinhard Nabben",
+    "thumbnail": "",
+    "description": "arXiv:2607.27220v1 Announce Type: new \nAbstract: It is well-known that the absolute values of the entries of the inverse of a diagonally dominant tridiagonal matrix decay away from the diagonal. Moreover, lower and upper bounds for these absolute values are known for a long time. The graph of a tridiagonal matrix can be viewed as a line. Thus tridiagonal matrices are special acyclic matrices, i.e. matrices whose graph is a tree. In this paper we explore the structure of inverses of acyclic matrices. However, there is no strict decay from the diagonal in the inverses of diagonally dominant acyclic matrices. The decay is somehow hidden. Here we identify this decay which can be described nicely. Moreover we give bounds for the absolute value of the entries of the inverses of acyclic matrices. All of our results generalize results for tridiagonal matrices.",
+    "content": "arXiv:2607.27220v1 Announce Type: new \nAbstract: It is well-known that the absolute values of the entries of the inverse of a diagonally dominant tridiagonal matrix decay away from the diagonal. Moreover, lower and upper bounds for these absolute values are known for a long time. The graph of a tridiagonal matrix can be viewed as a line. Thus tridiagonal matrices are special acyclic matrices, i.e. matrices whose graph is a tree. In this paper we explore the structure of inverses of acyclic matrices. However, there is no strict decay from the diagonal in the inverses of diagonally dominant acyclic matrices. The decay is somehow hidden. Here we identify this decay which can be described nicely. Moreover we give bounds for the absolute value of the entries of the inverses of acyclic matrices. All of our results generalize results for tridiagonal matrices.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Inverse acyclic Z-matrices, matrices of tree structure and shifted generalized ultrametric matrices",
+    "pubDate": "2026-07-31 04:00:00",
+    "link": "https://arxiv.org/abs/2607.27221",
+    "guid": "oai:arXiv.org:2607.27221v1",
+    "author": "Reinhard Nabben",
+    "thumbnail": "",
+    "description": "arXiv:2607.27221v1 Announce Type: new \nAbstract: Inverses of acyclic or treediagonal matrices are nicely characterized in the landmarked paper by Klein \\cite{KLe82}. But also in \\cite{Nab01} a characterization of these inverses is given which is related to the structure of inverses of tridiagonal matrices. Here we use this characterization to determine and construct matrices whose inverses are acyclic $Z$-matrices. Moreover, we establish relations between several classes of matrices, namely the classes of $Z$-matrices, inverse $Z$-matrices, ultrametric matrices, generalized ultrametric matrices, shifted ultrametric matrices, acyclic matrices, inverse acyclic matrices, matrices of tree structure, cyclopes and generalized cyclopes.",
+    "content": "arXiv:2607.27221v1 Announce Type: new \nAbstract: Inverses of acyclic or treediagonal matrices are nicely characterized in the landmarked paper by Klein \\cite{KLe82}. But also in \\cite{Nab01} a characterization of these inverses is given which is related to the structure of inverses of tridiagonal matrices. Here we use this characterization to determine and construct matrices whose inverses are acyclic $Z$-matrices. Moreover, we establish relations between several classes of matrices, namely the classes of $Z$-matrices, inverse $Z$-matrices, ultrametric matrices, generalized ultrametric matrices, shifted ultrametric matrices, acyclic matrices, inverse acyclic matrices, matrices of tree structure, cyclopes and generalized cyclopes.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On phi-(k,n)-absorbing delta-primary hyperideals",
+    "pubDate": "2026-07-31 04:00:00",
+    "link": "https://arxiv.org/abs/2607.27223",
+    "guid": "oai:arXiv.org:2607.27223v1",
+    "author": "Mahdi Anbarloei",
+    "thumbnail": "",
+    "description": "arXiv:2607.27223v1 Announce Type: new \nAbstract: In this paper, we aim to present the notion phi-(k,n)-absorbing delta-primary hyperideals in a Krasner (m,n)-hyperring G.",
+    "content": "arXiv:2607.27223v1 Announce Type: new \nAbstract: In this paper, we aim to present the notion phi-(k,n)-absorbing delta-primary hyperideals in a Krasner (m,n)-hyperring G.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AC"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Certain functional identities on matrix rings",
+    "pubDate": "2026-07-31 04:00:00",
+    "link": "https://arxiv.org/abs/2607.27225",
+    "guid": "oai:arXiv.org:2607.27225v1",
+    "author": "Kaijia Luo, Jiankui Li",
+    "thumbnail": "",
+    "description": "arXiv:2607.27225v1 Announce Type: new \nAbstract: Let $D$ be a noncommutative division ring and let $R = M_{m}(D)$ with $m &gt; 1$. We characterize additive mappings $f,$ $g:R\\rightarrow R$ satisfying the identity $f(X) = X^{n}g(X^{-1})$ for every invertible element $X$ in $R$, where $n$ is a nonnegative integer. We show that the solutions are precisely given by $f = g$ and $f(X) = Xf(I)$ for all $X$ in $R$. Moreover, if $n \\neq2$, both $f$ and $g$ are identically zero.",
+    "content": "arXiv:2607.27225v1 Announce Type: new \nAbstract: Let $D$ be a noncommutative division ring and let $R = M_{m}(D)$ with $m &gt; 1$. We characterize additive mappings $f,$ $g:R\\rightarrow R$ satisfying the identity $f(X) = X^{n}g(X^{-1})$ for every invertible element $X$ in $R$, where $n$ is a nonnegative integer. We show that the solutions are precisely given by $f = g$ and $f(X) = Xf(I)$ for all $X$ in $R$. Moreover, if $n \\neq2$, both $f$ and $g$ are identically zero.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Polynomial Maps with Constants over Division Algebras and the Generalized Kaplansky--L'vov Conjecture",
+    "pubDate": "2026-07-31 04:00:00",
+    "link": "https://arxiv.org/abs/2607.27226",
+    "guid": "oai:arXiv.org:2607.27226v1",
+    "author": "Archit Gangwal, Arunava Mandal, Somesh Verma",
+    "thumbnail": "",
+    "description": "arXiv:2607.27226v1 Announce Type: new \nAbstract: The Kaplansky--L'vov conjecture asserts that the image of a multilinear polynomial map on a full matrix algebra over a field is always a vector space. Although the conjecture remains open in general, substantial progress has been made for $2\\times 2$ and $3\\times 3$ matrix algebras over various fields. Recently, Panja, Saini, and Singh formulated a generalized Kaplansky--L'vov conjecture for polynomial maps with matrix coefficients over algebraically closed fields and verified it for $2\\times 2$ matrices. In this work, we investigate an analogous problem for polynomial maps with constant matrix coefficients over an infinite division algebra. Specifically, we consider polynomials in the free algebra $M_2(\\mathbb D)\\langle x_1,\\ldots,x_m\\rangle$ of the form $\\omega = A_1x_1^{k_1}+\\cdots+A_mx_m^{k_m},$ where the $A_1,\\ldots, A_m\\in M_2(\\mathbb D)$ are fixed matrices, $\\mathbb D$ is an infinite division algebra, and $k_1,\\ldots, k_m$ are positive integers. We prove that the corresponding generalized Kaplansky--L'vov conjecture holds for $2\\times 2$ matrices over $\\mathbb R$ and the quaternion division algebra $\\mathbb H$. We also investigate the surjectivity of these polynomial maps. This can be viewed as a generalized Waring problem for matrix algebras.",
+    "content": "arXiv:2607.27226v1 Announce Type: new \nAbstract: The Kaplansky--L'vov conjecture asserts that the image of a multilinear polynomial map on a full matrix algebra over a field is always a vector space. Although the conjecture remains open in general, substantial progress has been made for $2\\times 2$ and $3\\times 3$ matrix algebras over various fields. Recently, Panja, Saini, and Singh formulated a generalized Kaplansky--L'vov conjecture for polynomial maps with matrix coefficients over algebraically closed fields and verified it for $2\\times 2$ matrices. In this work, we investigate an analogous problem for polynomial maps with constant matrix coefficients over an infinite division algebra. Specifically, we consider polynomials in the free algebra $M_2(\\mathbb D)\\langle x_1,\\ldots,x_m\\rangle$ of the form $\\omega = A_1x_1^{k_1}+\\cdots+A_mx_m^{k_m},$ where the $A_1,\\ldots, A_m\\in M_2(\\mathbb D)$ are fixed matrices, $\\mathbb D$ is an infinite division algebra, and $k_1,\\ldots, k_m$ are positive integers. We prove that the corresponding generalized Kaplansky--L'vov conjecture holds for $2\\times 2$ matrices over $\\mathbb R$ and the quaternion division algebra $\\mathbb H$. We also investigate the surjectivity of these polynomial maps. This can be viewed as a generalized Waring problem for matrix algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GR"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The geometric classification of left-symmetric algebras and superalgebras",
+    "pubDate": "2026-07-31 04:00:00",
+    "link": "https://arxiv.org/abs/2607.28254",
+    "guid": "oai:arXiv.org:2607.28254v1",
+    "author": "Kobiljon Abdurasulov, Nigora Daukeyeva, Azamat Saydaliyev",
+    "thumbnail": "",
+    "description": "arXiv:2607.28254v1 Announce Type: new \nAbstract: We investigate the geometric classification of complex left-symmetric algebras and left-symmetric superalgebras in low dimensions. Building on the algebraic classifications of Bai and Zhang for 3-dimensional left-symmetric algebras and for 2- and 3-dimensional left-symmetric superalgebras, we determine all degenerations and non-degenerations among their isomorphism classes. We prove that the variety of 3-dimensional left-symmetric algebras has dimension 10 and decomposes into 31 irreducible components, ten of which are rigid. For left-symmetric superalgebras, we describe the irreducible components, determine their dimensions, and identify the rigid superalgebras in the varieties of dimensions (1,1), (1,2), and (2,1).",
+    "content": "arXiv:2607.28254v1 Announce Type: new \nAbstract: We investigate the geometric classification of complex left-symmetric algebras and left-symmetric superalgebras in low dimensions. Building on the algebraic classifications of Bai and Zhang for 3-dimensional left-symmetric algebras and for 2- and 3-dimensional left-symmetric superalgebras, we determine all degenerations and non-degenerations among their isomorphism classes. We prove that the variety of 3-dimensional left-symmetric algebras has dimension 10 and decomposes into 31 irreducible components, ten of which are rigid. For left-symmetric superalgebras, we describe the irreducible components, determine their dimensions, and identify the rigid superalgebras in the varieties of dimensions (1,1), (1,2), and (2,1).",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Mixed-identity-freeness and primitivity of group rings",
+    "pubDate": "2026-07-31 04:00:00",
+    "link": "https://arxiv.org/abs/2607.28316",
+    "guid": "oai:arXiv.org:2607.28316v1",
+    "author": "Felipe I. Flores",
+    "thumbnail": "",
+    "description": "arXiv:2607.28316v1 Announce Type: new \nAbstract: We show that every countable group $G$ that is mixed-identity-free (MIF) and contains a non-abelian free subgroup has the following property: the group ring $KG$ is primitive for any field $K$. We also present a purely dynamical criterion that implies this result.\n  Our criterion recovers several of the existing results on primitivity, including those involving acylindrically hyperbolic groups. Furthermore, our criterion also applies (positively) to a plethora of new examples, such as Thompson-like groups, commensurator groups of hyperbolic groups, some Kac-Moody groups, and many more.",
+    "content": "arXiv:2607.28316v1 Announce Type: new \nAbstract: We show that every countable group $G$ that is mixed-identity-free (MIF) and contains a non-abelian free subgroup has the following property: the group ring $KG$ is primitive for any field $K$. We also present a purely dynamical criterion that implies this result.\n  Our criterion recovers several of the existing results on primitivity, including those involving acylindrically hyperbolic groups. Furthermore, our criterion also applies (positively) to a plethora of new examples, such as Thompson-like groups, commensurator groups of hyperbolic groups, some Kac-Moody groups, and many more.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GR",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Automorphism Group of the Spectral Incidence Graph over Finite Fields",
     "pubDate": "2026-07-30 04:00:00",
     "link": "https://arxiv.org/abs/2607.26320",
