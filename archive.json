@@ -1,5 +1,160 @@
 [
   {
+    "title": "A counterexample to Han's conjecture",
+    "pubDate": "2026-08-04 04:00:00",
+    "link": "https://arxiv.org/abs/2608.00177",
+    "guid": "oai:arXiv.org:2608.00177v1",
+    "author": "Bochao Kong, Yeqin Liu, Yu Shen",
+    "thumbnail": "",
+    "description": "arXiv:2608.00177v1 Announce Type: new \nAbstract: There is a finite dimensional $\\mathbb{C}$-algebra with $\\mathrm{gldim}(A)=\\infty$ and $\\mathrm{HH}_{n}(A)=0$ for $n\\geq 1$.",
+    "content": "arXiv:2608.00177v1 Announce Type: new \nAbstract: There is a finite dimensional $\\mathbb{C}$-algebra with $\\mathrm{gldim}(A)=\\infty$ and $\\mathrm{HH}_{n}(A)=0$ for $n\\geq 1$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AG"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Dynamics on graphs with disjoint cycles and applications",
+    "pubDate": "2026-08-04 04:00:00",
+    "link": "https://arxiv.org/abs/2608.00587",
+    "guid": "oai:arXiv.org:2608.00587v1",
+    "author": "Pere Ara, Tran Quang Do, Tran Giang Nam",
+    "thumbnail": "",
+    "description": "arXiv:2608.00587v1 Announce Type: new \nAbstract: In this article, we introduce the notion of connected finite graphs with disjoint cycles in normal form and show that any such graph can be transformed into a normal form graph via a finite sequence of in-splittings and out-splittings. Consequently, we provide number-theoretic criteria for meteor graphs of length three to be strongly shift equivalent, where a meteor graph of length three is a connected finite essential graph consisting of three disjoint cycles which makes a unique chain of cycles of length three. We then prove that meteor graphs of length three whose cycle lengths are pairwise coprime are shift equivalent if and only if they are strongly shift equivalent, if and only if their corresponding Leavitt path algebras are graded Morita equivalent, if and only if their graded $K$-theories, $K^{gr}_0$, are $\\mathbb{Z}[x, x^{-1}]$-module isomorphic. As a consequence, Williams' Conjecture and Hazrat's Graded Morita Equivalence Conjecture hold for graphs with disjoint cycles that contain exactly three cycles whose lengths are pairwise coprime.",
+    "content": "arXiv:2608.00587v1 Announce Type: new \nAbstract: In this article, we introduce the notion of connected finite graphs with disjoint cycles in normal form and show that any such graph can be transformed into a normal form graph via a finite sequence of in-splittings and out-splittings. Consequently, we provide number-theoretic criteria for meteor graphs of length three to be strongly shift equivalent, where a meteor graph of length three is a connected finite essential graph consisting of three disjoint cycles which makes a unique chain of cycles of length three. We then prove that meteor graphs of length three whose cycle lengths are pairwise coprime are shift equivalent if and only if they are strongly shift equivalent, if and only if their corresponding Leavitt path algebras are graded Morita equivalent, if and only if their graded $K$-theories, $K^{gr}_0$, are $\\mathbb{Z}[x, x^{-1}]$-module isomorphic. As a consequence, Williams' Conjecture and Hazrat's Graded Morita Equivalence Conjecture hold for graphs with disjoint cycles that contain exactly three cycles whose lengths are pairwise coprime.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.DS",
+      "math.OA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Clifford Algebra Calibration Post-Quantum Cryptography",
+    "pubDate": "2026-08-04 04:00:00",
+    "link": "https://arxiv.org/abs/2608.00636",
+    "guid": "oai:arXiv.org:2608.00636v1",
+    "author": "G. P. Wilmot, J. Chappell, D. K. Abbott",
+    "thumbnail": "",
+    "description": "arXiv:2608.00636v1 Announce Type: new \nAbstract: The double lock scenario allows a secret to be transferred from one person to another without having previously exchanged secrets such as private/public keys. This can be realised by rotations of generalised calibrations in Clifford algebra. Calibrations map to Cayley-Dickson algebras and generalising this provides the mathematical structure enabling the enormous code space needed for a cryptosystem. Commuting rotations in large dimensional spaces are used but the complexity comes from the message being embedded in generalised calibrations. This system uses ideals of Clifford algebras and quasi-algebras that are sometimes embedded in Cayley-Dickson algebras making it a candidate for post-quantum cryptography. Understanding whether the new mathematics of generalised calibrations can produce a secure cryptosystem is the challenge presented in this manuscript.",
+    "content": "arXiv:2608.00636v1 Announce Type: new \nAbstract: The double lock scenario allows a secret to be transferred from one person to another without having previously exchanged secrets such as private/public keys. This can be realised by rotations of generalised calibrations in Clifford algebra. Calibrations map to Cayley-Dickson algebras and generalising this provides the mathematical structure enabling the enormous code space needed for a cryptosystem. Commuting rotations in large dimensional spaces are used but the complexity comes from the message being embedded in generalised calibrations. This system uses ideals of Clifford algebras and quasi-algebras that are sometimes embedded in Cayley-Dickson algebras making it a candidate for post-quantum cryptography. Understanding whether the new mathematics of generalised calibrations can produce a secure cryptosystem is the challenge presented in this manuscript.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "From Eigenvalues/Eigenvectors of Hypermatrices to Canonical Form of Tensors",
+    "pubDate": "2026-08-04 04:00:00",
+    "link": "https://arxiv.org/abs/2608.00728",
+    "guid": "oai:arXiv.org:2608.00728v1",
+    "author": "Daizhan Cheng",
+    "thumbnail": "",
+    "description": "arXiv:2608.00728v1 Announce Type: new \nAbstract: The rings of non-square matrices based on dimension-keeping (DK-) semi-tensor product (STP) are considered. Using the ring structure to hypermatrices, four kinds of eigenvalues/eigenvectors (EEs), namely, ordinary EE (OEE), universal EE (UEE), diagonal EE (DEE), horizontal DEE (HDEE) of hypermatrices are proposed with respect to preassigned special matricizings of hypermatrices respectively. Kronecker canonical form (KCF) of non-square pencils is used to calculate OEE. Then the monic decomposition algorithm (MDA) is used to pick out UEE, DEE, and MEE respectively. Finally, the KCF of non-square pencils is used to construct the KCF of a tensor, which reveals all the EEs of the tensor. KCF of tensors not only has similar properties of the Jordan canonical form of matrices but also includes Jordan canonical form as its special case. All the EEs of a hypermatrix are straightforward computable via its KCF.",
+    "content": "arXiv:2608.00728v1 Announce Type: new \nAbstract: The rings of non-square matrices based on dimension-keeping (DK-) semi-tensor product (STP) are considered. Using the ring structure to hypermatrices, four kinds of eigenvalues/eigenvectors (EEs), namely, ordinary EE (OEE), universal EE (UEE), diagonal EE (DEE), horizontal DEE (HDEE) of hypermatrices are proposed with respect to preassigned special matricizings of hypermatrices respectively. Kronecker canonical form (KCF) of non-square pencils is used to calculate OEE. Then the monic decomposition algorithm (MDA) is used to pick out UEE, DEE, and MEE respectively. Finally, the KCF of non-square pencils is used to construct the KCF of a tensor, which reveals all the EEs of the tensor. KCF of tensors not only has similar properties of the Jordan canonical form of matrices but also includes Jordan canonical form as its special case. All the EEs of a hypermatrix are straightforward computable via its KCF.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On anti-left-invariant and left-invariant pseudo-Euclidean nearly associative algebras",
+    "pubDate": "2026-08-04 04:00:00",
+    "link": "https://arxiv.org/abs/2608.01329",
+    "guid": "oai:arXiv.org:2608.01329v1",
+    "author": "Elisabete Barreiro, Said Benayadi, Hamza El Ouali, Carla Rizzo",
+    "thumbnail": "",
+    "description": "arXiv:2608.01329v1 Announce Type: new \nAbstract: We introduce the notions of anti-left-invariant and left-invariant pseudo-Euclidean nearly associative algebras, which arise as nearly associative Levi-Civita products associated with pseudo-Euclidean Lie and Jordan algebras, respectively. We establish a correspondence between these classes of algebras and the Levi-Civita products of their associated Lie and Jordan structures.\n  For anti-left-invariant pseudo-Euclidean nearly associative algebras, we prove that they are nilpotent of index at most five and characterize them as Jacobi--Jordan-admissible nearly associative algebras. We further show that the associated pseudo-Euclidean Jacobi--Jordan algebras are cyclic. Motivated by the classical double extension of Medina and Revoy, we introduce a double extension procedure for this class of algebras and prove that every anti-left-invariant pseudo-Euclidean nearly associative algebra can be obtained from a trivial pseudo-Euclidean algebra by a finite sequence of such extensions.\n  For left-invariant pseudo-Euclidean nearly associative algebras, we prove that the associated pseudo-Euclidean Lie algebras are two-step solvable and cyclic. We then develop block, planar, and linear double extensions and show that every left-invariant pseudo-Euclidean nearly associative algebra can be recursively constructed from a quadratic commutative associative algebra by means of block double extensions. Moreover, we prove that over the field of real numbers, every such algebra can be recursively constructed from a quadratic commutative associative algebra using planar double extensions.\n  These recursive constructions provide a unified framework for describing and classifying pseudo-Euclidean nearly associative algebras in both the anti-left-invariant and left-invariant settings.",
+    "content": "arXiv:2608.01329v1 Announce Type: new \nAbstract: We introduce the notions of anti-left-invariant and left-invariant pseudo-Euclidean nearly associative algebras, which arise as nearly associative Levi-Civita products associated with pseudo-Euclidean Lie and Jordan algebras, respectively. We establish a correspondence between these classes of algebras and the Levi-Civita products of their associated Lie and Jordan structures.\n  For anti-left-invariant pseudo-Euclidean nearly associative algebras, we prove that they are nilpotent of index at most five and characterize them as Jacobi--Jordan-admissible nearly associative algebras. We further show that the associated pseudo-Euclidean Jacobi--Jordan algebras are cyclic. Motivated by the classical double extension of Medina and Revoy, we introduce a double extension procedure for this class of algebras and prove that every anti-left-invariant pseudo-Euclidean nearly associative algebra can be obtained from a trivial pseudo-Euclidean algebra by a finite sequence of such extensions.\n  For left-invariant pseudo-Euclidean nearly associative algebras, we prove that the associated pseudo-Euclidean Lie algebras are two-step solvable and cyclic. We then develop block, planar, and linear double extensions and show that every left-invariant pseudo-Euclidean nearly associative algebra can be recursively constructed from a quadratic commutative associative algebra by means of block double extensions. Moreover, we prove that over the field of real numbers, every such algebra can be recursively constructed from a quadratic commutative associative algebra using planar double extensions.\n  These recursive constructions provide a unified framework for describing and classifying pseudo-Euclidean nearly associative algebras in both the anti-left-invariant and left-invariant settings.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Non-finitely Presented Lie Algebras of Type $FP_2$",
+    "pubDate": "2026-08-04 04:00:00",
+    "link": "https://arxiv.org/abs/2608.01339",
+    "guid": "oai:arXiv.org:2608.01339v1",
+    "author": "Mark Shusterman",
+    "thumbnail": "",
+    "description": "arXiv:2608.01339v1 Announce Type: new \nAbstract: Building on work of Kassel--Loday and Zelmanov--Zhang, we show that a Steinberg Lie algebra of the complex group algebra of a (suitable) Bestvina--Brady group is of type $FP_2$ and is not finitely presented. This also allows us to answer the (homological) $0$-$1$-$2$ question for Lie algebras.",
+    "content": "arXiv:2608.01339v1 Announce Type: new \nAbstract: Building on work of Kassel--Loday and Zelmanov--Zhang, we show that a Steinberg Lie algebra of the complex group algebra of a (suitable) Bestvina--Brady group is of type $FP_2$ and is not finitely presented. This also allows us to answer the (homological) $0$-$1$-$2$ question for Lie algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GR"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On noncommutative Hom-anti-pre-Poisson superalgebras and related structures",
+    "pubDate": "2026-08-04 04:00:00",
+    "link": "https://arxiv.org/abs/2608.01376",
+    "guid": "oai:arXiv.org:2608.01376v1",
+    "author": "W. Ben Abdelhafidh, O. Ncib",
+    "thumbnail": "",
+    "description": "arXiv:2608.01376v1 Announce Type: new \nAbstract: In this paper, we develop the theory of several Hom-type anti-algebraic structures in the $\\mathbb{Z}_2$-graded setting. We introduce and study Hom-anti-associative superalgebras, Hom-anti-dendriform superalgebras, and Hom-anti-pre-Lie superalgebras, which arise as Hom-type generalizations of the corresponding anti-algebraic structures. Various constructions and examples are provided, together with structural properties and representation-theoretic aspects. In particular, we investigate the role of anti-super-$\\mathcal{O}$-operators and anti-Rota-Baxter operators in the construction of Hom-anti-dendriform superalgebras. Furthermore, we introduce the notion of noncommutative Hom-pre-Poisson superalgebras and noncommutative Hom-anti-pre-Poisson superalgebras as Hom-type extensions of noncommutative Poisson-type structures in the graded framework. These structures naturally combine Hom-anti-pre-Lie and Hom-anti-dendriform superalgebras through suitable compatibility conditions. Several relationships between the introduced structures are established, providing a unified framework for studying twisted and graded generalizations of noncommutative Poisson-type algebras.",
+    "content": "arXiv:2608.01376v1 Announce Type: new \nAbstract: In this paper, we develop the theory of several Hom-type anti-algebraic structures in the $\\mathbb{Z}_2$-graded setting. We introduce and study Hom-anti-associative superalgebras, Hom-anti-dendriform superalgebras, and Hom-anti-pre-Lie superalgebras, which arise as Hom-type generalizations of the corresponding anti-algebraic structures. Various constructions and examples are provided, together with structural properties and representation-theoretic aspects. In particular, we investigate the role of anti-super-$\\mathcal{O}$-operators and anti-Rota-Baxter operators in the construction of Hom-anti-dendriform superalgebras. Furthermore, we introduce the notion of noncommutative Hom-pre-Poisson superalgebras and noncommutative Hom-anti-pre-Poisson superalgebras as Hom-type extensions of noncommutative Poisson-type structures in the graded framework. These structures naturally combine Hom-anti-pre-Lie and Hom-anti-dendriform superalgebras through suitable compatibility conditions. Several relationships between the introduced structures are established, providing a unified framework for studying twisted and graded generalizations of noncommutative Poisson-type algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Idempotents, automorphism groups, and commutator widths of quandle algebras",
+    "pubDate": "2026-08-04 04:00:00",
+    "link": "https://arxiv.org/abs/2608.01550",
+    "guid": "oai:arXiv.org:2608.01550v1",
+    "author": "Birama Sangare, Luc Ta",
+    "thumbnail": "",
+    "description": "arXiv:2608.01550v1 Announce Type: new \nAbstract: The paper develops the theory of quandle algebras. We show that over integral domains of characteristic other than 2, quandle algebras of ordered commutative quandles have no nontrivial idempotents. We also compute the automorphism groups of quandle algebras of trivial quandles and dihedral quandles of odd orders over arbitrary commutative rings, with partial results for dihedral quandles of even orders. Finally, a computer search provides the first examples of quandle algebras of commutator width 2.",
+    "content": "arXiv:2608.01550v1 Announce Type: new \nAbstract: The paper develops the theory of quandle algebras. We show that over integral domains of characteristic other than 2, quandle algebras of ordered commutative quandles have no nontrivial idempotents. We also compute the automorphism groups of quandle algebras of trivial quandles and dihedral quandles of odd orders over arbitrary commutative rings, with partial results for dihedral quandles of even orders. Finally, a computer search provides the first examples of quandle algebras of commutator width 2.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GR"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Invertible linear preservers of semipositive matrices - a dimension free approach",
+    "pubDate": "2026-08-04 04:00:00",
+    "link": "https://arxiv.org/abs/2608.01608",
+    "guid": "oai:arXiv.org:2608.01608v1",
+    "author": "Vatsalkumar N. Mer",
+    "thumbnail": "",
+    "description": "arXiv:2608.01608v1 Announce Type: new \nAbstract: An m-by-n real matrix A is said to be semipositive if there exists a vector x&gt;0 such that Ax&gt;0, where the inequalities are understood componentwise. Dorsey et al. conjectured that any invertible linear map that $L$ that leaves invariant the collection of all semipositive matrices is always in the standard form $A \\mapsto XAY$ for some row positive matrix $X$ and inverse nonnegative matrix $Y$. This was settled in when $m \\geq n$. Our aim in this paper is to settle the case when m<n of the above conjecture. in fact our proof works for arbitrary positive integers m and n. main ingredient is a classification affine subspaces largest possible dimension contained set semipositive matrices.></n>\n",
+    "content": "arXiv:2608.01608v1 Announce Type: new \nAbstract: An m-by-n real matrix A is said to be semipositive if there exists a vector x&gt;0 such that Ax&gt;0, where the inequalities are understood componentwise. Dorsey et al. conjectured that any invertible linear map that $L$ that leaves invariant the collection of all semipositive matrices is always in the standard form $A \\mapsto XAY$ for some row positive matrix $X$ and inverse nonnegative matrix $Y$. This was settled in when $m \\geq n$. Our aim in this paper is to settle the case when m<n of the above conjecture. in fact our proof works for arbitrary positive integers m and n. main ingredient is a classification affine subspaces largest possible dimension contained set semipositive matrices.></n>\n",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Theory of extension of commutative poisson algebra",
+    "pubDate": "2026-08-04 04:00:00",
+    "link": "https://arxiv.org/abs/2608.01797",
+    "guid": "oai:arXiv.org:2608.01797v1",
+    "author": "Neeraj Kumar Maurya, Deepak Pal, Sumit Kumar Upadhyay",
+    "thumbnail": "",
+    "description": "arXiv:2608.01797v1 Announce Type: new \nAbstract: In this paper, we develop the extension theory of commutative Poisson algebras. Specifically, we define the second cohomology of a commutative Poisson algebra $K$ with coefficients in an abelian Poisson algebra $H$. We then establish a natural bijective correspondence between this cohomology group and the set of equivalence classes of a special type of extensions.",
+    "content": "arXiv:2608.01797v1 Announce Type: new \nAbstract: In this paper, we develop the extension theory of commutative Poisson algebras. Specifically, we define the second cohomology of a commutative Poisson algebra $K$ with coefficients in an abelian Poisson algebra $H$. We then establish a natural bijective correspondence between this cohomology group and the set of equivalence classes of a special type of extensions.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Alternating Quinary Cores of Complete Atomic Ternary $\\Gamma$-Semirings: Representation, Binary-Collapse Rigidity, and Witness Geometry",
     "pubDate": "2026-08-03 04:00:00",
     "link": "https://arxiv.org/abs/2607.28656",
