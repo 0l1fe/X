@@ -1,5 +1,161 @@
 [
   {
+    "title": "Hom-Poisson superalgebras with nondegenerate bilinear forms and compatible Hom-anti-pre-Poisson superalgebras",
+    "pubDate": "2026-08-05 04:00:00",
+    "link": "https://arxiv.org/abs/2608.03427",
+    "guid": "oai:arXiv.org:2608.03427v1",
+    "author": "W. Ben Abdelhafidh, O. Ncib",
+    "thumbnail": "",
+    "description": "arXiv:2608.03427v1 Announce Type: new \nAbstract: In this paper, we first introduce the notions of Hom-anti-Zinbiel superalgebras, extending the corresponding anti-algebraic structures to the Hom-super setting. We develop their fundamental properties and characterize them in terms of anti-super-$\\mathcal O$-operators and anti-Rota-Baxter operators. Furthermore, we introduce the concepts of super-commutative Connes cocycles on super-commutative Hom-associative superalgebras and super-commutative $2$-cocycles on Hom-Lie superalgebras. We prove that nondegenerate super-commutative Connes cocycles give rise to compatible Hom-anti-Zinbiel superalgebra structures, while nondegenerate super-commutative $2$-cocycles induce compatible Hom-anti-pre-Lie superalgebra structures. As a main application, we show that a Hom-Poisson superalgebra equipped with a nondegenerate super-commutative Connes cocycle on its Hom-associative component and a nondegenerate super-commutative $2$-cocycle on its Hom-Lie component canonically determines a compatible Hom-anti-pre-Poisson superalgebra, and conversely. This provides a unified framework linking Hom-Poisson and Hom-anti-pre-Poisson superalgebras and reveals the fundamental role played by nondegenerate supersymmetric bilinear forms in the structure theory of Hom-type superalgebras. Several further structural results and characterizations are also obtained.",
+    "content": "arXiv:2608.03427v1 Announce Type: new \nAbstract: In this paper, we first introduce the notions of Hom-anti-Zinbiel superalgebras, extending the corresponding anti-algebraic structures to the Hom-super setting. We develop their fundamental properties and characterize them in terms of anti-super-$\\mathcal O$-operators and anti-Rota-Baxter operators. Furthermore, we introduce the concepts of super-commutative Connes cocycles on super-commutative Hom-associative superalgebras and super-commutative $2$-cocycles on Hom-Lie superalgebras. We prove that nondegenerate super-commutative Connes cocycles give rise to compatible Hom-anti-Zinbiel superalgebra structures, while nondegenerate super-commutative $2$-cocycles induce compatible Hom-anti-pre-Lie superalgebra structures. As a main application, we show that a Hom-Poisson superalgebra equipped with a nondegenerate super-commutative Connes cocycle on its Hom-associative component and a nondegenerate super-commutative $2$-cocycle on its Hom-Lie component canonically determines a compatible Hom-anti-pre-Poisson superalgebra, and conversely. This provides a unified framework linking Hom-Poisson and Hom-anti-pre-Poisson superalgebras and reveals the fundamental role played by nondegenerate supersymmetric bilinear forms in the structure theory of Hom-type superalgebras. Several further structural results and characterizations are also obtained.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Finite-field Krasner quotients: isomorphism thresholds, characteristics, and censuses",
+    "pubDate": "2026-08-05 04:00:00",
+    "link": "https://arxiv.org/abs/2608.03625",
+    "guid": "oai:arXiv.org:2608.03625v1",
+    "author": "Alessandro Linzi",
+    "thumbnail": "",
+    "description": "arXiv:2608.03625v1 Announce Type: new \nAbstract: We study Krasner quotient hyperfields arising from finite fields, $F_q/G_r$, where $G_r\\le F_q^\\times$ has index $r$. Building on the structure theorem of Baker--Jin, we determine the characteristic and C-characteristic of all sufficiently large such quotients: they depend only on the parity of $r$ and, when $r$ is even, on the residue class of $q$ modulo $2r$. In particular, the two Baker--Jin stable classes for even $r$ are separated by characteristic $2$ versus $3$, while the C-characteristic is always $1$.\n  We complement this structural result with a computational laboratory: sharp Weil thresholds for Baker--Jin large-$q$ isomorphism, empirical minimal stabilization bounds $N_r^{\\mathrm{emp}}$, complete finite-field quotient atlases for hyperfield orders $n\\le 7$, and comparisons with the enumerations of Ameri--Eyvazi--Ho\\v{s}kov\\'a-Mayerov\\'a (orders $\\le 6$) and Massouros--Massouros (order $7$). Among other findings, exactly $15$ isomorphism types of order $7$ arise as finite-field quotients, out of $277$ hyperfields of that order -- a concrete data point toward the Baker--Jin rarity conjecture for quotients. All algorithms and tables are available in an open-source package suitable for independent verification and arXiv ancillary material.",
+    "content": "arXiv:2608.03625v1 Announce Type: new \nAbstract: We study Krasner quotient hyperfields arising from finite fields, $F_q/G_r$, where $G_r\\le F_q^\\times$ has index $r$. Building on the structure theorem of Baker--Jin, we determine the characteristic and C-characteristic of all sufficiently large such quotients: they depend only on the parity of $r$ and, when $r$ is even, on the residue class of $q$ modulo $2r$. In particular, the two Baker--Jin stable classes for even $r$ are separated by characteristic $2$ versus $3$, while the C-characteristic is always $1$.\n  We complement this structural result with a computational laboratory: sharp Weil thresholds for Baker--Jin large-$q$ isomorphism, empirical minimal stabilization bounds $N_r^{\\mathrm{emp}}$, complete finite-field quotient atlases for hyperfield orders $n\\le 7$, and comparisons with the enumerations of Ameri--Eyvazi--Ho\\v{s}kov\\'a-Mayerov\\'a (orders $\\le 6$) and Massouros--Massouros (order $7$). Among other findings, exactly $15$ isomorphism types of order $7$ arise as finite-field quotients, out of $277$ hyperfields of that order -- a concrete data point toward the Baker--Jin rarity conjecture for quotients. All algorithms and tables are available in an open-source package suitable for independent verification and arXiv ancillary material.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A Martindale-like Ring of Quotients for any ring",
+    "pubDate": "2026-08-05 04:00:00",
+    "link": "https://arxiv.org/abs/2608.03652",
+    "guid": "oai:arXiv.org:2608.03652v1",
+    "author": "K. S. Enoch Lee",
+    "thumbnail": "",
+    "description": "arXiv:2608.03652v1 Announce Type: new \nAbstract: In this paper we introduce a Martindale-like ring of quotients for any ring called sub-Martindale ring of quotients. When the base ring is semiprime, its maximal sub-Martindale ring of quotients is just the well-known Martindale ring of quotients. In a similar fashion we introduce some rings of quotients for any ring similar to Martindale symmetric ring of quotients.",
+    "content": "arXiv:2608.03652v1 Announce Type: new \nAbstract: In this paper we introduce a Martindale-like ring of quotients for any ring called sub-Martindale ring of quotients. When the base ring is semiprime, its maximal sub-Martindale ring of quotients is just the well-known Martindale ring of quotients. In a similar fashion we introduce some rings of quotients for any ring similar to Martindale symmetric ring of quotients.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A note on some upper bounds for the Frobenius norm of the $q$-deformed commutator",
+    "pubDate": "2026-08-05 04:00:00",
+    "link": "https://arxiv.org/abs/2608.03897",
+    "guid": "oai:arXiv.org:2608.03897v1",
+    "author": "Motoyuki Nobori",
+    "thumbnail": "",
+    "description": "arXiv:2608.03897v1 Announce Type: new \nAbstract: For two square complex matrices $A,B,$ and a real number $q$, the $q$-deformed commutator of $A$ and $B$ is defined as $AB-qBA$. We give some upper bounds on the Frobenius norm of the $q$-deformed commutator in the case $q\\ge0$. All of the inequalities derived in this paper generalize the B\\\"{o}ttcher-Wenzel inequality.",
+    "content": "arXiv:2608.03897v1 Announce Type: new \nAbstract: For two square complex matrices $A,B,$ and a real number $q$, the $q$-deformed commutator of $A$ and $B$ is defined as $AB-qBA$. We give some upper bounds on the Frobenius norm of the $q$-deformed commutator in the case $q\\ge0$. All of the inequalities derived in this paper generalize the B\\\"{o}ttcher-Wenzel inequality.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Protected corners and a trichotomy for Han's conjecture",
+    "pubDate": "2026-08-05 04:00:00",
+    "link": "https://arxiv.org/abs/2607.20849",
+    "guid": "oai:arXiv.org:2607.20849v1",
+    "author": "Marco Armenta",
+    "thumbnail": "",
+    "description": "arXiv:2607.20849v1 Announce Type: cross \nAbstract: Han's conjecture predicts that a finite-dimensional algebra with eventually vanishing Hochschild homology has finite global dimension. In the tau-Hochschild framework of Cibils, Lanzilotta, Marcos and Solotar, it splits into persistence (Gap A) and survival (Gap B), and a Gap-A failure is already a counterexample. We prove a protected corner theorem bounding Ext at a surviving vertex, settling the Liu-Morin extension conjecture beyond the monomial and special biserial cases. We then establish a trichotomy for Gap-A failures on three strongly connected vertices: the all-infinite case is impossible, and the two-infinite case is completely classified as a mutual dumbbell.",
+    "content": "arXiv:2607.20849v1 Announce Type: cross \nAbstract: Han's conjecture predicts that a finite-dimensional algebra with eventually vanishing Hochschild homology has finite global dimension. In the tau-Hochschild framework of Cibils, Lanzilotta, Marcos and Solotar, it splits into persistence (Gap A) and survival (Gap B), and a Gap-A failure is already a counterexample. We prove a protected corner theorem bounding Ext at a surviving vertex, settling the Liu-Morin extension conjecture beyond the monomial and special biserial cases. We then establish a trichotomy for Gap-A failures on three strongly connected vertices: the all-infinite case is impossible, and the two-infinite case is completely classified as a mutual dumbbell.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.KT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Cyclic-by-abelian counterexamples to the second and third Zassenhaus conjectures",
+    "pubDate": "2026-08-05 04:00:00",
+    "link": "https://arxiv.org/abs/2608.03254",
+    "guid": "oai:arXiv.org:2608.03254v1",
+    "author": "Brecht Verbeken",
+    "thumbnail": "",
+    "description": "arXiv:2608.03254v1 Announce Type: cross \nAbstract: Let $r&gt;1$ with $\\gcd(r,30)=1$. We construct a finite group $G_r=(C_5\\times C_3\\times C_r)\\rtimes W$, where $|W|=32$ and $G_r'\\cong C_{60r}$, together with an augmentation-preserving automorphism $\\alpha_r\\in\\operatorname{Aut}(\\mathbb{Z}G_r)$ having no Zassenhaus factorization. The image $Y_r=\\alpha_r(G_r)$ is a normalized group basis which is not rationally conjugate to $G_r$, although every element of $Y_r$ is individually rationally conjugate to an element of $G_r$. Consequently, (ZC2) and (ZC3) fail for finite cyclic-by-abelian groups, resolving a problem of Margolis and del R\\'io. The construction extends Hertweck's example uniformly: both the class-preserving obstruction and the integral gluing are independent of the order of the auxiliary factor. The smallest admissible member of this family has order $3360$ and derived subgroup $C_{420}$.",
+    "content": "arXiv:2608.03254v1 Announce Type: cross \nAbstract: Let $r&gt;1$ with $\\gcd(r,30)=1$. We construct a finite group $G_r=(C_5\\times C_3\\times C_r)\\rtimes W$, where $|W|=32$ and $G_r'\\cong C_{60r}$, together with an augmentation-preserving automorphism $\\alpha_r\\in\\operatorname{Aut}(\\mathbb{Z}G_r)$ having no Zassenhaus factorization. The image $Y_r=\\alpha_r(G_r)$ is a normalized group basis which is not rationally conjugate to $G_r$, although every element of $Y_r$ is individually rationally conjugate to an element of $G_r$. Consequently, (ZC2) and (ZC3) fail for finite cyclic-by-abelian groups, resolving a problem of Margolis and del R\\'io. The construction extends Hertweck's example uniformly: both the class-preserving obstruction and the integral gluing are independent of the order of the auxiliary factor. The smallest admissible member of this family has order $3360$ and derived subgroup $C_{420}$.",
+    "enclosure": {},
+    "categories": [
+      "math.GR",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Primitive central idempotents of a finite group over a field",
+    "pubDate": "2026-08-05 04:00:00",
+    "link": "https://arxiv.org/abs/2608.03371",
+    "guid": "oai:arXiv.org:2608.03371v1",
+    "author": "Satyam Shukla, Jagmohan Tanti",
+    "thumbnail": "",
+    "description": "arXiv:2608.03371v1 Announce Type: cross \nAbstract: We give a method to compute the primitive central idempotents of a semi-simple finite group algebra associated with an irreducible character $\\chi$ such that for every $g\\in G$, either $\\chi(g) = 0$ or all eigenvalues of $\\rho(g)$ have the same order. We then show several consequences which highlight the significance and possible applications of our approach.",
+    "content": "arXiv:2608.03371v1 Announce Type: cross \nAbstract: We give a method to compute the primitive central idempotents of a semi-simple finite group algebra associated with an irreducible character $\\chi$ such that for every $g\\in G$, either $\\chi(g) = 0$ or all eigenvalues of $\\rho(g)$ have the same order. We then show several consequences which highlight the significance and possible applications of our approach.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Fixed Points, Stability, and Basin Geometry of the $3\\times 3$ Correlation Map",
+    "pubDate": "2026-08-05 04:00:00",
+    "link": "https://arxiv.org/abs/2608.03404",
+    "guid": "oai:arXiv.org:2608.03404v1",
+    "author": "Ishrak Alhajj Hassan",
+    "thumbnail": "",
+    "description": "arXiv:2608.03404v1 Announce Type: cross \nAbstract: For more than half a century, iterated Pearson correlation has been used in clustering, seriation, and information visualization despite the absence of a general analytical theory of its limiting dynamics. We completely resolve the fixed-point classification and relative Lyapunov stability problems for the correlation map in dimension three. An exact row-wise Gram factorization yields the identity $\\operatorname{rank}C(A)=\\operatorname{rank}(AH_n)$, forcing every fixed point to be singular and to lie on the relative boundary of the elliptope. In arbitrary dimension, we characterize all nondegenerate sign-valued fixed points and prove that their number is $2^{n-1}-1$.\n  For $n=3$, we derive an explicit coordinate representation and prove that the natural nondegenerate domain contains exactly seven fixed points: three rank-one patterned points, three rank-two mixed points, and one rank-two equicorrelation point, forming three orbits under the permutation action of $S_3$. Exact symbolic Jacobian calculations prove that the patterned points are locally asymptotically stable, whereas admissible invariant boundary curves realize the expanding multipliers and prove that the mixed and equicorrelation points are Lyapunov unstable relative to the natural nondegenerate domain.\n  Permutation equivariance maps the three patterned basins onto one another and implies equal Lebesgue measure whenever measurable. Reproducible basin computations classify every sampled admissible trajectory as converging to one of the three patterned attractors, with nearly equal frequencies and no trajectory-level classification mismatches under stricter validation. These results establish a complete fixed-point and relative Lyapunov stability theory in dimension three and provide strong reproducible evidence for the full-measure convergence conjecture for the union of the three patterned basins.",
+    "content": "arXiv:2608.03404v1 Announce Type: cross \nAbstract: For more than half a century, iterated Pearson correlation has been used in clustering, seriation, and information visualization despite the absence of a general analytical theory of its limiting dynamics. We completely resolve the fixed-point classification and relative Lyapunov stability problems for the correlation map in dimension three. An exact row-wise Gram factorization yields the identity $\\operatorname{rank}C(A)=\\operatorname{rank}(AH_n)$, forcing every fixed point to be singular and to lie on the relative boundary of the elliptope. In arbitrary dimension, we characterize all nondegenerate sign-valued fixed points and prove that their number is $2^{n-1}-1$.\n  For $n=3$, we derive an explicit coordinate representation and prove that the natural nondegenerate domain contains exactly seven fixed points: three rank-one patterned points, three rank-two mixed points, and one rank-two equicorrelation point, forming three orbits under the permutation action of $S_3$. Exact symbolic Jacobian calculations prove that the patterned points are locally asymptotically stable, whereas admissible invariant boundary curves realize the expanding multipliers and prove that the mixed and equicorrelation points are Lyapunov unstable relative to the natural nondegenerate domain.\n  Permutation equivariance maps the three patterned basins onto one another and implies equal Lebesgue measure whenever measurable. Reproducible basin computations classify every sampled admissible trajectory as converging to one of the three patterned attractors, with nearly equal frequencies and no trajectory-level classification mismatches under stricter validation. These results establish a complete fixed-point and relative Lyapunov stability theory in dimension three and provide strong reproducible evidence for the full-measure convergence conjecture for the union of the three patterned basins.",
+    "enclosure": {},
+    "categories": [
+      "math.DS",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Point modules of Nichols algebras over non-abelian groups",
+    "pubDate": "2026-08-05 04:00:00",
+    "link": "https://arxiv.org/abs/2608.03595",
+    "guid": "oai:arXiv.org:2608.03595v1",
+    "author": "B. Greenfeld, L. Vendramin, S. Venkatesh",
+    "thumbnail": "",
+    "description": "arXiv:2608.03595v1 Announce Type: cross \nAbstract: Nichols algebras are among the most important and mysterious objects in quantum algebra. We continue the systematic program of studying them through their point modules. We study truncated point modules of Nichols algebras associated with racks and 2-cocycles over non-abelian groups. We determine the truncated point spaces for all currently known finite-dimensional Nichols algebras arising from simple Yetter-Drinfeld modules over groups. In particular, for all such algebras the space of 3-truncated point modules is empty. We further find all truncated point modules for other important families, including affine racks equipped with the constant 2-cocycle -1, and for the non-trivial indecomposable rack of size three with the constant 2-cocycle a cubic root of one.",
+    "content": "arXiv:2608.03595v1 Announce Type: cross \nAbstract: Nichols algebras are among the most important and mysterious objects in quantum algebra. We continue the systematic program of studying them through their point modules. We study truncated point modules of Nichols algebras associated with racks and 2-cocycles over non-abelian groups. We determine the truncated point spaces for all currently known finite-dimensional Nichols algebras arising from simple Yetter-Drinfeld modules over groups. In particular, for all such algebras the space of 3-truncated point modules is empty. We further find all truncated point modules for other important families, including affine racks equipped with the constant 2-cocycle -1, and for the non-trivial indecomposable rack of size three with the constant 2-cocycle a cubic root of one.",
+    "enclosure": {},
+    "categories": [
+      "math.QA",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Smith-Orbit Classification of Extensions and Exact-Sequence Asymmetry for C4*-Modules",
+    "pubDate": "2026-08-05 04:00:00",
+    "link": "https://arxiv.org/abs/2605.08099",
+    "guid": "oai:arXiv.org:2605.08099v2",
+    "author": "Chandrasekhar Gokavarapu (Department of Mathematics, Government College)",
+    "thumbnail": "",
+    "description": "arXiv:2605.08099v2 Announce Type: replace \nAbstract: Let $R$ be a ring and let a $C4^{\\ast}$-module mean a module all of whose submodules are $C4$-modules. We first determine its asymmetric exact-sequence behavior: kernel closure is unconditional, while explicit commutative examples disprove split-extension and cokernel closure. We then classify the finite-length torsion objects over a Dedekind domain. A primary component is $C4$ exactly when it is homocyclic, and it is $C4^{\\ast}$ exactly when it is cyclic or semisimple; in finite length $C4^{\\ast}$ and strongly $C4^{\\ast}$ coincide.\n  The main result is a complete orbit calculation over a discrete valuation ring $V$. Put $A=(V/(\\pi^a))^r$, $C=(V/(\\pi^c))^s$ and $m=\\min\\{a,c\\}$. Then \\[\n  \\Ext^1_V(C,A)\\cong\n  \\operatorname{Mat}_{r\\times s}(V/(\\pi^m)), \\] and the $\\operatorname{Aut}(A)\\times\\operatorname{Aut}(C)$-orbits are classified by a Smith profile $0\\leq\\nu_1\\leq\\cdots\\leq\\nu_q\\leq m$, $q=\\min\\{r,s\\}$. The corresponding middle term is \\[\n  \\bigoplus_{i=1}^{q}\n  \\bigl(V/(\\pi^{\\nu_i})\\oplus V/(\\pi^{a+c-\\nu_i})\\bigr)\n  \\oplus (V/(\\pi^a))^{r-q}\\oplus(V/(\\pi^c))^{s-q}, \\] where $V/(\\pi^0)=0$. This gives exact orbit-level criteria: the middle term is $C4$ precisely for the zero orbit with $a=c$, or for an invertible square orbit with $r=s$; it is $C4^{\\ast}$ precisely for the zero orbit with $a=c=1$, or for a unit scalar orbit with $r=s=1$. We reformulate the Smith data as a valuation--rank profile, determine the complete geometry and additivity of the preservation loci, and globalize the result prime by prime. Consequently every extension between arbitrary finite-length torsion $C4^{\\ast}$-modules over a Dedekind domain is decided by explicit local orbit invariants.",
+    "content": "arXiv:2605.08099v2 Announce Type: replace \nAbstract: Let $R$ be a ring and let a $C4^{\\ast}$-module mean a module all of whose submodules are $C4$-modules. We first determine its asymmetric exact-sequence behavior: kernel closure is unconditional, while explicit commutative examples disprove split-extension and cokernel closure. We then classify the finite-length torsion objects over a Dedekind domain. A primary component is $C4$ exactly when it is homocyclic, and it is $C4^{\\ast}$ exactly when it is cyclic or semisimple; in finite length $C4^{\\ast}$ and strongly $C4^{\\ast}$ coincide.\n  The main result is a complete orbit calculation over a discrete valuation ring $V$. Put $A=(V/(\\pi^a))^r$, $C=(V/(\\pi^c))^s$ and $m=\\min\\{a,c\\}$. Then \\[\n  \\Ext^1_V(C,A)\\cong\n  \\operatorname{Mat}_{r\\times s}(V/(\\pi^m)), \\] and the $\\operatorname{Aut}(A)\\times\\operatorname{Aut}(C)$-orbits are classified by a Smith profile $0\\leq\\nu_1\\leq\\cdots\\leq\\nu_q\\leq m$, $q=\\min\\{r,s\\}$. The corresponding middle term is \\[\n  \\bigoplus_{i=1}^{q}\n  \\bigl(V/(\\pi^{\\nu_i})\\oplus V/(\\pi^{a+c-\\nu_i})\\bigr)\n  \\oplus (V/(\\pi^a))^{r-q}\\oplus(V/(\\pi^c))^{s-q}, \\] where $V/(\\pi^0)=0$. This gives exact orbit-level criteria: the middle term is $C4$ precisely for the zero orbit with $a=c$, or for an invertible square orbit with $r=s$; it is $C4^{\\ast}$ precisely for the zero orbit with $a=c=1$, or for a unit scalar orbit with $r=s=1$. We reformulate the Smith data as a valuation--rank profile, determine the complete geometry and additivity of the preservation loci, and globalize the result prime by prime. Consequently every extension between arbitrary finite-length torsion $C4^{\\ast}$-modules over a Dedekind domain is decided by explicit local orbit invariants.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "A counterexample to Han's conjecture",
     "pubDate": "2026-08-04 04:00:00",
     "link": "https://arxiv.org/abs/2608.00177",
