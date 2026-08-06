@@ -1,5 +1,168 @@
 [
   {
+    "title": "Solvable Quadratic Lie algebras up to dimension 7",
+    "pubDate": "2026-08-06 04:00:00",
+    "link": "https://arxiv.org/abs/2608.04188",
+    "guid": "oai:arXiv.org:2608.04188v1",
+    "author": "Pilar Benito, Javier R\\'andez-Ib\\'a\\~nez",
+    "thumbnail": "",
+    "description": "arXiv:2608.04188v1 Announce Type: new \nAbstract: The double extension method allows the construction of quadratic Lie algebras from smaller ones. Using this approach, in this work we describe all solvable indecomposable quadratic Lie algebras of dimension at most $7$ over arbitrary fields of characteristic not $2$. In particular, we get complete classifications up to isometric isomorphism over algebraically and real closed fields.",
+    "content": "arXiv:2608.04188v1 Announce Type: new \nAbstract: The double extension method allows the construction of quadratic Lie algebras from smaller ones. Using this approach, in this work we describe all solvable indecomposable quadratic Lie algebras of dimension at most $7$ over arbitrary fields of characteristic not $2$. In particular, we get complete classifications up to isometric isomorphism over algebraically and real closed fields.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Two absolutely bounded determinantal ratios",
+    "pubDate": "2026-08-06 04:00:00",
+    "link": "https://arxiv.org/abs/2608.04294",
+    "guid": "oai:arXiv.org:2608.04294v1",
+    "author": "Hristo Sendov, Mengxu Yuan",
+    "thumbnail": "",
+    "description": "arXiv:2608.04294v1 Announce Type: new \nAbstract: Bounded ratios of products of minors of positive definite matrices have a long history, starting with Hadamard's inequality in 1893. It states that for every positive semidefinite matrix $A$ $$ \\det A \\le A_{11} \\cdots A_{nn}. $$ This inequality was subsequently generalized by Fisher and then further by Koteljanskii. The latter states that for every positive semidefinite matrix $A$ and any index sets $\\alpha_1, \\alpha_2 \\subseteq \\{1,\\ldots, n\\}$ one has $$ \\det A[\\alpha_1 \\cup \\alpha_2] \\det A[\\alpha_1 \\cap \\alpha_2] \\le \\det A[\\alpha_1] \\det A[\\alpha_2], $$ where $A[\\alpha]$ denotes the principal submatrix determined by the indexes in $\\alpha$.\n  In a manuscript published only on the arXiv in 2008, Hall and Johnson made three conjectures about ratios of products of principal minors of \\(4\\times4\\) positive definite matrices, denoted by $R_i$, $i=1,2,3$, see (2) and (3). They hypothesized that the supremum of $R_1$ was $27/16$, while the supremum of the other two ratios was $1$. Such ratios are called {\\it absolutely bounded}. The conjecture for $R_1$ was affirmed in \\cite{sendov2026} and it is the only known bounded determinantal ratio with supremum bigger than one. The goal of this paper is to affirm the conjecture for $R_2$ and $R_3$.\n  It is known that the upper bound for the ratios $R_i$, $i=1,2,3$, does not follow from repeated applications of Koteljanskii's inequality. In addition, Hall and Johnson showed that $R_i$ is bounded above by $4$, for $i=1,2,3$.",
+    "content": "arXiv:2608.04294v1 Announce Type: new \nAbstract: Bounded ratios of products of minors of positive definite matrices have a long history, starting with Hadamard's inequality in 1893. It states that for every positive semidefinite matrix $A$ $$ \\det A \\le A_{11} \\cdots A_{nn}. $$ This inequality was subsequently generalized by Fisher and then further by Koteljanskii. The latter states that for every positive semidefinite matrix $A$ and any index sets $\\alpha_1, \\alpha_2 \\subseteq \\{1,\\ldots, n\\}$ one has $$ \\det A[\\alpha_1 \\cup \\alpha_2] \\det A[\\alpha_1 \\cap \\alpha_2] \\le \\det A[\\alpha_1] \\det A[\\alpha_2], $$ where $A[\\alpha]$ denotes the principal submatrix determined by the indexes in $\\alpha$.\n  In a manuscript published only on the arXiv in 2008, Hall and Johnson made three conjectures about ratios of products of principal minors of \\(4\\times4\\) positive definite matrices, denoted by $R_i$, $i=1,2,3$, see (2) and (3). They hypothesized that the supremum of $R_1$ was $27/16$, while the supremum of the other two ratios was $1$. Such ratios are called {\\it absolutely bounded}. The conjecture for $R_1$ was affirmed in \\cite{sendov2026} and it is the only known bounded determinantal ratio with supremum bigger than one. The goal of this paper is to affirm the conjecture for $R_2$ and $R_3$.\n  It is known that the upper bound for the ratios $R_i$, $i=1,2,3$, does not follow from repeated applications of Koteljanskii's inequality. In addition, Hall and Johnson showed that $R_i$ is bounded above by $4$, for $i=1,2,3$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CA",
+      "math.CV",
+      "math.SP"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Composition algebras in symmetric tensor categories",
+    "pubDate": "2026-08-06 04:00:00",
+    "link": "https://arxiv.org/abs/2608.04668",
+    "guid": "oai:arXiv.org:2608.04668v1",
+    "author": "Alberto Elduque, Javier R\\'andez-Ib\\'a\\~nez",
+    "thumbnail": "",
+    "description": "arXiv:2608.04668v1 Announce Type: new \nAbstract: Composition algebras in symmetric tensor categories are defined. The classical results on standard unital composition algebras, as well as the classification of the unital composition superalgebras, are reviewed in light of this definition, and the unital composition algebras in the category $Ver_4^+$ (the counterpart to the category of vector superspaces in characteristic 2) are classified.",
+    "content": "arXiv:2608.04668v1 Announce Type: new \nAbstract: Composition algebras in symmetric tensor categories are defined. The classical results on standard unital composition algebras, as well as the classification of the unital composition superalgebras, are reviewed in light of this definition, and the unital composition algebras in the category $Ver_4^+$ (the counterpart to the category of vector superspaces in characteristic 2) are classified.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.QA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On abelian complex structures on Nilpotent Lie Algebras",
+    "pubDate": "2026-08-06 04:00:00",
+    "link": "https://arxiv.org/abs/2608.04914",
+    "guid": "oai:arXiv.org:2608.04914v1",
+    "author": "Luis Pizarro, Raquel Villacampa",
+    "thumbnail": "",
+    "description": "arXiv:2608.04914v1 Announce Type: new \nAbstract: We provide a new approach to the classification, up to equivalence, of abelian complex structures on nilpotent Lie algebras. As an application, we recover the already known classifications in dimensions 4 and 6 and provide a classification in dimension 8 for 1-abelian complex structures. Some results about the general case are given.",
+    "content": "arXiv:2608.04914v1 Announce Type: new \nAbstract: We provide a new approach to the classification, up to equivalence, of abelian complex structures on nilpotent Lie algebras. As an application, we recover the already known classifications in dimensions 4 and 6 and provide a classification in dimension 8 for 1-abelian complex structures. Some results about the general case are given.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.DG"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Gradings by cyclic groups on classical simple Lie algebras in prime characteristics",
+    "pubDate": "2026-08-06 04:00:00",
+    "link": "https://arxiv.org/abs/2608.05023",
+    "guid": "oai:arXiv.org:2608.05023v1",
+    "author": "Mikhail Kochetov, Vishal Yadav",
+    "thumbnail": "",
+    "description": "arXiv:2608.05023v1 Announce Type: new \nAbstract: We classify, up to isomorphism, gradings by finite cyclic groups on classical simple Lie algebras $\\mathfrak{g}$ over an algebraically closed field of arbitrary characteristic. Using the smoothness of the automorphism group scheme $\\operatorname{\\mathbf{Aut}}\\mathfrak{g}$ and correspondence between $\\mathbb Z_m$-gradings and morphisms $\\boldsymbol{\\mu}_m\\to\\operatorname{\\mathbf{Aut}}\\mathfrak{g}$, we express the classification as an orbit problem for certain Weyl-type groups. More generally, for the affine group scheme $\\mathbf G$ associated to a semisimple algebraic group $G$ and the constant group scheme $\\mathbf \\Gamma_0$ associated to a subgroup $\\Gamma_0$ of the automorphism group of the based root datum of $G$, we consider the classification of morphisms $\\boldsymbol{\\mu}_m\\to \\mathbf G \\rtimes \\mathbf\\Gamma_0$ up to conjugation by $G \\rtimes \\Gamma_0$. We show that the classification in characteristic $p$ is the same as in characteristic $0$ except that, in characteristic $p$, only elements of $\\Gamma_0$ whose order is prime to $p$ can occur. For $\\mathbb{Z}_m$-gradings on $\\mathfrak{g}$, this extends the classification by Kac coordinates to arbitrary characteristic, with the caveat that only diagram automorphisms of order prime to $p$ are allowed and, if $p=2$ or $3$, the type of $\\operatorname{Aut}\\mathfrak{g}$ is not always the same as the type of $\\mathfrak{g}$.",
+    "content": "arXiv:2608.05023v1 Announce Type: new \nAbstract: We classify, up to isomorphism, gradings by finite cyclic groups on classical simple Lie algebras $\\mathfrak{g}$ over an algebraically closed field of arbitrary characteristic. Using the smoothness of the automorphism group scheme $\\operatorname{\\mathbf{Aut}}\\mathfrak{g}$ and correspondence between $\\mathbb Z_m$-gradings and morphisms $\\boldsymbol{\\mu}_m\\to\\operatorname{\\mathbf{Aut}}\\mathfrak{g}$, we express the classification as an orbit problem for certain Weyl-type groups. More generally, for the affine group scheme $\\mathbf G$ associated to a semisimple algebraic group $G$ and the constant group scheme $\\mathbf \\Gamma_0$ associated to a subgroup $\\Gamma_0$ of the automorphism group of the based root datum of $G$, we consider the classification of morphisms $\\boldsymbol{\\mu}_m\\to \\mathbf G \\rtimes \\mathbf\\Gamma_0$ up to conjugation by $G \\rtimes \\Gamma_0$. We show that the classification in characteristic $p$ is the same as in characteristic $0$ except that, in characteristic $p$, only elements of $\\Gamma_0$ whose order is prime to $p$ can occur. For $\\mathbb{Z}_m$-gradings on $\\mathfrak{g}$, this extends the classification by Kac coordinates to arbitrary characteristic, with the caveat that only diagram automorphisms of order prime to $p$ are allowed and, if $p=2$ or $3$, the type of $\\operatorname{Aut}\\mathfrak{g}$ is not always the same as the type of $\\mathfrak{g}$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GR"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A variation of Eichler's proof of the Baker-Campbell-Hausdorff formula",
+    "pubDate": "2026-08-06 04:00:00",
+    "link": "https://arxiv.org/abs/2608.05053",
+    "guid": "oai:arXiv.org:2608.05053v1",
+    "author": "Eugene Ha",
+    "thumbnail": "",
+    "description": "arXiv:2608.05053v1 Announce Type: new \nAbstract: Eichler gave an elementary but involved proof of the Baker-Campbell-Hausdorff formula, based on the associativity of the product of three exponentials. We show that by considering the associativity of the product of four exponentials, one can bypass the complications of Eichler's proof to arrive at a shorter proof that is both elementary and straightforward. As a corollary of the proof, a recursive scheme for the Baker-Campbell-Hausdorff formula is derived, in which explicit Bernoulli numbers are notably absent.",
+    "content": "arXiv:2608.05053v1 Announce Type: new \nAbstract: Eichler gave an elementary but involved proof of the Baker-Campbell-Hausdorff formula, based on the associativity of the product of three exponentials. We show that by considering the associativity of the product of four exponentials, one can bypass the complications of Eichler's proof to arrive at a shorter proof that is both elementary and straightforward. As a corollary of the proof, a recursive scheme for the Baker-Campbell-Hausdorff formula is derived, in which explicit Bernoulli numbers are notably absent.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Kemeny's constant and Braess cliques in graphs",
+    "pubDate": "2026-08-06 04:00:00",
+    "link": "https://arxiv.org/abs/2608.04150",
+    "guid": "oai:arXiv.org:2608.04150v1",
+    "author": "Jane Breen, Emma deBlieck, Kevin N. Vander Meulen",
+    "thumbnail": "",
+    "description": "arXiv:2608.04150v1 Announce Type: cross \nAbstract: Kemeny's constant is used as a measure of the average travel time on a graph. Braess' paradox for graphs is the observation that in some graphs, when an edge is added, Kemeny's constant increases. We introduce the notion of a Braess clique $K_\\ell$, a clique that when inserted into a graph on an independent set of $\\ell$ vertices, will create an increase in Kemeny's constant. In this context, a Braess edge is a Braess $K_2$. We provide examples of graphs that have a Braess $K_\\ell$ for $\\ell\\geq 3$. We observe that almost every connected planar labelled graph has a Braess $K_\\ell$ for each $\\ell\\geq 3$. We also explore the relationship between Braess edges and Braess cliques in graphs.",
+    "content": "arXiv:2608.04150v1 Announce Type: cross \nAbstract: Kemeny's constant is used as a measure of the average travel time on a graph. Braess' paradox for graphs is the observation that in some graphs, when an edge is added, Kemeny's constant increases. We introduce the notion of a Braess clique $K_\\ell$, a clique that when inserted into a graph on an independent set of $\\ell$ vertices, will create an increase in Kemeny's constant. In this context, a Braess edge is a Braess $K_2$. We provide examples of graphs that have a Braess $K_\\ell$ for $\\ell\\geq 3$. We observe that almost every connected planar labelled graph has a Braess $K_\\ell$ for each $\\ell\\geq 3$. We also explore the relationship between Braess edges and Braess cliques in graphs.",
+    "enclosure": {},
+    "categories": [
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Scattering diagrams for Artin algebras",
+    "pubDate": "2026-08-06 04:00:00",
+    "link": "https://arxiv.org/abs/2608.04233",
+    "guid": "oai:arXiv.org:2608.04233v1",
+    "author": "Hipolito Treffinger",
+    "thumbnail": "",
+    "description": "arXiv:2608.04233v1 Announce Type: cross \nAbstract: For an arbitrary Artin algebra $A$, we construct a minimal and consistent scattering diagram by approximating its module category $\\mathrm{mod}\\,A$ using the subcategories $(\\mathrm{mod}\\,A)_\\ell$ of modules of length at most $\\ell \\in \\mathbb{N}$. We prove that each subcategory $(\\operatorname{mod}A)_\\ell$ possesses a well-behaved lattice of torsion classes, a finite wall-and-chamber structure $\\mathfrak{D}_\\ell(A)$ and an associated picture group $G_\\ell(A)$ with a natural categorical interpretation. Using these properties, we build a finite, minimal, consistent scattering diagram for each $\\ell \\in \\mathbb{N}$. Passing to the inverse limit, we establish the existence of a minimal consistent scattering diagram for $A$. In particular, when $A$ is a finite-dimensional algebra over $\\mathbb{C}$, our inverse limit construction is canonically isomorphic to Bridgeland's stability scattering diagram.",
+    "content": "arXiv:2608.04233v1 Announce Type: cross \nAbstract: For an arbitrary Artin algebra $A$, we construct a minimal and consistent scattering diagram by approximating its module category $\\mathrm{mod}\\,A$ using the subcategories $(\\mathrm{mod}\\,A)_\\ell$ of modules of length at most $\\ell \\in \\mathbb{N}$. We prove that each subcategory $(\\operatorname{mod}A)_\\ell$ possesses a well-behaved lattice of torsion classes, a finite wall-and-chamber structure $\\mathfrak{D}_\\ell(A)$ and an associated picture group $G_\\ell(A)$ with a natural categorical interpretation. Using these properties, we build a finite, minimal, consistent scattering diagram for each $\\ell \\in \\mathbb{N}$. Passing to the inverse limit, we establish the existence of a minimal consistent scattering diagram for $A$. In particular, when $A$ is a finite-dimensional algebra over $\\mathbb{C}$, our inverse limit construction is canonically isomorphic to Bridgeland's stability scattering diagram.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The Born Representation Theorem and the Unistochastic Theorem",
+    "pubDate": "2026-08-06 04:00:00",
+    "link": "https://arxiv.org/abs/2608.04354",
+    "guid": "oai:arXiv.org:2608.04354v1",
+    "author": "Jacob A. Barandes",
+    "thumbnail": "",
+    "description": "arXiv:2608.04354v1 Announce Type: cross \nAbstract: This paper presents self-contained, constructive proofs of two new theorems about stochastic matrices, with direct relevance to quantum theory. The first theorem, herein called the Born Representation Theorem, shows that each entry of any stochastic matrix can be expressed as the trace of a pairwise product of matrices, where the first factor in the pairwise product belongs to a positive-operator-valued measure (POVM) and the second factor belongs to a projection-valued measure (PVM). As its name suggests, this theorem entails that the entries of any stochastic matrix can be expressed in terms of a generalized version of the quantum-theoretic Born rule. It follows as a corollary that if the POVM in this first theorem is a PVM, then the stochastic matrix is unistochastic, meaning that its entries are each the modulus square of the corresponding entry of a unitary matrix of the same size. The second theorem proved in this paper, called the Unistochastic Theorem, then shows that by dilating the underlying vector space by a bounded number of additional dimensions if necessary, each entry of any stochastic matrix can be expressed in terms of the trace of a pairwise product for which both factors belong to PVMs, and can thus be derived via marginalization from a larger unistochastic matrix. This second theorem therefore establishes a kind of primacy of unistochastic matrices over stochastic matrices, and hints at a close connection with unitary time evolution in quantum theory. The paper concludes with a brief discussion of potential applications to discrete-time deterministic processes and Markov chains.",
+    "content": "arXiv:2608.04354v1 Announce Type: cross \nAbstract: This paper presents self-contained, constructive proofs of two new theorems about stochastic matrices, with direct relevance to quantum theory. The first theorem, herein called the Born Representation Theorem, shows that each entry of any stochastic matrix can be expressed as the trace of a pairwise product of matrices, where the first factor in the pairwise product belongs to a positive-operator-valued measure (POVM) and the second factor belongs to a projection-valued measure (PVM). As its name suggests, this theorem entails that the entries of any stochastic matrix can be expressed in terms of a generalized version of the quantum-theoretic Born rule. It follows as a corollary that if the POVM in this first theorem is a PVM, then the stochastic matrix is unistochastic, meaning that its entries are each the modulus square of the corresponding entry of a unitary matrix of the same size. The second theorem proved in this paper, called the Unistochastic Theorem, then shows that by dilating the underlying vector space by a bounded number of additional dimensions if necessary, each entry of any stochastic matrix can be expressed in terms of the trace of a pairwise product for which both factors belong to PVMs, and can thus be derived via marginalization from a larger unistochastic matrix. This second theorem therefore establishes a kind of primacy of unistochastic matrices over stochastic matrices, and hints at a close connection with unitary time evolution in quantum theory. The paper concludes with a brief discussion of potential applications to discrete-time deterministic processes and Markov chains.",
+    "enclosure": {},
+    "categories": [
+      "quant-ph",
+      "math-ph",
+      "math.MP",
+      "math.PR",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On simples in a cosilting heart and mutation of cosilting pairs",
+    "pubDate": "2026-08-06 04:00:00",
+    "link": "https://arxiv.org/abs/2608.04683",
+    "guid": "oai:arXiv.org:2608.04683v1",
+    "author": "Ramin Ebrahimi, Rasool Hafezi, Jiaqun Wei",
+    "thumbnail": "",
+    "description": "arXiv:2608.04683v1 Announce Type: cross \nAbstract: Let $A$ be a finite dimensional algebra. The lattice of torsion pairs in $\\rm mod (A)$ is controlled by cosilting pairs, infinitely generated analogues of support $\\tau^-$-tilting pairs. Then, edges in the Hasse quiver (i.e. minimal inclusions of torsion-free classes) correspond to irreducible mutations of cosilting pairs. An important difference with classical $\\tau$-tilting theory is that not all indecomposable summands of a cosilting pair are mutable. So, it is very important to identify mutable indecomposable summands in a given cosilting pair.\n  It is well-known that mutable summands correspond to injective envelopes of finitely presented simples in the HRS-tilted heart. Based on this correspondence, we first present a method for obtaining all simples in the HRS-tilted heart, and then give some necessary and sufficient conditions for an indecomposable summand of a given cosilting pair to be left mutable or right mutable.",
+    "content": "arXiv:2608.04683v1 Announce Type: cross \nAbstract: Let $A$ be a finite dimensional algebra. The lattice of torsion pairs in $\\rm mod (A)$ is controlled by cosilting pairs, infinitely generated analogues of support $\\tau^-$-tilting pairs. Then, edges in the Hasse quiver (i.e. minimal inclusions of torsion-free classes) correspond to irreducible mutations of cosilting pairs. An important difference with classical $\\tau$-tilting theory is that not all indecomposable summands of a cosilting pair are mutable. So, it is very important to identify mutable indecomposable summands in a given cosilting pair.\n  It is well-known that mutable summands correspond to injective envelopes of finitely presented simples in the HRS-tilted heart. Based on this correspondence, we first present a method for obtaining all simples in the HRS-tilted heart, and then give some necessary and sufficient conditions for an indecomposable summand of a given cosilting pair to be left mutable or right mutable.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Hom-Poisson superalgebras with nondegenerate bilinear forms and compatible Hom-anti-pre-Poisson superalgebras",
     "pubDate": "2026-08-05 04:00:00",
     "link": "https://arxiv.org/abs/2608.03427",
