@@ -1,5 +1,86 @@
 [
   {
+    "title": "Linearisation, splitting property and homotopy algebras",
+    "pubDate": "2026-08-07 04:00:00",
+    "link": "https://arxiv.org/abs/2608.05875",
+    "guid": "oai:arXiv.org:2608.05875v1",
+    "author": "Seokbong Seol, Kai Wang",
+    "thumbnail": "",
+    "description": "arXiv:2608.05875v1 Announce Type: cross \nAbstract: In this paper, we study the formal linearisation problem for vector fields in the framework of graded coalgebras. We prove that a formal vector field is linearisable if and only if it satisfies a splitting property, by providing an explicit recursive construction of the isomorphism that linearises it. This criterion yields a streamlined proof of Basto-Gon\\c{c}alves' theorem on admissible resonant vector fields. We also establish a corresponding splitting criterion for morphisms of formal manifolds, proving that a morphism is linearisable if and only if it satisfies this property. Furthermore, we obtain an elementary and explicit proof of Bandiera's characterisation of linearisable (equivalently, homotopy abelian) $L_\\infty[1]$ algebras. Finally, we extend this framework to $A_\\infty[1]$ algebras, showing that their linearisability is similarly characterised by an analogous splitting property.",
+    "content": "arXiv:2608.05875v1 Announce Type: cross \nAbstract: In this paper, we study the formal linearisation problem for vector fields in the framework of graded coalgebras. We prove that a formal vector field is linearisable if and only if it satisfies a splitting property, by providing an explicit recursive construction of the isomorphism that linearises it. This criterion yields a streamlined proof of Basto-Gon\\c{c}alves' theorem on admissible resonant vector fields. We also establish a corresponding splitting criterion for morphisms of formal manifolds, proving that a morphism is linearisable if and only if it satisfies this property. Furthermore, we obtain an elementary and explicit proof of Bandiera's characterisation of linearisable (equivalently, homotopy abelian) $L_\\infty[1]$ algebras. Finally, we extend this framework to $A_\\infty[1]$ algebras, showing that their linearisability is similarly characterised by an analogous splitting property.",
+    "enclosure": {},
+    "categories": [
+      "math.DG",
+      "math.QA",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "2-Local and local derivations on Jordan matrix rings over commutative involutive rings",
+    "pubDate": "2026-08-07 04:00:00",
+    "link": "https://arxiv.org/abs/2108.03993",
+    "guid": "oai:arXiv.org:2108.03993v4",
+    "author": "Sh. A. Ayupov, F. N. Arzikulov, N. M. Umrzaqov, O. O. Nuriddinov",
+    "thumbnail": "",
+    "description": "arXiv:2108.03993v4 Announce Type: replace \nAbstract: In the present paper we prove that every 2-local inner derivation on the Jordan ring of self-adjoint matrices over a commutative involutive ring is a derivation. We also apply our technique to various Jordan algebras of infinite dimensional self-adjoint matrix-valued maps on a set and prove that every 2-local spatial derivation on such algebras is a spatial derivation. It is also proved that every local spatial derivation on the same Jordan algebras is a derivation.",
+    "content": "arXiv:2108.03993v4 Announce Type: replace \nAbstract: In the present paper we prove that every 2-local inner derivation on the Jordan ring of self-adjoint matrices over a commutative involutive ring is a derivation. We also apply our technique to various Jordan algebras of infinite dimensional self-adjoint matrix-valued maps on a set and prove that every 2-local spatial derivation on such algebras is a spatial derivation. It is also proved that every local spatial derivation on the same Jordan algebras is a derivation.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.OA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Normal Quaternionic Matrices and Finitely Generated Witt Rings",
+    "pubDate": "2026-08-07 04:00:00",
+    "link": "https://arxiv.org/abs/2505.14485",
+    "guid": "oai:arXiv.org:2505.14485v5",
+    "author": "Nico Lorenz, Alexander Sch\\&quot;onert",
+    "thumbnail": "",
+    "description": "arXiv:2505.14485v5 Announce Type: replace \nAbstract: We present a new approach to verify the Elementary Type Conjecture for abstract Witt rings with small number of square classes. To do so, we make use of an abstract analogue of the 2-torsion part of the Brauer group. We develop a description of the entire structure of an abstract Witt ring with $2^n$ square classes in terms of a unique $n\\times n$ matrix satisfying a small additional condition that particularly holds for Witt rings of fields. Via computational search, we find all these matrices for $n$ up to $7$. All obtained results affirm the Elementary Type Conjecture.",
+    "content": "arXiv:2505.14485v5 Announce Type: replace \nAbstract: We present a new approach to verify the Elementary Type Conjecture for abstract Witt rings with small number of square classes. To do so, we make use of an abstract analogue of the 2-torsion part of the Brauer group. We develop a description of the entire structure of an abstract Witt ring with $2^n$ square classes in terms of a unique $n\\times n$ matrix satisfying a small additional condition that particularly holds for Witt rings of fields. Via computational search, we find all these matrices for $n$ up to $7$. All obtained results affirm the Elementary Type Conjecture.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Aggregate Bounds on the eigenvalues of the principal submatrices of a Hermitian matrix and majorization relations",
+    "pubDate": "2026-08-07 04:00:00",
+    "link": "https://arxiv.org/abs/2601.16320",
+    "guid": "oai:arXiv.org:2601.16320v2",
+    "author": "Hristo Sendov, Mengxu Yuan",
+    "thumbnail": "",
+    "description": "arXiv:2601.16320v2 Announce Type: replace \nAbstract: We extend bounds, proved by R.C. Thompson in 1966, on the sum of the $j$-th largest eigenvalues of the $(n-1) \\times (n-1)$ principal matrices of an $n \\times n$ Hermitian matrix. Our bounds are stronger than just summing up Thompson's bounds. We achieve the extensions as a corollary of a more general result giving bounds on the zeros of the generalized derivatives of polynomials with real roots. We use the extended bounds to obtain majorization relationships between the eigenvalues of all $m \\times m$ principal matrices of an $n \\times n$ Hermitian matrix. These majorization relationships imply both a well-known majorization result by Schur and the well-known Szasz's inequalities.",
+    "content": "arXiv:2601.16320v2 Announce Type: replace \nAbstract: We extend bounds, proved by R.C. Thompson in 1966, on the sum of the $j$-th largest eigenvalues of the $(n-1) \\times (n-1)$ principal matrices of an $n \\times n$ Hermitian matrix. Our bounds are stronger than just summing up Thompson's bounds. We achieve the extensions as a corollary of a more general result giving bounds on the zeros of the generalized derivatives of polynomials with real roots. We use the extended bounds to obtain majorization relationships between the eigenvalues of all $m \\times m$ principal matrices of an $n \\times n$ Hermitian matrix. These majorization relationships imply both a well-known majorization result by Schur and the well-known Szasz's inequalities.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CA",
+      "math.FA",
+      "math.SP"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Tame Automorphisms of Free Nilpotent Lie Algebras of Countably Infinite Rank",
+    "pubDate": "2026-08-07 04:00:00",
+    "link": "https://arxiv.org/abs/2606.21459",
+    "guid": "oai:arXiv.org:2606.21459v2",
+    "author": "C. E. Kofinas",
+    "thumbnail": "",
+    "description": "arXiv:2606.21459v2 Announce Type: replace \nAbstract: Let $L_{\\infty}$ be a free Lie algebra of countably infinite rank over a field of characteristic $0$ and let $L_{\\infty, c}$ be the free nilpotent Lie algebra of countably infinite rank and class $c$. We prove that every automorphism of $L_{\\infty, c}$ is induced by an automorphism of $L_{\\infty}$.",
+    "content": "arXiv:2606.21459v2 Announce Type: replace \nAbstract: Let $L_{\\infty}$ be a free Lie algebra of countably infinite rank over a field of characteristic $0$ and let $L_{\\infty, c}$ be the free nilpotent Lie algebra of countably infinite rank and class $c$. We prove that every automorphism of $L_{\\infty, c}$ is induced by an automorphism of $L_{\\infty}$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Solvable Quadratic Lie algebras up to dimension 7",
     "pubDate": "2026-08-06 04:00:00",
     "link": "https://arxiv.org/abs/2608.04188",
