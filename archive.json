@@ -1,5 +1,102 @@
 [
   {
+    "title": "Post-Poisson algebras, extended $\\mathcal{O}$-operators and extended Poisson Yang-Baxter equations",
+    "pubDate": "2026-08-10 04:00:00",
+    "link": "https://arxiv.org/abs/2608.06736",
+    "guid": "oai:arXiv.org:2608.06736v1",
+    "author": "Yuanchang Lin, Dilei Lu",
+    "thumbnail": "",
+    "description": "arXiv:2608.06736v1 Announce Type: new \nAbstract: This paper introduces the extended $\\mathcal{O}$-operators on Poisson algebras as a natural generalization of ordinary $\\mathcal{O}$-operators, together with the extended Poisson Yang-Baxter equations. We show that $\\mathcal{O}$-operators of weight $\\lambda$ on Poisson algebras give rise to post-Poisson algebras, whose operad are the trisuccessor of the operad of Poisson algebras, and that extended $\\mathcal{O}$-operators induce new Poisson algebra structures on module spaces.Equivalent characterizations of extended $\\mathcal{O}$-operators are obtained via the symmetrizer-antisymmetrizer decomposition. The generalized Poisson Yang-Baxter equations are also introduced, and their connections with coboundary Poisson bialgebras and extended $\\mathcal{O}$-operators are established. The tensor form of extended $\\mathcal{O}$-operators leads to the notion of the extended Poisson Yang-Baxter equations, which generalizes the notion of the Poisson Yang-Baxter equations. Finally, the relationships among extended $\\mathcal{O}$-operators, the extended Poisson Yang-Baxter equations, and the Poisson Yang-Baxter equations are studied in the framework of quadratic Poisson algebras and semi-direct product Poisson algebras.",
+    "content": "arXiv:2608.06736v1 Announce Type: new \nAbstract: This paper introduces the extended $\\mathcal{O}$-operators on Poisson algebras as a natural generalization of ordinary $\\mathcal{O}$-operators, together with the extended Poisson Yang-Baxter equations. We show that $\\mathcal{O}$-operators of weight $\\lambda$ on Poisson algebras give rise to post-Poisson algebras, whose operad are the trisuccessor of the operad of Poisson algebras, and that extended $\\mathcal{O}$-operators induce new Poisson algebra structures on module spaces.Equivalent characterizations of extended $\\mathcal{O}$-operators are obtained via the symmetrizer-antisymmetrizer decomposition. The generalized Poisson Yang-Baxter equations are also introduced, and their connections with coboundary Poisson bialgebras and extended $\\mathcal{O}$-operators are established. The tensor form of extended $\\mathcal{O}$-operators leads to the notion of the extended Poisson Yang-Baxter equations, which generalizes the notion of the Poisson Yang-Baxter equations. Finally, the relationships among extended $\\mathcal{O}$-operators, the extended Poisson Yang-Baxter equations, and the Poisson Yang-Baxter equations are studied in the framework of quadratic Poisson algebras and semi-direct product Poisson algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math-ph",
+      "math.MP"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Noncommutative Rational Sums of Squares in Free Algebras",
+    "pubDate": "2026-08-10 04:00:00",
+    "link": "https://arxiv.org/abs/2608.07111",
+    "guid": "oai:arXiv.org:2608.07111v1",
+    "author": "Sizhuo Yan, Jianting Yang, Lihong Zhi",
+    "thumbnail": "",
+    "description": "arXiv:2608.07111v1 Announce Type: new \nAbstract: This paper introduces rational sums of squares for symmetric noncommutative polynomials in free algebras. Under the assumption that the polynomial admits a strictly positive scalar self-adjoint evaluation, our main result gives an operator-theoretic characterization of this class: a polynomial is a rational sum of squares if and only if there exists a degree bound such that, for every self-adjoint operator evaluation satisfying a natural nondegeneracy condition, the compression of the evaluated polynomial to the associated finite-dimensional cyclic subspace is not negative definite. We also prove that sums of Hermitian squares form a proper subset of rational sums of squares when the free algebra has at least two generators, whereas the two classes coincide for homogeneous polynomials. Finally, we show that the set of rational sums of squares is nonconvex when there are at least three generators, and that its complement is also nonconvex.",
+    "content": "arXiv:2608.07111v1 Announce Type: new \nAbstract: This paper introduces rational sums of squares for symmetric noncommutative polynomials in free algebras. Under the assumption that the polynomial admits a strictly positive scalar self-adjoint evaluation, our main result gives an operator-theoretic characterization of this class: a polynomial is a rational sum of squares if and only if there exists a degree bound such that, for every self-adjoint operator evaluation satisfying a natural nondegeneracy condition, the compression of the evaluated polynomial to the associated finite-dimensional cyclic subspace is not negative definite. We also prove that sums of Hermitian squares form a proper subset of rational sums of squares when the free algebra has at least two generators, whereas the two classes coincide for homogeneous polynomials. Finally, we show that the set of rational sums of squares is nonconvex when there are at least three generators, and that its complement is also nonconvex.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Comparing self-dual corings, Frobenius corings and Ringel self-duality",
+    "pubDate": "2026-08-10 04:00:00",
+    "link": "https://arxiv.org/abs/2608.03299",
+    "guid": "oai:arXiv.org:2608.03299v1",
+    "author": "Tomasz Brzezi\\'nski, Teresa Conde, Steffen Koenig, Julian K\\&quot;ulshammer",
+    "thumbnail": "",
+    "description": "arXiv:2608.03299v1 Announce Type: cross \nAbstract: Self-dual corings and self-dual algebra extensions are classified and these (self-)dualities are compared with Ringel (self-)duality, revealing fundamental differences. To each coring $\\mathcal C$, two algebras are associated, known as the left and the right dual algebra of $\\mathcal C$. It is shown that these two algebras coincide in a natural way if and only if $\\mathcal C$ is a Frobenius coring. Various other equivalent characterisations of $\\mathcal C$ being self-dual are given, in terms of certain algebra extensions being Frobenius extensions and in terms of certain forgetful or restriction functors being Frobenius functors. Ringel self-duality however is shown to be rather different, for which a homological explanation is given.",
+    "content": "arXiv:2608.03299v1 Announce Type: cross \nAbstract: Self-dual corings and self-dual algebra extensions are classified and these (self-)dualities are compared with Ringel (self-)duality, revealing fundamental differences. To each coring $\\mathcal C$, two algebras are associated, known as the left and the right dual algebra of $\\mathcal C$. It is shown that these two algebras coincide in a natural way if and only if $\\mathcal C$ is a Frobenius coring. Various other equivalent characterisations of $\\mathcal C$ being self-dual are given, in terms of certain algebra extensions being Frobenius extensions and in terms of certain forgetful or restriction functors being Frobenius functors. Ringel self-duality however is shown to be rather different, for which a homological explanation is given.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.QA",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The relationship between local derivations and local automorphisms of some associative algebras",
+    "pubDate": "2026-08-10 04:00:00",
+    "link": "https://arxiv.org/abs/2511.17316",
+    "guid": "oai:arXiv.org:2511.17316v3",
+    "author": "Farkhodzhon Arzikulov, Utkir Khakimov, Abduqaxxor Qurbonov",
+    "thumbnail": "",
+    "description": "arXiv:2511.17316v3 Announce Type: replace \nAbstract: In the present paper, local derivations and local automorphisms of five-dimensional naturally graded nilpotent associative algebras are studied. Namely, a general form of the matrices of local derivations and local automorphisms of algebras $\\pi_2$ and $\\pi_3$ is clarified. It turns out that the general form of the matrix of an automorphism (derivation) on these algebras does not coincide with the local automorphism's (resp. local derivation's) matrix's general form on these algebras. Therefore, these associative algebras have local automorphisms (resp. local derivations) that are not automorphisms (resp. derivations). We also establish a relationship between local automorphisms and local derivations via an exponential expression. We prove that the sets of local derivations of algebras $\\pi_2$ and $\\pi_3$ form Lie algebras with respect to the Lie brackets. Thus, we show that the Lie algebra problem from the Ayupov-Eldique-Kudaybergenov problems for local derivations of the algebras under consideration has a positive solution. The remaining problems from the Ayupov-Eldique-Kudaybergenov problems also have a positive solution for algebras $\\pi_2$ and $\\pi_3$.",
+    "content": "arXiv:2511.17316v3 Announce Type: replace \nAbstract: In the present paper, local derivations and local automorphisms of five-dimensional naturally graded nilpotent associative algebras are studied. Namely, a general form of the matrices of local derivations and local automorphisms of algebras $\\pi_2$ and $\\pi_3$ is clarified. It turns out that the general form of the matrix of an automorphism (derivation) on these algebras does not coincide with the local automorphism's (resp. local derivation's) matrix's general form on these algebras. Therefore, these associative algebras have local automorphisms (resp. local derivations) that are not automorphisms (resp. derivations). We also establish a relationship between local automorphisms and local derivations via an exponential expression. We prove that the sets of local derivations of algebras $\\pi_2$ and $\\pi_3$ form Lie algebras with respect to the Lie brackets. Thus, we show that the Lie algebra problem from the Ayupov-Eldique-Kudaybergenov problems for local derivations of the algebras under consideration has a positive solution. The remaining problems from the Ayupov-Eldique-Kudaybergenov problems also have a positive solution for algebras $\\pi_2$ and $\\pi_3$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Totally compatible structures on the radical of an incidence algebra",
+    "pubDate": "2026-08-10 04:00:00",
+    "link": "https://arxiv.org/abs/2512.24881",
+    "guid": "oai:arXiv.org:2512.24881v4",
+    "author": "Mykola Khrypchenko",
+    "thumbnail": "",
+    "description": "arXiv:2512.24881v4 Announce Type: replace \nAbstract: We describe totally compatible structures on the Jacobson radical of the incidence algebra of a finite poset over a field. We show that such structures are in general non-proper.",
+    "content": "arXiv:2512.24881v4 Announce Type: replace \nAbstract: We describe totally compatible structures on the Jacobson radical of the incidence algebra of a finite poset over a field. We show that such structures are in general non-proper.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Folded Gentle Algebras",
+    "pubDate": "2026-08-10 04:00:00",
+    "link": "https://arxiv.org/abs/2502.05655",
+    "guid": "oai:arXiv.org:2502.05655v3",
+    "author": "Drew Damien Duffield",
+    "thumbnail": "",
+    "description": "arXiv:2502.05655v3 Announce Type: replace-cross \nAbstract: We use folding techniques to define a new class of gentle-like algebras that generalise the iterated tilted algebras of type $C$ and $\\widetilde{C}$, which we call folded gentle algebras. We show that folded gentle algebras satisfy many of the same properties of gentle algebras, and that the proof of these properties follows directly from folding arguments. As a subclass of clannish algebras (with irreducible quadratic relations), we show that the classification of indecomposable modules (in terms of symmetric and asymmetric strings and bands) can be recovered from folding techniques, and that this proof technique provides further explicit detail on the classification of band modules. In particular, our paper includes a classification of indecomposable modules over the algebra $K\\langle x,y\\rangle/ \\langle p(x),q(y) \\rangle$, where $p$ and $q$ are monic, irreducible, quadratic polynomials over $K$. In addition, we classify the Auslander-Reiten sequences of folded gentle algebras, showing that irreducible morphisms between string modules are given by adding/deleting hooks and cohooks to/from strings. Finally, we show that the class of folded gentle algebras is closed under derived equivalence.",
+    "content": "arXiv:2502.05655v3 Announce Type: replace-cross \nAbstract: We use folding techniques to define a new class of gentle-like algebras that generalise the iterated tilted algebras of type $C$ and $\\widetilde{C}$, which we call folded gentle algebras. We show that folded gentle algebras satisfy many of the same properties of gentle algebras, and that the proof of these properties follows directly from folding arguments. As a subclass of clannish algebras (with irreducible quadratic relations), we show that the classification of indecomposable modules (in terms of symmetric and asymmetric strings and bands) can be recovered from folding techniques, and that this proof technique provides further explicit detail on the classification of band modules. In particular, our paper includes a classification of indecomposable modules over the algebra $K\\langle x,y\\rangle/ \\langle p(x),q(y) \\rangle$, where $p$ and $q$ are monic, irreducible, quadratic polynomials over $K$. In addition, we classify the Auslander-Reiten sequences of folded gentle algebras, showing that irreducible morphisms between string modules are given by adding/deleting hooks and cohooks to/from strings. Finally, we show that the class of folded gentle algebras is closed under derived equivalence.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Linearisation, splitting property and homotopy algebras",
     "pubDate": "2026-08-07 04:00:00",
     "link": "https://arxiv.org/abs/2608.05875",
