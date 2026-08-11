@@ -1,5 +1,156 @@
 [
   {
+    "title": "Amenability is not sensitive to the base field",
+    "pubDate": "2026-08-11 04:00:00",
+    "link": "https://arxiv.org/abs/2608.08161",
+    "guid": "oai:arXiv.org:2608.08161v1",
+    "author": "Be'eri Greenfeld",
+    "thumbnail": "",
+    "description": "arXiv:2608.08161v1 Announce Type: new \nAbstract: We prove that the notion of amenability of a (module over) an associative algebra does not depend on the ground field, answering a question proposed by Cornulier in a MathOverflow discussion. A significant part of the argument is based on ideas of ChatGPT 5.6 Sol.",
+    "content": "arXiv:2608.08161v1 Announce Type: new \nAbstract: We prove that the notion of amenability of a (module over) an associative algebra does not depend on the ground field, answering a question proposed by Cornulier in a MathOverflow discussion. A significant part of the argument is based on ideas of ChatGPT 5.6 Sol.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Determinant Factorization of Left Multiplication in the 32 Dimensional Cayley Dickson Algebra",
+    "pubDate": "2026-08-11 04:00:00",
+    "link": "https://arxiv.org/abs/2608.08232",
+    "guid": "oai:arXiv.org:2608.08232v1",
+    "author": "Shoot Koebisu",
+    "thumbnail": "",
+    "description": "arXiv:2608.08232v1 Announce Type: new \nAbstract: We study the determinant of left multiplication in the 32-dimensional Cayley-Dickson algebra $A_5$. For $x \\in A_5$, let $L_x$ denote left multiplication and let $N(x)=|x|^2$. Using the fourfold multiplicity of the eigenspaces of $L_{x^*}L_x$ and Newton identities applied to its trace invariants, we construct a homogeneous polynomial $D_{14}$ of degree 14 and prove the factorization $\\det L_x=N(x)^2D_{14}(x)^2$. Consequently, a nonzero element $x \\in A_5$ is a left zero divisor if and only if $D_{14}(x)=0$. We also prove the sharp bound $0 \\le D_{14}(x) \\le N(x)^7$, which yields $0 \\le \\det L_x \\le |x|^{32}$, and characterize the equality case in terms of alternative elements. We compare this factorization with the corresponding structure in the sedenions $A_4$. In $A_4$ an additional norm factor occurs, whereas in $A_5$ we prove, after complexification, that $N$ does not divide $D_{14}$. Thus the passage from $A_4$ to $A_5$ exhibits a genuine change in the determinant factorization. The construction gives a basis-independent polynomial description of the determinant-level spectral structure of $A_5$ and an explicit algebraic criterion for its zero divisors.",
+    "content": "arXiv:2608.08232v1 Announce Type: new \nAbstract: We study the determinant of left multiplication in the 32-dimensional Cayley-Dickson algebra $A_5$. For $x \\in A_5$, let $L_x$ denote left multiplication and let $N(x)=|x|^2$. Using the fourfold multiplicity of the eigenspaces of $L_{x^*}L_x$ and Newton identities applied to its trace invariants, we construct a homogeneous polynomial $D_{14}$ of degree 14 and prove the factorization $\\det L_x=N(x)^2D_{14}(x)^2$. Consequently, a nonzero element $x \\in A_5$ is a left zero divisor if and only if $D_{14}(x)=0$. We also prove the sharp bound $0 \\le D_{14}(x) \\le N(x)^7$, which yields $0 \\le \\det L_x \\le |x|^{32}$, and characterize the equality case in terms of alternative elements. We compare this factorization with the corresponding structure in the sedenions $A_4$. In $A_4$ an additional norm factor occurs, whereas in $A_5$ we prove, after complexification, that $N$ does not divide $D_{14}$. Thus the passage from $A_4$ to $A_5$ exhibits a genuine change in the determinant factorization. The construction gives a basis-independent polynomial description of the determinant-level spectral structure of $A_5$ and an explicit algebraic criterion for its zero divisors.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Points with Commuting Coordinates over Division Rings",
+    "pubDate": "2026-08-11 04:00:00",
+    "link": "https://arxiv.org/abs/2608.08316",
+    "guid": "oai:arXiv.org:2608.08316v1",
+    "author": "Adam Chapman, Solomon Vishkautsan",
+    "thumbnail": "",
+    "description": "arXiv:2608.08316v1 Announce Type: new \nAbstract: We investigate the properties of multivariate polynomials evaluated at points with commuting coordinates over division rings and octonion algebras. Given a division ring $D$, this set of points is denoted by $D_c^n$, and in the special case of $D=\\mathbb{H}$, Alon and Paran showed that its points correspond to the maximal left ideals of $\\mathbb{H}[x_1,\\dots,x_n]$. Here we show that if a polynomial $f$ vanishes at $\\vec{a} \\in D_c^n$, then any left multiple $gf$ also vanishes at $\\vec{a}$. Consequently, over a central division algebra or an octonion algebra, any root of $f$ in $D_c^n$ is also a root of its (reduced) norm. We apply these evaluation properties to discrete algebraic dynamics, proving that if a point in $D_c^n$ is a fixed point of an $n$-tuple $T=(f_1,\\dots,f_n)$ of polynomials in $n$ variables, then it is a fixed point of $T^{\\circ m}$ for any positive integer $m$.",
+    "content": "arXiv:2608.08316v1 Announce Type: new \nAbstract: We investigate the properties of multivariate polynomials evaluated at points with commuting coordinates over division rings and octonion algebras. Given a division ring $D$, this set of points is denoted by $D_c^n$, and in the special case of $D=\\mathbb{H}$, Alon and Paran showed that its points correspond to the maximal left ideals of $\\mathbb{H}[x_1,\\dots,x_n]$. Here we show that if a polynomial $f$ vanishes at $\\vec{a} \\in D_c^n$, then any left multiple $gf$ also vanishes at $\\vec{a}$. Consequently, over a central division algebra or an octonion algebra, any root of $f$ in $D_c^n$ is also a root of its (reduced) norm. We apply these evaluation properties to discrete algebraic dynamics, proving that if a point in $D_c^n$ is a fixed point of an $n$-tuple $T=(f_1,\\dots,f_n)$ of polynomials in $n$ variables, then it is a fixed point of $T^{\\circ m}$ for any positive integer $m$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "$R$-Bunce-Deddens Algebras",
+    "pubDate": "2026-08-11 04:00:00",
+    "link": "https://arxiv.org/abs/2608.08427",
+    "guid": "oai:arXiv.org:2608.08427v1",
+    "author": "Allen Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2608.08427v1 Announce Type: new \nAbstract: We construct an $R$-algebraic analog of the Bunce-Deddens algebra using the theory of labelled Leavitt path algebras. In particular, we will construct a labelled space whose associated partial action on tight filters is exactly the odometer action on the Cantor set that induces the classical Bunce-Deddens algebra. Finally, we will prove $R$-algebraic analogs of various results for classical Bunce-Deddens algebras.",
+    "content": "arXiv:2608.08427v1 Announce Type: new \nAbstract: We construct an $R$-algebraic analog of the Bunce-Deddens algebra using the theory of labelled Leavitt path algebras. In particular, we will construct a labelled space whose associated partial action on tight filters is exactly the odometer action on the Cantor set that induces the classical Bunce-Deddens algebra. Finally, we will prove $R$-algebraic analogs of various results for classical Bunce-Deddens algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Pre-symplectic left-symmetric algebras",
+    "pubDate": "2026-08-11 04:00:00",
+    "link": "https://arxiv.org/abs/2608.08517",
+    "guid": "oai:arXiv.org:2608.08517v1",
+    "author": "Sa\\&quot;id Benayadi, Hamza El Ouali",
+    "thumbnail": "",
+    "description": "arXiv:2608.08517v1 Announce Type: new \nAbstract: A pre-symplectic left-symmetric algebra $\\mathcal{A}$ is a left-symmetric algebra endowed with a nondegenerate skew-symmetric bilinear form $\\omega$ such that all left multiplication operators are symmetric with respect to $\\omega$. In this setting, the underlying subadjacent Lie algebra $(\\mathcal{A}^{-},\\omega)$ forms a flat $T$-symplectic Lie algebra. This paper provides a systematic investigation into the structural properties of pre-symplectic left-symmetric algebras. In particular, we introduce a distinguished subclass termed \\emph{Milnor pre-symplectic algebras}, and prove that any pre-symplectic left-symmetric algebra whose commutator ideal is nondegenerate necessarily belongs to this subclass. Next, we investigate the Levi-Civita product associated with symplectic Lie algebras. We show that this product always yields a right-symmetric algebra, and we prove that it forms a left-symmetric algebra if and only if it is associative. Furthermore, we provide a characterization of symplectic Lie algebras in terms of representations of left-symmetric algebras, and conclude by establishing a construction method for these structures known as the $T^*$-extension.\n  Furthermore, we develop a double extension procedure for pre-symplectic left-symmetric algebras by means of commutative associative algebras. We show that every such algebra with a degenerate commutator ideal can be reconstructed via this extension process. More generally, we show that any pre-symplectic left-symmetric algebra is either a Milnor pre-symplectic algebra or can be obtained through a finite sequence of successive double extensions starting from a Milnor pre-symplectic algebra. As a concrete application of these structural results, we provide a complete classification of pre-symplectic left-symmetric algebras of dimension less than or equal to $4$.",
+    "content": "arXiv:2608.08517v1 Announce Type: new \nAbstract: A pre-symplectic left-symmetric algebra $\\mathcal{A}$ is a left-symmetric algebra endowed with a nondegenerate skew-symmetric bilinear form $\\omega$ such that all left multiplication operators are symmetric with respect to $\\omega$. In this setting, the underlying subadjacent Lie algebra $(\\mathcal{A}^{-},\\omega)$ forms a flat $T$-symplectic Lie algebra. This paper provides a systematic investigation into the structural properties of pre-symplectic left-symmetric algebras. In particular, we introduce a distinguished subclass termed \\emph{Milnor pre-symplectic algebras}, and prove that any pre-symplectic left-symmetric algebra whose commutator ideal is nondegenerate necessarily belongs to this subclass. Next, we investigate the Levi-Civita product associated with symplectic Lie algebras. We show that this product always yields a right-symmetric algebra, and we prove that it forms a left-symmetric algebra if and only if it is associative. Furthermore, we provide a characterization of symplectic Lie algebras in terms of representations of left-symmetric algebras, and conclude by establishing a construction method for these structures known as the $T^*$-extension.\n  Furthermore, we develop a double extension procedure for pre-symplectic left-symmetric algebras by means of commutative associative algebras. We show that every such algebra with a degenerate commutator ideal can be reconstructed via this extension process. More generally, we show that any pre-symplectic left-symmetric algebra is either a Milnor pre-symplectic algebra or can be obtained through a finite sequence of successive double extensions starting from a Milnor pre-symplectic algebra. As a concrete application of these structural results, we provide a complete classification of pre-symplectic left-symmetric algebras of dimension less than or equal to $4$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Gorenstein homological dimension of group extensions",
+    "pubDate": "2026-08-11 04:00:00",
+    "link": "https://arxiv.org/abs/2608.08747",
+    "guid": "oai:arXiv.org:2608.08747v1",
+    "author": "Dimitra-Dionysia Stergiopoulou",
+    "thumbnail": "",
+    "description": "arXiv:2608.08747v1 Announce Type: new \nAbstract: We study the Gorenstein homological dimension $\\mathrm{Ghd}_k G$ of groups $G$ which are of type $\\mathrm{FP}_{\\infty}$ over a commutative ring $k$. Our main technical result shows that, when the Gorenstein weak global dimension of a ring $R$ is finite, every finitely presented Gorenstein flat $R$-module is projectively coresolved Gorenstein flat. Consequently, for a group $G$ of type $\\mathrm{FP}_\\infty$ over $k$ with $\\mathrm{sfli} k",
+    "content": "arXiv:2608.08747v1 Announce Type: new \nAbstract: We study the Gorenstein homological dimension $\\mathrm{Ghd}_k G$ of groups $G$ which are of type $\\mathrm{FP}_{\\infty}$ over a commutative ring $k$. Our main technical result shows that, when the Gorenstein weak global dimension of a ring $R$ is finite, every finitely presented Gorenstein flat $R$-module is projectively coresolved Gorenstein flat. Consequently, for a group $G$ of type $\\mathrm{FP}_\\infty$ over $k$ with $\\mathrm{sfli} k",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AC"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Free nearrings",
+    "pubDate": "2026-08-11 04:00:00",
+    "link": "https://arxiv.org/abs/2608.08992",
+    "guid": "oai:arXiv.org:2608.08992v1",
+    "author": "Stefan Veldsman",
+    "thumbnail": "",
+    "description": "arXiv:2608.08992v1 Announce Type: new \nAbstract: An explicit construction of a free nearring as well as the free product (= coproduct) of two nearrings are given in the variety of all, not necessarily zero-symmetric, nearrings.",
+    "content": "arXiv:2608.08992v1 Announce Type: new \nAbstract: An explicit construction of a free nearring as well as the free product (= coproduct) of two nearrings are given in the variety of all, not necessarily zero-symmetric, nearrings.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "An extension theory and semidirect sums for nearrings",
+    "pubDate": "2026-08-11 04:00:00",
+    "link": "https://arxiv.org/abs/2608.09079",
+    "guid": "oai:arXiv.org:2608.09079v1",
+    "author": "Stefan Veldsman",
+    "thumbnail": "",
+    "description": "arXiv:2608.09079v1 Announce Type: new \nAbstract: An extension theory for nearrings along the lines of the Schreier extension for groups and the Everett extension for rings is given. The semidirect sum of two nearrings is a special case of this theory. Already there are many examples of purpose built nearring constructions in the theory of nearrings which fall under this semidirect sum construction.",
+    "content": "arXiv:2608.09079v1 Announce Type: new \nAbstract: An extension theory for nearrings along the lines of the Schreier extension for groups and the Everett extension for rings is given. The semidirect sum of two nearrings is a special case of this theory. Already there are many examples of purpose built nearring constructions in the theory of nearrings which fall under this semidirect sum construction.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Permutation Ploynomials over $\\mathbb{Z}_{n}$ and T-quaternion Rings",
+    "pubDate": "2026-08-11 04:00:00",
+    "link": "https://arxiv.org/abs/2608.09136",
+    "guid": "oai:arXiv.org:2608.09136v1",
+    "author": "A. Telveenus",
+    "thumbnail": "",
+    "description": "arXiv:2608.09136v1 Announce Type: new \nAbstract: T-quaternion rings are a special class of commutative unital subrings of the quaternion rings over commutative rings. Permutation Polynomials (PP) are typically defined over finite fields, such as $\\mathbb{F}_{q}$, where $q$ is a prime power. This article examines permutation polynomials over finite T-quaternion rings, focusing specifically on linear, quadratic, and cubic cases. The study begins with permutation polynomials over the rings $\\mathbb{Z}_{n}$, before extending the discussion to T-quaternion rings.",
+    "content": "arXiv:2608.09136v1 Announce Type: new \nAbstract: T-quaternion rings are a special class of commutative unital subrings of the quaternion rings over commutative rings. Permutation Polynomials (PP) are typically defined over finite fields, such as $\\mathbb{F}_{q}$, where $q$ is a prime power. This article examines permutation polynomials over finite T-quaternion rings, focusing specifically on linear, quadratic, and cubic cases. The study begins with permutation polynomials over the rings $\\mathbb{Z}_{n}$, before extending the discussion to T-quaternion rings.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A further study of quandles and quandle rings",
+    "pubDate": "2026-08-11 04:00:00",
+    "link": "https://arxiv.org/abs/2608.09149",
+    "guid": "oai:arXiv.org:2608.09149v1",
+    "author": "Gregory Churchill, Indu Rasika Churchill, Neranga Fernando, Bhitali Kousik",
+    "thumbnail": "",
+    "description": "arXiv:2608.09149v1 Announce Type: new \nAbstract: We investigate core quandles and idempotents in quandle rings of core quandles. We answer several questions on the rank of core quandles and nontrivial idempotents in quandle rings. We also present solutions to two questions raised in a recent paper about non-trivial idempotents in quandle rings $\\mathbb{Z}[R_5]$ and $\\mathbb{Z}[C_5]$, where $\\mathbb{Z}$, $R_5$ and $C_5$ are the ring of integers, the dihedral quandle of order 5, and the commutative quandle of order 5, respectively. We then study units in extended quandle rings of a trivial quandle and the Joyce quandle, and nilpotent elements in extended quandles rings of a trivial quandle, where the ground ring is an integral domain. As a consequence, we show that the quandle ring and the extended quandle ring of a trivial quandle are not nil clean rings. We also explore prime rings and semi-prime rings among quandle rings. We introduce zero-divisor graphs of quandle rings and find an intriguing mirror symmetry among the in-degree and out-degree of the vertices. Moreover, we find a bivariate polynomial in the ring $(\\mathbb{Z}_{2n+1}[Q])[X,Y]$ that determines the commutative quandle of order $2n+1$, where $2n+1$ is prime.",
+    "content": "arXiv:2608.09149v1 Announce Type: new \nAbstract: We investigate core quandles and idempotents in quandle rings of core quandles. We answer several questions on the rank of core quandles and nontrivial idempotents in quandle rings. We also present solutions to two questions raised in a recent paper about non-trivial idempotents in quandle rings $\\mathbb{Z}[R_5]$ and $\\mathbb{Z}[C_5]$, where $\\mathbb{Z}$, $R_5$ and $C_5$ are the ring of integers, the dihedral quandle of order 5, and the commutative quandle of order 5, respectively. We then study units in extended quandle rings of a trivial quandle and the Joyce quandle, and nilpotent elements in extended quandles rings of a trivial quandle, where the ground ring is an integral domain. As a consequence, we show that the quandle ring and the extended quandle ring of a trivial quandle are not nil clean rings. We also explore prime rings and semi-prime rings among quandle rings. We introduce zero-divisor graphs of quandle rings and find an intriguing mirror symmetry among the in-degree and out-degree of the vertices. Moreover, we find a bivariate polynomial in the ring $(\\mathbb{Z}_{2n+1}[Q])[X,Y]$ that determines the commutative quandle of order $2n+1$, where $2n+1$ is prime.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Post-Poisson algebras, extended $\\mathcal{O}$-operators and extended Poisson Yang-Baxter equations",
     "pubDate": "2026-08-10 04:00:00",
     "link": "https://arxiv.org/abs/2608.06736",
