@@ -1,5 +1,162 @@
 [
   {
+    "title": "Direct Sum and Direct Product Decompositions of Multivariate Functions",
+    "pubDate": "2026-08-12 04:00:00",
+    "link": "https://arxiv.org/abs/2608.09952",
+    "guid": "oai:arXiv.org:2608.09952v1",
+    "author": "Hua-Lin Huang, Yiming Liu, Jianhua Xiang, Yu Ye",
+    "thumbnail": "",
+    "description": "arXiv:2608.09952v1 Announce Type: new \nAbstract: This paper addresses the problem of whether or not a vector-valued multivariate functions can be expressed as a sum or a product of vector-valued functions in disjoint sets of variables through a proper invertible linear change of variables. The crux is an invariant algebra, the so-called center, that we introduce for a set of multivariate functions with second order partial derivatives. We thus provide simple criteria and algorithms for simultaneous additive and multiplicative decompositions of any set of multivariate functions with minor analytic conditions. This is applied to the factorization problem of multivariate homogeneous polynomials, in particular those that are products of linear forms.",
+    "content": "arXiv:2608.09952v1 Announce Type: new \nAbstract: This paper addresses the problem of whether or not a vector-valued multivariate functions can be expressed as a sum or a product of vector-valued functions in disjoint sets of variables through a proper invertible linear change of variables. The crux is an invariant algebra, the so-called center, that we introduce for a set of multivariate functions with second order partial derivatives. We thus provide simple criteria and algorithms for simultaneous additive and multiplicative decompositions of any set of multivariate functions with minor analytic conditions. This is applied to the factorization problem of multivariate homogeneous polynomials, in particular those that are products of linear forms.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Hybrid core-EP-$(b,c)$ inverses in rings",
+    "pubDate": "2026-08-12 04:00:00",
+    "link": "https://arxiv.org/abs/2608.09955",
+    "guid": "oai:arXiv.org:2608.09955v1",
+    "author": "Huanyin Chen",
+    "thumbnail": "",
+    "description": "arXiv:2608.09955v1 Announce Type: new \nAbstract: In this paper, we study when the core inverse in a ring coincides with its hybrid (b,c)-inverse, i.e., hybrid core-(b,c)-inverse. We present many characterizations of hybrid core-(b,c)-inverse. To establish a broader framework for this generalized inverses, we define hybrid core-EP-(b,c)-inverse that serves as a natural extension of the hybrid core-(b,c)-inverse. We characterize this new generalized inverse by combining the hybrid core-(b,c)-inverses and quasinilpotents. This generalized inverse is thereby examined through a novel limit-based approach. Its polar-like properties and image-based representations are presented.",
+    "content": "arXiv:2608.09955v1 Announce Type: new \nAbstract: In this paper, we study when the core inverse in a ring coincides with its hybrid (b,c)-inverse, i.e., hybrid core-(b,c)-inverse. We present many characterizations of hybrid core-(b,c)-inverse. To establish a broader framework for this generalized inverses, we define hybrid core-EP-(b,c)-inverse that serves as a natural extension of the hybrid core-(b,c)-inverse. We characterize this new generalized inverse by combining the hybrid core-(b,c)-inverses and quasinilpotents. This generalized inverse is thereby examined through a novel limit-based approach. Its polar-like properties and image-based representations are presented.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On the Relationship Between Semiring-Induced Valuation Algebra Isomorphisms and Semiring Isomorphisms",
+    "pubDate": "2026-08-12 04:00:00",
+    "link": "https://arxiv.org/abs/2608.09961",
+    "guid": "oai:arXiv.org:2608.09961v1",
+    "author": "Xuechong Guan",
+    "thumbnail": "",
+    "description": "arXiv:2608.09961v1 Announce Type: new \nAbstract: This paper establishes a bidirectional relationship between isomorphisms of semirings and isomorphisms of their induced valuation algebras. We show that a semiring isomorphism is sufficient for a valuation algebra isomorphism. Conversely, for additively idempotent semirings without multiplicatively idempotent zero divisors, the existence of a valuation algebra isomorphism implies that the underlying semirings are isomorphic.",
+    "content": "arXiv:2608.09961v1 Announce Type: new \nAbstract: This paper establishes a bidirectional relationship between isomorphisms of semirings and isomorphisms of their induced valuation algebras. We show that a semiring isomorphism is sufficient for a valuation algebra isomorphism. Conversely, for additively idempotent semirings without multiplicatively idempotent zero divisors, the existence of a valuation algebra isomorphism implies that the underlying semirings are isomorphic.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AC"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Fixed-Lowering $\\mathfrak{sl}_2$-Triples for Laurent-Shift Operators: Exact Stencil Endpoints and Recurrence Locality",
+    "pubDate": "2026-08-12 04:00:00",
+    "link": "https://arxiv.org/abs/2608.09962",
+    "guid": "oai:arXiv.org:2608.09962v1",
+    "author": "Kyle Singh",
+    "thumbnail": "",
+    "description": "arXiv:2608.09962v1 Announce Type: new \nAbstract: Let $S$ be the unit forward shift, and let $$ \\mathcal{A} = \\mathbb{K}[x]\\langle S,S^{-1}\\rangle \\big/ \\bigl(Sx-(x+1)S\\bigr) $$ be the algebra of finite Laurent-shift operators with polynomial coefficients over a characteristic-zero field $\\mathbb{K}$. We classify all $\\mathfrak{sl}_2$-triples in $\\mathcal{A}$ with fixed lowering operator $F=1-S$. Writing $D=S-1$ and $X=xS^{-1}$, every completion is uniquely determined by $\\lambda\\in\\mathbb{K}$ and $g\\in\\mathbb{K}[S,S^{-1}]$, with $$ H=2(X+g)D-\\lambda,\\qquad E=(X+g)^2D-\\lambda(X+g). $$ We give an intrinsic recognition and reconstruction from $H$ and determine the exact extreme shifts of $H$ and $E$. The associated monic eigenpolynomials form a $\\Delta$-Appell sequence. Multiplication by $x$ has finite lower recurrence bandwidth exactly when $g\\in S^{-1}\\mathbb{K}[S]$; in this case, the bandwidth equals the right endpoint of the Cartan stencil. Otherwise, $H$ and $E$ remain finite-order, while the degree recurrence has an infinite tail whose eventual signed coefficients form a polynomial recovering the lowest Laurent term of $g$. Over $\\mathbb{R}$, positive-measure orthogonality occurs exactly for translated monic Charlier systems.",
+    "content": "arXiv:2608.09962v1 Announce Type: new \nAbstract: Let $S$ be the unit forward shift, and let $$ \\mathcal{A} = \\mathbb{K}[x]\\langle S,S^{-1}\\rangle \\big/ \\bigl(Sx-(x+1)S\\bigr) $$ be the algebra of finite Laurent-shift operators with polynomial coefficients over a characteristic-zero field $\\mathbb{K}$. We classify all $\\mathfrak{sl}_2$-triples in $\\mathcal{A}$ with fixed lowering operator $F=1-S$. Writing $D=S-1$ and $X=xS^{-1}$, every completion is uniquely determined by $\\lambda\\in\\mathbb{K}$ and $g\\in\\mathbb{K}[S,S^{-1}]$, with $$ H=2(X+g)D-\\lambda,\\qquad E=(X+g)^2D-\\lambda(X+g). $$ We give an intrinsic recognition and reconstruction from $H$ and determine the exact extreme shifts of $H$ and $E$. The associated monic eigenpolynomials form a $\\Delta$-Appell sequence. Multiplication by $x$ has finite lower recurrence bandwidth exactly when $g\\in S^{-1}\\mathbb{K}[S]$; in this case, the bandwidth equals the right endpoint of the Cartan stencil. Otherwise, $H$ and $E$ remain finite-order, while the degree recurrence has an infinite tail whose eventual signed coefficients form a polynomial recovering the lowest Laurent term of $g$. Over $\\mathbb{R}$, positive-measure orthogonality occurs exactly for translated monic Charlier systems.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Balanced pairs of Cartan-Eilenberg complexes over virtually Gorenstein rings",
+    "pubDate": "2026-08-12 04:00:00",
+    "link": "https://arxiv.org/abs/2608.09979",
+    "guid": "oai:arXiv.org:2608.09979v1",
+    "author": "Sergio Estrada, Alina Iacob, Yucheng Wang",
+    "thumbnail": "",
+    "description": "arXiv:2608.09979v1 Announce Type: new \nAbstract: Let R be a ring and let Ch(R) be the category of complexes of left R-modules. We consider the C-E (Cartan-Eilenberg) exact structure on Ch(R) and show that it is an efficient exact category. We prove that if R is a left virtually Gorenstein ring, the pair (C-E(GProj),C-E(GInj)) is a C-E-admissible balanced pair. Under suitable additional hypotheses, the converse holds. We also consider the C-E version of Tate cohomology and establish C-E analogues of the Avramov-Martsinkovsky exact sequences and balance results for both Ext and Tor.",
+    "content": "arXiv:2608.09979v1 Announce Type: new \nAbstract: Let R be a ring and let Ch(R) be the category of complexes of left R-modules. We consider the C-E (Cartan-Eilenberg) exact structure on Ch(R) and show that it is an efficient exact category. We prove that if R is a left virtually Gorenstein ring, the pair (C-E(GProj),C-E(GInj)) is a C-E-admissible balanced pair. Under suitable additional hypotheses, the converse holds. We also consider the C-E version of Tate cohomology and establish C-E analogues of the Avramov-Martsinkovsky exact sequences and balance results for both Ext and Tor.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.KT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Decomposition-Closed Sublattices as Minimizer Sets of Modular Functions over Distributive Lattices",
+    "pubDate": "2026-08-12 04:00:00",
+    "link": "https://arxiv.org/abs/2608.10026",
+    "guid": "oai:arXiv.org:2608.10026v1",
+    "author": "Ahmet Alkan, Kemal Yildiz",
+    "thumbnail": "",
+    "description": "arXiv:2608.10026v1 Announce Type: new \nAbstract: We characterize the subsets of a finite distributive lattice that arise as the minimizer sets of modular functions. It is immediate that the minimizer set of any modular function is a decomposition-closed sublattice. Our main theorem establishes the converse: every decomposition-closed sublattice is the minimizer set of a modular function. Our proof is constructive. Using Birkhoff's representation, we decompose the problem along the intervals determined by an arbitrary maximal chain of the given sublattice. The key ingredient is a weight assignment on connected difference posets that yields local modular functions vanishing precisely at the endpoints of each interval. We also provide an example showing that this characterization fails for nondistributive lattices.",
+    "content": "arXiv:2608.10026v1 Announce Type: new \nAbstract: We characterize the subsets of a finite distributive lattice that arise as the minimizer sets of modular functions. It is immediate that the minimizer set of any modular function is a decomposition-closed sublattice. Our main theorem establishes the converse: every decomposition-closed sublattice is the minimizer set of a modular function. Our proof is constructive. Using Birkhoff's representation, we decompose the problem along the intervals determined by an arbitrary maximal chain of the given sublattice. The key ingredient is a weight assignment on connected difference posets that yields local modular functions vanishing precisely at the endpoints of each interval. We also provide an example showing that this characterization fails for nondistributive lattices.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.OC"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Virtually Gorenstein Artin algebras are weakly Gorenstein",
+    "pubDate": "2026-08-12 04:00:00",
+    "link": "https://arxiv.org/abs/2608.10049",
+    "guid": "oai:arXiv.org:2608.10049v1",
+    "author": "Weiqing Li",
+    "thumbnail": "",
+    "description": "arXiv:2608.10049v1 Announce Type: new \nAbstract: We prove that all semi-Gorenstein-projective modules over a virtually Gorenstein Artin algebra are Gorenstein projective; this answers affirmatively a question proposed by Ringel and Zhang in [25]. It turns out that the Auslander-Gorenstein Conjecture, the (Strong) Nakayama Conjecture and Tachikawa's First Conjecture hold for virtually Gorenstein Artin algebras. We also establish a new criterion for determining the projective (injective) dimensions of modules over virtually Gorenstein Artin algebras. This allows us to show the validity of the Auslander-Reiten Conjecture for (infinitely generated) modules over Artin algebras such that all the Gorenstein-projective modules are projective.",
+    "content": "arXiv:2608.10049v1 Announce Type: new \nAbstract: We prove that all semi-Gorenstein-projective modules over a virtually Gorenstein Artin algebra are Gorenstein projective; this answers affirmatively a question proposed by Ringel and Zhang in [25]. It turns out that the Auslander-Gorenstein Conjecture, the (Strong) Nakayama Conjecture and Tachikawa's First Conjecture hold for virtually Gorenstein Artin algebras. We also establish a new criterion for determining the projective (injective) dimensions of modules over virtually Gorenstein Artin algebras. This allows us to show the validity of the Auslander-Reiten Conjecture for (infinitely generated) modules over Artin algebras such that all the Gorenstein-projective modules are projective.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AC",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Reconstruction of Torsion-Free Abelian Groups from Rational Group Fields",
+    "pubDate": "2026-08-12 04:00:00",
+    "link": "https://arxiv.org/abs/2608.10381",
+    "guid": "oai:arXiv.org:2608.10381v1",
+    "author": "Jinyu Lin, Xiaodong Wang",
+    "thumbnail": "",
+    "description": "arXiv:2608.10381v1 Announce Type: new \nAbstract: For a torsion-free abelian group $G$, let \\[\n  K_{\\mathbb{Q}}(G)=\\operatorname{Frac} \\mathbb{Q}[G] \\] be the fraction field of its rational group algebra. We prove that this field determines the group up to isomorphism: \\[\n  K_{\\mathbb{Q}}(G) \\cong K_{\\mathbb{Q}}(H) \\quad \\Longleftrightarrow \\quad G \\cong H. \\] The main structural input is that, over every field $k$ of characteristic zero, the monomial defect group \\[\n  \\Delta_k(G)=K_k(G)^\\times/(k^\\times X^G) \\] is free abelian. We give a self-contained proof. It first treats the one-variable Puiseux field $F(t^{\\mathbb{Q}})$: factorization from $F(t^{1/n!})$ to $F(t^{1/(n+1)!})$ gives split inclusions because the substituted irreducibles are square-free in characteristic zero. A transfinite decomposition of the divisible hull $\\mathbb{Q} \\otimes G$ then proves the general case.\n  Given a field isomorphism, we compare the two monomial subgroups inside the common multiplicative group. Their intersection produces isomorphic subgroups $M\\leq G$ and $N\\leq H$, while the quotients $G/M$ and $H/N$ embed in free defect groups and are therefore free. Relative transcendence degree shows that these two free quotients have the same rank, completing the reconstruction. As consequences, rational-function stabilization of group fields exactly records free stabilization of groups, and Rickard's bounded sequence group yields a field $F$ with $F\\cong F(x,y)$ but $F\\not\\cong F(x)$.",
+    "content": "arXiv:2608.10381v1 Announce Type: new \nAbstract: For a torsion-free abelian group $G$, let \\[\n  K_{\\mathbb{Q}}(G)=\\operatorname{Frac} \\mathbb{Q}[G] \\] be the fraction field of its rational group algebra. We prove that this field determines the group up to isomorphism: \\[\n  K_{\\mathbb{Q}}(G) \\cong K_{\\mathbb{Q}}(H) \\quad \\Longleftrightarrow \\quad G \\cong H. \\] The main structural input is that, over every field $k$ of characteristic zero, the monomial defect group \\[\n  \\Delta_k(G)=K_k(G)^\\times/(k^\\times X^G) \\] is free abelian. We give a self-contained proof. It first treats the one-variable Puiseux field $F(t^{\\mathbb{Q}})$: factorization from $F(t^{1/n!})$ to $F(t^{1/(n+1)!})$ gives split inclusions because the substituted irreducibles are square-free in characteristic zero. A transfinite decomposition of the divisible hull $\\mathbb{Q} \\otimes G$ then proves the general case.\n  Given a field isomorphism, we compare the two monomial subgroups inside the common multiplicative group. Their intersection produces isomorphic subgroups $M\\leq G$ and $N\\leq H$, while the quotients $G/M$ and $H/N$ embed in free defect groups and are therefore free. Relative transcendence degree shows that these two free quotients have the same rank, completing the reconstruction. As consequences, rational-function stabilization of group fields exactly records free stabilization of groups, and Rickard's bounded sequence group yields a field $F$ with $F\\cong F(x,y)$ but $F\\not\\cong F(x)$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Mutation-preserving generalized cluster algebras and Laurent mutation invariants",
+    "pubDate": "2026-08-12 04:00:00",
+    "link": "https://arxiv.org/abs/2608.10551",
+    "guid": "oai:arXiv.org:2608.10551v1",
+    "author": "Zhichao Chen, Yimin Huang",
+    "thumbnail": "",
+    "description": "arXiv:2608.10551v1 Announce Type: new \nAbstract: We introduce mutation-preserving generalized cluster algebras, for which the generalized cluster mutation in each direction is independent of the seed in the mutation equivalence class. We classify all the irreducible generalized cluster algebras with this property. Then, a Markov-type Diophantine equation $x^2+y^2+z^2+2yz=kxyz$ is studied, which has a structure of the mutation-preserving generalized cluster algebra. We prove that positive integer solutions exist if and only if $1\\leq k\\leq 5$ and determine all mutation orbits of these solutions. In particular, multiple orbits occur for each $k=1,3$, whereas the solutions form a single orbit for each $ k=2,4,5$. We also prove a conjecture proposed by Chen-Li on Laurent mutation invariants of rank $3$ cluster algebras with irreducible sign-equivalent exchange matrices, showing that every Laurent mutation invariant is essentially a polynomial in the corresponding basic invariant.",
+    "content": "arXiv:2608.10551v1 Announce Type: new \nAbstract: We introduce mutation-preserving generalized cluster algebras, for which the generalized cluster mutation in each direction is independent of the seed in the mutation equivalence class. We classify all the irreducible generalized cluster algebras with this property. Then, a Markov-type Diophantine equation $x^2+y^2+z^2+2yz=kxyz$ is studied, which has a structure of the mutation-preserving generalized cluster algebra. We prove that positive integer solutions exist if and only if $1\\leq k\\leq 5$ and determine all mutation orbits of these solutions. In particular, multiple orbits occur for each $k=1,3$, whereas the solutions form a single orbit for each $ k=2,4,5$. We also prove a conjecture proposed by Chen-Li on Laurent mutation invariants of rank $3$ cluster algebras with irreducible sign-equivalent exchange matrices, showing that every Laurent mutation invariant is essentially a polynomial in the corresponding basic invariant.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AC",
+      "math.NT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Armendariz ring property via idempotent elements",
+    "pubDate": "2026-08-12 04:00:00",
+    "link": "https://arxiv.org/abs/2608.10564",
+    "guid": "oai:arXiv.org:2608.10564v1",
+    "author": "Asma Ali, Shafahat Hussain",
+    "thumbnail": "",
+    "description": "arXiv:2608.10564v1 Announce Type: new \nAbstract: This paper introduces the concept of e-Armendariz rings, a generalization of Armendariz rings via idempotent element $e$. A ring $R$ is called right e-Armendariz if for any polynomials $f(x), g(x) \\in R[x]$, the condition $f(x)g(x)=0$ implies $a_ib_je=0$ for all coefficients $a_i$ of $f(x)$ and $b_j$ of $g(x)$. We establish that this new class of rings is not left-right symmetric and provide several illustrative examples. The main result of this paper provides a characterization that a ring $R$ is right e-Armendariz if and only if the idempotent $e$ is left semicentral and the corner ring $eRe$ is an Armendariz ring.",
+    "content": "arXiv:2608.10564v1 Announce Type: new \nAbstract: This paper introduces the concept of e-Armendariz rings, a generalization of Armendariz rings via idempotent element $e$. A ring $R$ is called right e-Armendariz if for any polynomials $f(x), g(x) \\in R[x]$, the condition $f(x)g(x)=0$ implies $a_ib_je=0$ for all coefficients $a_i$ of $f(x)$ and $b_j$ of $g(x)$. We establish that this new class of rings is not left-right symmetric and provide several illustrative examples. The main result of this paper provides a characterization that a ring $R$ is right e-Armendariz if and only if the idempotent $e$ is left semicentral and the corner ring $eRe$ is an Armendariz ring.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Amenability is not sensitive to the base field",
     "pubDate": "2026-08-11 04:00:00",
     "link": "https://arxiv.org/abs/2608.08161",
