@@ -1,5 +1,87 @@
 [
   {
+    "title": "Bivariate quaternionic factorizations and surfaces that decompose into two circles",
+    "pubDate": "2026-08-13 04:00:00",
+    "link": "https://arxiv.org/abs/2608.11887",
+    "guid": "oai:arXiv.org:2608.11887v1",
+    "author": "Johanna Frischauf, Niels Lubbes, Hans-Peter Schr\\&quot;ocker",
+    "thumbnail": "",
+    "description": "arXiv:2608.11887v1 Announce Type: cross \nAbstract: We present an algebraic and geometric condition for bivariate quaternionic polynomials of arbitrary bidegree to have a univariate linear left or right factor. We apply this quaternionic factorization theorem to the bidegree (1,1) case and recover a classical theorem of Clifford in elliptic geometry. By applying to the bidegree (2,2) case, we obtain decompositions into two circles of celestial surfaces, namely surfaces in the 3-dimensional sphere that contain two circles through a general point. This results in an alternative proof and refinement for a theorem by Skopenkov and Krasauskas from 2019, which states that a non-quartic celestial surface is M\\\"obius equivalent to either the pointwise product of circles in the unit-quaternions, or an inverse stereographic projection of the pointwise sum of circles in Euclidean space. Our proposed method extends this decomposition result to the quartic case and we show that surfaces are, up to M\\\"obius equivalence and stereographic projections, not both a sum and product of circles.",
+    "content": "arXiv:2608.11887v1 Announce Type: cross \nAbstract: We present an algebraic and geometric condition for bivariate quaternionic polynomials of arbitrary bidegree to have a univariate linear left or right factor. We apply this quaternionic factorization theorem to the bidegree (1,1) case and recover a classical theorem of Clifford in elliptic geometry. By applying to the bidegree (2,2) case, we obtain decompositions into two circles of celestial surfaces, namely surfaces in the 3-dimensional sphere that contain two circles through a general point. This results in an alternative proof and refinement for a theorem by Skopenkov and Krasauskas from 2019, which states that a non-quartic celestial surface is M\\\"obius equivalent to either the pointwise product of circles in the unit-quaternions, or an inverse stereographic projection of the pointwise sum of circles in Euclidean space. Our proposed method extends this decomposition result to the quartic case and we show that surfaces are, up to M\\\"obius equivalence and stereographic projections, not both a sum and product of circles.",
+    "enclosure": {},
+    "categories": [
+      "math.AG",
+      "math.MG",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The finite basis problem for the flat semirings $S(W)$",
+    "pubDate": "2026-08-13 04:00:00",
+    "link": "https://arxiv.org/abs/2608.12284",
+    "guid": "oai:arXiv.org:2608.12284v1",
+    "author": "Zidong Gao, Miaomiao Ren, Xianzhong Zhao",
+    "thumbnail": "",
+    "description": "arXiv:2608.12284v1 Announce Type: cross \nAbstract: We focus on the finite basis problem for flat semirings of the form $S(W)$, where $W$ is an arbitrary set of nonempty words. We prove that $S(W)$ generates a Cross variety (and hence is finitely based) whenever every word in $W$ has length at most $3$, whereas it is nonfinitely based whenever there exists $k \\geq 3$ such that $W$ is $x^{k+2}$-free but not $x^{k+1}$-free. In particular, if $W_k$ denotes the set of all words of length $k$, then $S(W_k)$ is finitely based if and only if $k \\leq 3$. Moreover, $S(W)$ is nonfinitely based whenever $W$ is finite and not $x^4$-free. These results provide a partial answer to an open problem raised by Jackson et al.~(J Algebra 611: 211--245, 2022).",
+    "content": "arXiv:2608.12284v1 Announce Type: cross \nAbstract: We focus on the finite basis problem for flat semirings of the form $S(W)$, where $W$ is an arbitrary set of nonempty words. We prove that $S(W)$ generates a Cross variety (and hence is finitely based) whenever every word in $W$ has length at most $3$, whereas it is nonfinitely based whenever there exists $k \\geq 3$ such that $W$ is $x^{k+2}$-free but not $x^{k+1}$-free. In particular, if $W_k$ denotes the set of all words of length $k$, then $S(W_k)$ is finitely based if and only if $k \\leq 3$. Moreover, $S(W)$ is nonfinitely based whenever $W$ is finite and not $x^4$-free. These results provide a partial answer to an open problem raised by Jackson et al.~(J Algebra 611: 211--245, 2022).",
+    "enclosure": {},
+    "categories": [
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Involutions in the Cayley-Dickson construction",
+    "pubDate": "2026-08-13 04:00:00",
+    "link": "https://arxiv.org/abs/2606.27798",
+    "guid": "oai:arXiv.org:2606.27798v2",
+    "author": "Masood Aryapoor, Per B\\&quot;ack, Sophie Pautrel",
+    "thumbnail": "",
+    "description": "arXiv:2606.27798v2 Announce Type: replace \nAbstract: We determine all involutions in the Cayley-Dickson construction that extend the involution of the original $*$-algebra. We also find all algebra isomorphisms between the resulting Cayley doubles that extend the identity automorphism of the original $*$-algebra, and consequently classify the resulting $*$-algebras up to $*$-algebra isomorphism. As applications, we show that Cayley doubles without zero divisors admit exactly one additional involution, prove that the classical Cayley-Dickson involution is the unique scalar involution, and obtain a classification of the $*$-algebras arising from $\\mathbb{R}$ up to dimension 4.",
+    "content": "arXiv:2606.27798v2 Announce Type: replace \nAbstract: We determine all involutions in the Cayley-Dickson construction that extend the involution of the original $*$-algebra. We also find all algebra isomorphisms between the resulting Cayley doubles that extend the identity automorphism of the original $*$-algebra, and consequently classify the resulting $*$-algebras up to $*$-algebra isomorphism. As applications, we show that Cayley doubles without zero divisors admit exactly one additional involution, prove that the classical Cayley-Dickson involution is the unique scalar involution, and obtain a classification of the $*$-algebras arising from $\\mathbb{R}$ up to dimension 4.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On the number of subrings of $\\mathbb{Z}^n$ of prime power index",
+    "pubDate": "2026-08-13 04:00:00",
+    "link": "https://arxiv.org/abs/2211.16595",
+    "guid": "oai:arXiv.org:2211.16595v2",
+    "author": "Hrishabh Mishra, Anwesh Ray",
+    "thumbnail": "",
+    "description": "arXiv:2211.16595v2 Announce Type: replace-cross \nAbstract: Let $n$ and $k$ be positive integers, and $f_n(k)$ (resp. $g_n(k)$) be the number of unital subrings (resp. unital irreducible subrings) of $\\mathbb{Z}^n$ of index $k$. The numbers $f_n(k)$ are coefficients of certain zeta functions of natural interest. The function $k\\mapsto f_n(k)$ is multiplicative, and the study of the numbers $f_n(k)$ reduces to computing the values at prime powers $k=p^e$. Given a composition $\\alpha=(\\alpha_1, \\dots, \\alpha_{n-1})$ of $e$ into $n-1$ positive integers, let $g_\\alpha(p)$ denote the number of irreducible subrings of $\\mathbb{Z}^n$ for which the associated upper triangular matrix in Hermite normal form has diagonal $(p^{\\alpha_1}, \\dots, p^{\\alpha_{n-1}},1)$. Via combinatorial analysis, the computation of $f_n(p^e)$ reduces to the computation of $g_\\alpha(p)$ for all compositions of $i$ into $j$ parts, where $i\\leq e$ and $j\\leq n-1$. We extend results of Liu and Atanasov-Kaplan-Krakoff-Menzel, who explicitly compute $f_n(p^e)$ for $e\\leq 8$. The case $e=9$ proves to be significantly more involved. We evaluate $f_n(e^9)$ explicitly in terms of a polynomial in n and p up to a single term which is conjecturally a polynomial. Our results provide further evidence for a conjecture, which states that for any fixed pair $(n,e)$, the function $p\\mapsto f_n(p^e)$ is a polynomial in $p$. A conjecture of Bhargava on the asymptotics for $f_n(k)$ as a function of $k$ motivates the study of the asymptotics for $g_\\alpha(p)$ for certain infinite families of compositions $\\alpha$, for which we are able to obtain general estimates using techniques from the geometry of numbers.",
+    "content": "arXiv:2211.16595v2 Announce Type: replace-cross \nAbstract: Let $n$ and $k$ be positive integers, and $f_n(k)$ (resp. $g_n(k)$) be the number of unital subrings (resp. unital irreducible subrings) of $\\mathbb{Z}^n$ of index $k$. The numbers $f_n(k)$ are coefficients of certain zeta functions of natural interest. The function $k\\mapsto f_n(k)$ is multiplicative, and the study of the numbers $f_n(k)$ reduces to computing the values at prime powers $k=p^e$. Given a composition $\\alpha=(\\alpha_1, \\dots, \\alpha_{n-1})$ of $e$ into $n-1$ positive integers, let $g_\\alpha(p)$ denote the number of irreducible subrings of $\\mathbb{Z}^n$ for which the associated upper triangular matrix in Hermite normal form has diagonal $(p^{\\alpha_1}, \\dots, p^{\\alpha_{n-1}},1)$. Via combinatorial analysis, the computation of $f_n(p^e)$ reduces to the computation of $g_\\alpha(p)$ for all compositions of $i$ into $j$ parts, where $i\\leq e$ and $j\\leq n-1$. We extend results of Liu and Atanasov-Kaplan-Krakoff-Menzel, who explicitly compute $f_n(p^e)$ for $e\\leq 8$. The case $e=9$ proves to be significantly more involved. We evaluate $f_n(e^9)$ explicitly in terms of a polynomial in n and p up to a single term which is conjecturally a polynomial. Our results provide further evidence for a conjecture, which states that for any fixed pair $(n,e)$, the function $p\\mapsto f_n(p^e)$ is a polynomial in $p$. A conjecture of Bhargava on the asymptotics for $f_n(k)$ as a function of $k$ motivates the study of the asymptotics for $g_\\alpha(p)$ for certain infinite families of compositions $\\alpha$, for which we are able to obtain general estimates using techniques from the geometry of numbers.",
+    "enclosure": {},
+    "categories": [
+      "math.NT",
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The Combinatorial Nullstellensatz, Chevalley-Warning Theorem and weak Finitesatz in skew polynomial rings",
+    "pubDate": "2026-08-13 04:00:00",
+    "link": "https://arxiv.org/abs/2508.07257",
+    "guid": "oai:arXiv.org:2508.07257v2",
+    "author": "Gil Alon, Angelot Behajaina, Elad Paran",
+    "thumbnail": "",
+    "description": "arXiv:2508.07257v2 Announce Type: replace-cross \nAbstract: We study zeros of polynomials in the multivariate skew polynomial ring $D[x_1,\\ldots,x_n; \\sigma]$, where $\\sigma$ is an automorphism of a division ring $D$. We prove a generalization of Noga Alon's celebrated Combinatorial Nullstellensatz for such polynomials. In the case where $D$ is a finite field, we prove skew analogues of the Chevalley--Warning theorem, Ax's Lemma, and the weak case of Terjanian's Finitesatz.",
+    "content": "arXiv:2508.07257v2 Announce Type: replace-cross \nAbstract: We study zeros of polynomials in the multivariate skew polynomial ring $D[x_1,\\ldots,x_n; \\sigma]$, where $\\sigma$ is an automorphism of a division ring $D$. We prove a generalization of Noga Alon's celebrated Combinatorial Nullstellensatz for such polynomials. In the case where $D$ is a finite field, we prove skew analogues of the Chevalley--Warning theorem, Ax's Lemma, and the weak case of Terjanian's Finitesatz.",
+    "enclosure": {},
+    "categories": [
+      "math.AC",
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Direct Sum and Direct Product Decompositions of Multivariate Functions",
     "pubDate": "2026-08-12 04:00:00",
     "link": "https://arxiv.org/abs/2608.09952",
