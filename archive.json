@@ -1,5 +1,147 @@
 [
   {
+    "title": "Some more talents of the talented monoid of a higher-rank graph",
+    "pubDate": "2026-08-14 04:00:00",
+    "link": "https://arxiv.org/abs/2608.12798",
+    "guid": "oai:arXiv.org:2608.12798v1",
+    "author": "Roozbeh Hazrat, Huanhuan Li, Promit Mukherjee",
+    "thumbnail": "",
+    "description": "arXiv:2608.12798v1 Announce Type: new \nAbstract: In this paper, we explore the idea that the graded Grothendieck group $K_0^{gr}$, or equivalently its positive cone, the talented monoid, can detect the structural type of higher-rank graph algebras (i.e., higher-rank graph $C^*$-algebras and Kumjian--Pask algebras).\n  We show that the talented monoid captures some of the essential geometric information of a higher-rank graph, including the existence of cycles with and without entrances. In turn, we show that the graded $K$-theory can effectively distinguish the class of locally finite Kumjian--Pask algebras, and also the class of crossed product Kumjian--Pask algebras. We also derive talented monoid criteria for higher-rank graph algebras to be purely infinite simple, and not to be $AF$ or ultramatricial.",
+    "content": "arXiv:2608.12798v1 Announce Type: new \nAbstract: In this paper, we explore the idea that the graded Grothendieck group $K_0^{gr}$, or equivalently its positive cone, the talented monoid, can detect the structural type of higher-rank graph algebras (i.e., higher-rank graph $C^*$-algebras and Kumjian--Pask algebras).\n  We show that the talented monoid captures some of the essential geometric information of a higher-rank graph, including the existence of cycles with and without entrances. In turn, we show that the graded $K$-theory can effectively distinguish the class of locally finite Kumjian--Pask algebras, and also the class of crossed product Kumjian--Pask algebras. We also derive talented monoid criteria for higher-rank graph algebras to be purely infinite simple, and not to be $AF$ or ultramatricial.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.OA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Injective Rota-Baxter operators of weight 1 on $F[x]$",
+    "pubDate": "2026-08-14 04:00:00",
+    "link": "https://arxiv.org/abs/2608.12981",
+    "guid": "oai:arXiv.org:2608.12981v1",
+    "author": "Vsevolod Gubarev",
+    "thumbnail": "",
+    "description": "arXiv:2608.12981v1 Announce Type: new \nAbstract: We describe all injective Rota-Baxter operators $R$ of weight 1 on the polynomial algebra $F[x]$. When $\\mathrm{char}\\,F = p&gt;0$, the only one is $R=-\\mathrm{id}$. When $\\mathrm{char}\\,F = 0$, we have either $R = -\\mathrm{id}$ or, up to conjugation with automorphisms of $F[x]$, $R(1) = x$, and $R$ is uniquely defined via this equality. Together with the known weight-zero case, this completes the classification of injective Rota-Baxter operators of any weight on $F[x]$.",
+    "content": "arXiv:2608.12981v1 Announce Type: new \nAbstract: We describe all injective Rota-Baxter operators $R$ of weight 1 on the polynomial algebra $F[x]$. When $\\mathrm{char}\\,F = p&gt;0$, the only one is $R=-\\mathrm{id}$. When $\\mathrm{char}\\,F = 0$, we have either $R = -\\mathrm{id}$ or, up to conjugation with automorphisms of $F[x]$, $R(1) = x$, and $R$ is uniquely defined via this equality. Together with the known weight-zero case, this completes the classification of injective Rota-Baxter operators of any weight on $F[x]$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Integer-valued polynomials over structural matrix rings",
+    "pubDate": "2026-08-14 04:00:00",
+    "link": "https://arxiv.org/abs/2608.13242",
+    "guid": "oai:arXiv.org:2608.13242v1",
+    "author": "Valentin Havlovec",
+    "thumbnail": "",
+    "description": "arXiv:2608.13242v1 Announce Type: new \nAbstract: We study integer-valued polynomials and null polynomials over structural matrix rings, that is, rings whose elements are matrices in which an entry may be nonzero only when its row index precedes its column index in a fixed preorder. We prove that the integer-valued polynomials over a structural matrix ring with entries in an integral domain form a ring, and that the null polynomials over a structural matrix ring with entries in an arbitrary commutative ring form a two-sided ideal. In both settings, we give a characterization of the corresponding polynomials with matrix coefficients in terms of scalar-coefficient polynomials. These results extend corresponding theorems for full matrix rings and upper triangular matrix rings.",
+    "content": "arXiv:2608.13242v1 Announce Type: new \nAbstract: We study integer-valued polynomials and null polynomials over structural matrix rings, that is, rings whose elements are matrices in which an entry may be nonzero only when its row index precedes its column index in a fixed preorder. We prove that the integer-valued polynomials over a structural matrix ring with entries in an integral domain form a ring, and that the null polynomials over a structural matrix ring with entries in an arbitrary commutative ring form a two-sided ideal. In both settings, we give a characterization of the corresponding polynomials with matrix coefficients in terms of scalar-coefficient polynomials. These results extend corresponding theorems for full matrix rings and upper triangular matrix rings.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Null polynomials over a finite ring need not form a two-sided ideal",
+    "pubDate": "2026-08-14 04:00:00",
+    "link": "https://arxiv.org/abs/2608.13251",
+    "guid": "oai:arXiv.org:2608.13251v1",
+    "author": "Valentin Havlovec",
+    "thumbnail": "",
+    "description": "arXiv:2608.13251v1 Announce Type: new \nAbstract: We give an example of a finite ring for which the set of polynomials inducing the zero function fails to be a two-sided ideal, disproving a conjecture of Werner.",
+    "content": "arXiv:2608.13251v1 Announce Type: new \nAbstract: We give an example of a finite ring for which the set of polynomials inducing the zero function fails to be a two-sided ideal, disproving a conjecture of Werner.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AC"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Simple double Lie algebras on the Laurent polynomial space",
+    "pubDate": "2026-08-14 04:00:00",
+    "link": "https://arxiv.org/abs/2608.13379",
+    "guid": "oai:arXiv.org:2608.13379v1",
+    "author": "Vsevolod Gubarev",
+    "thumbnail": "",
+    "description": "arXiv:2608.13379v1 Announce Type: new \nAbstract: We construct a simple $\\lambda$-double Lie algebra on $k[t,t^{-1}]$ for every nonzero $\\lambda\\in k$. We then show that the analogous two-sided construction of weight zero is also simple. Both products admit natural coefficient realizations via row-and-column-finite operators associated with the finitary $\\mathbb Z\\times\\mathbb Z$ matrix algebra.",
+    "content": "arXiv:2608.13379v1 Announce Type: new \nAbstract: We construct a simple $\\lambda$-double Lie algebra on $k[t,t^{-1}]$ for every nonzero $\\lambda\\in k$. We then show that the analogous two-sided construction of weight zero is also simple. Both products admit natural coefficient realizations via row-and-column-finite operators associated with the finitary $\\mathbb Z\\times\\mathbb Z$ matrix algebra.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The Tropical Algebra of Binary-Tree Height",
+    "pubDate": "2026-08-14 04:00:00",
+    "link": "https://arxiv.org/abs/2608.12401",
+    "guid": "oai:arXiv.org:2608.12401v1",
+    "author": "Grant Molnar",
+    "thumbnail": "",
+    "description": "arXiv:2608.12401v1 Announce Type: cross \nAbstract: The binary-tree height recursion defines an algebra $\\mathcal{H}$ on $\\mathbb{N}\\cup\\{-\\infty\\}$, with join given by $\\max$ and product \\[ a\\star b=\\max\\{a,b\\}+1. \\] We show that weighted evaluation of a labelled tree depends only on the greatest depth of each label. Single-tree profiles are exactly the vectors satisfying the binary Kraft inequality, while finite joins realize every vector in $\\bigl(\\mathbb{N}\\cup\\{-\\infty\\}\\bigr)^n$; hence the $n$-variable term operations form the free algebra $\\mathcal{H}^n$. We also classify $\\mathcal{H}$'s compatible semilattice operation, subalgebras, endomorphisms, congruences, and finite quotients, and recover the dyadic-composition spectrum at the full-linear boundary.",
+    "content": "arXiv:2608.12401v1 Announce Type: cross \nAbstract: The binary-tree height recursion defines an algebra $\\mathcal{H}$ on $\\mathbb{N}\\cup\\{-\\infty\\}$, with join given by $\\max$ and product \\[ a\\star b=\\max\\{a,b\\}+1. \\] We show that weighted evaluation of a labelled tree depends only on the greatest depth of each label. Single-tree profiles are exactly the vectors satisfying the binary Kraft inequality, while finite joins realize every vector in $\\bigl(\\mathbb{N}\\cup\\{-\\infty\\}\\bigr)^n$; hence the $n$-variable term operations form the free algebra $\\mathcal{H}^n$. We also classify $\\mathcal{H}$'s compatible semilattice operation, subalgebras, endomorphisms, congruences, and finite quotients, and recover the dyadic-composition spectrum at the full-linear boundary.",
+    "enclosure": {},
+    "categories": [
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "From Lie--Rinehart Algebras to $F$-Manifold Algebras",
+    "pubDate": "2026-08-14 04:00:00",
+    "link": "https://arxiv.org/abs/2608.12802",
+    "guid": "oai:arXiv.org:2608.12802v1",
+    "author": "Yufeng Pei, Yunhe Sheng",
+    "thumbnail": "",
+    "description": "arXiv:2608.12802v1 Announce Type: cross \nAbstract: For every Lie--Rinehart algebra, we construct an $F$-manifold algebra on the\n  direct sum of its base algebra and module. Contrary to the assertion in\n  \\cite[Proposition 13.3.26]{LodayVallette}, the resulting structure is generally\n  not Poisson. We determine when powers of the positive-degree ideal in the\n  associated symmetric Poisson algebra are Poisson ideals, and relate the\n  Leibnizator to the Lie--Rinehart differential. For a finite projective module\n  of constant rank, the trace of the Leibnizator recovers the anchor and yields a\n  rigidity result for injective anchors. We conclude with algebraic and\n  geometric examples.",
+    "content": "arXiv:2608.12802v1 Announce Type: cross \nAbstract: For every Lie--Rinehart algebra, we construct an $F$-manifold algebra on the\n  direct sum of its base algebra and module. Contrary to the assertion in\n  \\cite[Proposition 13.3.26]{LodayVallette}, the resulting structure is generally\n  not Poisson. We determine when powers of the positive-degree ideal in the\n  associated symmetric Poisson algebra are Poisson ideals, and relate the\n  Leibnizator to the Lie--Rinehart differential. For a finite projective module\n  of constant rank, the trace of the Leibnizator recovers the anchor and yields a\n  rigidity result for injective anchors. We conclude with algebraic and\n  geometric examples.",
+    "enclosure": {},
+    "categories": [
+      "math-ph",
+      "math.MP",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Absolutely flat algebras in tensor categories",
+    "pubDate": "2026-08-14 04:00:00",
+    "link": "https://arxiv.org/abs/2608.13137",
+    "guid": "oai:arXiv.org:2608.13137v1",
+    "author": "Kevin Coulembier, Alexander Sherman",
+    "thumbnail": "",
+    "description": "arXiv:2608.13137v1 Announce Type: cross \nAbstract: We study the relation between semisimple algebras, artinian simple algebras, and artinian absolutely flat algebras in ind-completions of tensor categories (rigid abelian monoidal categories). Our main results show that the three types of algebras coincide, if we restrict to commutative algebras in certain (all, if we accept the main conjectures in the field) symmetric tensor categories of moderate growth. We also provide examples to show that in general these notions tend to diverge, contrary to the classical case of algebras over a field. In one appendix we give the first, to the best of our knowledge, example of a tensor category with finite-dimensional morphism spaces but objects of infinite length. In a second appendix we establish a generalisation of Deligne's theorem that tannakian categories are neutral over algebraically closed fields.",
+    "content": "arXiv:2608.13137v1 Announce Type: cross \nAbstract: We study the relation between semisimple algebras, artinian simple algebras, and artinian absolutely flat algebras in ind-completions of tensor categories (rigid abelian monoidal categories). Our main results show that the three types of algebras coincide, if we restrict to commutative algebras in certain (all, if we accept the main conjectures in the field) symmetric tensor categories of moderate growth. We also provide examples to show that in general these notions tend to diverge, contrary to the classical case of algebras over a field. In one appendix we give the first, to the best of our knowledge, example of a tensor category with finite-dimensional morphism spaces but objects of infinite length. In a second appendix we establish a generalisation of Deligne's theorem that tannakian categories are neutral over algebraically closed fields.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A new formula for the classical dominant dimension using bimodules",
+    "pubDate": "2026-08-14 04:00:00",
+    "link": "https://arxiv.org/abs/2508.18398",
+    "guid": "oai:arXiv.org:2508.18398v2",
+    "author": "Tiago Cruz, Ren\\'e Marczinzik",
+    "thumbnail": "",
+    "description": "arXiv:2508.18398v2 Announce Type: replace-cross \nAbstract: We show that a faithful projective-injective module over a finite-dimensional algebra $A$ has the double centraliser property if and only if $A$ as a bimodule is reflexive. More generally, we provide a new characterisation of the classical dominant dimension by showing that having dominant dimension at least $n$ is equivalent to the bimodule $A$ being $n$-torsion-free. This allows us to find new connections between the classical Tachikawa and Nakayama conjectures and Gorenstein homological algebra. Furthermore, we use our results to give new interpretations of Hochschild (co)homology of finite-dimensional algebras using higher Auslander-Reiten translates and the canonical bimodule in the sense of Fang, Kerner and Yamagata.",
+    "content": "arXiv:2508.18398v2 Announce Type: replace-cross \nAbstract: We show that a faithful projective-injective module over a finite-dimensional algebra $A$ has the double centraliser property if and only if $A$ as a bimodule is reflexive. More generally, we provide a new characterisation of the classical dominant dimension by showing that having dominant dimension at least $n$ is equivalent to the bimodule $A$ being $n$-torsion-free. This allows us to find new connections between the classical Tachikawa and Nakayama conjectures and Gorenstein homological algebra. Furthermore, we use our results to give new interpretations of Hochschild (co)homology of finite-dimensional algebras using higher Auslander-Reiten translates and the canonical bimodule in the sense of Fang, Kerner and Yamagata.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Bivariate quaternionic factorizations and surfaces that decompose into two circles",
     "pubDate": "2026-08-13 04:00:00",
     "link": "https://arxiv.org/abs/2608.11887",
