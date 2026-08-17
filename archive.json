@@ -1,5 +1,119 @@
 [
   {
+    "title": "Sum of two strictly n-zero matrices",
+    "pubDate": "2026-08-17 04:00:00",
+    "link": "https://arxiv.org/abs/2608.13877",
+    "guid": "oai:arXiv.org:2608.13877v1",
+    "author": "Ivan Gargate, Edgar Saenz",
+    "thumbnail": "",
+    "description": "arXiv:2608.13877v1 Announce Type: new \nAbstract: In this work we investigate when an $n\\times n$ Jordan matrix can be written as the sum of two strictly $n$-zero matrices. In particular, we show that if $\\mathbb{F}$ is an algebraically closed field of characteristic zero and $A$ is an $n\\times n$ matrix over $\\mathbb{F}$ with $\\tr(A)=0$, then $A$ is the sum of two strictly $n$-zero matrices.",
+    "content": "arXiv:2608.13877v1 Announce Type: new \nAbstract: In this work we investigate when an $n\\times n$ Jordan matrix can be written as the sum of two strictly $n$-zero matrices. In particular, we show that if $\\mathbb{F}$ is an algebraically closed field of characteristic zero and $A$ is an $n\\times n$ matrix over $\\mathbb{F}$ with $\\tr(A)=0$, then $A$ is the sum of two strictly $n$-zero matrices.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Mittag-Leffler Conditions, Gorenstein Modules and Homological Invariants",
+    "pubDate": "2026-08-17 04:00:00",
+    "link": "https://arxiv.org/abs/2608.13898",
+    "guid": "oai:arXiv.org:2608.13898v1",
+    "author": "Guocheng Dai, Xiaolei Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2608.13898v1 Announce Type: new \nAbstract: In this paper, we investigate certain properties on the Mittag-Leffler conditions via set-theoretic methods. We establish that a strongly $\\aleph_1$-presented module $M$ satisfying Ext$_R^{\\ge 1}(M,D^{(\\aleph_1)})=0$ belongs to the left orthogonal class of $\\overline{D}$, where $\\overline{D}$ is the definable of $D$. This yields the consequence that every $\\aleph_1$-generated strongly Gorenstein projective module is Gorenstein flat. Furthermore, we investigate when a flat Gorenstein projective module is projective. Finally, for any two-sided $\\aleph_1$-coherent ring $R$, we prove the identity $\\operatorname{silp}R+\\operatorname{silp}R^{\\mathrm{op}}=\\operatorname{spli}R+\\operatorname{spli}R^{\\mathrm{op}}$.",
+    "content": "arXiv:2608.13898v1 Announce Type: new \nAbstract: In this paper, we investigate certain properties on the Mittag-Leffler conditions via set-theoretic methods. We establish that a strongly $\\aleph_1$-presented module $M$ satisfying Ext$_R^{\\ge 1}(M,D^{(\\aleph_1)})=0$ belongs to the left orthogonal class of $\\overline{D}$, where $\\overline{D}$ is the definable of $D$. This yields the consequence that every $\\aleph_1$-generated strongly Gorenstein projective module is Gorenstein flat. Furthermore, we investigate when a flat Gorenstein projective module is projective. Finally, for any two-sided $\\aleph_1$-coherent ring $R$, we prove the identity $\\operatorname{silp}R+\\operatorname{silp}R^{\\mathrm{op}}=\\operatorname{spli}R+\\operatorname{spli}R^{\\mathrm{op}}$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AC"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Local Smith Profiles of Twisted Calabi--Yau Algebras",
+    "pubDate": "2026-08-17 04:00:00",
+    "link": "https://arxiv.org/abs/2608.14057",
+    "guid": "oai:arXiv.org:2608.14057v1",
+    "author": "Atabey Kaygun",
+    "thumbnail": "",
+    "description": "arXiv:2608.14057v1 Announce Type: new \nAbstract: The matrix Hilbert series of a locally finite elementary twisted Calabi--Yau algebra is the inverse of a matrix polynomial. The Smith normal form of this polynomial over the power series ring at $x=1$ produces a finite list of local exponents refining the Gelfand--Kirillov dimension, which records only the largest of them. We show that the Calabi--Yau symmetry makes this local data rigid: the algebra decomposes into ring factors according to the average Artin--Schelter index along Nakayama cycles, and after a local normalization the symmetry induces a nonsingular linking form on the Smith cokernel together with a finite-order Nakayama action on its layers, forcing reciprocal-eigenvalue and parity constraints on the multiplicities of the exponents. We compute the complete local data for cyclic skew-group algebras, derive a parity sieve for quiver classifications in dimension three, and realize, as an iterated smash product of a graded down-up algebra, a four-vertex type that a recent classification had left open.",
+    "content": "arXiv:2608.14057v1 Announce Type: new \nAbstract: The matrix Hilbert series of a locally finite elementary twisted Calabi--Yau algebra is the inverse of a matrix polynomial. The Smith normal form of this polynomial over the power series ring at $x=1$ produces a finite list of local exponents refining the Gelfand--Kirillov dimension, which records only the largest of them. We show that the Calabi--Yau symmetry makes this local data rigid: the algebra decomposes into ring factors according to the average Artin--Schelter index along Nakayama cycles, and after a local normalization the symmetry induces a nonsingular linking form on the Smith cokernel together with a finite-order Nakayama action on its layers, forcing reciprocal-eigenvalue and parity constraints on the multiplicities of the exponents. We compute the complete local data for cyclic skew-group algebras, derive a parity sieve for quiver classifications in dimension three, and realize, as an iterated smash product of a graded down-up algebra, a four-vertex type that a recent classification had left open.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Cleft Extensions for Hopf Algebroids without Antipodes",
+    "pubDate": "2026-08-17 04:00:00",
+    "link": "https://arxiv.org/abs/2608.14064",
+    "guid": "oai:arXiv.org:2608.14064v1",
+    "author": "Xiao Han (QMUL), Peter Schauenburg (IMB, UBE)",
+    "thumbnail": "",
+    "description": "arXiv:2608.14064v1 Announce Type: cross \nAbstract: We introduce cleft extensions for Hopf algebroids. We prove the equivalence between cleft extensions, $\\sigma$-twisted crossed products, and Hopf-Galois extensions with the normal basis property, thereby generalizing the theory of cleft extensions for Hopf algebroids developed by B{\\\"o}hm and Brzezi{\\'n}ski, and fitting in with the general theory of Galois and biGalois extensions over Hopf algebroids developed by the authors.  We investigate the Ehresmann Hopf algebroid associated with a cleft extension and show that it is isomorphic to a generalized version of the Connes-Moscovici Hopf algebroid. A special case of the Connes-Moscovici Hopf algebroid, namely the case where the coinvariants of the cleft extension coincide with the base of the Hopf algebroid, is a Drinfeld twist of a Hopf algebroid by a two-cocycle, generalizing work of B{\\\"o}hm, Han and Majid.",
+    "content": "arXiv:2608.14064v1 Announce Type: cross \nAbstract: We introduce cleft extensions for Hopf algebroids. We prove the equivalence between cleft extensions, $\\sigma$-twisted crossed products, and Hopf-Galois extensions with the normal basis property, thereby generalizing the theory of cleft extensions for Hopf algebroids developed by B{\\\"o}hm and Brzezi{\\'n}ski, and fitting in with the general theory of Galois and biGalois extensions over Hopf algebroids developed by the authors.  We investigate the Ehresmann Hopf algebroid associated with a cleft extension and show that it is isomorphic to a generalized version of the Connes-Moscovici Hopf algebroid. A special case of the Connes-Moscovici Hopf algebroid, namely the case where the coinvariants of the cleft extension coincide with the base of the Hopf algebroid, is a Drinfeld twist of a Hopf algebroid by a two-cocycle, generalizing work of B{\\\"o}hm, Han and Majid.",
+    "enclosure": {},
+    "categories": [
+      "math.CT",
+      "math-ph",
+      "math.MP",
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A counterexample to a question on the maximality of purely-primes",
+    "pubDate": "2026-08-17 04:00:00",
+    "link": "https://arxiv.org/abs/2608.14251",
+    "guid": "oai:arXiv.org:2608.14251v1",
+    "author": "Abolfazl Tarizadeh",
+    "thumbnail": "",
+    "description": "arXiv:2608.14251v1 Announce Type: cross \nAbstract: By using an advanced model of AI, it is proved that there exists a commutative ring having a purely-prime ideal which is not purely-maximal. This gives a counterexample to \\cite[Conjecture 5.8]{Tarizadeh}.",
+    "content": "arXiv:2608.14251v1 Announce Type: cross \nAbstract: By using an advanced model of AI, it is proved that there exists a commutative ring having a purely-prime ideal which is not purely-maximal. This gives a counterexample to \\cite[Conjecture 5.8]{Tarizadeh}.",
+    "enclosure": {},
+    "categories": [
+      "math.AC",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Brauer graph algebras are closed under stable equivalence of Morita type",
+    "pubDate": "2026-08-17 04:00:00",
+    "link": "https://arxiv.org/abs/2608.14253",
+    "guid": "oai:arXiv.org:2608.14253v1",
+    "author": "Pengyun Chen, Nengqun Li, Yuming Liu, Bohan Xing",
+    "thumbnail": "",
+    "description": "arXiv:2608.14253v1 Announce Type: cross \nAbstract: We study stable equivalences of Brauer graph algebras. In particular, we prove that Brauer graph algebras are closed up to semisimple summands under stable equivalence of Morita type. As a consequence, we reprove the result of Antipov and Zvonareva that Brauer graph algebras are closed under derived equivalence. As a byproduct, we get a solution of the reconstruction problem posed by Rickard and Rouquier for algebras stably equivalent of Morita type to Brauer graph algebras.",
+    "content": "arXiv:2608.14253v1 Announce Type: cross \nAbstract: We study stable equivalences of Brauer graph algebras. In particular, we prove that Brauer graph algebras are closed up to semisimple summands under stable equivalence of Morita type. As a consequence, we reprove the result of Antipov and Zvonareva that Brauer graph algebras are closed under derived equivalence. As a byproduct, we get a solution of the reconstruction problem posed by Rickard and Rouquier for algebras stably equivalent of Morita type to Brauer graph algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The integro-differential closure of a commutative differential ring",
+    "pubDate": "2026-08-17 04:00:00",
+    "link": "https://arxiv.org/abs/2507.07889",
+    "guid": "oai:arXiv.org:2507.07889v3",
+    "author": "Clemens G. Raab, Georg Regensburger",
+    "thumbnail": "",
+    "description": "arXiv:2507.07889v3 Announce Type: replace \nAbstract: An integro-differential ring is a differential ring that is closed under an integration operation satisfying the fundamental theorem of calculus. Via the Newton--Leibniz formula, a generalized evaluation is defined in terms of integration and differentiation. The induced evaluation is not necessarily multiplicative, which allows to model functions with singularities and leads to generalized shuffle relations. In general, not every element of a differential ring has an antiderivative in the same ring. Starting from a commutative differential ring and a direct decomposition into integrable and non-integrable elements, we construct the free integro-differential ring. This integro-differential closure contains all nested integrals over elements of the original differential ring. Analyzing the structure of nested integrals independently of concrete integrands, we separate the algebraic structure from analytic properties arising from concrete functions. We exhibit the relations satisfied by generalized evaluations of products of nested integrals. Investigating these relations of constants, we characterize in terms of Lyndon words certain evaluations of products that determine all others. We also analyze the relation of the free integro-differential ring with the shuffle algebra. To preserve integrals in the original differential ring for computations in its integro-differential closure, we introduce the notion of quasi-integro-differential rings and give two adapted constructions of the integro-differential closure. Finally, in a given integro-differential ring, we consider the internal integro-differential closure of a differential subring and identify it as quotient of the free integro-differential ring by certain constants.",
+    "content": "arXiv:2507.07889v3 Announce Type: replace \nAbstract: An integro-differential ring is a differential ring that is closed under an integration operation satisfying the fundamental theorem of calculus. Via the Newton--Leibniz formula, a generalized evaluation is defined in terms of integration and differentiation. The induced evaluation is not necessarily multiplicative, which allows to model functions with singularities and leads to generalized shuffle relations. In general, not every element of a differential ring has an antiderivative in the same ring. Starting from a commutative differential ring and a direct decomposition into integrable and non-integrable elements, we construct the free integro-differential ring. This integro-differential closure contains all nested integrals over elements of the original differential ring. Analyzing the structure of nested integrals independently of concrete integrands, we separate the algebraic structure from analytic properties arising from concrete functions. We exhibit the relations satisfied by generalized evaluations of products of nested integrals. Investigating these relations of constants, we characterize in terms of Lyndon words certain evaluations of products that determine all others. We also analyze the relation of the free integro-differential ring with the shuffle algebra. To preserve integrals in the original differential ring for computations in its integro-differential closure, we introduce the notion of quasi-integro-differential rings and give two adapted constructions of the integro-differential closure. Finally, in a given integro-differential ring, we consider the internal integro-differential closure of a differential subring and identify it as quotient of the free integro-differential ring by certain constants.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "cs.SC",
+      "math.AC"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Some more talents of the talented monoid of a higher-rank graph",
     "pubDate": "2026-08-14 04:00:00",
     "link": "https://arxiv.org/abs/2608.12798",
