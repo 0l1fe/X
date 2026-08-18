@@ -1,5 +1,159 @@
 [
   {
+    "title": "$F$-congruences on $F$-inverse monoids",
+    "pubDate": "2026-08-18 04:00:00",
+    "link": "https://arxiv.org/abs/2608.15114",
+    "guid": "oai:arXiv.org:2608.15114v1",
+    "author": "Ajda Lemut Furlani",
+    "thumbnail": "",
+    "description": "arXiv:2608.15114v1 Announce Type: new \nAbstract: We study the class of congruences on $F$-inverse monoids that respect the unary operation $a\\mapsto\\mx{a}$, assigning to each element the maximum element of its $\\sigma$-class, which we refer to as $F$-congruences. We characterize kernel normal systems and congruence pairs on $F$-inverse monoids which give rise to such congruences and establish a number of further related results including a classification of $F$-congruence-free $F$-inverse monoids.",
+    "content": "arXiv:2608.15114v1 Announce Type: new \nAbstract: We study the class of congruences on $F$-inverse monoids that respect the unary operation $a\\mapsto\\mx{a}$, assigning to each element the maximum element of its $\\sigma$-class, which we refer to as $F$-congruences. We characterize kernel normal systems and congruence pairs on $F$-inverse monoids which give rise to such congruences and establish a number of further related results including a classification of $F$-congruence-free $F$-inverse monoids.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GR"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On Locally Generalized radical linear groups over rings",
+    "pubDate": "2026-08-18 04:00:00",
+    "link": "https://arxiv.org/abs/2608.15136",
+    "guid": "oai:arXiv.org:2608.15136v1",
+    "author": "Le Van Chua, Bui Xuan Hai",
+    "thumbnail": "",
+    "description": "arXiv:2608.15136v1 Announce Type: new \nAbstract: In this paper, we investigate the structure of locally generalized radical linear groups over certain non-commutative rings and algebras. The base rings and algebras we consider include division rings, left artinian rings, locally finite algebras over fields, and PI-algebras over fields. Among various results, we get the positive answers to the General Burnside Problem and to Baer's Conjecture for some particular cases of linear groups.",
+    "content": "arXiv:2608.15136v1 Announce Type: new \nAbstract: In this paper, we investigate the structure of locally generalized radical linear groups over certain non-commutative rings and algebras. The base rings and algebras we consider include division rings, left artinian rings, locally finite algebras over fields, and PI-algebras over fields. Among various results, we get the positive answers to the General Burnside Problem and to Baer's Conjecture for some particular cases of linear groups.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Affine Nilpotency and Engel's Theorem for Lie Affgebras",
+    "pubDate": "2026-08-18 04:00:00",
+    "link": "https://arxiv.org/abs/2608.15190",
+    "guid": "oai:arXiv.org:2608.15190v1",
+    "author": "Tarik Anowar, Ripan Saha, Sayan Thokdar",
+    "thumbnail": "",
+    "description": "arXiv:2608.15190v1 Announce Type: new \nAbstract: We study some structural properties of Lie affgebras as affine analogues of Lie algebras. We introduce the notion of an ideaf, the affine counterpart of an ideal, and establish characterizations of left and right ideafs. We further study centers, quotient structures, and product ideafs, proving, under suitable conditions, that the center of a Lie affgebra is an ideaf. We then develop the notion of affine nilpotency and establish connections between the nilpotency of Lie affgebras and that of their retracted Lie algebras. As an application, we prove an Engel-type theorem for Lie affgebras of the form $\\mathfrak{a}(\\mathfrak{g};\\kappa=2\\lambda,\\lambda,s)$.",
+    "content": "arXiv:2608.15190v1 Announce Type: new \nAbstract: We study some structural properties of Lie affgebras as affine analogues of Lie algebras. We introduce the notion of an ideaf, the affine counterpart of an ideal, and establish characterizations of left and right ideafs. We further study centers, quotient structures, and product ideafs, proving, under suitable conditions, that the center of a Lie affgebra is an ideaf. We then develop the notion of affine nilpotency and establish connections between the nilpotency of Lie affgebras and that of their retracted Lie algebras. As an application, we prove an Engel-type theorem for Lie affgebras of the form $\\mathfrak{a}(\\mathfrak{g};\\kappa=2\\lambda,\\lambda,s)$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Some results on Hom-Novikov superalgebras and Hom-anti-pre-Novikov superalgebras",
+    "pubDate": "2026-08-18 04:00:00",
+    "link": "https://arxiv.org/abs/2608.15346",
+    "guid": "oai:arXiv.org:2608.15346v1",
+    "author": "Wiem Ben Abdelhafidh",
+    "thumbnail": "",
+    "description": "arXiv:2608.15346v1 Announce Type: new \nAbstract: This paper investigates the structural properties, operator representations, and algebraic duality of Hom-Novikov superalgebras and to introduce Hom-anti-pre-Novikov superalgebras. We establish a formal equivalence between Hom-Novikov superalgebras and admissible Hom-Novikov superalgebras via $q$-superalgebra extensions, proving that a Hom-pre-Lie superalgebra admits a Hom-Novikov structure if and only if its associated $2$-superalgebra is admissible. Introducing $q$-admissible pairs $(\\mathcal P, \\mathcal Q)$ on super-commutative Hom-associative superalgebras, we detail systematic constructions of Hom-Novikov superalgebras and their admissibility classes. Furthermore, we characterize anti-super-$\\mathcal{O}$-operators on Hom-Lie superalgebras, showing that invertible operators induce compatible Hom-anti-pre-Lie structures and extend directly to admissible setups. Extending these frameworks to Poisson-type structures, we demonstrate that the sub-adjacent Hom-Lie superalgebra of a Hom-anti-pre-Lie Poisson superalgebra yields a transposed Hom-Poisson superalgebra. Finally, we establish the fundamental connection between Hom-anti-pre-Novikov superalgebras and invertible anti-super-$\\mathcal{O}$-operators.",
+    "content": "arXiv:2608.15346v1 Announce Type: new \nAbstract: This paper investigates the structural properties, operator representations, and algebraic duality of Hom-Novikov superalgebras and to introduce Hom-anti-pre-Novikov superalgebras. We establish a formal equivalence between Hom-Novikov superalgebras and admissible Hom-Novikov superalgebras via $q$-superalgebra extensions, proving that a Hom-pre-Lie superalgebra admits a Hom-Novikov structure if and only if its associated $2$-superalgebra is admissible. Introducing $q$-admissible pairs $(\\mathcal P, \\mathcal Q)$ on super-commutative Hom-associative superalgebras, we detail systematic constructions of Hom-Novikov superalgebras and their admissibility classes. Furthermore, we characterize anti-super-$\\mathcal{O}$-operators on Hom-Lie superalgebras, showing that invertible operators induce compatible Hom-anti-pre-Lie structures and extend directly to admissible setups. Extending these frameworks to Poisson-type structures, we demonstrate that the sub-adjacent Hom-Lie superalgebra of a Hom-anti-pre-Lie Poisson superalgebra yields a transposed Hom-Poisson superalgebra. Finally, we establish the fundamental connection between Hom-anti-pre-Novikov superalgebras and invertible anti-super-$\\mathcal{O}$-operators.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Eigenvalues of locally positive semidefinite matrices: Non-convexity and Geometry",
+    "pubDate": "2026-08-18 04:00:00",
+    "link": "https://arxiv.org/abs/2608.15444",
+    "guid": "oai:arXiv.org:2608.15444v1",
+    "author": "Jose Acevedo, Grigoriy Blekherman, Sebastian Debus, Seokbin Lee, Cordian Riener",
+    "thumbnail": "",
+    "description": "arXiv:2608.15444v1 Announce Type: new \nAbstract: A real symmetric matrix is called $d$-locally positive semidefinite if all of its $d \\times d$ principal submatrices are positive semidefinite. We investigate the spectral geometry of $d$-locally positive semidefinite matrices. The set of vectors of eigenvalues of $d$-locally positive semidefinite matrices of size $n \\times n$ is fully understood and known to be convex when $d \\in \\{1,n-1,n\\}$ \\cite{blekherman2022hyperbolic}. In the smallest remaining case $n=4, d=2$, non-convexity of the set of vectors of eigenvalues was proved in \\cite{kozhasov2023eigenvalues}, but even in this case the full description was unknown. We provide a basic semialgebraic description of the set of vectors of eigenvalues for $n=4, d=2$ by establishing a Fischer-type inequality for $2$-locally positive semidefinite matrices of size $4 \\times 4$ and prove non-convexity for $n \\geq 4$ and $d \\in \\{2, n-2\\}$. Non-convexity is established via solving certain non-smooth and non-convex min-max point configuration problems in the complex plane, which could be interesting in themselves. Similar problems were considered in \\cite{nesterenko2024submatrices,sengupta2026submatrices} in the context of matrix decomposition and approximation.",
+    "content": "arXiv:2608.15444v1 Announce Type: new \nAbstract: A real symmetric matrix is called $d$-locally positive semidefinite if all of its $d \\times d$ principal submatrices are positive semidefinite. We investigate the spectral geometry of $d$-locally positive semidefinite matrices. The set of vectors of eigenvalues of $d$-locally positive semidefinite matrices of size $n \\times n$ is fully understood and known to be convex when $d \\in \\{1,n-1,n\\}$ \\cite{blekherman2022hyperbolic}. In the smallest remaining case $n=4, d=2$, non-convexity of the set of vectors of eigenvalues was proved in \\cite{kozhasov2023eigenvalues}, but even in this case the full description was unknown. We provide a basic semialgebraic description of the set of vectors of eigenvalues for $n=4, d=2$ by establishing a Fischer-type inequality for $2$-locally positive semidefinite matrices of size $4 \\times 4$ and prove non-convexity for $n \\geq 4$ and $d \\in \\{2, n-2\\}$. Non-convexity is established via solving certain non-smooth and non-convex min-max point configuration problems in the complex plane, which could be interesting in themselves. Similar problems were considered in \\cite{nesterenko2024submatrices,sengupta2026submatrices} in the context of matrix decomposition and approximation.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AG",
+      "math.OC"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Support $\\tau$-tilting posets and Hochschild reconstruction for matrix centralizer algebras",
+    "pubDate": "2026-08-18 04:00:00",
+    "link": "https://arxiv.org/abs/2608.15460",
+    "guid": "oai:arXiv.org:2608.15460v1",
+    "author": "Jiangsheng Hu, Yu-Zhe Liu, Tiwei Zhao",
+    "thumbnail": "",
+    "description": "arXiv:2608.15460v1 Announce Type: new \nAbstract: Let $R$ be a field, and let $\\mathcal{O}$ be a finite-dimensional commutative local principal ideal $R$-algebra of Loewy length $\\ell$ with $\\operatorname{rad}\\mathcal{O}=(\\pi)$. For a nonempty set $P=\\{p_1",
+    "content": "arXiv:2608.15460v1 Announce Type: new \nAbstract: Let $R$ be a field, and let $\\mathcal{O}$ be a finite-dimensional commutative local principal ideal $R$-algebra of Loewy length $\\ell$ with $\\operatorname{rad}\\mathcal{O}=(\\pi)$. For a nonempty set $P=\\{p_1",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Superalgebras and Algebras with Involution: Classifying Cubic Codimension Sequences",
+    "pubDate": "2026-08-18 04:00:00",
+    "link": "https://arxiv.org/abs/2608.15612",
+    "guid": "oai:arXiv.org:2608.15612v1",
+    "author": "Yan-Hong Bao, Jiang-Nan Xu, Yuan-Feng Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2608.15612v1 Announce Type: new \nAbstract: A $\\varphi$-algebra is either a superalgebra or an algebra with involution. In this paper, we study $\\operatorname{T}^\\varphi$-ideals associated with unital $\\varphi$-algebras whose $\\varphi$-codimension sequence exhibits cubic polynomial growth. As a consequence, we obtain a complete classification of all $\\varphi$-codimension sequences of cubic growth for unital $\\varphi$-algebras. Furthermore, we explicitly determine a minimal-degree multilinear generator for every $\\operatorname{T}^\\varphi$-ideal associated with unital $\\varphi$-algebras whose $\\varphi$-codimension growth is at most quadratic.",
+    "content": "arXiv:2608.15612v1 Announce Type: new \nAbstract: A $\\varphi$-algebra is either a superalgebra or an algebra with involution. In this paper, we study $\\operatorname{T}^\\varphi$-ideals associated with unital $\\varphi$-algebras whose $\\varphi$-codimension sequence exhibits cubic polynomial growth. As a consequence, we obtain a complete classification of all $\\varphi$-codimension sequences of cubic growth for unital $\\varphi$-algebras. Furthermore, we explicitly determine a minimal-degree multilinear generator for every $\\operatorname{T}^\\varphi$-ideal associated with unital $\\varphi$-algebras whose $\\varphi$-codimension growth is at most quadratic.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Modified induction and a torsion-theoretic equivalence for relative BiHom-Hopf modules",
+    "pubDate": "2026-08-18 04:00:00",
+    "link": "https://arxiv.org/abs/2608.15615",
+    "guid": "oai:arXiv.org:2608.15615v1",
+    "author": "Qihao Jin",
+    "thumbnail": "",
+    "description": "arXiv:2608.15615v1 Announce Type: new \nAbstract: We develop an induction theory for relative BiHom-Hopf modules, the special BiHom-Doi--Hopf case associated with the datum $(H,A,H)$ in which the final copy of $H$ carries its regular right $H$-module coalgebra structure. Let $H$ be a monoidal BiHom-Hopf algebra, let $A$ be a right $H$-BiHom-comodule algebra, and let $B=A^{\\operatorname{co}H}$. We show that the balanced tensor product defines an induction functor $-\\otimes_BA$ left adjoint to the coinvariant functor. If $H$ has a fixed Haar integral, untwisting yields a Haar identity for the BiHom setting and a canonical projection onto coinvariants. These constructions define a hereditary torsion theory with radical $\\kappa$ and a torsion-free reflector $Q(M)=M/\\kappa(M)$. The modified induction functor $Q(-\\otimes_BA)$ then gives an equivalence between right $B$-BiHom-modules and torsion-free relative BiHom-Hopf modules generated by their coinvariants. Equal structure maps recover the corresponding Hom result, while identity structure maps recover the classical relative Hopf-module setting.",
+    "content": "arXiv:2608.15615v1 Announce Type: new \nAbstract: We develop an induction theory for relative BiHom-Hopf modules, the special BiHom-Doi--Hopf case associated with the datum $(H,A,H)$ in which the final copy of $H$ carries its regular right $H$-module coalgebra structure. Let $H$ be a monoidal BiHom-Hopf algebra, let $A$ be a right $H$-BiHom-comodule algebra, and let $B=A^{\\operatorname{co}H}$. We show that the balanced tensor product defines an induction functor $-\\otimes_BA$ left adjoint to the coinvariant functor. If $H$ has a fixed Haar integral, untwisting yields a Haar identity for the BiHom setting and a canonical projection onto coinvariants. These constructions define a hereditary torsion theory with radical $\\kappa$ and a torsion-free reflector $Q(M)=M/\\kappa(M)$. The modified induction functor $Q(-\\otimes_BA)$ then gives an equivalence between right $B$-BiHom-modules and torsion-free relative BiHom-Hopf modules generated by their coinvariants. Equal structure maps recover the corresponding Hom result, while identity structure maps recover the classical relative Hopf-module setting.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On Noetherian pointed Hopf algebras",
+    "pubDate": "2026-08-18 04:00:00",
+    "link": "https://arxiv.org/abs/2608.15856",
+    "guid": "oai:arXiv.org:2608.15856v1",
+    "author": "N. Andruskiewitsch, I. Heckenberger, L. Vendramin",
+    "thumbnail": "",
+    "description": "arXiv:2608.15856v1 Announce Type: new \nAbstract: In arXiv:1405.4105 it was asked whether an affine Hopf algebra with finite Gelfand-Kirillov dimension is necessarily Noetherian. It is well-known that the converse is not true --take the group algebra of a polycyclic group which is not nilpotent-by-finite. However, it was conjectured in arXiv:2301.04428 that a pointed affine Noetherian Hopf algebra whose group of group-likes is nilpotent-by-finite necessarily has finite Gelfand-Kirillov dimension. In the present paper we conjecture that a post-Nichols algebra over a polycyclic-by-finite group is Noetherian if and only if it is affine and has finite Gelfand-Kirillov dimension. Partial results supporting this conjecture are presented; and their consequences for the preceding questions and conjectures is analyzed.",
+    "content": "arXiv:2608.15856v1 Announce Type: new \nAbstract: In arXiv:1405.4105 it was asked whether an affine Hopf algebra with finite Gelfand-Kirillov dimension is necessarily Noetherian. It is well-known that the converse is not true --take the group algebra of a polycyclic group which is not nilpotent-by-finite. However, it was conjectured in arXiv:2301.04428 that a pointed affine Noetherian Hopf algebra whose group of group-likes is nilpotent-by-finite necessarily has finite Gelfand-Kirillov dimension. In the present paper we conjecture that a post-Nichols algebra over a polycyclic-by-finite group is Noetherian if and only if it is affine and has finite Gelfand-Kirillov dimension. Partial results supporting this conjecture are presented; and their consequences for the preceding questions and conjectures is analyzed.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.QA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Symmetry of self-injective dimensions under the Auslander condition",
+    "pubDate": "2026-08-18 04:00:00",
+    "link": "https://arxiv.org/abs/2608.15974",
+    "guid": "oai:arXiv.org:2608.15974v1",
+    "author": "Dawei Shen",
+    "thumbnail": "",
+    "description": "arXiv:2608.15974v1 Announce Type: new \nAbstract: Let $A$ be a module-finite algebra over a commutative Noetherian ring. We give a local criterion for the $n$-Gorenstein condition on $A$. As an application, we prove that if $A$ satisfies the Auslander condition,then finiteness of the self-injective dimension on one side impliesfiniteness on the other side.",
+    "content": "arXiv:2608.15974v1 Announce Type: new \nAbstract: Let $A$ be a module-finite algebra over a commutative Noetherian ring. We give a local criterion for the $n$-Gorenstein condition on $A$. As an application, we prove that if $A$ satisfies the Auslander condition,then finiteness of the self-injective dimension on one side impliesfiniteness on the other side.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Sum of two strictly n-zero matrices",
     "pubDate": "2026-08-17 04:00:00",
     "link": "https://arxiv.org/abs/2608.13877",
