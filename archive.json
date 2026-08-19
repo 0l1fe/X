@@ -1,5 +1,119 @@
 [
   {
+    "title": "Decomposition of a square matrix into a product of a nilpotent matrix and an involutive or idempotent matrix",
+    "pubDate": "2026-08-19 04:00:00",
+    "link": "https://arxiv.org/abs/2608.17569",
+    "guid": "oai:arXiv.org:2608.17569v1",
+    "author": "Flavien Mabilat",
+    "thumbnail": "",
+    "description": "arXiv:2608.17569v1 Announce Type: new \nAbstract: In this note, we give a complete characterization of square matrices of size $n$ over a commutative field which can be expressed as a product of a nilpotent matrix and an involutive matrix and matrices which can be expressed as a product of a nilpotent matrix and an idempotent matrix, in terms of invariant factors.",
+    "content": "arXiv:2608.17569v1 Announce Type: new \nAbstract: In this note, we give a complete characterization of square matrices of size $n$ over a commutative field which can be expressed as a product of a nilpotent matrix and an involutive matrix and matrices which can be expressed as a product of a nilpotent matrix and an idempotent matrix, in terms of invariant factors.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Positive definite, positive semidefinite and totally positive matrices over finite fields",
+    "pubDate": "2026-08-19 04:00:00",
+    "link": "https://arxiv.org/abs/2608.17702",
+    "guid": "oai:arXiv.org:2608.17702v1",
+    "author": "Arvind Ayyer, Shubhanshu Prasad",
+    "thumbnail": "",
+    "description": "arXiv:2608.17702v1 Announce Type: new \nAbstract: Motivated by the equivalent definitions of positive definite (resp. positive semidefinite) matrices over real and complex fields, we give four (resp. five) inequivalent definitions for these matrices over finite fields. Our starting point is the recent definition due to Cooper--Hanna--Whitlatch (RMJ. Math., 2024) of positive elements in finite fields. We also use this definition to study totally positive matrices over finite fields. For all of these cases, we give explicit enumeration formulae or give bounds. Most of our formulas are new, but we summarize results from the existing literature for completeness. For positive semidefinite matrices of type 5 and totally positive matrices, we give structural formulas using the rationality of the Weil zeta function, i.e. Dwork's theorem, and conjecture a quasipolynomial-type formula.",
+    "content": "arXiv:2608.17702v1 Announce Type: new \nAbstract: Motivated by the equivalent definitions of positive definite (resp. positive semidefinite) matrices over real and complex fields, we give four (resp. five) inequivalent definitions for these matrices over finite fields. Our starting point is the recent definition due to Cooper--Hanna--Whitlatch (RMJ. Math., 2024) of positive elements in finite fields. We also use this definition to study totally positive matrices over finite fields. For all of these cases, we give explicit enumeration formulae or give bounds. Most of our formulas are new, but we summarize results from the existing literature for completeness. For positive semidefinite matrices of type 5 and totally positive matrices, we give structural formulas using the rationality of the Weil zeta function, i.e. Dwork's theorem, and conjecture a quasipolynomial-type formula.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A strongly compact cardinal yields a left and right coherent ring with $\\mathcal{PGF}(R)\\subsetneq\\mathcal{GP}(R)$",
+    "pubDate": "2026-08-19 04:00:00",
+    "link": "https://arxiv.org/abs/2608.17748",
+    "guid": "oai:arXiv.org:2608.17748v1",
+    "author": "Chencheng Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2608.17748v1 Announce Type: new \nAbstract: For a ring $R$, let $\\mathcal{GP}(R)$, $\\mathcal{GF}(R)$, and $\\mathcal{PGF}(R)$ denote the classes of Gorenstein projective, Gorenstein flat, and projectively coresolved Gorenstein flat left $R$-modules, respectively. We introduce the local Boolean--Roos hypothesis $\\textsf{LBR}$: the existence of a strongly compact cardinal implies $\\textsf{LBR}$, while $\\textsf{LBR}$ implies the existence of a measurable cardinal. Assuming $\\textsf{LBR}$, we construct a left and right coherent ring $R$ and a strongly Gorenstein projective left $R$-module $G$ which is not Gorenstein flat; hence $\\mathcal{PGF}(R)\\subsetneq\\mathcal{GP}(R)$.",
+    "content": "arXiv:2608.17748v1 Announce Type: new \nAbstract: For a ring $R$, let $\\mathcal{GP}(R)$, $\\mathcal{GF}(R)$, and $\\mathcal{PGF}(R)$ denote the classes of Gorenstein projective, Gorenstein flat, and projectively coresolved Gorenstein flat left $R$-modules, respectively. We introduce the local Boolean--Roos hypothesis $\\textsf{LBR}$: the existence of a strongly compact cardinal implies $\\textsf{LBR}$, while $\\textsf{LBR}$ implies the existence of a measurable cardinal. Assuming $\\textsf{LBR}$, we construct a left and right coherent ring $R$ and a strongly Gorenstein projective left $R$-module $G$ which is not Gorenstein flat; hence $\\mathcal{PGF}(R)\\subsetneq\\mathcal{GP}(R)$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AC",
+      "math.LO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Deformations and homotopy theory of Rota-Baxter Lie algebras",
+    "pubDate": "2026-08-19 04:00:00",
+    "link": "https://arxiv.org/abs/2608.17790",
+    "guid": "oai:arXiv.org:2608.17790v1",
+    "author": "Jun Chen, Kai Wang, Guodong Zhou",
+    "thumbnail": "",
+    "description": "arXiv:2608.17790v1 Announce Type: cross \nAbstract: For Rota-Baxter Lie algebras, a homotopy cooperad is exhibited, whose cobar construction is shown to be the minimal model of the operad of Rota-Baxter Lie algebras by using algebraic Morse theory. The deformation complex of Rota-Baxter Lie algebras as well as the $L_\\infty$-algebra structure on this complex are deduced from the minimal model and the notion of homotopy Rota-Baxter Lie algebras is given as a consequence.",
+    "content": "arXiv:2608.17790v1 Announce Type: cross \nAbstract: For Rota-Baxter Lie algebras, a homotopy cooperad is exhibited, whose cobar construction is shown to be the minimal model of the operad of Rota-Baxter Lie algebras by using algebraic Morse theory. The deformation complex of Rota-Baxter Lie algebras as well as the $L_\\infty$-algebra structure on this complex are deduced from the minimal model and the notion of homotopy Rota-Baxter Lie algebras is given as a consequence.",
+    "enclosure": {},
+    "categories": [
+      "math.KT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "An equidistribution conjecture for quotient-closed and submodule-closed subcategories",
+    "pubDate": "2026-08-19 04:00:00",
+    "link": "https://arxiv.org/abs/2608.18024",
+    "guid": "oai:arXiv.org:2608.18024v1",
+    "author": "Haruhisa Enomoto",
+    "thumbnail": "",
+    "description": "arXiv:2608.18024v1 Announce Type: cross \nAbstract: We study subcategories of the module category of a finite-dimensional algebra that are closed under quotients or submodules. We propose the quotient--submodule equidistribution conjecture: over a representation-finite algebra, the number of quotient-closed subcategories of size $i$ is equal to that of submodule-closed subcategories of size $i$ for every $i$, where size is the number of indecomposable modules in the subcategory. We prove the following cases of the conjecture: (1) the five smallest and five largest values of $i$, hence all algebras with at most nine indecomposable modules; (2) Nakayama algebras; (3) algebras with radical square zero; and (4) representation-directed algebras. In the last case, we classify quotient-closed subcategories by a lower Bruhat interval in a Coxeter group constructed from the Auslander--Reiten quiver, extending the classification of Oppermann--Reiten--Thomas for Dynkin quivers. We also prove that quotient closure defines a finitary convex geometry and classify the functorially finite quotient-closed subcategories by Gen-minimal modules.",
+    "content": "arXiv:2608.18024v1 Announce Type: cross \nAbstract: We study subcategories of the module category of a finite-dimensional algebra that are closed under quotients or submodules. We propose the quotient--submodule equidistribution conjecture: over a representation-finite algebra, the number of quotient-closed subcategories of size $i$ is equal to that of submodule-closed subcategories of size $i$ for every $i$, where size is the number of indecomposable modules in the subcategory. We prove the following cases of the conjecture: (1) the five smallest and five largest values of $i$, hence all algebras with at most nine indecomposable modules; (2) Nakayama algebras; (3) algebras with radical square zero; and (4) representation-directed algebras. In the last case, we classify quotient-closed subcategories by a lower Bruhat interval in a Coxeter group constructed from the Auslander--Reiten quiver, extending the classification of Oppermann--Reiten--Thomas for Dynkin quivers. We also prove that quotient closure defines a finitary convex geometry and classify the functorially finite quotient-closed subcategories by Gen-minimal modules.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Operational Regimes of Ternary $\\Gamma$-Semiring Chemical Systems",
+    "pubDate": "2026-08-19 04:00:00",
+    "link": "https://arxiv.org/abs/2511.16697",
+    "guid": "oai:arXiv.org:2511.16697v2",
+    "author": "Chandrasekhar Gokavarapu (Department of Mathematics, Government College), Venkata Rao Kaviti (Department of Chemistry, Government College), Srinivasa Rao Thirunagari (Department of Chemistry, Government College), Dr Sajani Lavanya Madasi (Department of Mathematics, Government College), D. Madhusudhana Rao (Department of Mathematics, Government College for Women)",
+    "thumbnail": "",
+    "description": "arXiv:2511.16697v2 Announce Type: replace-cross \nAbstract: Ternary $\\Gamma$-semiring chemical systems provide an algebraic language in which mediators such as catalysts, solvents, inhibitors, thermodynamic conditions, and external fields enter the transformation law as internal arguments. Building on the published MATCH foundation article, this paper studies operational regimes of the compressed TGS notation rather than proposing a second axiomatization. Distributivity is interpreted as observable non-interference of mediated channels, while associativity is interpreted as observable path-independence of bracketed mediated protocols. Since the state space is only semigroup- or semiring-level, subtraction is not used at the state level; instead, observable defect and ratio indices are defined after applying a non-negative observable. We prove that distributivity implies observable non-interference under observable additivity, and that associativity implies observable path-independence. Nonzero defects detect observable distinguishability. To strengthen the diagnostic layer, we prove recovery theorems showing that separating families of observables can recover algebraic distributivity and associativity from vanishing observable defects. We also introduce approximate operational regimes and prove ratio bounds controlled by uniform defect estimates. Under strict convexity, uniqueness, and common global-constraint assumptions, a potential-generated equilibrium operation is shown to be associative. A symbolic intermediate-dependent Michaelis--Menten type construction shows how non-associativity may arise in kinetic regimes, and regulatory/allosteric-type non-distributivity is discussed cautiously through observable coupling.",
+    "content": "arXiv:2511.16697v2 Announce Type: replace-cross \nAbstract: Ternary $\\Gamma$-semiring chemical systems provide an algebraic language in which mediators such as catalysts, solvents, inhibitors, thermodynamic conditions, and external fields enter the transformation law as internal arguments. Building on the published MATCH foundation article, this paper studies operational regimes of the compressed TGS notation rather than proposing a second axiomatization. Distributivity is interpreted as observable non-interference of mediated channels, while associativity is interpreted as observable path-independence of bracketed mediated protocols. Since the state space is only semigroup- or semiring-level, subtraction is not used at the state level; instead, observable defect and ratio indices are defined after applying a non-negative observable. We prove that distributivity implies observable non-interference under observable additivity, and that associativity implies observable path-independence. Nonzero defects detect observable distinguishability. To strengthen the diagnostic layer, we prove recovery theorems showing that separating families of observables can recover algebraic distributivity and associativity from vanishing observable defects. We also introduce approximate operational regimes and prove ratio bounds controlled by uniform defect estimates. Under strict convexity, uniqueness, and common global-constraint assumptions, a potential-generated equilibrium operation is shown to be associative. A symbolic intermediate-dependent Michaelis--Menten type construction shows how non-associativity may arise in kinetic regimes, and regulatory/allosteric-type non-distributivity is discussed cautiously through observable coupling.",
+    "enclosure": {},
+    "categories": [
+      "physics.chem-ph",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Eigenvector Varieties",
+    "pubDate": "2026-08-19 04:00:00",
+    "link": "https://arxiv.org/abs/2606.20432",
+    "guid": "oai:arXiv.org:2606.20432v2",
+    "author": "Sandra Di Rocco, Bernd Sturmfels, Svala Sverrisd\\'ottir",
+    "thumbnail": "",
+    "description": "arXiv:2606.20432v2 Announce Type: replace-cross \nAbstract: Any linear space of square matrices has an associated eigenvector variety. Its points are eigenvectors of matrices from that linear space. We present a systematic study of eigenvector varieties, with focus on Lie algebras and Hamiltonians of quantum systems.",
+    "content": "arXiv:2606.20432v2 Announce Type: replace-cross \nAbstract: Any linear space of square matrices has an associated eigenvector variety. Its points are eigenvectors of matrices from that linear space. We present a systematic study of eigenvector varieties, with focus on Lie algebras and Hamiltonians of quantum systems.",
+    "enclosure": {},
+    "categories": [
+      "math.AG",
+      "math.RA",
+      "quant-ph"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "$F$-congruences on $F$-inverse monoids",
     "pubDate": "2026-08-18 04:00:00",
     "link": "https://arxiv.org/abs/2608.15114",
