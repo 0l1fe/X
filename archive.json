@@ -1,5 +1,147 @@
 [
   {
+    "title": "Entrywise Positivity Preservers on Green Matrices",
+    "pubDate": "2026-08-20 04:00:00",
+    "link": "https://arxiv.org/abs/2608.18491",
+    "guid": "oai:arXiv.org:2608.18491v1",
+    "author": "Wei Xie",
+    "thumbnail": "",
+    "description": "arXiv:2608.18491v1 Announce Type: new \nAbstract: We classify the entrywise functions that preserve positive\n  semidefiniteness on discrete Green matrices\n  \\(G(p,q)=(p_{\\min(i,j)}q_{\\max(i,j)})\\) with positive parameters, without\n  requiring the resulting matrix to retain Green structure. For matrices of\n  all orders, the preservers are the zero function and the functions\n  \\(f(t)=\\int_{[0,\\infty)}t^\\alpha\\,d\\mu(\\alpha)\\), where \\(\\mu\\) is a nonzero\n  finite positive measure and the integral is finite for every \\(t&gt;0\\).\n  Requiring the resulting matrix to be totally nonnegative reduces the\n  nonzero preservers to \\(f(t)=ct^\\alpha\\), where \\(c&gt;0\\) and\n  \\(\\alpha\\ge0\\). These power functions also preserve positive semidefinite\n  Green structure, while strict Green structure is preserved precisely when\n  \\(\\alpha&gt;0\\). No regularity assumption is needed for these\n  classifications. We also characterize continuously differentiable\n  functions that are entrywise Loewner monotone on every fixed-\\(q\\) Green\n  family: this holds precisely when \\(f'\\) is a positive mixture of\n  nonnegative real powers, with the zero measure allowed.",
+    "content": "arXiv:2608.18491v1 Announce Type: new \nAbstract: We classify the entrywise functions that preserve positive\n  semidefiniteness on discrete Green matrices\n  \\(G(p,q)=(p_{\\min(i,j)}q_{\\max(i,j)})\\) with positive parameters, without\n  requiring the resulting matrix to retain Green structure. For matrices of\n  all orders, the preservers are the zero function and the functions\n  \\(f(t)=\\int_{[0,\\infty)}t^\\alpha\\,d\\mu(\\alpha)\\), where \\(\\mu\\) is a nonzero\n  finite positive measure and the integral is finite for every \\(t&gt;0\\).\n  Requiring the resulting matrix to be totally nonnegative reduces the\n  nonzero preservers to \\(f(t)=ct^\\alpha\\), where \\(c&gt;0\\) and\n  \\(\\alpha\\ge0\\). These power functions also preserve positive semidefinite\n  Green structure, while strict Green structure is preserved precisely when\n  \\(\\alpha&gt;0\\). No regularity assumption is needed for these\n  classifications. We also characterize continuously differentiable\n  functions that are entrywise Loewner monotone on every fixed-\\(q\\) Green\n  family: this holds precisely when \\(f'\\) is a positive mixture of\n  nonnegative real powers, with the zero measure allowed.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A left and right coherent ring with $\\mathcal{PGF}(R)\\subsetneq\\mathcal{GP}(R)$",
+    "pubDate": "2026-08-20 04:00:00",
+    "link": "https://arxiv.org/abs/2608.18722",
+    "guid": "oai:arXiv.org:2608.18722v1",
+    "author": "Chencheng Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2608.18722v1 Announce Type: new \nAbstract: For a ring $R$, let $\\mathcal{GP}(R)$, $\\mathcal{GF}(R)$, and $\\mathcal{PGF}(R)$ denote the classes of Gorenstein projective, Gorenstein flat, and projectively coresolved Gorenstein flat left $R$-modules, respectively. We construct a left and right coherent ring $T$ and a strongly Gorenstein projective left $T$-module $G$ which is not Gorenstein flat; hence $\\mathcal{PGF}(T)\\subsetneq\\mathcal{GP}(T)$.",
+    "content": "arXiv:2608.18722v1 Announce Type: new \nAbstract: For a ring $R$, let $\\mathcal{GP}(R)$, $\\mathcal{GF}(R)$, and $\\mathcal{PGF}(R)$ denote the classes of Gorenstein projective, Gorenstein flat, and projectively coresolved Gorenstein flat left $R$-modules, respectively. We construct a left and right coherent ring $T$ and a strongly Gorenstein projective left $T$-module $G$ which is not Gorenstein flat; hence $\\mathcal{PGF}(T)\\subsetneq\\mathcal{GP}(T)$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Structure and Complexity of 2-Nilpotent Mal'cev Algebras",
+    "pubDate": "2026-08-20 04:00:00",
+    "link": "https://arxiv.org/abs/2608.18917",
+    "guid": "oai:arXiv.org:2608.18917v1",
+    "author": "Patrick Wynne",
+    "thumbnail": "",
+    "description": "arXiv:2608.18917v1 Announce Type: new \nAbstract: We investigate the structure of central extensions for algebras in a congruence modular variety. We use a multisorted algebraic object called a clonoid to understand the term clone of such a central extension. We develop the difference clonoid of such a central extension and use it to show that the number of $2$-step nilpotent algebras on a fixed finite set is finite if and only if the set is of squarefree order. The subpower membership problem for a finite algebraic structure $\\mathbb{A}$ is the problem of deciding on input $a_1,\\dots,a_k, b \\in A^n$, whether $b$ is in the subalgebra of $\\mathbb{A}^n$ generated by $a_1, \\dots, a_k$. We show that for a large class of nilpotent Mal'cev algebras the subpower membership problem is solvable in polynomial time, in particular for $2$-step nilpotent Mal'cev algebras of squarefree order.",
+    "content": "arXiv:2608.18917v1 Announce Type: new \nAbstract: We investigate the structure of central extensions for algebras in a congruence modular variety. We use a multisorted algebraic object called a clonoid to understand the term clone of such a central extension. We develop the difference clonoid of such a central extension and use it to show that the number of $2$-step nilpotent algebras on a fixed finite set is finite if and only if the set is of squarefree order. The subpower membership problem for a finite algebraic structure $\\mathbb{A}$ is the problem of deciding on input $a_1,\\dots,a_k, b \\in A^n$, whether $b$ is in the subalgebra of $\\mathbb{A}^n$ generated by $a_1, \\dots, a_k$. We show that for a large class of nilpotent Mal'cev algebras the subpower membership problem is solvable in polynomial time, in particular for $2$-step nilpotent Mal'cev algebras of squarefree order.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "cs.CC"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Positivity preservers over finite fields II",
+    "pubDate": "2026-08-20 04:00:00",
+    "link": "https://arxiv.org/abs/2608.18978",
+    "guid": "oai:arXiv.org:2608.18978v1",
+    "author": "Dominique Guillot, Himanshu Gupta, Prateek Kumar Vishwakarma, Chi Hoi Yip",
+    "thumbnail": "",
+    "description": "arXiv:2608.18978v1 Announce Type: new \nAbstract: We say that a matrix over a finite field $\\mathbb{F}_q$ is positive definite if it is symmetric and each of its leading principal minors is a nonzero square in $\\mathbb{F}_q$. In previous work of the authors [J. Algebra, 2025], the entrywise positivity preservers on $M_n(\\mathbb{F}_q)$ were classified for every $n\\geq 2$, with one remaining case: $n=2$, $q\\equiv 1\\pmod 4$, and $q$ not a square. We settle this case by proving that every positivity preserver on $M_2(\\mathbb{F}_q)$ is injective on the set $\\mathbb{F}_q^+$ of nonzero squares whenever $q\\equiv 1\\pmod 4$. The proof combines an idempotent reduction of positivity preservers with a well-known property of quadratic characters. This yields the complete classification of entrywise positivity preservers over every finite field and in every fixed dimension.",
+    "content": "arXiv:2608.18978v1 Announce Type: new \nAbstract: We say that a matrix over a finite field $\\mathbb{F}_q$ is positive definite if it is symmetric and each of its leading principal minors is a nonzero square in $\\mathbb{F}_q$. In previous work of the authors [J. Algebra, 2025], the entrywise positivity preservers on $M_n(\\mathbb{F}_q)$ were classified for every $n\\geq 2$, with one remaining case: $n=2$, $q\\equiv 1\\pmod 4$, and $q$ not a square. We settle this case by proving that every positivity preserver on $M_2(\\mathbb{F}_q)$ is injective on the set $\\mathbb{F}_q^+$ of nonzero squares whenever $q\\equiv 1\\pmod 4$. The proof combines an idempotent reduction of positivity preservers with a well-known property of quadratic characters. This yields the complete classification of entrywise positivity preservers over every finite field and in every fixed dimension.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The $6\\times6$ equality case of matrix spaces with rank-two commutators",
+    "pubDate": "2026-08-20 04:00:00",
+    "link": "https://arxiv.org/abs/2608.19012",
+    "guid": "oai:arXiv.org:2608.19012v1",
+    "author": "Zhi-Lin Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2608.19012v1 Announce Type: new \nAbstract: Let $\\mathcal V\\subseteq M_6(\\mathbb C)$ be a $17$-dimensional linear subspace such that $\n\\operatorname{rank}[S,T]\\leq2 \\quad(S,T\\in\\mathcal V). $\nWe prove that $\\mathcal V$, or its transpose, is conjugate to the algebra $\n\\left\\{ \\begin{pmatrix} A&amp;B&amp;C\\\\ 0&amp;\\lambda I_2&amp;D\\\\ 0&amp;0&amp;\\lambda I_2 \\end{pmatrix}: A,B,C,D\\in M_2(\\mathbb C),\\ \\lambda\\in\\mathbb C \\right\\}. $\nConsequently, the corresponding closed algebraic locus in $\\operatorname{Gr}(17,M_6(\\mathbb C))$ is the disjoint union of two nonsingular irreducible components, each isomorphic to $\\operatorname{Fl}(2,4;6)$. We also prove that the Zariski tangent space at $\\mathcal A$ of the corresponding closed algebraic locus is equal to the tangent space to the conjugacy orbit of $\\mathcal A$.",
+    "content": "arXiv:2608.19012v1 Announce Type: new \nAbstract: Let $\\mathcal V\\subseteq M_6(\\mathbb C)$ be a $17$-dimensional linear subspace such that $\n\\operatorname{rank}[S,T]\\leq2 \\quad(S,T\\in\\mathcal V). $\nWe prove that $\\mathcal V$, or its transpose, is conjugate to the algebra $\n\\left\\{ \\begin{pmatrix} A&amp;B&amp;C\\\\ 0&amp;\\lambda I_2&amp;D\\\\ 0&amp;0&amp;\\lambda I_2 \\end{pmatrix}: A,B,C,D\\in M_2(\\mathbb C),\\ \\lambda\\in\\mathbb C \\right\\}. $\nConsequently, the corresponding closed algebraic locus in $\\operatorname{Gr}(17,M_6(\\mathbb C))$ is the disjoint union of two nonsingular irreducible components, each isomorphic to $\\operatorname{Fl}(2,4;6)$. We also prove that the Zariski tangent space at $\\mathcal A$ of the corresponding closed algebraic locus is equal to the tangent space to the conjugacy orbit of $\\mathcal A$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AG"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "New Nonexistence Results for Circulant Weighing Matrices",
+    "pubDate": "2026-08-20 04:00:00",
+    "link": "https://arxiv.org/abs/2608.18468",
+    "guid": "oai:arXiv.org:2608.18468v1",
+    "author": "Ming Ming Tan",
+    "thumbnail": "",
+    "description": "arXiv:2608.18468v1 Announce Type: cross \nAbstract: We prove the nonexistence of eight circulant weighing matrices from the remaining table of orders at most $200$ and weights at most $100$. The proofs combine contraction, character evaluation on the kernel of a contraction, multiplier methods, and exact finite computations. For $CW(105,36)$, the contracted matrix is unique up to equivalence. Applying a nonprincipal character of the $C_3$ kernel gives an element over the Eisenstein integers; reduction modulo $1-\\omega$ gives a word in a ternary cyclic code of length $35$, and exact enumeration rules out every required Eisenstein-unit lift. For $CW(140,36)$, the real-valued character $Y\\mapsto-1$ of the $C_4$ kernel is incompatible with the same contracted class. For weight $64$, the faithful character $Y\\mapsto i$ of a $C_4$ kernel first gives an element of $\\mathbb{Z}[i][C_m]$; a generalized multiplier then forces constancy on multiplication-by-$2$ orbits, and exact correlation calculations eliminate orders $140$, $180$, and $196$. The three weight-$49$ cases are settled by the ordinary prime-power multiplier, with contraction where needed. Consequently none of $CW(105,36)$, $CW(140,36)$, $CW(116,49)$, $CW(120,49)$, $CW(192,49)$, $CW(140,64)$, $CW(180,64)$, and $CW(196,64)$ exists.",
+    "content": "arXiv:2608.18468v1 Announce Type: cross \nAbstract: We prove the nonexistence of eight circulant weighing matrices from the remaining table of orders at most $200$ and weights at most $100$. The proofs combine contraction, character evaluation on the kernel of a contraction, multiplier methods, and exact finite computations. For $CW(105,36)$, the contracted matrix is unique up to equivalence. Applying a nonprincipal character of the $C_3$ kernel gives an element over the Eisenstein integers; reduction modulo $1-\\omega$ gives a word in a ternary cyclic code of length $35$, and exact enumeration rules out every required Eisenstein-unit lift. For $CW(140,36)$, the real-valued character $Y\\mapsto-1$ of the $C_4$ kernel is incompatible with the same contracted class. For weight $64$, the faithful character $Y\\mapsto i$ of a $C_4$ kernel first gives an element of $\\mathbb{Z}[i][C_m]$; a generalized multiplier then forces constancy on multiplication-by-$2$ orbits, and exact correlation calculations eliminate orders $140$, $180$, and $196$. The three weight-$49$ cases are settled by the ordinary prime-power multiplier, with contraction where needed. Consequently none of $CW(105,36)$, $CW(140,36)$, $CW(116,49)$, $CW(120,49)$, $CW(192,49)$, $CW(140,64)$, $CW(180,64)$, and $CW(196,64)$ exists.",
+    "enclosure": {},
+    "categories": [
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Maximal ideals in the finitary symmetric group algebra in characteristic two",
+    "pubDate": "2026-08-20 04:00:00",
+    "link": "https://arxiv.org/abs/2608.18782",
+    "guid": "oai:arXiv.org:2608.18782v1",
+    "author": "Kevin Coulembier",
+    "thumbnail": "",
+    "description": "arXiv:2608.18782v1 Announce Type: cross \nAbstract: In 1996, Baranov and Kleshchev classified maximal ideals in the finitary symmetric group algebra over fields of characteristic not 2. The corresponding question in characteristic~2 has remained open since. In the current paper we solve the problem by establishing part of a conjectural connection between prime ideals in this group algebra and the recently defined higher Verlinde categories. To achieve this we investigate thick tensor ideals of tilting modules of the general linear group in characteristic 2.",
+    "content": "arXiv:2608.18782v1 Announce Type: cross \nAbstract: In 1996, Baranov and Kleshchev classified maximal ideals in the finitary symmetric group algebra over fields of characteristic not 2. The corresponding question in characteristic~2 has remained open since. In the current paper we solve the problem by establishing part of a conjectural connection between prime ideals in this group algebra and the recently defined higher Verlinde categories. To achieve this we investigate thick tensor ideals of tilting modules of the general linear group in characteristic 2.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Mean weak length",
+    "pubDate": "2026-08-20 04:00:00",
+    "link": "https://arxiv.org/abs/2605.06715",
+    "guid": "oai:arXiv.org:2605.06715v2",
+    "author": "Zihan Bai, Bingbing Liang",
+    "thumbnail": "",
+    "description": "arXiv:2605.06715v2 Announce Type: replace \nAbstract: We introduce a weak version of the classical length function, termed the weak length function, defined on subsets of $R$-modules over a unital ring $R$, and further consider the concept of mean weak length for $R\\Gamma$-modules associated with an amenable group $\\Gamma$. Under an appropriate upgrading condition together with certain mild assumptions, we establish that the mean weak length function is additive with respect to short exact sequences. This result has two consequences. First, we provide a purely algebraic proof of the additivity of algebraic entropy, which is a property originally established via topological entropy methods. Second, within our unified framework, we give an alternative and conceptual proof of the additivity of mean length, previously obtained by Li-Liang and Virili using different approaches.\n  We introduce a weak version of the classical length function, termed the weak length function, defined on subsets of $R$-modules relative to the ambient $R$-modules over a unital ring $R$. We further consider the concept of mean weak length for each $R\\Gamma$-module relative to a bigger $R\\Gamma$-module associated with an amenable group $\\Gamma$. Under an appropriate upgrading condition together with certain mild assumptions, we establish that the mean weak length satisfies an addition formula with respect to short exact sequences.\n  This result has three applications. First, we provide a purely algebraic proof of the additivity of algebraic entropy, which is a property originally established via topological entropy methods. Second, within our unified framework, we give an alternative and conceptual proof of the additivity of mean length, previously obtained by Li-Liang and Virili using different approaches. Third, we recover a particular case of amenable extension for Sylvester rank functions in the spirit of Jiang-Li.",
+    "content": "arXiv:2605.06715v2 Announce Type: replace \nAbstract: We introduce a weak version of the classical length function, termed the weak length function, defined on subsets of $R$-modules over a unital ring $R$, and further consider the concept of mean weak length for $R\\Gamma$-modules associated with an amenable group $\\Gamma$. Under an appropriate upgrading condition together with certain mild assumptions, we establish that the mean weak length function is additive with respect to short exact sequences. This result has two consequences. First, we provide a purely algebraic proof of the additivity of algebraic entropy, which is a property originally established via topological entropy methods. Second, within our unified framework, we give an alternative and conceptual proof of the additivity of mean length, previously obtained by Li-Liang and Virili using different approaches.\n  We introduce a weak version of the classical length function, termed the weak length function, defined on subsets of $R$-modules relative to the ambient $R$-modules over a unital ring $R$. We further consider the concept of mean weak length for each $R\\Gamma$-module relative to a bigger $R\\Gamma$-module associated with an amenable group $\\Gamma$. Under an appropriate upgrading condition together with certain mild assumptions, we establish that the mean weak length satisfies an addition formula with respect to short exact sequences.\n  This result has three applications. First, we provide a purely algebraic proof of the additivity of algebraic entropy, which is a property originally established via topological entropy methods. Second, within our unified framework, we give an alternative and conceptual proof of the additivity of mean length, previously obtained by Li-Liang and Virili using different approaches. Third, we recover a particular case of amenable extension for Sylvester rank functions in the spirit of Jiang-Li.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.DS",
+      "math.GR"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Integral elements of Okubo algebra and the E8-lattice",
+    "pubDate": "2026-08-20 04:00:00",
+    "link": "https://arxiv.org/abs/2605.09333",
+    "guid": "oai:arXiv.org:2605.09333v2",
+    "author": "Daniele Corradetti",
+    "thumbnail": "",
+    "description": "arXiv:2605.09333v2 Announce Type: replace \nAbstract: In this work we study the interplay between the Coxeter-Dickson $E_{8}$-order, the para-octonions, and the real Okubo algebra. We first explain why a usual rotation presentation of the order-three automorphism, although algebraically correct, does not preserve the classical integral orders. We then introduce an integral order-three automorphism and prove that its Petersson isotope is the compact real Okubo algebra. The four octonionic orders with lattices $C_{8}$, $A_{2}^{4}$, $D_{4}^{2}$, and $E_{8}$ are preserved by the new realisation of the Okubo product. In particular, the same Coxeter-Dickson $E_{8}$ lattice supports octonionic, para-octonionic, and Okubo integral structures, although the resulting multiplicative systems are not isomorphic.",
+    "content": "arXiv:2605.09333v2 Announce Type: replace \nAbstract: In this work we study the interplay between the Coxeter-Dickson $E_{8}$-order, the para-octonions, and the real Okubo algebra. We first explain why a usual rotation presentation of the order-three automorphism, although algebraically correct, does not preserve the classical integral orders. We then introduce an integral order-three automorphism and prove that its Petersson isotope is the compact real Okubo algebra. The four octonionic orders with lattices $C_{8}$, $A_{2}^{4}$, $D_{4}^{2}$, and $E_{8}$ are preserved by the new realisation of the Okubo product. In particular, the same Coxeter-Dickson $E_{8}$ lattice supports octonionic, para-octonionic, and Okubo integral structures, although the resulting multiplicative systems are not isomorphic.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Decomposition of a square matrix into a product of a nilpotent matrix and an involutive or idempotent matrix",
     "pubDate": "2026-08-19 04:00:00",
     "link": "https://arxiv.org/abs/2608.17569",
