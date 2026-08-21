@@ -1,5 +1,120 @@
 [
   {
+    "title": "A New Impossibility Region for the $5\\times5$ Symmetric Nonnegative Inverse Eigenvalue Problem",
+    "pubDate": "2026-08-21 04:00:00",
+    "link": "https://arxiv.org/abs/2608.19435",
+    "guid": "oai:arXiv.org:2608.19435v1",
+    "author": "Jiashun Jin, Zheng Tracy Ke, Bingcheng Sui",
+    "thumbnail": "",
+    "description": "arXiv:2608.19435v1 Announce Type: new \nAbstract: We present a new impossibility region for the $5\\times5$ symmetric nonnegative inverse eigenvalue problem. The region lies in the low-trace regime and, to the best of our knowledge, has not been identified previously. The proof uses a suitable diagonal shift to transform the problem to a critical high-trace boundary and then reduces a complementary commuting matrix to a weighted five-cycle. The characteristic polynomial and spectral identities of this five-cycle provide the main tools for deriving the resulting contradiction.",
+    "content": "arXiv:2608.19435v1 Announce Type: new \nAbstract: We present a new impossibility region for the $5\\times5$ symmetric nonnegative inverse eigenvalue problem. The region lies in the low-trace regime and, to the best of our knowledge, has not been identified previously. The proof uses a suitable diagonal shift to transform the problem to a critical high-trace boundary and then reduces a complementary commuting matrix to a weighted five-cycle. The characteristic polynomial and spectral identities of this five-cycle provide the main tools for deriving the resulting contradiction.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.SP"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Disuccessors, Gr\\\"obner-Shirshov bases and free L-dendriform algebras",
+    "pubDate": "2026-08-21 04:00:00",
+    "link": "https://arxiv.org/abs/2608.19572",
+    "guid": "oai:arXiv.org:2608.19572v1",
+    "author": "Huhu Zhang, Xing Gao, Yuanyuan Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2608.19572v1 Announce Type: new \nAbstract: In this paper, we prove respectively that the disuccessor operations on the associative operad $\\as$, the Lie operad $\\lie$, and the pre-Lie operad $\\prelie$ preserve Gr\\\"obner-Shirshov bases. This structural preservation enables the transfer of known bases to more complex operads. As a consequence, we introduce new methods for constructing Gr\\\"obner-Shirshov bases for the $\\dend$ and $\\prelie$ operads, and explicitly construct a Gr\\\"obner-Shirshov basis for the free L-dendriform algebra. This provides a conceptual and computationally efficient resolution of Madariaga's problem and offers new insights into the combinatorial structure of L-dendriform algebras.",
+    "content": "arXiv:2608.19572v1 Announce Type: new \nAbstract: In this paper, we prove respectively that the disuccessor operations on the associative operad $\\as$, the Lie operad $\\lie$, and the pre-Lie operad $\\prelie$ preserve Gr\\\"obner-Shirshov bases. This structural preservation enables the transfer of known bases to more complex operads. As a consequence, we introduce new methods for constructing Gr\\\"obner-Shirshov bases for the $\\dend$ and $\\prelie$ operads, and explicitly construct a Gr\\\"obner-Shirshov basis for the free L-dendriform algebra. This provides a conceptual and computationally efficient resolution of Madariaga's problem and offers new insights into the combinatorial structure of L-dendriform algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A rock-paper-scissors Mandelbrot set",
+    "pubDate": "2026-08-21 04:00:00",
+    "link": "https://arxiv.org/abs/2608.19424",
+    "guid": "oai:arXiv.org:2608.19424v1",
+    "author": "Charlotte Aten",
+    "thumbnail": "",
+    "description": "arXiv:2608.19424v1 Announce Type: cross \nAbstract: The titular object of this paper is an analogue of the Mandelbrot set over the 3-dimensional real algebra whose multiplication is the bilinear extension of the rock-paper-scissors operation. In order to study the dynamics of the mappings $x\\mapsto x^2+c$ in this setting, a notion of holomorphy for functions on general finite-dimensional real algebras is introduced. Under a mild assumption it is shown that for such algebras holomorphy is always equivalent to solving a finite system of linear first-order PDEs generalizing the Cauchy-Riemann equations. Code is provided for generating animations of these fractals and for exploring them in a video game format.",
+    "content": "arXiv:2608.19424v1 Announce Type: cross \nAbstract: The titular object of this paper is an analogue of the Mandelbrot set over the 3-dimensional real algebra whose multiplication is the bilinear extension of the rock-paper-scissors operation. In order to study the dynamics of the mappings $x\\mapsto x^2+c$ in this setting, a notion of holomorphy for functions on general finite-dimensional real algebras is introduced. Under a mild assumption it is shown that for such algebras holomorphy is always equivalent to solving a finite system of linear first-order PDEs generalizing the Cauchy-Riemann equations. Code is provided for generating animations of these fractals and for exploring them in a video game format.",
+    "enclosure": {},
+    "categories": [
+      "math.DS",
+      "cs.MS",
+      "math.CV",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The lattice of abstract elementary classes of modules",
+    "pubDate": "2026-08-21 04:00:00",
+    "link": "https://arxiv.org/abs/2608.19548",
+    "guid": "oai:arXiv.org:2608.19548v1",
+    "author": "Tapani Hyttinen, Marcos Mazari-Armida, Gianluca Paolini",
+    "thumbnail": "",
+    "description": "arXiv:2608.19548v1 Announce Type: cross \nAbstract: Let $R$ be a ring. We organize the abstract elementary classes whose underlying class is the class of all $R$-modules and whose strong submodel relation lies between the submodule and direct summand relations into a lattice $\\mathscr{L}_{R}$, ordered by reverse inclusion. We establish the basic lattice-theoretic properties of $\\mathscr{L}_{R}$ and investigate its two natural sublattices, below and above purity. Below purity, we isolate relations defined by first-order pp-formulas for which amalgamation, tameness, and stability hold. Above purity, we introduce relations defined by infinitary pp-formulas and prove a broad stability result. Specializing to abelian groups, we show that the lattice $\\mathscr{L}_{\\mathbb{Z}}$ has the following properties: it has a strong submodel relation that is not positive syntactic, it contains an uncountable antichain and a strictly increasing proper-class-sized chain, and it has a broad region above purity where amalgamation fails.",
+    "content": "arXiv:2608.19548v1 Announce Type: cross \nAbstract: Let $R$ be a ring. We organize the abstract elementary classes whose underlying class is the class of all $R$-modules and whose strong submodel relation lies between the submodule and direct summand relations into a lattice $\\mathscr{L}_{R}$, ordered by reverse inclusion. We establish the basic lattice-theoretic properties of $\\mathscr{L}_{R}$ and investigate its two natural sublattices, below and above purity. Below purity, we isolate relations defined by first-order pp-formulas for which amalgamation, tameness, and stability hold. Above purity, we introduce relations defined by infinitary pp-formulas and prove a broad stability result. Specializing to abelian groups, we show that the lattice $\\mathscr{L}_{\\mathbb{Z}}$ has the following properties: it has a strong submodel relation that is not positive syntactic, it contains an uncountable antichain and a strictly increasing proper-class-sized chain, and it has a broad region above purity where amalgamation fails.",
+    "enclosure": {},
+    "categories": [
+      "math.LO",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Recollements of derived categories from $n$-term big tilting complexes",
+    "pubDate": "2026-08-21 04:00:00",
+    "link": "https://arxiv.org/abs/2608.19921",
+    "guid": "oai:arXiv.org:2608.19921v1",
+    "author": "Shengyong Pan, Huabo Xu",
+    "thumbnail": "",
+    "description": "arXiv:2608.19921v1 Announce Type: cross \nAbstract: Let $A$ be a ring and let $\\bf T$ be an $n$-term big tilting complex over $A$, represented by a bounded complex $\\cpx{P}$ of projective $A$-modules. Set $B=\\End_{\\D{A}}(\\cpx{P}), \\Lambda:=\\dotEnd_A(\\cpx{P})$ and $\\Delta:=\\tau_{\\leq 0}\\Lambda$. The associated complex of $A$-$B$-bimodule $\\cpx{T}=\\cpx{P}\\otimesL_{\\Delta}B$ is given. We construct an extension-closed exact subcategory $\\mathscr E$ of $B\\Modcat$ and prove that the derived category $\\D{B}$ admits a recollement by $\\D{\\mathscr E}$ and $\\D{A}$. The proof passes through a dg double-centralizer description of a projective model of $\\cpx{T}$ and an exact realisation theorem identifying $\\D{\\mathscr E}$ with the kernel of the derived tensor functor. We further show that $\\mathscr E$ is $d$-symmetric for every $d$ not smaller than the amplitude of a perfect right $B$-model of $\\cpx{T}$. Moreover, $\\mathscr E$ is abelian if and only if the kernel is stable under the standard $t$-structure, equivalently, the recollement is induced by a homological ring epimorphism. In right $B$-amplitude at most one, the kernel is therefore abelian, and our construction specializes to the recollement arising from universal localisation in the two-term case. Thus the classical two-term picture extends to arbitrary finite-term big tilting complexes, with exact categories replacing abelian kernels in higher amplitude. Finally, we construct genuinely $n$-term non-compact big tilting complexes for every $n\\geq2$, including an explicit three-term example whose left-hand term is determined by an algebraic Calkin-type quotient.",
+    "content": "arXiv:2608.19921v1 Announce Type: cross \nAbstract: Let $A$ be a ring and let $\\bf T$ be an $n$-term big tilting complex over $A$, represented by a bounded complex $\\cpx{P}$ of projective $A$-modules. Set $B=\\End_{\\D{A}}(\\cpx{P}), \\Lambda:=\\dotEnd_A(\\cpx{P})$ and $\\Delta:=\\tau_{\\leq 0}\\Lambda$. The associated complex of $A$-$B$-bimodule $\\cpx{T}=\\cpx{P}\\otimesL_{\\Delta}B$ is given. We construct an extension-closed exact subcategory $\\mathscr E$ of $B\\Modcat$ and prove that the derived category $\\D{B}$ admits a recollement by $\\D{\\mathscr E}$ and $\\D{A}$. The proof passes through a dg double-centralizer description of a projective model of $\\cpx{T}$ and an exact realisation theorem identifying $\\D{\\mathscr E}$ with the kernel of the derived tensor functor. We further show that $\\mathscr E$ is $d$-symmetric for every $d$ not smaller than the amplitude of a perfect right $B$-model of $\\cpx{T}$. Moreover, $\\mathscr E$ is abelian if and only if the kernel is stable under the standard $t$-structure, equivalently, the recollement is induced by a homological ring epimorphism. In right $B$-amplitude at most one, the kernel is therefore abelian, and our construction specializes to the recollement arising from universal localisation in the two-term case. Thus the classical two-term picture extends to arbitrary finite-term big tilting complexes, with exact categories replacing abelian kernels in higher amplitude. Finally, we construct genuinely $n$-term non-compact big tilting complexes for every $n\\geq2$, including an explicit three-term example whose left-hand term is determined by an algebraic Calkin-type quotient.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Hilbert's basis theorem for Poisson Ore extensions",
+    "pubDate": "2026-08-21 04:00:00",
+    "link": "https://arxiv.org/abs/2606.14660",
+    "guid": "oai:arXiv.org:2606.14660v2",
+    "author": "Per B\\&quot;ack, Patrik Lundstr\\&quot;om, Johan \\&quot;Oinert, Johan Richter",
+    "thumbnail": "",
+    "description": "arXiv:2606.14660v2 Announce Type: replace \nAbstract: We prove an analogue of Hilbert's basis theorem for Poisson Ore extensions and Poisson Laurent Ore extensions. We also obtain corresponding results for iterated Poisson Ore extensions and iterated Poisson Laurent Ore extensions associated to commuting Poisson-pairs. Finally, we give examples of Poisson Ore extensions that are Poisson-Noetherian without being Noetherian as ordinary algebras.",
+    "content": "arXiv:2606.14660v2 Announce Type: replace \nAbstract: We prove an analogue of Hilbert's basis theorem for Poisson Ore extensions and Poisson Laurent Ore extensions. We also obtain corresponding results for iterated Poisson Ore extensions and iterated Poisson Laurent Ore extensions associated to commuting Poisson-pairs. Finally, we give examples of Poisson Ore extensions that are Poisson-Noetherian without being Noetherian as ordinary algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AC",
+      "math.QA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Quivers with quantum Yang-Baxter equation and Hecke condition: Deformation of face algebras",
+    "pubDate": "2026-08-21 04:00:00",
+    "link": "https://arxiv.org/abs/2512.16825",
+    "guid": "oai:arXiv.org:2512.16825v4",
+    "author": "Cody Gilbert, Ashish K. Srivastava",
+    "thumbnail": "",
+    "description": "arXiv:2512.16825v4 Announce Type: replace-cross \nAbstract: In this paper, we initiate the study of quivers carrying quantum Yang--Baxter and Hecke structure. Calling a quiver $Q$ to be a solution of the QYBE when the adjacency matrix of its Kronecker square is a solution, we show that this holds precisely when the adjacency matrix $A$ satisfies $A^2 = \\mu A$ for a scalar $\\mu$. We determine exactly when Kulish's rank-one construction yields a Hecke $R$-matrix that satisfies both the braided QYBE and the Hecke condition. We deform Hayashi's face algebra by the resulting RTT relations, and prove that the quantum matrix algebra $\\mathcal{O}_q(M_n)$ is isomorphic as a bialgebra to the Hecke-deformed face algebra of the rose quiver with $n$ petals, and that for a disjoint union of $m$ such roses the deformation is a genuine quantum groupoid with $m$-dimensional base, isomorphic as an algebra to $m^2$ copies of $\\mathcal{O}_q(M_n)$.",
+    "content": "arXiv:2512.16825v4 Announce Type: replace-cross \nAbstract: In this paper, we initiate the study of quivers carrying quantum Yang--Baxter and Hecke structure. Calling a quiver $Q$ to be a solution of the QYBE when the adjacency matrix of its Kronecker square is a solution, we show that this holds precisely when the adjacency matrix $A$ satisfies $A^2 = \\mu A$ for a scalar $\\mu$. We determine exactly when Kulish's rank-one construction yields a Hecke $R$-matrix that satisfies both the braided QYBE and the Hecke condition. We deform Hayashi's face algebra by the resulting RTT relations, and prove that the quantum matrix algebra $\\mathcal{O}_q(M_n)$ is isomorphic as a bialgebra to the Hecke-deformed face algebra of the rose quiver with $n$ petals, and that for a disjoint union of $m$ such roses the deformation is a genuine quantum groupoid with $m$-dimensional base, isomorphic as an algebra to $m^2$ copies of $\\mathcal{O}_q(M_n)$.",
+    "enclosure": {},
+    "categories": [
+      "math.QA",
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Entrywise Positivity Preservers on Green Matrices",
     "pubDate": "2026-08-20 04:00:00",
     "link": "https://arxiv.org/abs/2608.18491",
