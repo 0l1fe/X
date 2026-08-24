@@ -1,5 +1,157 @@
 [
   {
+    "title": "Barr-Exactness and Congruence-Based Homological Algebra in Ternary $\\Gamma$-Semimodules",
+    "pubDate": "2026-08-24 04:00:00",
+    "link": "https://arxiv.org/abs/2608.20407",
+    "guid": "oai:arXiv.org:2608.20407v1",
+    "author": "Chandrasekhar Gokavarapu (Department of Mathematics, Government College, Dept of Mathematics, Acharya Nagarjuna University, A.P., India), D Madhusudhana Rao (Dept of Mathematics, Acharya Nagarjuna University, A.P., India, Department of Mathematics, Government College for Women)",
+    "thumbnail": "",
+    "description": "arXiv:2608.20407v1 Announce Type: new \nAbstract: Let $T$ be a ternary $\\Gamma$--semiring and let $\\mathsf{SMod}_{T,\\Gamma}$ be the category of ternary $\\Gamma$--semimodules with the intrinsic five--ary action $T\\times \\Gamma \\times M \\times \\Gamma \\times T\\to M$.This paper develops a congruence--first calculus in $\\mathsf{SMod}_{T,\\Gamma}$.Kernels and quotients are taken in the sense of congruences, not in the sense of cosets of subobjects, because coset quotients generally fail without subtraction. We prove that every morphism admits a canonical factorization through its kernel congruence, establish congruence versions of the three isomorphism theorems, and describe coequalizers as quotients by generated congruences. Exactness is formulated in the regular/Barr-exact sense: kernels are kernel pairs and exactness is expressed by equality of kernels with regular images. Finally, we record a projective generation criterion and a concrete failure of a classical diagram lemma in this Barr-exact but non-abelian setting.",
+    "content": "arXiv:2608.20407v1 Announce Type: new \nAbstract: Let $T$ be a ternary $\\Gamma$--semiring and let $\\mathsf{SMod}_{T,\\Gamma}$ be the category of ternary $\\Gamma$--semimodules with the intrinsic five--ary action $T\\times \\Gamma \\times M \\times \\Gamma \\times T\\to M$.This paper develops a congruence--first calculus in $\\mathsf{SMod}_{T,\\Gamma}$.Kernels and quotients are taken in the sense of congruences, not in the sense of cosets of subobjects, because coset quotients generally fail without subtraction. We prove that every morphism admits a canonical factorization through its kernel congruence, establish congruence versions of the three isomorphism theorems, and describe coequalizers as quotients by generated congruences. Exactness is formulated in the regular/Barr-exact sense: kernels are kernel pairs and exactness is expressed by equality of kernels with regular images. Finally, we record a projective generation criterion and a concrete failure of a classical diagram lemma in this Barr-exact but non-abelian setting.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Projectivity and flatness over the endomorphism ring of a finitely generated $(H, {\\mathcal C})$-comodule",
+    "pubDate": "2026-08-24 04:00:00",
+    "link": "https://arxiv.org/abs/2608.20474",
+    "guid": "oai:arXiv.org:2608.20474v1",
+    "author": "Thomas Gu\\'ed\\'enon",
+    "thumbnail": "",
+    "description": "arXiv:2608.20474v1 Announce Type: new \nAbstract: Let $k$ be a commutative ring, $H$ a bialgebra over $k$, $A$ an $H$-algebra and $\\mathcal C$ an $(H,A)$-coring, i.e a left $(H,A)$-bimodule which is an $A$-coring in a compatible way. Left $(H,A)$-bimodules and their deformations play a fundamental role in the study of the differential geometry of noncommutative manifolds. Let $\\Lambda$ be a right $(H,{\\mathcal C})$-comodule. The $k$-module $_HEnd^{\\mathcal C}(\\Lambda)$ of right $(H,{\\mathcal C})$-colinear maps from $\\Lambda$ to $\\Lambda$ is a ring. Let us assume that $\\mathcal C$ is flat as a left $A$-module. If $\\Lambda$ is finitely generated (finitely presented) as a right $(H,{\\mathcal C})$-comodule, we give necessary and sufficient conditions for projectivity and flatness of a module over $_HEnd^{\\mathcal C}(\\Lambda)$. If $\\mathcal C$ contains a fixed $H$-grouplike element, we can replace $\\Lambda$ with $A$.",
+    "content": "arXiv:2608.20474v1 Announce Type: new \nAbstract: Let $k$ be a commutative ring, $H$ a bialgebra over $k$, $A$ an $H$-algebra and $\\mathcal C$ an $(H,A)$-coring, i.e a left $(H,A)$-bimodule which is an $A$-coring in a compatible way. Left $(H,A)$-bimodules and their deformations play a fundamental role in the study of the differential geometry of noncommutative manifolds. Let $\\Lambda$ be a right $(H,{\\mathcal C})$-comodule. The $k$-module $_HEnd^{\\mathcal C}(\\Lambda)$ of right $(H,{\\mathcal C})$-colinear maps from $\\Lambda$ to $\\Lambda$ is a ring. Let us assume that $\\mathcal C$ is flat as a left $A$-module. If $\\Lambda$ is finitely generated (finitely presented) as a right $(H,{\\mathcal C})$-comodule, we give necessary and sufficient conditions for projectivity and flatness of a module over $_HEnd^{\\mathcal C}(\\Lambda)$. If $\\mathcal C$ contains a fixed $H$-grouplike element, we can replace $\\Lambda$ with $A$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "$N$-Koszul algebras of finite global dimension for $N\\geq 3$",
+    "pubDate": "2026-08-24 04:00:00",
+    "link": "https://arxiv.org/abs/2608.20567",
+    "guid": "oai:arXiv.org:2608.20567v1",
+    "author": "So Nakamura",
+    "thumbnail": "",
+    "description": "arXiv:2608.20567v1 Announce Type: new \nAbstract: Let $N\\geq 3$. The class of $N$-Koszul AS regular algebras, or more generally, that of $N$-Koszul AS Gorenstein algebras, has attracted much attention from algebraists. Nevertheless, there have been no known examples of $N$-Koszul AS regular algebras of finite global dimension other than the ones of global dimension $3$. A recent work by Kabbaj showed that, such an $N$-Koszul algebra $A$ of finite global dimension has to have a large global dimension and that $N$ has to be prime, under the assumptions that $(1)$ $A$ has a Hilbert series of weighted polynomial rings and that $(2)$ the trivial $A$-module $\\mathbb{K}$ has a finite free resolution. All AS regular algebras satisfy the latter assumption and are expected to do the former as well. In this paper, we prove that such an $N$-Koszul algebra $A$ must be one of the known $3$-Koszul AS regular algebras of global dimension $3$ if the order of the pole of its Hilbert series $h_A(t)$ at $t=1$ is greater than $\\frac{21d+1}{22}$, where $d$ is the global dimension of $A$. As a corollary, we prove that any $N$-Koszul AS regular algebra $A$ must be one of the known $3$-Koszul AS regular algebras of global dimension $3$ if $A$ has a Hilbert series of weighted polynomial rings and if the GK dimension of $A$ coincides with the global dimension of $A$, both of which have been conjectured to hold for any AS regular algebras.",
+    "content": "arXiv:2608.20567v1 Announce Type: new \nAbstract: Let $N\\geq 3$. The class of $N$-Koszul AS regular algebras, or more generally, that of $N$-Koszul AS Gorenstein algebras, has attracted much attention from algebraists. Nevertheless, there have been no known examples of $N$-Koszul AS regular algebras of finite global dimension other than the ones of global dimension $3$. A recent work by Kabbaj showed that, such an $N$-Koszul algebra $A$ of finite global dimension has to have a large global dimension and that $N$ has to be prime, under the assumptions that $(1)$ $A$ has a Hilbert series of weighted polynomial rings and that $(2)$ the trivial $A$-module $\\mathbb{K}$ has a finite free resolution. All AS regular algebras satisfy the latter assumption and are expected to do the former as well. In this paper, we prove that such an $N$-Koszul algebra $A$ must be one of the known $3$-Koszul AS regular algebras of global dimension $3$ if the order of the pole of its Hilbert series $h_A(t)$ at $t=1$ is greater than $\\frac{21d+1}{22}$, where $d$ is the global dimension of $A$. As a corollary, we prove that any $N$-Koszul AS regular algebra $A$ must be one of the known $3$-Koszul AS regular algebras of global dimension $3$ if $A$ has a Hilbert series of weighted polynomial rings and if the GK dimension of $A$ coincides with the global dimension of $A$, both of which have been conjectured to hold for any AS regular algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The Parafree Conjecture for associative algebras",
+    "pubDate": "2026-08-24 04:00:00",
+    "link": "https://arxiv.org/abs/2608.20570",
+    "guid": "oai:arXiv.org:2608.20570v1",
+    "author": "Vasily Ionin, Roman Mikhailov",
+    "thumbnail": "",
+    "description": "arXiv:2608.20570v1 Announce Type: new \nAbstract: For every base field, we construct a finitely generated parafree augmented associative algebra with countably infinite-dimensional second homology. This disproves the analogue of the Parafree Conjecture for associative algebras and answers a question of Ivanov and Lopatkin. Our example is the monoid algebra of a finitely generated but not finitely presented submonoid of a free monoid.",
+    "content": "arXiv:2608.20570v1 Announce Type: new \nAbstract: For every base field, we construct a finitely generated parafree augmented associative algebra with countably infinite-dimensional second homology. This disproves the analogue of the Parafree Conjecture for associative algebras and answers a question of Ivanov and Lopatkin. Our example is the monoid algebra of a finitely generated but not finitely presented submonoid of a free monoid.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Module-Valued 2-Local Derivations on Reductive Lie Algebras",
+    "pubDate": "2026-08-24 04:00:00",
+    "link": "https://arxiv.org/abs/2608.20681",
+    "guid": "oai:arXiv.org:2608.20681v1",
+    "author": "Yang Chen, Yongqi Luo, Junzi Xu",
+    "thumbnail": "",
+    "description": "arXiv:2608.20681v1 Announce Type: new \nAbstract: Let \\(\\F\\) be an algebraically closed field of characteristic zero, \\(\\g=\\s\\oplus\\z\\) a finite-dimensional reductive Lie algebra over \\(\\F\\), and \\(V\\) an arbitrary finite-dimensional \\(\\g\\)-module. We classify all 2-local derivations of \\(\\g\\) on \\(V\\), and show that every 2-local derivation is a derivation if and only if \\(\\dim\\z\\leq1\\) or \\(V^\\g=0\\). If \\(\\dim\\z\\geq2\\) and \\(V^\\g\\ne0\\), the nonlinear homogeneous maps give all exceptional 2-local derivations.",
+    "content": "arXiv:2608.20681v1 Announce Type: new \nAbstract: Let \\(\\F\\) be an algebraically closed field of characteristic zero, \\(\\g=\\s\\oplus\\z\\) a finite-dimensional reductive Lie algebra over \\(\\F\\), and \\(V\\) an arbitrary finite-dimensional \\(\\g\\)-module. We classify all 2-local derivations of \\(\\g\\) on \\(V\\), and show that every 2-local derivation is a derivation if and only if \\(\\dim\\z\\leq1\\) or \\(V^\\g=0\\). If \\(\\dim\\z\\geq2\\) and \\(V^\\g\\ne0\\), the nonlinear homogeneous maps give all exceptional 2-local derivations.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A note on $N$-Koszul algebras of finite global dimension",
+    "pubDate": "2026-08-24 04:00:00",
+    "link": "https://arxiv.org/abs/2608.20832",
+    "guid": "oai:arXiv.org:2608.20832v1",
+    "author": "Zeyu Chen, Silu Liu",
+    "thumbnail": "",
+    "description": "arXiv:2608.20832v1 Announce Type: new \nAbstract: In this note, we prove that, under Kabbaj's weighted polynomial Hilbert-series hypothesis, every $N$-Koszul graded algebra of finite global dimension with $N&gt;2$ is necessarily $3$-Koszul of global dimension $3$.",
+    "content": "arXiv:2608.20832v1 Announce Type: new \nAbstract: In this note, we prove that, under Kabbaj's weighted polynomial Hilbert-series hypothesis, every $N$-Koszul graded algebra of finite global dimension with $N&gt;2$ is necessarily $3$-Koszul of global dimension $3$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "\\c{S}tefan spectral sequence for faithfully flat Hopf Galois extensions is multiplicative",
+    "pubDate": "2026-08-24 04:00:00",
+    "link": "https://arxiv.org/abs/2608.20900",
+    "guid": "oai:arXiv.org:2608.20900v1",
+    "author": "Liyu Liu, Hongguang Nie, Guodong Zhou, Ruipeng Zhu",
+    "thumbnail": "",
+    "description": "arXiv:2608.20900v1 Announce Type: new \nAbstract: Let $H$ be a Hopf algebra with a bijective antipode over a field $\\mathbf k$ and $B/A$ be a flat right $H$-Galois extension. \\c{S}tefan constructed a spectral sequence converging to the Hochschild cohomology $\\mathrm{HH}^{p+q}(B, N)$ with $\\mathrm{E}_2^{p,q} = \\mathrm{H}^p(H, \\mathrm{HH}^q(A, N))$. We show that when $B/A$ is faithfully flat, the \\c{S}tefan spectral sequence is multiplicative.\n  More precisely, a new formalism of functorial multiplicative spectral sequences via lax monoidal functors over monoidal categories is introduced. A functorial multiplicative spectral sequence is constructed for any faithfully flat Hopf Galois extension. Identification with \\c{S}tefan's spectral sequence from the $E_2$-page follows from K\\\"unzer's comparison theorems. Applications include strongly graded algebras, smash products, crossed products, group and Lie algebra extensions, with new multiplicativity results in several cases.",
+    "content": "arXiv:2608.20900v1 Announce Type: new \nAbstract: Let $H$ be a Hopf algebra with a bijective antipode over a field $\\mathbf k$ and $B/A$ be a flat right $H$-Galois extension. \\c{S}tefan constructed a spectral sequence converging to the Hochschild cohomology $\\mathrm{HH}^{p+q}(B, N)$ with $\\mathrm{E}_2^{p,q} = \\mathrm{H}^p(H, \\mathrm{HH}^q(A, N))$. We show that when $B/A$ is faithfully flat, the \\c{S}tefan spectral sequence is multiplicative.\n  More precisely, a new formalism of functorial multiplicative spectral sequences via lax monoidal functors over monoidal categories is introduced. A functorial multiplicative spectral sequence is constructed for any faithfully flat Hopf Galois extension. Identification with \\c{S}tefan's spectral sequence from the $E_2$-page follows from K\\\"unzer's comparison theorems. Applications include strongly graded algebras, smash products, crossed products, group and Lie algebra extensions, with new multiplicativity results in several cases.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.KT",
+      "math.QA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Products of Nilpotent and Idempotent Matrices over Finite Local Rings",
+    "pubDate": "2026-08-24 04:00:00",
+    "link": "https://arxiv.org/abs/2608.20934",
+    "guid": "oai:arXiv.org:2608.20934v1",
+    "author": "David Dol\\v{z}an",
+    "thumbnail": "",
+    "description": "arXiv:2608.20934v1 Announce Type: new \nAbstract: Let $R$ be a finite commutative local principal ring. We study products of nilpotent and idempotent matrices in $M_2(R)$. We show that every product of nilpotent and idempotent matrices is either a product of idempotents or a product of nilpotents. We then consider IN- and NI-matrices, that is, matrices which can be written as a product of an idempotent and a nilpotent matrix in the respective orders. We prove that the classes of IN- and NI-matrices in $M_2(R)$ coincide and give an explicit description of their common class. Finally, if $|R|=q^n$ and $R/J(R)\\cong GF(q)$, we show that \\[\n  |\\operatorname{IN}(M_2(R))|\n  =\n  |\\operatorname{NI}(M_2(R))|\n  =\n  q^{3n-2}(q^n+q^2-1). \\]",
+    "content": "arXiv:2608.20934v1 Announce Type: new \nAbstract: Let $R$ be a finite commutative local principal ring. We study products of nilpotent and idempotent matrices in $M_2(R)$. We show that every product of nilpotent and idempotent matrices is either a product of idempotents or a product of nilpotents. We then consider IN- and NI-matrices, that is, matrices which can be written as a product of an idempotent and a nilpotent matrix in the respective orders. We prove that the classes of IN- and NI-matrices in $M_2(R)$ coincide and give an explicit description of their common class. Finally, if $|R|=q^n$ and $R/J(R)\\cong GF(q)$, we show that \\[\n  |\\operatorname{IN}(M_2(R))|\n  =\n  |\\operatorname{NI}(M_2(R))|\n  =\n  q^{3n-2}(q^n+q^2-1). \\]",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A negative exponent range for Audenaert's complementary McCarthy trace inequality",
+    "pubDate": "2026-08-24 04:00:00",
+    "link": "https://arxiv.org/abs/2608.20937",
+    "guid": "oai:arXiv.org:2608.20937v1",
+    "author": "Xing Li, Bin Zhou",
+    "thumbnail": "",
+    "description": "arXiv:2608.20937v1 Announce Type: new \nAbstract: Audenaert introduced a class of complementary McCarthy type trace inequalities in his work on completely monotone functions and Bernstein functions; the same problem was later included in the problem list of Audenaert and Kittaneh. The known results cover the corresponding directions for $q\\le -2$, $0<q q and while the negative range was left as a conjectural case. we prove exponent inequality in fact for every after inversion problem reduces to trace parallel sum proof uses kubo--ando mean chain an ando--hiai type log-majorization matrix geometric means finite-dimensional schatten h including quasi-norm range. also record that positive side follows directly from audenaert norm-compression semidefinite block matrices holds all finally determine equality case on side: if only></q>\n",
+    "content": "arXiv:2608.20937v1 Announce Type: new \nAbstract: Audenaert introduced a class of complementary McCarthy type trace inequalities in his work on completely monotone functions and Bernstein functions; the same problem was later included in the problem list of Audenaert and Kittaneh. The known results cover the corresponding directions for $q\\le -2$, $0<q q and while the negative range was left as a conjectural case. we prove exponent inequality in fact for every after inversion problem reduces to trace parallel sum proof uses kubo--ando mean chain an ando--hiai type log-majorization matrix geometric means finite-dimensional schatten h including quasi-norm range. also record that positive side follows directly from audenaert norm-compression semidefinite block matrices holds all finally determine equality case on side: if only></q>\n",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The general linear groupoid of a Leavitt path algebra",
+    "pubDate": "2026-08-24 04:00:00",
+    "link": "https://arxiv.org/abs/2608.21026",
+    "guid": "oai:arXiv.org:2608.21026v1",
+    "author": "Raimund Preusser",
+    "thumbnail": "",
+    "description": "arXiv:2608.21026v1 Announce Type: new \nAbstract: The general linear groupoid $\\mathbf{G}(L(E))$ of a Leavitt path algebra $L(E)$ is isomorphic to the groupoid whose objects are all $L(E)$-modules of the form $\\bigoplus_{i=1}^n v_iL(E)$ where each $v_i$ is a vertex, and whose morphisms are all isomorphisms between these modules. We find a generating set for $\\mathbf{G}(L(E))$ and consequently obtain generating sets for all general linear groups $\\text{GL}_n(L(E))$ over $L(E)$ (including the group $\\text{GL}_1(L(E))$ of invertible elements of $L(E)$). We prove similar results for Leavitt path algebras of hypergraphs (which generalise the Leavitt path algebras of separated graphs and vertex-weighted graphs).",
+    "content": "arXiv:2608.21026v1 Announce Type: new \nAbstract: The general linear groupoid $\\mathbf{G}(L(E))$ of a Leavitt path algebra $L(E)$ is isomorphic to the groupoid whose objects are all $L(E)$-modules of the form $\\bigoplus_{i=1}^n v_iL(E)$ where each $v_i$ is a vertex, and whose morphisms are all isomorphisms between these modules. We find a generating set for $\\mathbf{G}(L(E))$ and consequently obtain generating sets for all general linear groups $\\text{GL}_n(L(E))$ over $L(E)$ (including the group $\\text{GL}_1(L(E))$ of invertible elements of $L(E)$). We prove similar results for Leavitt path algebras of hypergraphs (which generalise the Leavitt path algebras of separated graphs and vertex-weighted graphs).",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "A New Impossibility Region for the $5\\times5$ Symmetric Nonnegative Inverse Eigenvalue Problem",
     "pubDate": "2026-08-21 04:00:00",
     "link": "https://arxiv.org/abs/2608.19435",
