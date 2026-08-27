@@ -1,5 +1,116 @@
 [
   {
+    "title": "Hereditary QF-$3^{+}$ rings",
+    "pubDate": "2026-08-27 04:00:00",
+    "link": "https://arxiv.org/abs/2608.25119",
+    "guid": "oai:arXiv.org:2608.25119v1",
+    "author": "Dali Zangurashvili",
+    "thumbnail": "",
+    "description": "arXiv:2608.25119v1 Announce Type: new \nAbstract: With the aid of the torsion-theoretical approach, several properties/characterizations of hereditary QF-$3^{+}$ rings are found. These characterizations are formulated in terms of the category of projective modules, the category of injective projective modules, and also in terms of the maximal left/right ring of quotients by Utumi. Moreover, it is shown that, for a hereditary QF-$3^{+}$ ring, the `largest stable submodule' radical (on the category of left/right modules) is permutable with injective envelopes. Besides, it is shown that there is a bimorphism (in the category of associative rings with identity) from such a ring to a semisimple left/right Artinian ring.",
+    "content": "arXiv:2608.25119v1 Announce Type: new \nAbstract: With the aid of the torsion-theoretical approach, several properties/characterizations of hereditary QF-$3^{+}$ rings are found. These characterizations are formulated in terms of the category of projective modules, the category of injective projective modules, and also in terms of the maximal left/right ring of quotients by Utumi. Moreover, it is shown that, for a hereditary QF-$3^{+}$ ring, the `largest stable submodule' radical (on the category of left/right modules) is permutable with injective envelopes. Besides, it is shown that there is a bimorphism (in the category of associative rings with identity) from such a ring to a semisimple left/right Artinian ring.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Cohomology and extensions of Novikov algebras of truncated polynomials",
+    "pubDate": "2026-08-27 04:00:00",
+    "link": "https://arxiv.org/abs/2608.25372",
+    "guid": "oai:arXiv.org:2608.25372v1",
+    "author": "Hassan Alhussein",
+    "thumbnail": "",
+    "description": "arXiv:2608.25372v1 Announce Type: new \nAbstract: Let $\\kk$ be a \\emph{field of characteristic $p&gt;0$, not assumed algebraically closed}, and let $V=\\kk[x]/(x^p)$ be the Novikov algebra with product $a\\circ b=ab'$. For $\\lambda\\in\\kk$, let $M(\\lambda)$ be Xu's module. We compute the second cohomology $\\Ht(V,M(\\lambda))$ for all $\\lambda$ and $p$, and describe the associated abelian extensions. The computation utilizes a $\\Zp$-graded presentation $V\\cong\\kk[t]/(t^p-1)$ to bypass truncation issues and simplify cocycle identities. We determine the exact dimensions of $\\Ht(V,M(\\lambda))$, showing it is $0$ for $\\lambda\\notin\\Fp$, $3$ for $\\lambda\\in\\Fp$ with odd $p$, and $4$ for $\\lambda\\in\\Fp$ with $p=2$. Explicit cocycle representatives are provided for all cases. As corollaries, we show that every abelian extension of $V$ by $M(\\lambda)$ splits when $\\lambda\\notin\\Fp$. We also treat the characteristic-$0$ analogue $P=\\kk[t]$: Xu's parameter $\\lambda$ collapses to the single value $\\lambda=0$, and $\\Ht(P,M(\\lambda))=0$ throughout, so $P$ is rigid (in fact formally rigid) while its positive-characteristic truncation never is --- within this family, it is truncation rather than positive characteristic per se that destroys rigidity.",
+    "content": "arXiv:2608.25372v1 Announce Type: new \nAbstract: Let $\\kk$ be a \\emph{field of characteristic $p&gt;0$, not assumed algebraically closed}, and let $V=\\kk[x]/(x^p)$ be the Novikov algebra with product $a\\circ b=ab'$. For $\\lambda\\in\\kk$, let $M(\\lambda)$ be Xu's module. We compute the second cohomology $\\Ht(V,M(\\lambda))$ for all $\\lambda$ and $p$, and describe the associated abelian extensions. The computation utilizes a $\\Zp$-graded presentation $V\\cong\\kk[t]/(t^p-1)$ to bypass truncation issues and simplify cocycle identities. We determine the exact dimensions of $\\Ht(V,M(\\lambda))$, showing it is $0$ for $\\lambda\\notin\\Fp$, $3$ for $\\lambda\\in\\Fp$ with odd $p$, and $4$ for $\\lambda\\in\\Fp$ with $p=2$. Explicit cocycle representatives are provided for all cases. As corollaries, we show that every abelian extension of $V$ by $M(\\lambda)$ splits when $\\lambda\\notin\\Fp$. We also treat the characteristic-$0$ analogue $P=\\kk[t]$: Xu's parameter $\\lambda$ collapses to the single value $\\lambda=0$, and $\\Ht(P,M(\\lambda))=0$ throughout, so $P$ is rigid (in fact formally rigid) while its positive-characteristic truncation never is --- within this family, it is truncation rather than positive characteristic per se that destroys rigidity.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Some results on null ideals of finite rings",
+    "pubDate": "2026-08-27 04:00:00",
+    "link": "https://arxiv.org/abs/2608.25853",
+    "guid": "oai:arXiv.org:2608.25853v1",
+    "author": "Nicholas J. Werner",
+    "thumbnail": "",
+    "description": "arXiv:2608.25853v1 Announce Type: new \nAbstract: For a finite associative unital ring $R$, the null ideal of $R$ is the collection of polynomials with coefficients from $R$ that send each element of $R$ to zero under evaluation. It was conjectured that the null ideal of $R$ is always a two-sided ideal of its overlying polynomial ring. The conjecture was proved to be false with the construction of a subring of $4 \\times 4$ upper triangular matrices over $\\mathbb{F}_2$ for which the null ideal is not two-sided. The Jacobson radical of this counterexample ring has nilpotency 4. We prove that if the Jacobson radical of $R$ has nilpotency at most 3, then the null ideal of $R$ is two-sided. By extending the known counterexample ring, for each $n \\geq 5$ we present a ring for which the null ideal is not two-sided, and the Jacobson radical has nilpotency $n$.",
+    "content": "arXiv:2608.25853v1 Announce Type: new \nAbstract: For a finite associative unital ring $R$, the null ideal of $R$ is the collection of polynomials with coefficients from $R$ that send each element of $R$ to zero under evaluation. It was conjectured that the null ideal of $R$ is always a two-sided ideal of its overlying polynomial ring. The conjecture was proved to be false with the construction of a subring of $4 \\times 4$ upper triangular matrices over $\\mathbb{F}_2$ for which the null ideal is not two-sided. The Jacobson radical of this counterexample ring has nilpotency 4. We prove that if the Jacobson radical of $R$ has nilpotency at most 3, then the null ideal of $R$ is two-sided. By extending the known counterexample ring, for each $n \\geq 5$ we present a ring for which the null ideal is not two-sided, and the Jacobson radical has nilpotency $n$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AC"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The structure of $k$-potents and mixed Jordan-power preservers on matrix algebras",
+    "pubDate": "2026-08-27 04:00:00",
+    "link": "https://arxiv.org/abs/2512.13085",
+    "guid": "oai:arXiv.org:2512.13085v2",
+    "author": "Ilja Gogi\\'c, Mateo Toma\\v{s}evi\\'c",
+    "thumbnail": "",
+    "description": "arXiv:2512.13085v2 Announce Type: replace \nAbstract: Let $M_n(\\mathbb{F})$ denote the algebra of $n \\times n$ matrices over an algebraically closed field $\\mathbb{F}$ of characteristic different from $2$. For $n \\ge 2$, we classify all maps $\\phi : M_n(\\mathbb{F}) \\to M_n(\\mathbb{F})$ satisfying the mixed Jordan-power identity $$ \\phi(A^{k} \\circ B) = \\phi(A)^{k} \\circ \\phi(B), \\quad \\text{for all } A,B \\in M_n(\\mathbb{F}), $$ where $\\circ$ denotes the (normalized) Jordan product $A \\circ B := \\tfrac{1}{2}(AB + BA)$ and $k \\in \\mathbb{N}$. We show that every such map is either constant, taking a fixed $(k+1)$-potent value, or there exist an invertible matrix $T \\in M_n(\\mathbb{F})$, a ring monomorphism $\\omega : \\mathbb{F} \\to \\mathbb{F}$, and a $k$-th root of unity $\\varepsilon \\in \\mathbb{F}$ such that $\\phi$ takes one of the forms $$ \\phi(X) = \\varepsilon\\, T\\, \\omega(X)\\, T^{-1} \\quad \\text{ or } \\quad \\phi(X) = \\varepsilon\\, T\\, \\omega(X)^{t}\\, T^{-1}, $$ where $\\omega(X)$ denotes the matrix obtained by applying $\\omega$ entrywise to $X$, and $(\\cdot)^{t}$ denotes matrix transposition. In particular, every nonconstant solution is necessarily additive. The classification relies fundamentally on the preservation of $(k+1)$-potents and their intrinsic structural properties.",
+    "content": "arXiv:2512.13085v2 Announce Type: replace \nAbstract: Let $M_n(\\mathbb{F})$ denote the algebra of $n \\times n$ matrices over an algebraically closed field $\\mathbb{F}$ of characteristic different from $2$. For $n \\ge 2$, we classify all maps $\\phi : M_n(\\mathbb{F}) \\to M_n(\\mathbb{F})$ satisfying the mixed Jordan-power identity $$ \\phi(A^{k} \\circ B) = \\phi(A)^{k} \\circ \\phi(B), \\quad \\text{for all } A,B \\in M_n(\\mathbb{F}), $$ where $\\circ$ denotes the (normalized) Jordan product $A \\circ B := \\tfrac{1}{2}(AB + BA)$ and $k \\in \\mathbb{N}$. We show that every such map is either constant, taking a fixed $(k+1)$-potent value, or there exist an invertible matrix $T \\in M_n(\\mathbb{F})$, a ring monomorphism $\\omega : \\mathbb{F} \\to \\mathbb{F}$, and a $k$-th root of unity $\\varepsilon \\in \\mathbb{F}$ such that $\\phi$ takes one of the forms $$ \\phi(X) = \\varepsilon\\, T\\, \\omega(X)\\, T^{-1} \\quad \\text{ or } \\quad \\phi(X) = \\varepsilon\\, T\\, \\omega(X)^{t}\\, T^{-1}, $$ where $\\omega(X)$ denotes the matrix obtained by applying $\\omega$ entrywise to $X$, and $(\\cdot)^{t}$ denotes matrix transposition. In particular, every nonconstant solution is necessarily additive. The classification relies fundamentally on the preservation of $(k+1)$-potents and their intrinsic structural properties.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Characterising regular double Stone and pseudocomplemented Kleene algebras in completions of rough sets induced by reflexive relations",
+    "pubDate": "2026-08-27 04:00:00",
+    "link": "https://arxiv.org/abs/2603.26883",
+    "guid": "oai:arXiv.org:2603.26883v3",
+    "author": "Jouni J\\&quot;arvinen, S\\'andor Radeleczki",
+    "thumbnail": "",
+    "description": "arXiv:2603.26883v3 Announce Type: replace \nAbstract: We consider Kleene and Stone algebras defined on the completion DM(RS) of the ordered set of rough sets induced by a reflexive relation. We focus on the cases where the completion forms a spatial and completely distributive lattice. We derive the conditions under which DM(RS) is a regular pseudocomplemented Kleene algebra and a completely distributive double Stone algebra. Finally, we describe the reflexive relations for which DM(RS) forms a regular double Stone algebra, which is the same structure as in the case of equivalences. Our results generalise earlier findings on algebras of rough sets induced by equivalences, quasiorders, and tolerance relations.",
+    "content": "arXiv:2603.26883v3 Announce Type: replace \nAbstract: We consider Kleene and Stone algebras defined on the completion DM(RS) of the ordered set of rough sets induced by a reflexive relation. We focus on the cases where the completion forms a spatial and completely distributive lattice. We derive the conditions under which DM(RS) is a regular pseudocomplemented Kleene algebra and a completely distributive double Stone algebra. Finally, we describe the reflexive relations for which DM(RS) forms a regular double Stone algebra, which is the same structure as in the case of equivalences. Our results generalise earlier findings on algebras of rough sets induced by equivalences, quasiorders, and tolerance relations.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "cs.LO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A correspondence between additive and monoidal categorifications with application to Grassmannian cluster categories",
+    "pubDate": "2026-08-27 04:00:00",
+    "link": "https://arxiv.org/abs/2410.04401",
+    "guid": "oai:arXiv.org:2410.04401v3",
+    "author": "Karin Baur, Changjian Fu, Jian-rong Li",
+    "thumbnail": "",
+    "description": "arXiv:2410.04401v3 Announce Type: replace-cross \nAbstract: Building on work of Derksen-Fei and Plamondon, we formulate a conjectural correspondence between additive and monoidal categorifications of cluster algebras, which reveals a new connection between the additive reachability conjecture and the multiplicative reachability conjecture. Evidence for this conjecture is provided by results on Grassmannian cluster algebras and categories in the tame types. Moreover, we give a construction of the generic kernels introduced by Hernandez and Leclerc for type $\\mathbb{A}$ via the Grassmannian cluster categories. As an application of the correspondence, we construct rigid indecomposable modules and indecomposable non-rigid modules in Grassmannian cluster categories.",
+    "content": "arXiv:2410.04401v3 Announce Type: replace-cross \nAbstract: Building on work of Derksen-Fei and Plamondon, we formulate a conjectural correspondence between additive and monoidal categorifications of cluster algebras, which reveals a new connection between the additive reachability conjecture and the multiplicative reachability conjecture. Evidence for this conjecture is provided by results on Grassmannian cluster algebras and categories in the tame types. Moreover, we give a construction of the generic kernels introduced by Hernandez and Leclerc for type $\\mathbb{A}$ via the Grassmannian cluster categories. As an application of the correspondence, we construct rigid indecomposable modules and indecomposable non-rigid modules in Grassmannian cluster categories.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Deformations of ideals in Lie algebras",
+    "pubDate": "2026-08-27 04:00:00",
+    "link": "https://arxiv.org/abs/2412.20600",
+    "guid": "oai:arXiv.org:2412.20600v3",
+    "author": "I. Ermeidis, M. Jotz",
+    "thumbnail": "",
+    "description": "arXiv:2412.20600v3 Announce Type: replace-cross \nAbstract: This paper develops the deformation theory of Lie ideals. It shows that the smooth deformations of an ideal $\\mathfrak i$ in a Lie algebra $\\mathfrak g$ differentiate to cohomology classes in the cohomology of $\\mathfrak g$ with values in its adjoint representation on $\\operatorname{Hom}(\\mathfrak i, \\mathfrak g/\\mathfrak i)$. The cohomology associated with the ideal $\\mathfrak i$ in $\\mathfrak g$ is compared with other Lie algebra cohomologies defined by $\\mathfrak i$, such as the cohomology defined by $\\mathfrak i$ as a Lie subalgebra of $\\mathfrak g$ (Richardson, 1969), and the cohomology defined by the Lie algebra morphism $\\mathfrak g \\to \\mathfrak g/\\mathfrak i$.\n  After a choice of complement of the ideal $\\mathfrak i$ in the Lie algebra $\\mathfrak g$, its deformation complex is enriched to the differential graded Lie algebra that controls its deformations, in the sense that its Maurer-Cartan elements are in one-to-one correspondence with the (small) deformations of the ideal. These constructions are shown to hold independently of the choice of complement - up to isomorphism. Furthermore, the $L_{\\infty}$-algebra that simultaneously controls the deformations of $\\mathfrak{i}$ and of the ambient Lie bracket is identified.\n  Under appropriate assumptions on the low degrees of the deformation cohomology of a given Lie ideal, the (topological) rigidity and stability of ideals are studied, as well as obstructions to deformations of ideals of Lie algebras.",
+    "content": "arXiv:2412.20600v3 Announce Type: replace-cross \nAbstract: This paper develops the deformation theory of Lie ideals. It shows that the smooth deformations of an ideal $\\mathfrak i$ in a Lie algebra $\\mathfrak g$ differentiate to cohomology classes in the cohomology of $\\mathfrak g$ with values in its adjoint representation on $\\operatorname{Hom}(\\mathfrak i, \\mathfrak g/\\mathfrak i)$. The cohomology associated with the ideal $\\mathfrak i$ in $\\mathfrak g$ is compared with other Lie algebra cohomologies defined by $\\mathfrak i$, such as the cohomology defined by $\\mathfrak i$ as a Lie subalgebra of $\\mathfrak g$ (Richardson, 1969), and the cohomology defined by the Lie algebra morphism $\\mathfrak g \\to \\mathfrak g/\\mathfrak i$.\n  After a choice of complement of the ideal $\\mathfrak i$ in the Lie algebra $\\mathfrak g$, its deformation complex is enriched to the differential graded Lie algebra that controls its deformations, in the sense that its Maurer-Cartan elements are in one-to-one correspondence with the (small) deformations of the ideal. These constructions are shown to hold independently of the choice of complement - up to isomorphism. Furthermore, the $L_{\\infty}$-algebra that simultaneously controls the deformations of $\\mathfrak{i}$ and of the ambient Lie bracket is identified.\n  Under appropriate assumptions on the low degrees of the deformation cohomology of a given Lie ideal, the (topological) rigidity and stability of ideals are studied, as well as obstructions to deformations of ideals of Lie algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.DG",
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "An Explicit Counterexample to the Rank-Two Poisson Conjecture",
     "pubDate": "2026-08-26 04:00:00",
     "link": "https://arxiv.org/abs/2608.23777",
