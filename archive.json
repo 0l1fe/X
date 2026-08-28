@@ -1,5 +1,161 @@
 [
   {
+    "title": "Quantales as formal concept lattices",
+    "pubDate": "2026-08-28 04:00:00",
+    "link": "https://arxiv.org/abs/2608.26631",
+    "guid": "oai:arXiv.org:2608.26631v1",
+    "author": "Lili Shen, Xiaojuan Zhao",
+    "thumbnail": "",
+    "description": "arXiv:2608.26631v1 Announce Type: new \nAbstract: We establish a new bridge connecting quantales, semigroups and the theory of formal concept analysis. By introducing residuated relations whose domains are semigroups, we show that every quantale arises as the formal concept lattice induced by such a relation. Furthermore, this construction yields an equivalence between the category of quantales and a category of such residuated relations whose morphisms are multiplicative bonds.",
+    "content": "arXiv:2608.26631v1 Announce Type: new \nAbstract: We establish a new bridge connecting quantales, semigroups and the theory of formal concept analysis. By introducing residuated relations whose domains are semigroups, we show that every quantale arises as the formal concept lattice induced by such a relation. Furthermore, this construction yields an equivalence between the category of quantales and a category of such residuated relations whose morphisms are multiplicative bonds.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Functional identities of degree 2 at two-sided zero products on incidence algebras",
+    "pubDate": "2026-08-28 04:00:00",
+    "link": "https://arxiv.org/abs/2608.26853",
+    "guid": "oai:arXiv.org:2608.26853v1",
+    "author": "Hongyu Jia, Zhankui Xiao",
+    "thumbnail": "",
+    "description": "arXiv:2608.26853v1 Announce Type: new \nAbstract: Let $R$ be a commutative ring with unity such that $\\frac{1}{2}\\in R$. Let $X$ be a connected finite poset with $|X|&gt;2$ and $I(X,R)$ be the incidence algebra of $X$ over $R$. In this paper, we characterize the forms of linear maps $F_1,F_2,F_3,F_4:I(X,R)\\to I(X,R)$ satisfying \\[ F_1(f)g+fF_2(g)+F_3(g)f+gF_4(f)=0, \\] whenever $fg=gf=0$. We prove that the $F_i$'s are of the so-called standard form if and only if any two edges in the comparability graph of $X$ are contained in one cycle. The ingredients of the proof contain a characterization of $2$-connectedness in comparability graph and the two-sided zero product determined property of incidence algebras.",
+    "content": "arXiv:2608.26853v1 Announce Type: new \nAbstract: Let $R$ be a commutative ring with unity such that $\\frac{1}{2}\\in R$. Let $X$ be a connected finite poset with $|X|&gt;2$ and $I(X,R)$ be the incidence algebra of $X$ over $R$. In this paper, we characterize the forms of linear maps $F_1,F_2,F_3,F_4:I(X,R)\\to I(X,R)$ satisfying \\[ F_1(f)g+fF_2(g)+F_3(g)f+gF_4(f)=0, \\] whenever $fg=gf=0$. We prove that the $F_i$'s are of the so-called standard form if and only if any two edges in the comparability graph of $X$ are contained in one cycle. The ingredients of the proof contain a characterization of $2$-connectedness in comparability graph and the two-sided zero product determined property of incidence algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Diameter of the commutativity graph of the real sedenions",
+    "pubDate": "2026-08-28 04:00:00",
+    "link": "https://arxiv.org/abs/2608.26890",
+    "guid": "oai:arXiv.org:2608.26890v1",
+    "author": "Svetlana Zhilina",
+    "thumbnail": "",
+    "description": "arXiv:2608.26890v1 Announce Type: new \nAbstract: The commutativity graph of the real sedenion algebra is considered. It is shown that those elements whose imaginary part is not a zero divisor correspond to isolated vertices of this graph. All other elements form a connected component whose diameter equals $3$.",
+    "content": "arXiv:2608.26890v1 Announce Type: new \nAbstract: The commutativity graph of the real sedenion algebra is considered. It is shown that those elements whose imaginary part is not a zero divisor correspond to isolated vertices of this graph. All other elements form a connected component whose diameter equals $3$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On doubly alternative zero divisors in Cayley-Dickson algebras",
+    "pubDate": "2026-08-28 04:00:00",
+    "link": "https://arxiv.org/abs/2608.26893",
+    "guid": "oai:arXiv.org:2608.26893v1",
+    "author": "Svetlana Zhilina",
+    "thumbnail": "",
+    "description": "arXiv:2608.26893v1 Announce Type: new \nAbstract: Zero divisors of Cayley-Dickson algebras over an arbitrary field $\\mathbb{F}$, $\\mathrm{char} \\, \\mathbb{F} \\neq 2$, are studied. It is shown that zero divisors, whose components alternate strongly pairwise and have nonzero norm, form hexagonal structures in the zero divisor graph of a Cayley-Dickson algebra. The properties of doubly alternative zero divisors, at least one of whose components has nonzero norm, are established, and an explicit form of their annihilators, orthogonalizers, and centralizers is obtained. The properties of zero divisors in Cayley-Dickson algebras with anisotropic norm are described, and it is shown that in this case directed hexagons in the zero divisor graph can be extended to undirected double hexagons in the orthogonality graph. A criterion of $C$-equivalence for elements of Cayley-Dickson algebras with anisotropic norm is obtained. Possible values of dimension for annihilators of elements of Cayley-Dickson algebras are considered.",
+    "content": "arXiv:2608.26893v1 Announce Type: new \nAbstract: Zero divisors of Cayley-Dickson algebras over an arbitrary field $\\mathbb{F}$, $\\mathrm{char} \\, \\mathbb{F} \\neq 2$, are studied. It is shown that zero divisors, whose components alternate strongly pairwise and have nonzero norm, form hexagonal structures in the zero divisor graph of a Cayley-Dickson algebra. The properties of doubly alternative zero divisors, at least one of whose components has nonzero norm, are established, and an explicit form of their annihilators, orthogonalizers, and centralizers is obtained. The properties of zero divisors in Cayley-Dickson algebras with anisotropic norm are described, and it is shown that in this case directed hexagons in the zero divisor graph can be extended to undirected double hexagons in the orthogonality graph. A criterion of $C$-equivalence for elements of Cayley-Dickson algebras with anisotropic norm is obtained. Possible values of dimension for annihilators of elements of Cayley-Dickson algebras are considered.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Relation graphs of the sedenion algebra",
+    "pubDate": "2026-08-28 04:00:00",
+    "link": "https://arxiv.org/abs/2608.26903",
+    "guid": "oai:arXiv.org:2608.26903v1",
+    "author": "Alexander Guterman, Svetlana Zhilina",
+    "thumbnail": "",
+    "description": "arXiv:2608.26903v1 Announce Type: new \nAbstract: Let $\\mathbb{S}$ denote the algebra of the sedenions, and $\\Gamma_O(\\mathbb{S})$ denote its orthogonality graph. We observe that any pair of zero divisors in $\\mathbb{S}$ produces a double hexagon in $\\Gamma_O(\\mathbb{S})$. The set of vertices of a double hexagon can be extended to a basis of $\\mathbb{S}$ which has a convenient multiplication table. We describe explicitly the set of vertices of an arbitrary connected component of $\\Gamma_O(\\mathbb{S})$ and find its diameter. We then establish the bijection between the connected components of $\\Gamma_O(\\mathbb{S})$ and lines in the imaginary part of the octonions. Finally, we consider the commutativity graph of the sedenions and discover that all elements whose imaginary part is a zero divisor belong to the same connected component, and its diameter lies between $3$ and $4$.",
+    "content": "arXiv:2608.26903v1 Announce Type: new \nAbstract: Let $\\mathbb{S}$ denote the algebra of the sedenions, and $\\Gamma_O(\\mathbb{S})$ denote its orthogonality graph. We observe that any pair of zero divisors in $\\mathbb{S}$ produces a double hexagon in $\\Gamma_O(\\mathbb{S})$. The set of vertices of a double hexagon can be extended to a basis of $\\mathbb{S}$ which has a convenient multiplication table. We describe explicitly the set of vertices of an arbitrary connected component of $\\Gamma_O(\\mathbb{S})$ and find its diameter. We then establish the bijection between the connected components of $\\Gamma_O(\\mathbb{S})$ and lines in the imaginary part of the octonions. Finally, we consider the commutativity graph of the sedenions and discover that all elements whose imaginary part is a zero divisor belong to the same connected component, and its diameter lies between $3$ and $4$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Very good gradings on structural matrix rings",
+    "pubDate": "2026-08-28 04:00:00",
+    "link": "https://arxiv.org/abs/2608.27414",
+    "guid": "oai:arXiv.org:2608.27414v1",
+    "author": "Patrik Lundstr\\&quot;om, Johan \\&quot;Oinert, Laura Orozco, H\\'ector Pinedo",
+    "thumbnail": "",
+    "description": "arXiv:2608.27414v1 Announce Type: new \nAbstract: Let $R$ be a nonzero associative unital ring, let $G$ be a group, and let $\\rho$ be a preorder on $\\{1,\\ldots,n\\}$. A $G$-grading on $\\rho$ induces a very good $G$-grading on the structural matrix ring $M_n(\\rho,R)$. We show that, for each of the properties trivial, symmetric, epsilon-strong and strong, the grading on $\\rho$ has the property if and only if the induced ring grading does. The epsilon-crossed product and crossed product properties pass from $\\rho$ to the ring, but the converses fail in general. We also give a concrete criterion for epsilon-strongness and show that a very good $G$-grading on $M_n(\\rho,R)$ that is strong satisfies $|G|\\leq n$. When $\\rho$ is an equivalence relation and the neutral component is diagonal, very good gradings correspond bijectively to free partial actions of $G$ on $\\{1,\\ldots,n\\}$ with orbit relation $\\rho$. These gradings are epsilon-crossed products, and over a field the correspondence gives a classification up to graded algebra isomorphism.",
+    "content": "arXiv:2608.27414v1 Announce Type: new \nAbstract: Let $R$ be a nonzero associative unital ring, let $G$ be a group, and let $\\rho$ be a preorder on $\\{1,\\ldots,n\\}$. A $G$-grading on $\\rho$ induces a very good $G$-grading on the structural matrix ring $M_n(\\rho,R)$. We show that, for each of the properties trivial, symmetric, epsilon-strong and strong, the grading on $\\rho$ has the property if and only if the induced ring grading does. The epsilon-crossed product and crossed product properties pass from $\\rho$ to the ring, but the converses fail in general. We also give a concrete criterion for epsilon-strongness and show that a very good $G$-grading on $M_n(\\rho,R)$ that is strong satisfies $|G|\\leq n$. When $\\rho$ is an equivalence relation and the neutral component is diagonal, very good gradings correspond bijectively to free partial actions of $G$ on $\\{1,\\ldots,n\\}$ with orbit relation $\\rho$. These gradings are epsilon-crossed products, and over a field the correspondence gives a classification up to graded algebra isomorphism.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Free Novikov-Zinbiel algebra",
+    "pubDate": "2026-08-28 04:00:00",
+    "link": "https://arxiv.org/abs/2608.27435",
+    "guid": "oai:arXiv.org:2608.27435v1",
+    "author": "A. Dauletiyarova, F. Mashurov, B. Sartayev",
+    "thumbnail": "",
+    "description": "arXiv:2608.27435v1 Announce Type: new \nAbstract: Let $A$ be a commutative-associative algebra with an invertible derivation $D$, and put $R=D^{-1}$. We study the operations \\begin{equation*} x\\succ y=R(x)y,\\qquad x\\prec y=xD(y), \\end{equation*} which define a Novikov-Zinbiel algebra. Using a simple graded model, we represent multilinear $\\prec,\\succ$-monomials by rational functions and construct an explicit basis for the resulting space. This yields a description of the multilinear components of the free Novikov-Zinbiel algebra. As a consequence, we prove that every multilinear identity satisfied by this construction follows from the defining identities of Novikov-Zinbiel algebras.",
+    "content": "arXiv:2608.27435v1 Announce Type: new \nAbstract: Let $A$ be a commutative-associative algebra with an invertible derivation $D$, and put $R=D^{-1}$. We study the operations \\begin{equation*} x\\succ y=R(x)y,\\qquad x\\prec y=xD(y), \\end{equation*} which define a Novikov-Zinbiel algebra. Using a simple graded model, we represent multilinear $\\prec,\\succ$-monomials by rational functions and construct an explicit basis for the resulting space. This yields a description of the multilinear components of the free Novikov-Zinbiel algebra. As a consequence, we prove that every multilinear identity satisfied by this construction follows from the defining identities of Novikov-Zinbiel algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The weak bialgebra structures on $\\mathbb{k}^{\\oplus n}$",
+    "pubDate": "2026-08-28 04:00:00",
+    "link": "https://arxiv.org/abs/2608.26770",
+    "guid": "oai:arXiv.org:2608.26770v1",
+    "author": "Jingheng Zhou",
+    "thumbnail": "",
+    "description": "arXiv:2608.26770v1 Announce Type: cross \nAbstract: Weak bialgebras are natural generalizations of bialgebras that play a fundamental role in quantum groups, tensor categories, and representation theory. In this paper, we systematically classify all (weak) bialgebra structures on the finite-dimensional semisimple algebra \\(\\Bbbk^{\\oplus n}\\), with a distinguished basis of primitive orthogonal idempotents. For the bialgebra case, we prove that such structures are in bijection with finite monoids, and that bialgebra isomorphisms correspond exactly to monoid isomorphisms. Extending the result to weak bialgebras, we show that every weak bialgebra structure uniquely determines a finite small category.",
+    "content": "arXiv:2608.26770v1 Announce Type: cross \nAbstract: Weak bialgebras are natural generalizations of bialgebras that play a fundamental role in quantum groups, tensor categories, and representation theory. In this paper, we systematically classify all (weak) bialgebra structures on the finite-dimensional semisimple algebra \\(\\Bbbk^{\\oplus n}\\), with a distinguished basis of primitive orthogonal idempotents. For the bialgebra case, we prove that such structures are in bijection with finite monoids, and that bialgebra isomorphisms correspond exactly to monoid isomorphisms. Extending the result to weak bialgebras, we show that every weak bialgebra structure uniquely determines a finite small category.",
+    "enclosure": {},
+    "categories": [
+      "math.QA",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Finite semisimplicial sets, differential graded algebras, and cellular sheaves",
+    "pubDate": "2026-08-28 04:00:00",
+    "link": "https://arxiv.org/abs/2608.26953",
+    "guid": "oai:arXiv.org:2608.26953v1",
+    "author": "Jan-Willem Van Looy, Ferdinando Zanchetta",
+    "thumbnail": "",
+    "description": "arXiv:2608.26953v1 Announce Type: cross \nAbstract: We develop a differential graded model for finite non-singular semisimplicial sets and their cellular sheaves. To a finite non-singular semisimplicial set \\(S\\), we associate an exterior DGA \\(\\Omega^\\bullet_S\\), extending the classical anti-equivalence between finite simple directed graphs and first-order differential calculi to higher degrees. We characterize the essential image of this construction, obtaining an equivalence of categories that recovers the graph-FODC correspondence in dimension one. For a fixed \\(S\\), we then characterize a category of differential graded \\(\\Omega^\\bullet_S\\)-modules equivalent to the category of cellular sheaves on $S$, thereby giving a differential refinement of the usual incidence-algebra description. Finally, we study connections and curvature in this framework. Connections are described by edgewise linear maps and their curvature on a 2-dimensional simplex is the difference between direct and composite edge transport. When the edge transports are invertible, vanishing of this curvature on every \\(2\\)-simplex can equivalently be seen as a gluing criterion to extend the given edge transports to a connection sheaf on \\(P_S\\).",
+    "content": "arXiv:2608.26953v1 Announce Type: cross \nAbstract: We develop a differential graded model for finite non-singular semisimplicial sets and their cellular sheaves. To a finite non-singular semisimplicial set \\(S\\), we associate an exterior DGA \\(\\Omega^\\bullet_S\\), extending the classical anti-equivalence between finite simple directed graphs and first-order differential calculi to higher degrees. We characterize the essential image of this construction, obtaining an equivalence of categories that recovers the graph-FODC correspondence in dimension one. For a fixed \\(S\\), we then characterize a category of differential graded \\(\\Omega^\\bullet_S\\)-modules equivalent to the category of cellular sheaves on $S$, thereby giving a differential refinement of the usual incidence-algebra description. Finally, we study connections and curvature in this framework. Connections are described by edgewise linear maps and their curvature on a 2-dimensional simplex is the difference between direct and composite edge transport. When the edge transports are invertible, vanishing of this curvature on every \\(2\\)-simplex can equivalently be seen as a gluing criterion to extend the given edge transports to a connection sheaf on \\(P_S\\).",
+    "enclosure": {},
+    "categories": [
+      "math.DG",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Disjoint and nearly disjoint sums of matrix multiplication tensors and their centroids",
+    "pubDate": "2026-08-28 04:00:00",
+    "link": "https://arxiv.org/abs/2608.27434",
+    "guid": "oai:arXiv.org:2608.27434v1",
+    "author": "Martin Kassabov, J. M. Landsberg, Victor Souza, Philip Speegle",
+    "thumbnail": "",
+    "description": "arXiv:2608.27434v1 Announce Type: cross \nAbstract: This paper addresses centroids, which are fundamental invariants of tensors. Our main results are as follows: (i) The construction of explicit tensors with very large centroids, whereas previously it had been conjectured that none such exist. (ii) An upper bound on the dimension of the centroid that is essentially attained by our examples. (iii) The development of a geometric technique to write down border rank decomposition of tensors using centroids and \"extended centroids\". (iv) The technique is applied to tensors of this paper to prove they are of minimal border rank. The technique is versatile and enables us to geometrically derive and improve upon previous ad hoc decompositions. (v) The construction of symmetric tensors with large centroids and proof that they are wild in the sense of Buczy\\'nska-Buczy\\'nski.\n  Our results also pave the way for new upper bounds on the exponent of matrix multiplication. The geometric technique also constructs new \"better\" tensors for Strassen's laser method from old, and we apply this to the tensors of Strassen and Sch\\\"onhage to get better tensors in the sense that they give better upper bounds on the exponent than the original tensors.",
+    "content": "arXiv:2608.27434v1 Announce Type: cross \nAbstract: This paper addresses centroids, which are fundamental invariants of tensors. Our main results are as follows: (i) The construction of explicit tensors with very large centroids, whereas previously it had been conjectured that none such exist. (ii) An upper bound on the dimension of the centroid that is essentially attained by our examples. (iii) The development of a geometric technique to write down border rank decomposition of tensors using centroids and \"extended centroids\". (iv) The technique is applied to tensors of this paper to prove they are of minimal border rank. The technique is versatile and enables us to geometrically derive and improve upon previous ad hoc decompositions. (v) The construction of symmetric tensors with large centroids and proof that they are wild in the sense of Buczy\\'nska-Buczy\\'nski.\n  Our results also pave the way for new upper bounds on the exponent of matrix multiplication. The geometric technique also constructs new \"better\" tensors for Strassen's laser method from old, and we apply this to the tensors of Strassen and Sch\\\"onhage to get better tensors in the sense that they give better upper bounds on the exponent than the original tensors.",
+    "enclosure": {},
+    "categories": [
+      "math.AG",
+      "cs.CC",
+      "math.AC",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Hereditary QF-$3^{+}$ rings",
     "pubDate": "2026-08-27 04:00:00",
     "link": "https://arxiv.org/abs/2608.25119",
