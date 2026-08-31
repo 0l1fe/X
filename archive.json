@@ -1,5 +1,159 @@
 [
   {
+    "title": "Integral Orders for the Okubo Algebra and Idempotent Geometries of the $E_8$ Lattice",
+    "pubDate": "2026-08-31 04:00:00",
+    "link": "https://arxiv.org/abs/2608.27762",
+    "guid": "oai:arXiv.org:2608.27762v1",
+    "author": "Daniele Corradetti, Alessio Marrani",
+    "thumbnail": "",
+    "description": "arXiv:2608.27762v1 Announce Type: new \nAbstract: We study the Coxeter-Dickson $E_8$ order as a common integral support for the octonionic, para-octonionic and compact real Okubo products. The three algebra structures have the same additive lattice, the same positive composition norm and hence the same $240$ norm-one vectors, namely the roots of $E_8$ and the vertices of the Gosset polytope $4_{21}$. Their multiplicative structures are nevertheless different and this difference is already visible in the idempotents: among the same $240$ roots one finds respectively $1$, $57$ and $12$ nonzero integral idempotents. We show that these three counts organize the common root system in three increasingly polarized ways. The octonionic product leaves the full $E_8$ geometry unseparated; the $57$ para-octonionic idempotents reproduce the $E_7$ contact decomposition $1+56+126+56+1$; the $12$ Okubo idempotents split into four mutually orthogonal oriented $A_2$ triangles and hence determine canonically an $A_2^4$ subsystem. Choosing one triangle as the external $A_2$ then yields the $A_2+E_6$ Magic Star, while the remaining nine idempotents determine the trinification subsystem $A_2^3\\subset E_6$. This provides an arithmetic interpretation of the $E_8\\supset E_7$ and $E_8\\supset E_6+A_2$ decompositions directly from integral idempotents.",
+    "content": "arXiv:2608.27762v1 Announce Type: new \nAbstract: We study the Coxeter-Dickson $E_8$ order as a common integral support for the octonionic, para-octonionic and compact real Okubo products. The three algebra structures have the same additive lattice, the same positive composition norm and hence the same $240$ norm-one vectors, namely the roots of $E_8$ and the vertices of the Gosset polytope $4_{21}$. Their multiplicative structures are nevertheless different and this difference is already visible in the idempotents: among the same $240$ roots one finds respectively $1$, $57$ and $12$ nonzero integral idempotents. We show that these three counts organize the common root system in three increasingly polarized ways. The octonionic product leaves the full $E_8$ geometry unseparated; the $57$ para-octonionic idempotents reproduce the $E_7$ contact decomposition $1+56+126+56+1$; the $12$ Okubo idempotents split into four mutually orthogonal oriented $A_2$ triangles and hence determine canonically an $A_2^4$ subsystem. Choosing one triangle as the external $A_2$ then yields the $A_2+E_6$ Magic Star, while the remaining nine idempotents determine the trinification subsystem $A_2^3\\subset E_6$. This provides an arithmetic interpretation of the $E_8\\supset E_7$ and $E_8\\supset E_6+A_2$ decompositions directly from integral idempotents.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Commuting graphs of Okubo algebras",
+    "pubDate": "2026-08-31 04:00:00",
+    "link": "https://arxiv.org/abs/2608.28006",
+    "guid": "oai:arXiv.org:2608.28006v1",
+    "author": "Svetlana Zhilina, Danil Pavlinov",
+    "thumbnail": "",
+    "description": "arXiv:2608.28006v1 Announce Type: new \nAbstract: Commuting graphs of Okubo algebras are considered, and the problem of their connectivity is studied. The commuting graph of a pseudo-octonion algebra $P_8(\\mathbb{F})$ over a field $\\mathbb{F}$, $\\mathrm{char} \\, \\mathbb{F} \\neq 3$, that contains a primitive cubic root of unity is shown to be isomorphic to the commuting graph of the matrix algebra $M_3(\\mathbb{F})$. As a consequence, if the field $\\mathbb{F}$ is algebraically closed, then the diameter of the commuting graph for the unique Okubo algebra over $\\mathbb{F}$ equals $4$. It is shown that the commuting graph of the real division Okubo algebra is connected, and its diameter also equals $4$. The proof of this result relies on the fact that, given any two idempotents in an arbitrary Okubo algebra, the intersection of their centralizers is always nonzero.",
+    "content": "arXiv:2608.28006v1 Announce Type: new \nAbstract: Commuting graphs of Okubo algebras are considered, and the problem of their connectivity is studied. The commuting graph of a pseudo-octonion algebra $P_8(\\mathbb{F})$ over a field $\\mathbb{F}$, $\\mathrm{char} \\, \\mathbb{F} \\neq 3$, that contains a primitive cubic root of unity is shown to be isomorphic to the commuting graph of the matrix algebra $M_3(\\mathbb{F})$. As a consequence, if the field $\\mathbb{F}$ is algebraically closed, then the diameter of the commuting graph for the unique Okubo algebra over $\\mathbb{F}$ equals $4$. It is shown that the commuting graph of the real division Okubo algebra is connected, and its diameter also equals $4$. The proof of this result relies on the fact that, given any two idempotents in an arbitrary Okubo algebra, the intersection of their centralizers is always nonzero.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Orthogonality graphs of real Cayley-Dickson algebras. Part II: The subgraph on pairs of basis elements",
+    "pubDate": "2026-08-31 04:00:00",
+    "link": "https://arxiv.org/abs/2608.28163",
+    "guid": "oai:arXiv.org:2608.28163v1",
+    "author": "Svetlana Zhilina",
+    "thumbnail": "",
+    "description": "arXiv:2608.28163v1 Announce Type: new \nAbstract: We consider zero divisors of an arbitrary real Cayley-Dickson algebra such that their components are both standard basis elements. We construct inductively the orthogonality graph on these elements. Then we show that, if we restrict our attention to at least $16$-dimensional algebras, two algebras are isomorphic if and only if their graphs are isomorphic. We also provide an algorithm to retrieve the Cayley-Dickson parameters of an algebra from its graph.",
+    "content": "arXiv:2608.28163v1 Announce Type: new \nAbstract: We consider zero divisors of an arbitrary real Cayley-Dickson algebra such that their components are both standard basis elements. We construct inductively the orthogonality graph on these elements. Then we show that, if we restrict our attention to at least $16$-dimensional algebras, two algebras are isomorphic if and only if their graphs are isomorphic. We also provide an algorithm to retrieve the Cayley-Dickson parameters of an algebra from its graph.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Orthogonality graphs of real Cayley-Dickson algebras. Part I: Doubly alternative zero divisors and their hexagons",
+    "pubDate": "2026-08-31 04:00:00",
+    "link": "https://arxiv.org/abs/2608.28176",
+    "guid": "oai:arXiv.org:2608.28176v1",
+    "author": "Svetlana Zhilina",
+    "thumbnail": "",
+    "description": "arXiv:2608.28176v1 Announce Type: new \nAbstract: We study zero divisors whose components alternate strongly pairwise and construct oriented hexagons in the zero divisor graph of an arbitrary real Cayley-Dickson algebra. In case of the algebras of the main sequence, the zero divisor graph coincides with the orthogonality graph, and any hexagon can be extended to a double hexagon. We determine the multiplication table of the vertices of a double hexagon. Then we find a sufficient condition for three elements to generate an alternative subalgebra of an arbitrary Cayley-Dickson algebra. Finally, we consider those zero divisors whose components are both standard basis elements up to sign. We classify them and determine necessary and sufficient conditions under which two such elements are orthogonal.",
+    "content": "arXiv:2608.28176v1 Announce Type: new \nAbstract: We study zero divisors whose components alternate strongly pairwise and construct oriented hexagons in the zero divisor graph of an arbitrary real Cayley-Dickson algebra. In case of the algebras of the main sequence, the zero divisor graph coincides with the orthogonality graph, and any hexagon can be extended to a double hexagon. We determine the multiplication table of the vertices of a double hexagon. Then we find a sufficient condition for three elements to generate an alternative subalgebra of an arbitrary Cayley-Dickson algebra. Finally, we consider those zero divisors whose components are both standard basis elements up to sign. We classify them and determine necessary and sufficient conditions under which two such elements are orthogonal.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On Locally Finite Derivations in Ore Extensions",
+    "pubDate": "2026-08-31 04:00:00",
+    "link": "https://arxiv.org/abs/2608.28257",
+    "guid": "oai:arXiv.org:2608.28257v1",
+    "author": "R. Baltazar, A. Bianchi, M. Veloso, J. Schwarz",
+    "thumbnail": "",
+    "description": "arXiv:2608.28257v1 Announce Type: new \nAbstract: Let $\\Bbbk$ be an algebraically closed field of characteristic zero. We classify the locally finite derivations of arbitrary Ore extensions of $\\Bbbk[x]$, thus extending van den Essen's \\cite{V92} classification for the polynomial algebra $\\Bbbk[x,y]$ to this noncommutative setting. More precisely, we consider the three families arising in the classification of Ore extensions of $\\Bbbk[x]$: the quantum plane, the first quantum Weyl algebra, and the differential Ore extensions \\[ A_h=\\Bbbk[x][t;h(x)\\partial_x]. \\]\n  For both the quantum plane and the first quantum Weyl algebra, we determine the locally finite derivations and explain how the resulting classifications are related to the work of Su\\'arez-Alvarez and Vivas \\cite{SuarezVivas} on generalized Weyl algebras. For the algebras $A_h$, with $h$ nonconstant, we obtain a complete classification in both the square-free and non-square-free cases. As a consequence, we show that $\\LFD(A_h)$ is a solvable and weakly locally finite Lie subalgebra of $\\Der(A_h)$, although it is not locally finite as a set of derivations.",
+    "content": "arXiv:2608.28257v1 Announce Type: new \nAbstract: Let $\\Bbbk$ be an algebraically closed field of characteristic zero. We classify the locally finite derivations of arbitrary Ore extensions of $\\Bbbk[x]$, thus extending van den Essen's \\cite{V92} classification for the polynomial algebra $\\Bbbk[x,y]$ to this noncommutative setting. More precisely, we consider the three families arising in the classification of Ore extensions of $\\Bbbk[x]$: the quantum plane, the first quantum Weyl algebra, and the differential Ore extensions \\[ A_h=\\Bbbk[x][t;h(x)\\partial_x]. \\]\n  For both the quantum plane and the first quantum Weyl algebra, we determine the locally finite derivations and explain how the resulting classifications are related to the work of Su\\'arez-Alvarez and Vivas \\cite{SuarezVivas} on generalized Weyl algebras. For the algebras $A_h$, with $h$ nonconstant, we obtain a complete classification in both the square-free and non-square-free cases. As a consequence, we show that $\\LFD(A_h)$ is a solvable and weakly locally finite Lie subalgebra of $\\Der(A_h)$, although it is not locally finite as a set of derivations.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Acyclic and totally acyclic objects in the $Q$-shaped derived category",
+    "pubDate": "2026-08-31 04:00:00",
+    "link": "https://arxiv.org/abs/2608.27660",
+    "guid": "oai:arXiv.org:2608.27660v1",
+    "author": "Henrik Holm, Peter Jorgensen",
+    "thumbnail": "",
+    "description": "arXiv:2608.27660v1 Announce Type: cross \nAbstract: This paper concerns homological algebra based on $Q$-shaped diagrams, where $Q$ belongs to a certain class of small categories. We will show that the Gorenstein property of noetherian commutative rings is characterised by the condition that acyclicity coincides with total acyclicity for $Q$-shaped diagrams of suitable classes of modules. Many special cases occur as corollaries, for instance $N$-complexes.\n  This generalises a classic result by Iyengar and Krause to the programme of $Q$-shaped derived categories, which builds on an insight of Iyama and Minamoto.\n  We prove our result using an adjoint triple of functors relating $Q$-shaped diagrams to chain complexes. One of the functors was introduced by Jasso, and the whole triple generalises the compression, cocompression, and expansion functors for differential modules introduced by Avramov, Buchweitz, and Iyengar and by Nkansah.\n  We consider the adjoint triple to be the main contribution of this paper.",
+    "content": "arXiv:2608.27660v1 Announce Type: cross \nAbstract: This paper concerns homological algebra based on $Q$-shaped diagrams, where $Q$ belongs to a certain class of small categories. We will show that the Gorenstein property of noetherian commutative rings is characterised by the condition that acyclicity coincides with total acyclicity for $Q$-shaped diagrams of suitable classes of modules. Many special cases occur as corollaries, for instance $N$-complexes.\n  This generalises a classic result by Iyengar and Krause to the programme of $Q$-shaped derived categories, which builds on an insight of Iyama and Minamoto.\n  We prove our result using an adjoint triple of functors relating $Q$-shaped diagrams to chain complexes. One of the functors was introduced by Jasso, and the whole triple generalises the compression, cocompression, and expansion functors for differential modules introduced by Avramov, Buchweitz, and Iyengar and by Nkansah.\n  We consider the adjoint triple to be the main contribution of this paper.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Self-Orthogonal $\\tau$-Tilting Modules and Tilting Modules II: Annihilator Separation",
+    "pubDate": "2026-08-31 04:00:00",
+    "link": "https://arxiv.org/abs/2608.27937",
+    "guid": "oai:arXiv.org:2608.27937v1",
+    "author": "Xiaojin Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2608.27937v1 Announce Type: cross \nAbstract: Let $A$ be an Artin algebra and let $T$ be a self-orthogonal $\\tau$-tilting right $A$-module. Set $I=\\Ann_A(T)$. We prove that \\[\n  \\Hom_A(I,T)=0=\\Ext_A^n(I,T)\\qquad(n\\geq 1). \\] It follows that the torsion class generated by $I$ is Hom-orthogonal to $\\Sub T$. This separation yields faithfulness criteria expressed through ideal tops, socles, and projective supports. We also prove a finitistic-dimension obstruction: if $B=\\End_A(T)^{\\rm op}$ has finite little finitistic dimension, then $\\Fac T\\cap{}^{\\perp_{\\geq0}}T=\\{0\\}$. As an application, the self-orthogonal $\\tau$-tilting conjecture holds for radical square zero Artin algebras. Finally, the support criteria apply to semisimple-source triangular matrix algebras with arbitrary local terminal blocks.",
+    "content": "arXiv:2608.27937v1 Announce Type: cross \nAbstract: Let $A$ be an Artin algebra and let $T$ be a self-orthogonal $\\tau$-tilting right $A$-module. Set $I=\\Ann_A(T)$. We prove that \\[\n  \\Hom_A(I,T)=0=\\Ext_A^n(I,T)\\qquad(n\\geq 1). \\] It follows that the torsion class generated by $I$ is Hom-orthogonal to $\\Sub T$. This separation yields faithfulness criteria expressed through ideal tops, socles, and projective supports. We also prove a finitistic-dimension obstruction: if $B=\\End_A(T)^{\\rm op}$ has finite little finitistic dimension, then $\\Fac T\\cap{}^{\\perp_{\\geq0}}T=\\{0\\}$. As an application, the self-orthogonal $\\tau$-tilting conjecture holds for radical square zero Artin algebras. Finally, the support criteria apply to semisimple-source triangular matrix algebras with arbitrary local terminal blocks.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "An algebraic proof of Colombo's difference-power determinant conjecture",
+    "pubDate": "2026-08-31 04:00:00",
+    "link": "https://arxiv.org/abs/2608.28274",
+    "guid": "oai:arXiv.org:2608.28274v1",
+    "author": "Kun Li, Li Tie, Peng Wang, Zihan Liu",
+    "thumbnail": "",
+    "description": "arXiv:2608.28274v1 Announce Type: cross \nAbstract: Let $n\\ge2$ be even, let $\\lambda=(\\lambda_1,\\ldots,\\lambda_n)\\in\\mathbb{R}^n$ have pairwise distinct coordinates, and define the difference-power matrix \\[ A_d(\\lambda) := \\bigl[(\\lambda_r-\\lambda_s)^d\\bigr]_{r,s=1}^n, \\qquad d\\in\\mathbb{N}. \\] In 1928, Colombo proved that $\\det A_{n-1}(\\lambda)\\ne0$---and hence $\\det A_{n-1}(\\lambda)&gt;0$---and that $\\operatorname{rank} A_d(\\lambda)=d+1$ for $0\\le d<n-1 he conjectured that a_d every d n-1. for even the nonsingularity follows from previously published results on distance-power matrices. remaining open cases were therefore supercritical odd exponents n we prove all these thereby completing colombo conjecture. consequently our proof converts a hypothetical kernel vector into real binary form having more projective linear factors counted with multiplicity than its waring length permits.></n-1>\n",
+    "content": "arXiv:2608.28274v1 Announce Type: cross \nAbstract: Let $n\\ge2$ be even, let $\\lambda=(\\lambda_1,\\ldots,\\lambda_n)\\in\\mathbb{R}^n$ have pairwise distinct coordinates, and define the difference-power matrix \\[ A_d(\\lambda) := \\bigl[(\\lambda_r-\\lambda_s)^d\\bigr]_{r,s=1}^n, \\qquad d\\in\\mathbb{N}. \\] In 1928, Colombo proved that $\\det A_{n-1}(\\lambda)\\ne0$---and hence $\\det A_{n-1}(\\lambda)&gt;0$---and that $\\operatorname{rank} A_d(\\lambda)=d+1$ for $0\\le d<n-1 he conjectured that a_d every d n-1. for even the nonsingularity follows from previously published results on distance-power matrices. remaining open cases were therefore supercritical odd exponents n we prove all these thereby completing colombo conjecture. consequently our proof converts a hypothetical kernel vector into real binary form having more projective linear factors counted with multiplicity than its waring length permits.></n-1>\n",
+    "enclosure": {},
+    "categories": [
+      "cs.LG",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Weak isotropy of central simple algebras with orthogonal involutions over totally positive field extensions",
+    "pubDate": "2026-08-31 04:00:00",
+    "link": "https://arxiv.org/abs/2503.03366",
+    "guid": "oai:arXiv.org:2503.03366v2",
+    "author": "Priyabrata Mandal, Abhay Soman",
+    "thumbnail": "",
+    "description": "arXiv:2503.03366v2 Announce Type: replace \nAbstract: In this paper, we explore the behavior of orthogonal involutions in the context of totally positive field extensions. Let $K/F$ be a totally positive extension of formally real fields. By Becher's result, if a quadratic form $q$ over $F$ becomes isotropic over $K$, then $q$ is weakly isotropic over $F$. We present an example in which, despite $K/F$ being totally positive, a central simple algebra $(A,\\sigma)$ over $F$ with an orthogonal involution becomes isotropic over $K$, while remaining strongly isotropic over $F$. However, when $K/F$ is assumed to be a Galois totally positive $2$-extension of formally real fields, we show that an analogue of Becher's result for quadratic forms holds for orthogonal involutions. Furthermore, for a totally positive Galois field extension $K/F$, we verify Becher's conjecture for central division algebras of index $2^n$ and exponent $2$ containing a subfield of $F_{py}$ of degree $2^{n-2}$ over $F$.",
+    "content": "arXiv:2503.03366v2 Announce Type: replace \nAbstract: In this paper, we explore the behavior of orthogonal involutions in the context of totally positive field extensions. Let $K/F$ be a totally positive extension of formally real fields. By Becher's result, if a quadratic form $q$ over $F$ becomes isotropic over $K$, then $q$ is weakly isotropic over $F$. We present an example in which, despite $K/F$ being totally positive, a central simple algebra $(A,\\sigma)$ over $F$ with an orthogonal involution becomes isotropic over $K$, while remaining strongly isotropic over $F$. However, when $K/F$ is assumed to be a Galois totally positive $2$-extension of formally real fields, we show that an analogue of Becher's result for quadratic forms holds for orthogonal involutions. Furthermore, for a totally positive Galois field extension $K/F$, we verify Becher's conjecture for central division algebras of index $2^n$ and exponent $2$ containing a subfield of $F_{py}$ of degree $2^{n-2}$ over $F$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Singular ideals over arbitrary fields for the cyclic-headed snakes",
+    "pubDate": "2026-08-31 04:00:00",
+    "link": "https://arxiv.org/abs/2506.19254",
+    "guid": "oai:arXiv.org:2506.19254v2",
+    "author": "Ramla Abdellatif, Lisa Orloff Clark, Roy Jansen, Stephen Marsland",
+    "thumbnail": "",
+    "description": "arXiv:2506.19254v2 Announce Type: replace \nAbstract: We study the Steinberg algebras with coefficients in an arbitrary field K for the cyclic-headed snake groupoids, which are basic examples of non-Hausdorff groupoids. We are particularly interested in elements of this algebra that are no longer continuous, known as singular functions. These functions form an ideal, which may contain proper subsets that are themselves ideals of the Steinberg algebra. We provide three conditions under which such 'proper subset' ideals exist: first, when the number of heads of the snake divides the characteristic of the base field; second, when the base field is of non-prime characteristic; and third, when certain cyclotomic polynomials split over the base field. We also show the existence of many further subset ideals not covered by these conditions.\n  We fully explore the cases of the two- and three-headed snakes. In the three-headed snake, we prove that the ideal of singular functions properly contains non-zero ideals of the Steinberg algebra if, and only if, the base field K is a splitting field of x^2 + x + 1, the third cyclotomic polynomial. Consequently, there are always proper subset ideals when K has characteristic a prime not congruent to -1 mod 3.",
+    "content": "arXiv:2506.19254v2 Announce Type: replace \nAbstract: We study the Steinberg algebras with coefficients in an arbitrary field K for the cyclic-headed snake groupoids, which are basic examples of non-Hausdorff groupoids. We are particularly interested in elements of this algebra that are no longer continuous, known as singular functions. These functions form an ideal, which may contain proper subsets that are themselves ideals of the Steinberg algebra. We provide three conditions under which such 'proper subset' ideals exist: first, when the number of heads of the snake divides the characteristic of the base field; second, when the base field is of non-prime characteristic; and third, when certain cyclotomic polynomials split over the base field. We also show the existence of many further subset ideals not covered by these conditions.\n  We fully explore the cases of the two- and three-headed snakes. In the three-headed snake, we prove that the ideal of singular functions properly contains non-zero ideals of the Steinberg algebra if, and only if, the base field K is a splitting field of x^2 + x + 1, the third cyclotomic polynomial. Consequently, there are always proper subset ideals when K has characteristic a prime not congruent to -1 mod 3.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.NT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Quantales as formal concept lattices",
     "pubDate": "2026-08-28 04:00:00",
     "link": "https://arxiv.org/abs/2608.26631",
