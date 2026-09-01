@@ -1,5 +1,161 @@
 [
   {
+    "title": "A Two-Dimensional Counterexample to Radical Equality in Primitive Axial Algebras",
+    "pubDate": "2026-09-01 04:00:00",
+    "link": "https://arxiv.org/abs/2608.28653",
+    "guid": "oai:arXiv.org:2608.28653v1",
+    "author": "Bo Peng",
+    "thumbnail": "",
+    "description": "arXiv:2608.28653v1 Announce Type: new \nAbstract: Let $R(A,X)$ denote the largest ideal of a primitive axial algebra $(A,X)$ that contains no axis from the specified generating set $X$, and let $J(A)$ be the intersection of the maximal ideals of $A$. Mamontov, Shpectorov, and Zhelyabin asked whether $R(A,X)=J(A)$ always holds. We give a negative answer. Over every field of characteristic different from $2$, the two-dimensional commutative algebra with basis $a,b$ and multiplication $a^2=a$, $ab=2b$, and $b^2=b$ is a primitive axial algebra for an explicit fusion law and the generating set $X={a,b}$. Its complete ideal lattice is $0",
+    "content": "arXiv:2608.28653v1 Announce Type: new \nAbstract: Let $R(A,X)$ denote the largest ideal of a primitive axial algebra $(A,X)$ that contains no axis from the specified generating set $X$, and let $J(A)$ be the intersection of the maximal ideals of $A$. Mamontov, Shpectorov, and Zhelyabin asked whether $R(A,X)=J(A)$ always holds. We give a negative answer. Over every field of characteristic different from $2$, the two-dimensional commutative algebra with basis $a,b$ and multiplication $a^2=a$, $ab=2b$, and $b^2=b$ is a primitive axial algebra for an explicit fusion law and the generating set $X={a,b}$. Its complete ideal lattice is $0",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Type of homomorphisms of complex tori",
+    "pubDate": "2026-09-01 04:00:00",
+    "link": "https://arxiv.org/abs/2608.28655",
+    "guid": "oai:arXiv.org:2608.28655v1",
+    "author": "Juliana Coelho",
+    "thumbnail": "",
+    "description": "arXiv:2608.28655v1 Announce Type: new \nAbstract: Using determinantal divisors of integral matrices, that is, greatest common divisors of minors of fixed order, we introduce the notion of type of a homomorphism $f$ of complex tori, which is similar to the type of a polarization. We show that the type is invariant under composition with isomorphisms, and that it completely describes the kernel of $f$ as a group. More precisely, the quotient of the kernel by its connected component containing 0 is a product of cyclic groups whose orders are determined by the type of $f$. Since the type can be computed from any rational representation of $f$, this gives an effective way to determine the kernel of a homomorphism. As a consequence, we compute the classic invariants degree and exponent of $f$, when $f$ has finite kernel. When $f$ is an isogeny, we also compute the type of its inverse isogeny from that of $f$. Finally, we compare the type of a polarization to the type of its associated isogeny.",
+    "content": "arXiv:2608.28655v1 Announce Type: new \nAbstract: Using determinantal divisors of integral matrices, that is, greatest common divisors of minors of fixed order, we introduce the notion of type of a homomorphism $f$ of complex tori, which is similar to the type of a polarization. We show that the type is invariant under composition with isomorphisms, and that it completely describes the kernel of $f$ as a group. More precisely, the quotient of the kernel by its connected component containing 0 is a product of cyclic groups whose orders are determined by the type of $f$. Since the type can be computed from any rational representation of $f$, this gives an effective way to determine the kernel of a homomorphism. As a consequence, we compute the classic invariants degree and exponent of $f$, when $f$ has finite kernel. When $f$ is an isogeny, we also compute the type of its inverse isogeny from that of $f$. Finally, we compare the type of a polarization to the type of its associated isogeny.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AG"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Laws for triangular matrices",
+    "pubDate": "2026-09-01 04:00:00",
+    "link": "https://arxiv.org/abs/2608.28657",
+    "guid": "oai:arXiv.org:2608.28657v1",
+    "author": "Xun Hu, Yanfeng Luo, Mikhail Volkov",
+    "thumbnail": "",
+    "description": "arXiv:2608.28657v1 Announce Type: new \nAbstract: We investigate identities satisfied by monoids of triangular matrices over fields and over additively idempotent semirings with 0 and 1, and exhibit several new instances in which these identities admit no finite axiomatization.",
+    "content": "arXiv:2608.28657v1 Announce Type: new \nAbstract: We investigate identities satisfied by monoids of triangular matrices over fields and over additively idempotent semirings with 0 and 1, and exhibit several new instances in which these identities admit no finite axiomatization.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GR",
+      "math.LO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Corrigendum to \"A Characterization of the Unit Group in Z[T x C_2]\"",
+    "pubDate": "2026-09-01 04:00:00",
+    "link": "https://arxiv.org/abs/2608.28682",
+    "guid": "oai:arXiv.org:2608.28682v1",
+    "author": "Richard M. Low",
+    "thumbnail": "",
+    "description": "arXiv:2608.28682v1 Announce Type: new \nAbstract: We correct Lemma 3.6 and Theorem 3.7 of T.~Bilgin, O.~Kusmus, and R.~M.~Low, \\emph{A Characterization of the Unit Group in $\\mathbb Z[T\\times C_2]$}, Bull.\\ Korean Math.\\ Soc.\\ \\textbf{53} (2016), no. 4, 1105-1112. In particular, the corrected statement of Theorem 3.7 is that $U_1\\bigl(\\Z[T\\times C_2]\\bigr)\n  \\cong\n  [F_{33}\\rtimes F_5]\\rtimes[T\\times C_2]. $",
+    "content": "arXiv:2608.28682v1 Announce Type: new \nAbstract: We correct Lemma 3.6 and Theorem 3.7 of T.~Bilgin, O.~Kusmus, and R.~M.~Low, \\emph{A Characterization of the Unit Group in $\\mathbb Z[T\\times C_2]$}, Bull.\\ Korean Math.\\ Soc.\\ \\textbf{53} (2016), no. 4, 1105-1112. In particular, the corrected statement of Theorem 3.7 is that $U_1\\bigl(\\Z[T\\times C_2]\\bigr)\n  \\cong\n  [F_{33}\\rtimes F_5]\\rtimes[T\\times C_2]. $",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GR"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Classification of Novikov-Poisson Algebras and Their Applications",
+    "pubDate": "2026-09-01 04:00:00",
+    "link": "https://arxiv.org/abs/2608.28686",
+    "guid": "oai:arXiv.org:2608.28686v1",
+    "author": "Ziyi Zhang, Zeyu Hao, Yining Sun, Liangyun Chen",
+    "thumbnail": "",
+    "description": "arXiv:2608.28686v1 Announce Type: new \nAbstract: In this paper, we give a complete classification, up to isomorphism, of 3-dimensional complex Novikov--Poisson algebras. As an application of the classification, we further prove that every 3-dimensional complex transposed Poisson algebra can be obtained from a Novikov--Poisson algebra except the Lie algebra $\\mathfrak{sl}_2(\\mathbb C)$. Consequently, Sartayev's conjecture holds in dimension 3, that is, every 3-dimensional complex transposed Poisson algebra is special when regarded as a GD algebra.",
+    "content": "arXiv:2608.28686v1 Announce Type: new \nAbstract: In this paper, we give a complete classification, up to isomorphism, of 3-dimensional complex Novikov--Poisson algebras. As an application of the classification, we further prove that every 3-dimensional complex transposed Poisson algebra can be obtained from a Novikov--Poisson algebra except the Lie algebra $\\mathfrak{sl}_2(\\mathbb C)$. Consequently, Sartayev's conjecture holds in dimension 3, that is, every 3-dimensional complex transposed Poisson algebra is special when regarded as a GD algebra.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Graded Identities of the Virasoro Algebra",
+    "pubDate": "2026-09-01 04:00:00",
+    "link": "https://arxiv.org/abs/2608.28721",
+    "guid": "oai:arXiv.org:2608.28721v1",
+    "author": "Fabio Ferrari Ruffino",
+    "thumbnail": "",
+    "description": "arXiv:2608.28721v1 Announce Type: new \nAbstract: We study the graded polynomial identities satisfied by the Virasoro algebra over an infinite field, completing the analysis realised by C. Fidelis, D. Diniz, and P. Koshlukov [Z-graded identities of the Virasoro Algebra, Journal of Algebra 640 (2024), 401-431].",
+    "content": "arXiv:2608.28721v1 Announce Type: new \nAbstract: We study the graded polynomial identities satisfied by the Virasoro algebra over an infinite field, completing the analysis realised by C. Fidelis, D. Diniz, and P. Koshlukov [Z-graded identities of the Virasoro Algebra, Journal of Algebra 640 (2024), 401-431].",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Spaces of triangularizable matrices (III): Perfect non-quadratically closed fields with characteristic $2$",
+    "pubDate": "2026-09-01 04:00:00",
+    "link": "https://arxiv.org/abs/2608.28863",
+    "guid": "oai:arXiv.org:2608.28863v1",
+    "author": "Cl\\'ement de Seguins Pazzis",
+    "thumbnail": "",
+    "description": "arXiv:2608.28863v1 Announce Type: new \nAbstract: Given a field $\\mathbb{F}$ and an integer $n \\geq 2$, denote by $t_n(\\mathbb{F})$ the greatest possible dimension for a vector space of $n$-by-$n$ matrices over $\\mathbb{F}$ in which every element is triangularizable. It was recently proved that $t_n(\\mathbb{F})=\\frac{n(n+1)}{2}$ if and only if $\\mathbb{F}$ is not quadratically closed, with the possible exception of finite fields with characteristic $2$ and less than $n-1$ elements.\n  In this article, we prove that the equality $t_n(\\mathbb{F})=\\frac{n(n+1)}{2}$ holds for all perfect non-quadratically closed fields with characteristic $2$ -- with the possible exception of fields with cardinality $2$ -- and for these fields we obtain a key result for a future analysis of the spaces that have the critical dimension $t_n(\\mathbb{F})$.",
+    "content": "arXiv:2608.28863v1 Announce Type: new \nAbstract: Given a field $\\mathbb{F}$ and an integer $n \\geq 2$, denote by $t_n(\\mathbb{F})$ the greatest possible dimension for a vector space of $n$-by-$n$ matrices over $\\mathbb{F}$ in which every element is triangularizable. It was recently proved that $t_n(\\mathbb{F})=\\frac{n(n+1)}{2}$ if and only if $\\mathbb{F}$ is not quadratically closed, with the possible exception of finite fields with characteristic $2$ and less than $n-1$ elements.\n  In this article, we prove that the equality $t_n(\\mathbb{F})=\\frac{n(n+1)}{2}$ holds for all perfect non-quadratically closed fields with characteristic $2$ -- with the possible exception of fields with cardinality $2$ -- and for these fields we obtain a key result for a future analysis of the spaces that have the critical dimension $t_n(\\mathbb{F})$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The ozone groups of the algebras $B_q(f)$",
+    "pubDate": "2026-09-01 04:00:00",
+    "link": "https://arxiv.org/abs/2608.28868",
+    "guid": "oai:arXiv.org:2608.28868v1",
+    "author": "James G\\'omez, Helbert Venegas",
+    "thumbnail": "",
+    "description": "arXiv:2608.28868v1 Announce Type: new \nAbstract: Let $q$ be a primitive $n$-th root of unity, $n&gt;1$, and let $f$ be a nonzero polynomial such that $n\\nmid(j+1)$ for every $j\\in\\supp(f)$. Set $e=\\gcd(n,\\{j+1:j\\in\\supp(f)\\})$. We show that $\\Oz(B_q(f))\\cong\\mu_e\\times\\mu_e$: the defining relations are homogeneous for a $\\mathbb{Z}/e\\times\\mathbb{Z}/e$ grading, the center sits in degree zero, and the ozone group is the character group of that grading. The determination of the ozone group only requires the central elements $u^n$, $v^n$, and $\\Omega$. The regular normal elements modulo the center form the same group, generated by $u^{n/e}$ and $v^{n/e}$, so every normal element is central exactly when $e=1$. For $f=t^2$ we recover a computation of Chan, Gaddis, Won and Zhang, and for $e&gt;1$ we obtain an infinite family of Calabi--Yau algebras with nontrivial ozone group.",
+    "content": "arXiv:2608.28868v1 Announce Type: new \nAbstract: Let $q$ be a primitive $n$-th root of unity, $n&gt;1$, and let $f$ be a nonzero polynomial such that $n\\nmid(j+1)$ for every $j\\in\\supp(f)$. Set $e=\\gcd(n,\\{j+1:j\\in\\supp(f)\\})$. We show that $\\Oz(B_q(f))\\cong\\mu_e\\times\\mu_e$: the defining relations are homogeneous for a $\\mathbb{Z}/e\\times\\mathbb{Z}/e$ grading, the center sits in degree zero, and the ozone group is the character group of that grading. The determination of the ozone group only requires the central elements $u^n$, $v^n$, and $\\Omega$. The regular normal elements modulo the center form the same group, generated by $u^{n/e}$ and $v^{n/e}$, so every normal element is central exactly when $e=1$. For $f=t^2$ we recover a computation of Chan, Gaddis, Won and Zhang, and for $e&gt;1$ we obtain an infinite family of Calabi--Yau algebras with nontrivial ozone group.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Degree-shifted derived invariance of derived delooping levels",
+    "pubDate": "2026-09-01 04:00:00",
+    "link": "https://arxiv.org/abs/2608.29634",
+    "guid": "oai:arXiv.org:2608.29634v1",
+    "author": "Jiaqun Wei, Kaili Wu, Weiqing Cao",
+    "thumbnail": "",
+    "description": "arXiv:2608.29634v1 Announce Type: new \nAbstract: G\\'elinas introduced the delooping level of an Artin algebra as a homological invariant that bounds the big finitistic dimension of the opposite algebra. A natural question is whether such invariants are preserved under derived equivalences. Chen recently showed that the finiteness of the classical delooping level and its sub-derived variant is not derived-invariant, but the case of the finer derived delooping level of Guo and Igusa remained open. In this paper, we prove that the finiteness of the derived delooping level is \\emph{degree-shift invariant} under derived equivalences: if two algebras are derived equivalent via a tilting complex of width $k_T$, then finiteness of the $(k+k_T)$-derived delooping level on one side implies finiteness of the $k$-derived delooping level on the other. Consequently, the finiteness of the derived $\\infty$-delooping level is invariant under derived equivalences. Furthermore, we introduce the global derived delooping level and prove that, under a derived equivalence, its $\\infty$-version changes by at most $k_T$. In particular, its finiteness is a derived invariant.",
+    "content": "arXiv:2608.29634v1 Announce Type: new \nAbstract: G\\'elinas introduced the delooping level of an Artin algebra as a homological invariant that bounds the big finitistic dimension of the opposite algebra. A natural question is whether such invariants are preserved under derived equivalences. Chen recently showed that the finiteness of the classical delooping level and its sub-derived variant is not derived-invariant, but the case of the finer derived delooping level of Guo and Igusa remained open. In this paper, we prove that the finiteness of the derived delooping level is \\emph{degree-shift invariant} under derived equivalences: if two algebras are derived equivalent via a tilting complex of width $k_T$, then finiteness of the $(k+k_T)$-derived delooping level on one side implies finiteness of the $k$-derived delooping level on the other. Consequently, the finiteness of the derived $\\infty$-delooping level is invariant under derived equivalences. Furthermore, we introduce the global derived delooping level and prove that, under a derived equivalence, its $\\infty$-version changes by at most $k_T$. In particular, its finiteness is a derived invariant.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Deformations and the controlling $L_{\\infty}$-structure of extended Rota-Baxter Lie algebras",
+    "pubDate": "2026-09-01 04:00:00",
+    "link": "https://arxiv.org/abs/2608.29829",
+    "guid": "oai:arXiv.org:2608.29829v1",
+    "author": "Jian Yang",
+    "thumbnail": "",
+    "description": "arXiv:2608.29829v1 Announce Type: new \nAbstract: In this paper, we introduce the controlling $L_{\\infty}[1]$-algebra of extended Rota-Baxter Lie algebras. As applications, we obtain the cohomology of extended Rota-Baxter Lie algebras. We also study abelian extensions and formal deformations by the lower cohomology group. Lastly, we get the notion of homotopy extended Rota-Baxter Lie algebras.\n  Specifically, we present the controlling $L_{\\infty}[1]$-algebra of modified Rota-Baxter Lie algebras and of Rota-Baxter Lie algebras with weight.",
+    "content": "arXiv:2608.29829v1 Announce Type: new \nAbstract: In this paper, we introduce the controlling $L_{\\infty}[1]$-algebra of extended Rota-Baxter Lie algebras. As applications, we obtain the cohomology of extended Rota-Baxter Lie algebras. We also study abelian extensions and formal deformations by the lower cohomology group. Lastly, we get the notion of homotopy extended Rota-Baxter Lie algebras.\n  Specifically, we present the controlling $L_{\\infty}[1]$-algebra of modified Rota-Baxter Lie algebras and of Rota-Baxter Lie algebras with weight.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Integral Orders for the Okubo Algebra and Idempotent Geometries of the $E_8$ Lattice",
     "pubDate": "2026-08-31 04:00:00",
     "link": "https://arxiv.org/abs/2608.27762",
