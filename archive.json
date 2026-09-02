@@ -1,5 +1,165 @@
 [
   {
+    "title": "Integral coefficient rings and homological dimensions of algebras",
+    "pubDate": "2026-09-02 04:00:00",
+    "link": "https://arxiv.org/abs/2609.00143",
+    "guid": "oai:arXiv.org:2609.00143v1",
+    "author": "Yu-Zhe Liu",
+    "thumbnail": "",
+    "description": "arXiv:2609.00143v1 Announce Type: new \nAbstract: We define the integral profiles of all modules and introduce integral coefficient rings ${^{\\mathscr{P}}\\mkern-6.5mu\\text{\\&amp;}\\mkern-5.5mu{_\\mathscr{I}}}(A)$ for all finite-dimensional complex algebras $A$. The integral profile of a module is a matrix with parameters. We provide a classification theorem for modules, to be precise,\n  (1) two modules $M\\cong N$ are isomorphic if and only if their integral profiles are similar,\n  i.e., $M\\cong N$ if and only if $\\displaystyle \\int M \\sim \\int N$.\n  That is, the integral profile is a complete invariant of finite-dimensional modules. Furthermore, we show the following results in this paper:\n  (2) we introduce the central integrals of algebras and show that it is isomorphic to the center of algebras;\n  (3) we provide a descriptions for some special modules;\n  (4) integral coefficient ring of $A$ (with a compatible orthogonal fixed embedding system) has Morita invariance;\n  (5) the global dimension of $A$ is finite if and only if the embedded integral profile of $\\mathrm{top}(A)$ lies in ${^{\\mathscr{P}}\\mkern-6.5mu\\text{\\&amp;}\\mkern-5.5mu{_\\mathscr{I}}}(A)[x]$;\n  (6) the finitistic dimension of $A$ is finite if and only if each embedded integral profile of $M$ lying in ${^{\\mathscr{P}}\\mkern-6.5mu\\text{\\&amp;}\\mkern-5.5mu{_\\mathscr{I}}}(A)[x]$ implies that its degree is less than or equal to a fixing integer $d\\in\\mathbb{N}^+$.",
+    "content": "arXiv:2609.00143v1 Announce Type: new \nAbstract: We define the integral profiles of all modules and introduce integral coefficient rings ${^{\\mathscr{P}}\\mkern-6.5mu\\text{\\&amp;}\\mkern-5.5mu{_\\mathscr{I}}}(A)$ for all finite-dimensional complex algebras $A$. The integral profile of a module is a matrix with parameters. We provide a classification theorem for modules, to be precise,\n  (1) two modules $M\\cong N$ are isomorphic if and only if their integral profiles are similar,\n  i.e., $M\\cong N$ if and only if $\\displaystyle \\int M \\sim \\int N$.\n  That is, the integral profile is a complete invariant of finite-dimensional modules. Furthermore, we show the following results in this paper:\n  (2) we introduce the central integrals of algebras and show that it is isomorphic to the center of algebras;\n  (3) we provide a descriptions for some special modules;\n  (4) integral coefficient ring of $A$ (with a compatible orthogonal fixed embedding system) has Morita invariance;\n  (5) the global dimension of $A$ is finite if and only if the embedded integral profile of $\\mathrm{top}(A)$ lies in ${^{\\mathscr{P}}\\mkern-6.5mu\\text{\\&amp;}\\mkern-5.5mu{_\\mathscr{I}}}(A)[x]$;\n  (6) the finitistic dimension of $A$ is finite if and only if each embedded integral profile of $M$ lying in ${^{\\mathscr{P}}\\mkern-6.5mu\\text{\\&amp;}\\mkern-5.5mu{_\\mathscr{I}}}(A)[x]$ implies that its degree is less than or equal to a fixing integer $d\\in\\mathbb{N}^+$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CT",
+      "math.FA",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "An Algebraic Framework for Data Systems: Classification and Optimization of Algebraic Structures for Data Organization and Coding",
+    "pubDate": "2026-09-02 04:00:00",
+    "link": "https://arxiv.org/abs/2609.00273",
+    "guid": "oai:arXiv.org:2609.00273v1",
+    "author": "Kendy Inoa",
+    "thumbnail": "",
+    "description": "arXiv:2609.00273v1 Announce Type: new \nAbstract: Modern data systems are commonly studied through computational and information-theoretic methods, while their algebraic properties remain largely unexplored. This paper introduces a mathematical framework for modelling data systems using algebraic structures drawn from group theory and coding theory. The central result is an axiomatic classifier: the coding-theoretic capability of a finite algebraic structure (group, ring, or field) is shown to be determined by its axiom signature (the set of algebraic axioms it satisfies), with each axiom acting as a gate that enables a specific capability (inverses enable the algebraic Hamming metric; commutativity enables syndrome decoding via quotient groups; field structure enables MDS codes via polynomial evaluation). Three types of results are presented. Proved: the axiomatic classification theorem; that ACID transactions form a monoid under sequential composition (not a group); that schema-preserving transformations form a finite group whose orbits, counted by Burnside's lemma, yield exact deduplication of equivalent configurations; and that every integrity-preserving bijection of a data system defines an algebraizable equivalence class under a finite group action. Demonstrated: explicit code constructions over $\\mathbb{F}_5$, $\\mathbb{Z}_4$ (yielding codes inaccessible to classical $\\mathbb{F}_q$-linear theory), and $(2^U, \\triangle)$ (yielding group-theoretic anomaly detection for set-valued data). Proposed: an encoding efficiency measure Ef and an optimization functional $\\Phi$ with tunable weights, whose induced ranking is verified computationally to be consistent with the axiomatic classification for the structures studied.",
+    "content": "arXiv:2609.00273v1 Announce Type: new \nAbstract: Modern data systems are commonly studied through computational and information-theoretic methods, while their algebraic properties remain largely unexplored. This paper introduces a mathematical framework for modelling data systems using algebraic structures drawn from group theory and coding theory. The central result is an axiomatic classifier: the coding-theoretic capability of a finite algebraic structure (group, ring, or field) is shown to be determined by its axiom signature (the set of algebraic axioms it satisfies), with each axiom acting as a gate that enables a specific capability (inverses enable the algebraic Hamming metric; commutativity enables syndrome decoding via quotient groups; field structure enables MDS codes via polynomial evaluation). Three types of results are presented. Proved: the axiomatic classification theorem; that ACID transactions form a monoid under sequential composition (not a group); that schema-preserving transformations form a finite group whose orbits, counted by Burnside's lemma, yield exact deduplication of equivalent configurations; and that every integrity-preserving bijection of a data system defines an algebraizable equivalence class under a finite group action. Demonstrated: explicit code constructions over $\\mathbb{F}_5$, $\\mathbb{Z}_4$ (yielding codes inaccessible to classical $\\mathbb{F}_q$-linear theory), and $(2^U, \\triangle)$ (yielding group-theoretic anomaly detection for set-valued data). Proposed: an encoding efficiency measure Ef and an optimization functional $\\Phi$ with tunable weights, whose induced ranking is verified computationally to be consistent with the axiomatic classification for the structures studied.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "cs.IT",
+      "math.IT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Hopkins-Levitzki Type Theorems for Groupoid Graded Rings",
+    "pubDate": "2026-09-02 04:00:00",
+    "link": "https://arxiv.org/abs/2609.00305",
+    "guid": "oai:arXiv.org:2609.00305v1",
+    "author": "Zaqueu Cristiano, Wellington Marques de Souza, Javier S\\'anchez",
+    "thumbnail": "",
+    "description": "arXiv:2609.00305v1 Announce Type: new \nAbstract: We continue the study of the basic theory of object-unital groupoid graded rings. In this work, we are especially interested in nilpotency conditions on the graded Jacobson radical. We introduce the concept of left/right objectwise nilpotency of graded ideals, and prove that this condition is appropriate for obtaining graded generalizations of the Hopkins--Levitzki theorem. Although this condition is not symmetric, we show that its two-sided version is suitable for defining gr-semiprimary rings. It is known that one-sided $\\Gamma_0$-artinian rings need not be $\\Gamma_0$-noetherian, but using our tools we prove that one-sided gr-hereditary $\\Gamma_0$-artinian rings, two-sided $\\Gamma_0$-artinian rings, and $d$-finitely generated one-sided $\\Gamma_0$-artinian rings are $\\Gamma_0$-noetherian. However, the first class need not be gr-semiprimary, whereas the other two always are. We illustrate our results with several (counter)examples, especially involving graded upper triangular matrices.",
+    "content": "arXiv:2609.00305v1 Announce Type: new \nAbstract: We continue the study of the basic theory of object-unital groupoid graded rings. In this work, we are especially interested in nilpotency conditions on the graded Jacobson radical. We introduce the concept of left/right objectwise nilpotency of graded ideals, and prove that this condition is appropriate for obtaining graded generalizations of the Hopkins--Levitzki theorem. Although this condition is not symmetric, we show that its two-sided version is suitable for defining gr-semiprimary rings. It is known that one-sided $\\Gamma_0$-artinian rings need not be $\\Gamma_0$-noetherian, but using our tools we prove that one-sided gr-hereditary $\\Gamma_0$-artinian rings, two-sided $\\Gamma_0$-artinian rings, and $d$-finitely generated one-sided $\\Gamma_0$-artinian rings are $\\Gamma_0$-noetherian. However, the first class need not be gr-semiprimary, whereas the other two always are. We illustrate our results with several (counter)examples, especially involving graded upper triangular matrices.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CT",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Singular Cholesky Fibers over Finite Fields",
+    "pubDate": "2026-09-02 04:00:00",
+    "link": "https://arxiv.org/abs/2609.00533",
+    "guid": "oai:arXiv.org:2609.00533v1",
+    "author": "Hongfeng Wu, Kai Zhou",
+    "thumbnail": "",
+    "description": "arXiv:2609.00533v1 Announce Type: new \nAbstract: For a finite field $\\F_q$, consider the triangular Cholesky map $\\Gamma_{n,q}(U)=U^TU$ from upper triangular matrices to symmetric matrices. Generalized Cholesky theory describes the regular locus on which all leading principal minors are nonzero, but it does not determine the multiplicities or root ranks in a fiber over a singular target. We develop a fixed-target fiber theory for this singular boundary and answer three questions posed by Cooper and Whitlatch.\n  Our principal results concern the zero fiber. Over $\\F_2$ we construct an explicit, invertible, rank-preserving recursive bijection between square-zero upper triangular matrices and upper triangular matrices satisfying $U^TU=0$. Over every finite field we determine the entire rank distribution of this zero fiber: in even characteristic the square-zero recurrence, and hence the rank-refined equinumerosity, persists over every $\\F_{2^e}$, whereas in odd characteristic its failure is measured by an explicit quadratic-character correction. We place these results in a uniform framework by proving an exact first-pivot recursion for the fiber cardinality over an arbitrary symmetric target. Its regular specialization gives the constant fiber sizes on leading-principal-minor cones, while its zero-pivot branch explains the new singular behavior. For binary diagonal targets we further compress the rank-refined count to $O(n^2)$ integer-arithmetic transitions and show that it depends on the order, not merely the number, of the diagonal entries. Executable implementations and exhaustive low-order checks are collected in an appendix.",
+    "content": "arXiv:2609.00533v1 Announce Type: new \nAbstract: For a finite field $\\F_q$, consider the triangular Cholesky map $\\Gamma_{n,q}(U)=U^TU$ from upper triangular matrices to symmetric matrices. Generalized Cholesky theory describes the regular locus on which all leading principal minors are nonzero, but it does not determine the multiplicities or root ranks in a fiber over a singular target. We develop a fixed-target fiber theory for this singular boundary and answer three questions posed by Cooper and Whitlatch.\n  Our principal results concern the zero fiber. Over $\\F_2$ we construct an explicit, invertible, rank-preserving recursive bijection between square-zero upper triangular matrices and upper triangular matrices satisfying $U^TU=0$. Over every finite field we determine the entire rank distribution of this zero fiber: in even characteristic the square-zero recurrence, and hence the rank-refined equinumerosity, persists over every $\\F_{2^e}$, whereas in odd characteristic its failure is measured by an explicit quadratic-character correction. We place these results in a uniform framework by proving an exact first-pivot recursion for the fiber cardinality over an arbitrary symmetric target. Its regular specialization gives the constant fiber sizes on leading-principal-minor cones, while its zero-pivot branch explains the new singular behavior. For binary diagonal targets we further compress the rank-refined count to $O(n^2)$ integer-arithmetic transitions and show that it depends on the order, not merely the number, of the diagonal entries. Executable implementations and exhaustive low-order checks are collected in an appendix.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Homological aspects of n-trivial extensions of rings",
+    "pubDate": "2026-09-02 04:00:00",
+    "link": "https://arxiv.org/abs/2609.00855",
+    "guid": "oai:arXiv.org:2609.00855v1",
+    "author": "Lixin Mao",
+    "thumbnail": "",
+    "description": "arXiv:2609.00855v1 Announce Type: new \nAbstract: Let $R\\ltimes_{n}M$ be the $n$-trivial extension of a ring $R$ by an $R$-bimodule $M$. We first characterize projective, injective, flat and finitely generated modules over $R\\ltimes_{n}M$. Then we describe when the ring $R\\ltimes_{n}M$ is left perfect (Noetherian, coherent, Artinian, hereditary, Kasch). Finally, we establish some homological formulas of $n$-trivial extensions of rings.",
+    "content": "arXiv:2609.00855v1 Announce Type: new \nAbstract: Let $R\\ltimes_{n}M$ be the $n$-trivial extension of a ring $R$ by an $R$-bimodule $M$. We first characterize projective, injective, flat and finitely generated modules over $R\\ltimes_{n}M$. Then we describe when the ring $R\\ltimes_{n}M$ is left perfect (Noetherian, coherent, Artinian, hereditary, Kasch). Finally, we establish some homological formulas of $n$-trivial extensions of rings.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.KT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The injective envelope of simple modules over Leavitt path algebras I: simple left ideals",
+    "pubDate": "2026-09-02 04:00:00",
+    "link": "https://arxiv.org/abs/2609.00947",
+    "guid": "oai:arXiv.org:2609.00947v1",
+    "author": "G. Abrams, F. Mantese, A. Tonolo",
+    "thumbnail": "",
+    "description": "arXiv:2609.00947v1 Announce Type: new \nAbstract: Let $K$ be any field and $E$ any directed graph. We characterize up to isomorphism the simple (i.e., minimal) left ideals of the Leavitt path algebra $L_K(E)$. Then, for each simple %(i.e., minimal) left ideal $I$ of %the Leavitt path algebra $L_K(E)$, we explicitly construct the injective envelope of $I$. This result generalizes to all graphs $E$ and all simple left ideals in $L_K(E)$ the construction presented previously by the three authors for the specific case of the Jacobson algebra $R=K\\langle X,Y | XY=1\\rangle$ and the simple left $R$-ideal $R(1-YX)$. Our method involves defining an $L_K(E)$-module structure on a $K$-vector space of infinite series. We conclude the article by showing how our construction directly gives a description of the injective envelope of simple $L_K(E)$-modules arising from two types of infinite emitters in $E$.",
+    "content": "arXiv:2609.00947v1 Announce Type: new \nAbstract: Let $K$ be any field and $E$ any directed graph. We characterize up to isomorphism the simple (i.e., minimal) left ideals of the Leavitt path algebra $L_K(E)$. Then, for each simple %(i.e., minimal) left ideal $I$ of %the Leavitt path algebra $L_K(E)$, we explicitly construct the injective envelope of $I$. This result generalizes to all graphs $E$ and all simple left ideals in $L_K(E)$ the construction presented previously by the three authors for the specific case of the Jacobson algebra $R=K\\langle X,Y | XY=1\\rangle$ and the simple left $R$-ideal $R(1-YX)$. Our method involves defining an $L_K(E)$-module structure on a $K$-vector space of infinite series. We conclude the article by showing how our construction directly gives a description of the injective envelope of simple $L_K(E)$-modules arising from two types of infinite emitters in $E$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The injective envelope of simple modules over Leavitt path algebras II: simples arising from exclusive cycles",
+    "pubDate": "2026-09-02 04:00:00",
+    "link": "https://arxiv.org/abs/2609.00952",
+    "guid": "oai:arXiv.org:2609.00952v1",
+    "author": "G. Abrams, F. Mantese, A. Tonolo",
+    "thumbnail": "",
+    "description": "arXiv:2609.00952v1 Announce Type: new \nAbstract: Let $K$ be any field, $E$ any directed graph, and $L_K(E)$ the associated Leavitt path algebra. As described first by Chen, and subsequently generalized by Ara and Rangaswamy, for each cycle $c$ in $E$ one can build the simple left $L_K(E)$-module $V_c^E$, and then more generally $V_{p(x),c}^E$ (where $p(x)$ is an irreducible polynomial in $K[x,x^{-1}]$). A cycle $c$ is called {\\it exclusive} in case none of the vertices of $c$ is the base of any cycle other than $c$. In our main result we provide an explicit description of the injective envelope of $V_c^E$, and then more generally of $V_{p(x),c}^E$, for each exclusive cycle $c$. Our method involves defining an $L_K(E)$-module structure on an appropriately-built $K$-vector space of infinite series. Our main result significantly generalizes previous work of the authors, in that the result holds for all graphs (finite or not), and all exclusive cycles.",
+    "content": "arXiv:2609.00952v1 Announce Type: new \nAbstract: Let $K$ be any field, $E$ any directed graph, and $L_K(E)$ the associated Leavitt path algebra. As described first by Chen, and subsequently generalized by Ara and Rangaswamy, for each cycle $c$ in $E$ one can build the simple left $L_K(E)$-module $V_c^E$, and then more generally $V_{p(x),c}^E$ (where $p(x)$ is an irreducible polynomial in $K[x,x^{-1}]$). A cycle $c$ is called {\\it exclusive} in case none of the vertices of $c$ is the base of any cycle other than $c$. In our main result we provide an explicit description of the injective envelope of $V_c^E$, and then more generally of $V_{p(x),c}^E$, for each exclusive cycle $c$. Our method involves defining an $L_K(E)$-module structure on an appropriately-built $K$-vector space of infinite series. Our main result significantly generalizes previous work of the authors, in that the result holds for all graphs (finite or not), and all exclusive cycles.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Peirce Stability of Null Polynomials and a Sharp Radical Bound for Finite Rings",
+    "pubDate": "2026-09-02 04:00:00",
+    "link": "https://arxiv.org/abs/2609.01150",
+    "guid": "oai:arXiv.org:2609.01150v1",
+    "author": "Hongfeng Wu",
+    "thumbnail": "",
+    "description": "arXiv:2609.01150v1 Announce Type: new \nAbstract: Let $R$ be a finite associative ring with identity, and let $\\Nul(R)$ denote the set of polynomials in a central indeterminate that vanish identically on $R$ under right evaluation. We establish two results concerning the failure of $\\Nul(R)$ to be a right ideal. First, if $e$ is an idempotent, $f=1-e$, and either $eRf=0$ or $fRe=0$, then right multiplication by $e$ preserves $\\Nul(R)$. Thus both off-diagonal Peirce components must be nonzero whenever $e$ witnesses a failure of right stability. Second, if $J$ is a finite nilpotent ideal whose additive group is a $2$-group and $e,f$ are complementary idempotents such that \\[\n  eJf\\neq0,\\qquad fJe\\neq0,\\qquad J^3\\neq0, \\] then $|J|\\geq32$. Werner's theorem that $\\Jac(R)^3=0$ implies the two-sidedness of $\\Nul(R)$ therefore yields $|R|\\geq128$ whenever $\\Nul(R)$ is not two-sided. We also construct a tiled matrix ring of characteristic $4$ and order $128$ whose null ideal is not two-sided.",
+    "content": "arXiv:2609.01150v1 Announce Type: new \nAbstract: Let $R$ be a finite associative ring with identity, and let $\\Nul(R)$ denote the set of polynomials in a central indeterminate that vanish identically on $R$ under right evaluation. We establish two results concerning the failure of $\\Nul(R)$ to be a right ideal. First, if $e$ is an idempotent, $f=1-e$, and either $eRf=0$ or $fRe=0$, then right multiplication by $e$ preserves $\\Nul(R)$. Thus both off-diagonal Peirce components must be nonzero whenever $e$ witnesses a failure of right stability. Second, if $J$ is a finite nilpotent ideal whose additive group is a $2$-group and $e,f$ are complementary idempotents such that \\[\n  eJf\\neq0,\\qquad fJe\\neq0,\\qquad J^3\\neq0, \\] then $|J|\\geq32$. Werner's theorem that $\\Jac(R)^3=0$ implies the two-sidedness of $\\Nul(R)$ therefore yields $|R|\\geq128$ whenever $\\Nul(R)$ is not two-sided. We also construct a tiled matrix ring of characteristic $4$ and order $128$ whose null ideal is not two-sided.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Deformation theory and the controlling $L_{\\infty}$-structure of extended Rota-Baxter algebras",
+    "pubDate": "2026-09-02 04:00:00",
+    "link": "https://arxiv.org/abs/2609.01304",
+    "guid": "oai:arXiv.org:2609.01304v1",
+    "author": "Jian Yang",
+    "thumbnail": "",
+    "description": "arXiv:2609.01304v1 Announce Type: new \nAbstract: In this paper, we introduce the controlling $L_{\\infty}[1]$-algebra of extended Rota-Baxter algebras. As applications, we obtain the cohomology of extended Rota-Baxter algebras and homotopy extended Rota-Baxter algebras. We also study abelian extensions and formal deformations by the lower cohomology group. Lastly, we describe the intrinsic relationship among extended Rota-Baxter algebras, extended Rota-Baxter Lie algebras, and the eigenvalues of the extended Rota-Baxter operator.\n  As the generalization of Rota-Baxter algebras with weight and modified Rota-Baxter algebras, the corresponding results also hold for those algebras.",
+    "content": "arXiv:2609.01304v1 Announce Type: new \nAbstract: In this paper, we introduce the controlling $L_{\\infty}[1]$-algebra of extended Rota-Baxter algebras. As applications, we obtain the cohomology of extended Rota-Baxter algebras and homotopy extended Rota-Baxter algebras. We also study abelian extensions and formal deformations by the lower cohomology group. Lastly, we describe the intrinsic relationship among extended Rota-Baxter algebras, extended Rota-Baxter Lie algebras, and the eigenvalues of the extended Rota-Baxter operator.\n  As the generalization of Rota-Baxter algebras with weight and modified Rota-Baxter algebras, the corresponding results also hold for those algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Global representations of algebras with a near-unanimity term",
+    "pubDate": "2026-09-02 04:00:00",
+    "link": "https://arxiv.org/abs/2609.01445",
+    "guid": "oai:arXiv.org:2609.01445v1",
+    "author": "Miguel Campercholi",
+    "thumbnail": "",
+    "description": "arXiv:2609.01445v1 Announce Type: new \nAbstract: Global representations are subdirect representations satisfying a sheaf-like local-to-global patching principle. We develop a unified and simplified theory of such representations. For quasivarieties with a near-unanimity term, this framework recovers the main classical representation theorems through a common argument and yields a general representation by factors of bounded subdirect width. When the relatively subdirectly irreducible members form a universal class, we obtain an optimal result: every relatively congruence-distributive algebra admits a global representation by relatively globally indecomposable factors, which we characterize explicitly. We also provide a converse: global representations by factors of bounded relative subdirect width force the existence of a near-unanimity term.\n  Adding semisimplicity to the hypotheses of the main theorem yields optimal representation results for filtral quasivarieties and dual discriminator varieties, together with a simple description of the globally indecomposable algebras.\n  The technical engine behind these results is a new infinitary extension of the congruence-system component of the Baker--Pixley theorem.",
+    "content": "arXiv:2609.01445v1 Announce Type: new \nAbstract: Global representations are subdirect representations satisfying a sheaf-like local-to-global patching principle. We develop a unified and simplified theory of such representations. For quasivarieties with a near-unanimity term, this framework recovers the main classical representation theorems through a common argument and yields a general representation by factors of bounded subdirect width. When the relatively subdirectly irreducible members form a universal class, we obtain an optimal result: every relatively congruence-distributive algebra admits a global representation by relatively globally indecomposable factors, which we characterize explicitly. We also provide a converse: global representations by factors of bounded relative subdirect width force the existence of a near-unanimity term.\n  Adding semisimplicity to the hypotheses of the main theorem yields optimal representation results for filtral quasivarieties and dual discriminator varieties, together with a simple description of the globally indecomposable algebras.\n  The technical engine behind these results is a new infinitary extension of the congruence-system component of the Baker--Pixley theorem.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.LO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "A Two-Dimensional Counterexample to Radical Equality in Primitive Axial Algebras",
     "pubDate": "2026-09-01 04:00:00",
     "link": "https://arxiv.org/abs/2608.28653",
