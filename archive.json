@@ -1,5 +1,164 @@
 [
   {
+    "title": "Extremal Rota-Baxter operators on matrix algebras",
+    "pubDate": "2026-09-09 04:00:00",
+    "link": "https://arxiv.org/abs/2609.05647",
+    "guid": "oai:arXiv.org:2609.05647v1",
+    "author": "Vsevolod Gubarev",
+    "thumbnail": "",
+    "description": "arXiv:2609.05647v1 Announce Type: new \nAbstract: We classify all Rota-Baxter operators of weight $\\lambda$ on $M_n(F)$ over a field $F$ of characteristic zero whose minimal polynomial has maximal degree and show that in both cases $\\lambda = 0$ and $\\lambda \\neq 0$ such an operator is conjugate to exactly one operator.",
+    "content": "arXiv:2609.05647v1 Announce Type: new \nAbstract: We classify all Rota-Baxter operators of weight $\\lambda$ on $M_n(F)$ over a field $F$ of characteristic zero whose minimal polynomial has maximal degree and show that in both cases $\\lambda = 0$ and $\\lambda \\neq 0$ such an operator is conjugate to exactly one operator.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Finite-Sample Rigidity for Left-Translated Similarity Orbits and Off-Diagonal Quadratic Realizations",
+    "pubDate": "2026-09-09 04:00:00",
+    "link": "https://arxiv.org/abs/2609.05932",
+    "guid": "oai:arXiv.org:2609.05932v1",
+    "author": "Hiroki Minamide",
+    "thumbnail": "",
+    "description": "arXiv:2609.05932v1 Announce Type: new \nAbstract: We study finite-sample rigidity for left translates of similarity orbits over commutative rings. Let \\(R\\) be a commutative ring with \\(2\\in R^\\times\\), and let \\(C\\in\\operatorname{Mat}_2(R)\\) be cyclic. Given matrices \\(G_i=FK_i\\), where \\(F\\in\\operatorname{GL}_2(R)\\) is common and the underlying points \\(K_i\\) lie in \\(\\operatorname{Orb}(C)\\), we determine when a finite translated sample has exactly the same multiplier ambiguity as the complete translated orbit. The key structural result is that the orbit differences span \\(\\mathfrak{sl}_2(R)\\), which yields a scalar description of the left stabilizer. We then give a determinantal saturation criterion, expressed directly in the matrices \\(G_i\\), under which finite-sample consistency reduces to trace equations and one determinant condition. Off-diagonal quadratic operators on pairs of free rank-two modules realize the translated-orbit model exactly. Over fields we obtain sharp sample thresholds under the saturation criterion, and over finite fields we derive exact saturation probabilities for regular semisimple and nonzero nilpotent orbits. Torsion restrictions of elliptic isogenies provide a natural arithmetic realization of the rank-two module framework.",
+    "content": "arXiv:2609.05932v1 Announce Type: new \nAbstract: We study finite-sample rigidity for left translates of similarity orbits over commutative rings. Let \\(R\\) be a commutative ring with \\(2\\in R^\\times\\), and let \\(C\\in\\operatorname{Mat}_2(R)\\) be cyclic. Given matrices \\(G_i=FK_i\\), where \\(F\\in\\operatorname{GL}_2(R)\\) is common and the underlying points \\(K_i\\) lie in \\(\\operatorname{Orb}(C)\\), we determine when a finite translated sample has exactly the same multiplier ambiguity as the complete translated orbit. The key structural result is that the orbit differences span \\(\\mathfrak{sl}_2(R)\\), which yields a scalar description of the left stabilizer. We then give a determinantal saturation criterion, expressed directly in the matrices \\(G_i\\), under which finite-sample consistency reduces to trace equations and one determinant condition. Off-diagonal quadratic operators on pairs of free rank-two modules realize the translated-orbit model exactly. Over fields we obtain sharp sample thresholds under the saturation criterion, and over finite fields we derive exact saturation probabilities for regular semisimple and nonzero nilpotent orbits. Torsion restrictions of elliptic isogenies provide a natural arithmetic realization of the rank-two module framework.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Integral Dependence over One-Sided Ideals, Part I: Foundations and Classical Applications",
+    "pubDate": "2026-09-09 04:00:00",
+    "link": "https://arxiv.org/abs/2609.05935",
+    "guid": "oai:arXiv.org:2609.05935v1",
+    "author": "Masood Aryapoor",
+    "thumbnail": "",
+    "description": "arXiv:2609.05935v1 Announce Type: new \nAbstract: We introduce notions of integrality and full integrality over one-sided ideals, together with associated radical constructions, and develop a general framework for their study. As applications, we extend several classical results concerning Jacobson radicals to the one-sided setting. In particular, we prove that the Jacobson radical of a left ideal is integral over that ideal in left artinian rings and in algebraic algebras, obtaining a one-sided analogue of a theorem of Amitsur. We also show that Jacobson radicals of graded left ideals are graded and derive a corresponding extension of Amitsur's theorem on Jacobson radicals of polynomial rings.",
+    "content": "arXiv:2609.05935v1 Announce Type: new \nAbstract: We introduce notions of integrality and full integrality over one-sided ideals, together with associated radical constructions, and develop a general framework for their study. As applications, we extend several classical results concerning Jacobson radicals to the one-sided setting. In particular, we prove that the Jacobson radical of a left ideal is integral over that ideal in left artinian rings and in algebraic algebras, obtaining a one-sided analogue of a theorem of Amitsur. We also show that Jacobson radicals of graded left ideals are graded and derive a corresponding extension of Amitsur's theorem on Jacobson radicals of polynomial rings.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Cohomology theory of Novikov algebras and applications",
+    "pubDate": "2026-09-09 04:00:00",
+    "link": "https://arxiv.org/abs/2609.06304",
+    "guid": "oai:arXiv.org:2609.06304v1",
+    "author": "Pavel Kolesnikov, Yue Li, Yunhe Sheng, Nanyan Xu",
+    "thumbnail": "",
+    "description": "arXiv:2609.06304v1 Announce Type: new \nAbstract: In this paper, first we give a new characterization of the cohomology of pre-Lie algebras using the Chevalley-Eilenberg cohomology associated to a morphism from the operad of Lie algebras to Hadamard product of the operad of pre-Lie algebras and its Koszul dual operad. Then we apply the same approach to study the cohomology of Novikov algebras, and give the cochain complex explicitly. The cochain complex of the underlying pre-Lie algebra is shown to be isomorphic to\n  the quotient of the cochain complex of a Novikov algebra. Consequently, there is a long exact sequence connecting the cohomologies of a Novikov algebra and the underlying pre-Lie algebra. The cohomology of a Novikov algebra with coefficients in a representation is introduced using pseudo-tensor categories. As applications, we show that infinitesimal deformations and abelian extensions are classified by the second cohomology groups with different coefficients. Various examples are given to illustrate the difference between the cohomology of a Novikov algebra and that of the underlying pre-Lie algebra.",
+    "content": "arXiv:2609.06304v1 Announce Type: new \nAbstract: In this paper, first we give a new characterization of the cohomology of pre-Lie algebras using the Chevalley-Eilenberg cohomology associated to a morphism from the operad of Lie algebras to Hadamard product of the operad of pre-Lie algebras and its Koszul dual operad. Then we apply the same approach to study the cohomology of Novikov algebras, and give the cochain complex explicitly. The cochain complex of the underlying pre-Lie algebra is shown to be isomorphic to\n  the quotient of the cochain complex of a Novikov algebra. Consequently, there is a long exact sequence connecting the cohomologies of a Novikov algebra and the underlying pre-Lie algebra. The cohomology of a Novikov algebra with coefficients in a representation is introduced using pseudo-tensor categories. As applications, we show that infinitesimal deformations and abelian extensions are classified by the second cohomology groups with different coefficients. Various examples are given to illustrate the difference between the cohomology of a Novikov algebra and that of the underlying pre-Lie algebra.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math-ph",
+      "math.MP",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Generic Nullity of Generalized Commutators",
+    "pubDate": "2026-09-09 04:00:00",
+    "link": "https://arxiv.org/abs/2609.06339",
+    "guid": "oai:arXiv.org:2609.06339v1",
+    "author": "Chen Lin, Chenhao Tang, Enhan Zhao",
+    "thumbnail": "",
+    "description": "arXiv:2609.06339v1 Announce Type: new \nAbstract: We study the generic nullity of generalized commutator operators \\[L_{\\mathbf{A}}(X)=s_{k+1}(A_1,\\cdots,A_k,X)\\] on matrix algebras, where $s_{k+1}$ denotes the standard polynomial. Dixon and Pressman conjectured an explicit formula for the generic nullity of $L_{\\mathbf{A}}$, and Brassil and Reichstein proved the conjecture when $k$ is even. In this paper, we settle the remaining case where $k$ is odd. Our proof first treats the boundary cases $k=2n-3$ in dimensions $n$ and $n+1$ using degree decompositions and graph-theoretic interpretations of alternating trace forms, and then establishes a dimension-extension argument from $n$ to $n+2$. Consequently, together with the result of Brassil and Reichstein, we obtain a complete proof of the Dixon-Pressman generic nullity conjecture over any field of characteristic zero.",
+    "content": "arXiv:2609.06339v1 Announce Type: new \nAbstract: We study the generic nullity of generalized commutator operators \\[L_{\\mathbf{A}}(X)=s_{k+1}(A_1,\\cdots,A_k,X)\\] on matrix algebras, where $s_{k+1}$ denotes the standard polynomial. Dixon and Pressman conjectured an explicit formula for the generic nullity of $L_{\\mathbf{A}}$, and Brassil and Reichstein proved the conjecture when $k$ is even. In this paper, we settle the remaining case where $k$ is odd. Our proof first treats the boundary cases $k=2n-3$ in dimensions $n$ and $n+1$ using degree decompositions and graph-theoretic interpretations of alternating trace forms, and then establishes a dimension-extension argument from $n$ to $n+2$. Consequently, together with the result of Brassil and Reichstein, we obtain a complete proof of the Dixon-Pressman generic nullity conjecture over any field of characteristic zero.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Filtered deformations of three-variable polynomial algebras",
+    "pubDate": "2026-09-09 04:00:00",
+    "link": "https://arxiv.org/abs/2609.06710",
+    "guid": "oai:arXiv.org:2609.06710v1",
+    "author": "Jason Bell, Boris Li",
+    "thumbnail": "",
+    "description": "arXiv:2609.06710v1 Announce Type: new \nAbstract: We classify all filtered deformations of polynomial rings in three variables. We use our characterization to answer a special case of a question of Etingof by showing that if $F$ is an algebraically closed field of positive characteristic and $A$ is an $F$-algebra with a filtration by finite dimensional subspaces whose associated graded ring is a polynomial ring in three variables then $A$ satisfies a polynomial identity.",
+    "content": "arXiv:2609.06710v1 Announce Type: new \nAbstract: We classify all filtered deformations of polynomial rings in three variables. We use our characterization to answer a special case of a question of Etingof by showing that if $F$ is an algebraically closed field of positive characteristic and $A$ is an $F$-algebra with a filtration by finite dimensional subspaces whose associated graded ring is a polynomial ring in three variables then $A$ satisfies a polynomial identity.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AC"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "$\\delta$-Mock-Novikov Algebras: Structural Theory, Operad and Poisson-Type Constructions",
+    "pubDate": "2026-09-09 04:00:00",
+    "link": "https://arxiv.org/abs/2609.06913",
+    "guid": "oai:arXiv.org:2609.06913v1",
+    "author": "Jie Ruan, Zafar Normatov",
+    "thumbnail": "",
+    "description": "arXiv:2609.06913v1 Announce Type: new \nAbstract: We introduce $\\delta$-mock-Novikov algebras as a parameter-dependent mock analogue of Novikov algebras. For $\\delta=1$, the commutator of a mock-Novikov algebra defines a Malcev algebra. Every $\\delta$-mock-Novikov algebra satisfying $\\mathcal{A}^2\\subseteq\\operatorname{Ann}(\\mathcal{A})$ is shown to be differentially special. At the operadic level, the binary quadratic operad governing $\\delta$-mock-Novikov algebras is quadratically self-dual but not Koszul. We prove that finite-dimensional $\\delta$-mock-Novikov algebras are nilpotent in characteristic zero and classify those of dimension at most four. Finally, we study the associated Poisson-type structures and establish relations and constructions among them via polarization, depolarization, and tensor products.",
+    "content": "arXiv:2609.06913v1 Announce Type: new \nAbstract: We introduce $\\delta$-mock-Novikov algebras as a parameter-dependent mock analogue of Novikov algebras. For $\\delta=1$, the commutator of a mock-Novikov algebra defines a Malcev algebra. Every $\\delta$-mock-Novikov algebra satisfying $\\mathcal{A}^2\\subseteq\\operatorname{Ann}(\\mathcal{A})$ is shown to be differentially special. At the operadic level, the binary quadratic operad governing $\\delta$-mock-Novikov algebras is quadratically self-dual but not Koszul. We prove that finite-dimensional $\\delta$-mock-Novikov algebras are nilpotent in characteristic zero and classify those of dimension at most four. Finally, we study the associated Poisson-type structures and establish relations and constructions among them via polarization, depolarization, and tensor products.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A \\(3\\times 3\\) counterexample to Lin and Wimmer's rank-minimization conjecture associated with Roth's similarity theorem",
+    "pubDate": "2026-09-09 04:00:00",
+    "link": "https://arxiv.org/abs/2609.07113",
+    "guid": "oai:arXiv.org:2609.07113v1",
+    "author": "Shuo Shi, Juan Zhang, Yun Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2609.07113v1 Announce Type: new \nAbstract: We give a \\(3\\times 3\\) counterexample, valid over every field, to a rank-minimization conjecture of Lin and Wimmer (Bull. Aust. Math. Soc., 84 (3) (2011), 441--443) related to Roth's similarity theorem for the Sylvester matrix equation. We also prove that, over the complex field, no counterexample can occur when one of the two matrix sizes is less than \\(3\\). Hence the example is dimensionally minimal over the complex field.",
+    "content": "arXiv:2609.07113v1 Announce Type: new \nAbstract: We give a \\(3\\times 3\\) counterexample, valid over every field, to a rank-minimization conjecture of Lin and Wimmer (Bull. Aust. Math. Soc., 84 (3) (2011), 441--443) related to Roth's similarity theorem for the Sylvester matrix equation. We also prove that, over the complex field, no counterexample can occur when one of the two matrix sizes is less than \\(3\\). Hence the example is dimensionally minimal over the complex field.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "cs.NA",
+      "math.NA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Higher-dimensional generalized quasiorders",
+    "pubDate": "2026-09-09 04:00:00",
+    "link": "https://arxiv.org/abs/2609.07339",
+    "guid": "oai:arXiv.org:2609.07339v1",
+    "author": "Andrew Moorhead, Reinhard P\\&quot;oschel",
+    "thumbnail": "",
+    "description": "arXiv:2609.07339v1 Announce Type: new \nAbstract: It is well known that the polymorphism clone of a quasiorder is determined by its unary part, in the sense that any operation is a polymorphism if it satisfies the condition that all unary functions obtained by fixing some of its variables at constant values are polymorphisms. We show that a clone satisfies an analogous property for a particular fixed arity $d$ if and only if it is determined by a collection of what we call higher-dimensional generalized quasiorders whose dimension is equal to $d$. We define higher-dimensional generalized quasiorders with the appropriate generalizations of reflexivity and transitivity to the higher-dimensional setting, which rely on an explicit analysis of 'rectangular' arity.",
+    "content": "arXiv:2609.07339v1 Announce Type: new \nAbstract: It is well known that the polymorphism clone of a quasiorder is determined by its unary part, in the sense that any operation is a polymorphism if it satisfies the condition that all unary functions obtained by fixing some of its variables at constant values are polymorphisms. We show that a clone satisfies an analogous property for a particular fixed arity $d$ if and only if it is determined by a collection of what we call higher-dimensional generalized quasiorders whose dimension is equal to $d$. We define higher-dimensional generalized quasiorders with the appropriate generalizations of reflexivity and transitivity to the higher-dimensional setting, which rely on an explicit analysis of 'rectangular' arity.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.LO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The Classification of the Rota-Baxter Operators on Four-dimensional Grassmann Algebra",
+    "pubDate": "2026-09-09 04:00:00",
+    "link": "https://arxiv.org/abs/2609.07377",
+    "guid": "oai:arXiv.org:2609.07377v1",
+    "author": "Kamran Shakoor,  Noor-ul-Ain",
+    "thumbnail": "",
+    "description": "arXiv:2609.07377v1 Announce Type: new \nAbstract: The purpose of this paper is to classify all the Rota-Baxter operators explicitly on Grassmann algebra in dimension four over the reals.",
+    "content": "arXiv:2609.07377v1 Announce Type: new \nAbstract: The purpose of this paper is to classify all the Rota-Baxter operators explicitly on Grassmann algebra in dimension four over the reals.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.OA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Factorization of central polynomials over division algebras",
     "pubDate": "2026-09-07 04:00:00",
     "link": "https://arxiv.org/abs/2609.04529",
