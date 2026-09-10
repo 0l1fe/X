@@ -1,5 +1,163 @@
 [
   {
+    "title": "A Simple Way of Getting Large Examples of Osborn Loops",
+    "pubDate": "2026-09-10 04:00:00",
+    "link": "https://arxiv.org/abs/2609.09176",
+    "guid": "oai:arXiv.org:2609.09176v1",
+    "author": "Muhammad Shah",
+    "thumbnail": "",
+    "description": "arXiv:2609.09176v1 Announce Type: new \nAbstract: Examples and counterexamples define the boundaries of mathematical propositions, test foundational conjectures, and resolve open structural problems in abstract algebra. In loop theory, an Osborn loop is a crucial generalization of a Moufang loop satisfying a specialized variable-sandwiching identity. While small finite non-associative examples are known, constructing large examples of proper Osborn loops (loops that are neither conjugacy closed nor Moufang) remains a computational bottleneck. In this paper, we establish an efficient framework for generating large proper Osborn loops by taking the direct product of non-associative conjugacy closed (CC) loops and Moufang loops. We outline the boundary constraints necessary to prevent structural collapse into sub-varieties and provide explicit examples up to order 2025 validated via the GAP package \\texttt{LOOPS}.",
+    "content": "arXiv:2609.09176v1 Announce Type: new \nAbstract: Examples and counterexamples define the boundaries of mathematical propositions, test foundational conjectures, and resolve open structural problems in abstract algebra. In loop theory, an Osborn loop is a crucial generalization of a Moufang loop satisfying a specialized variable-sandwiching identity. While small finite non-associative examples are known, constructing large examples of proper Osborn loops (loops that are neither conjugacy closed nor Moufang) remains a computational bottleneck. In this paper, we establish an efficient framework for generating large proper Osborn loops by taking the direct product of non-associative conjugacy closed (CC) loops and Moufang loops. We outline the boundary constraints necessary to prevent structural collapse into sub-varieties and provide explicit examples up to order 2025 validated via the GAP package \\texttt{LOOPS}.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "cs.LO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A Truncated Singular-Value Bound for Spectral Variation of Normal Matrices",
+    "pubDate": "2026-09-10 04:00:00",
+    "link": "https://arxiv.org/abs/2609.09177",
+    "guid": "oai:arXiv.org:2609.09177v1",
+    "author": "Qiyue Tang",
+    "thumbnail": "",
+    "description": "arXiv:2609.09177v1 Announce Type: new \nAbstract: For normal matrices A and B, the classical Hoffman-Wielandt theorem bounds the optimal matching distance between their spectra by the Frobenius norm of A-B. We prove the sharper estimate d(\\sigma(A),\\sigma(B))^2 \\le \\sum_{k=1}^{\\lfloor (n+1)/2 \\rfloor} s_k(A-B)^2, where s_k(M) are the singular values of M, involving only the first \\lfloor (n+1)/2 \\rfloor singular values of the difference. Consequently, d(\\sigma(A),\\sigma(B)) \\le \\sqrt{\\lfloor (n+1)/2 \\rfloor}\\,\\|A-B\\|, which improves the classical dimension-free bound for all 3 \\le n \\le 16. The proof combines a min-max duality for optimal matching distances with spectral subspace overlaps and the monotonicity of singular values under rectangular compressions.",
+    "content": "arXiv:2609.09177v1 Announce Type: new \nAbstract: For normal matrices A and B, the classical Hoffman-Wielandt theorem bounds the optimal matching distance between their spectra by the Frobenius norm of A-B. We prove the sharper estimate d(\\sigma(A),\\sigma(B))^2 \\le \\sum_{k=1}^{\\lfloor (n+1)/2 \\rfloor} s_k(A-B)^2, where s_k(M) are the singular values of M, involving only the first \\lfloor (n+1)/2 \\rfloor singular values of the difference. Consequently, d(\\sigma(A),\\sigma(B)) \\le \\sqrt{\\lfloor (n+1)/2 \\rfloor}\\,\\|A-B\\|, which improves the classical dimension-free bound for all 3 \\le n \\le 16. The proof combines a min-max duality for optimal matching distances with spectral subspace overlaps and the monotonicity of singular values under rectangular compressions.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.SP"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Orthogonal completion of algebraic systems II",
+    "pubDate": "2026-09-10 04:00:00",
+    "link": "https://arxiv.org/abs/2609.09178",
+    "guid": "oai:arXiv.org:2609.09178v1",
+    "author": "A. Yu. Golubkov",
+    "thumbnail": "",
+    "description": "arXiv:2609.09178v1 Announce Type: new \nAbstract: The paper \"Orthogonal completion of algebraic systems II\" continues the line of \"Orthogonal completion of algebraic systems\" from the perspective of almost classical localizations of algebras and the conclusions of K.~I.~Beidar's doctoral dissertation. This allows one to apply the orthogonal completion method to describe non-degenerate orthogonally complete algebras bases on known classifications of strongly prime algebras.",
+    "content": "arXiv:2609.09178v1 Announce Type: new \nAbstract: The paper \"Orthogonal completion of algebraic systems II\" continues the line of \"Orthogonal completion of algebraic systems\" from the perspective of almost classical localizations of algebras and the conclusions of K.~I.~Beidar's doctoral dissertation. This allows one to apply the orthogonal completion method to describe non-degenerate orthogonally complete algebras bases on known classifications of strongly prime algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A quaternionic construction behind $841$-point kissing arrangement in ${\\mathbb R}^{12}$",
+    "pubDate": "2026-09-10 04:00:00",
+    "link": "https://arxiv.org/abs/2609.09179",
+    "guid": "oai:arXiv.org:2609.09179v1",
+    "author": "Rustem Takhanov",
+    "thumbnail": "",
+    "description": "arXiv:2609.09179v1 Announce Type: new \nAbstract: Recently, a new record kissing arrangement of $841$ points in $\\mathbb R^{12}$ was obtained numerically by optimization (Takhanov-Assylbekov-Yun, 2026). The configuration was released as a coordinate file, without a mathematical description of its structure. The purpose of this paper is to provide such a description. The key observation is that the geometry becomes transparent once we regard $\\mathbb R^{12}\\cong \\mathbb H^3$ as the Cartesian product of three copies of the quaternion algebra.\n  We first introduce a new $840$-point kissing arrangement with a certain quaternionic structure. It consists of three mutually orthogonal regular $24$-cells, supported on the three quaternionic coordinate factors $\\mathbb H\\times\\{0\\}\\times\\{0\\}$, $\\{0\\}\\times\\mathbb H\\times\\{0\\}$, $\\{0\\}\\times\\{0\\}\\times\\mathbb H$, together with two $384$-point families obtained by lifting affine sets of the form $$\\{(u,v,w)\\in (\\mathbb F_2^2)^3\\mid u+v+w=\\eta\\},$$ to quaternionic triples (whose components belong to the binary octahedral group $2O$) and then applying suitable component-wise rotations and weightings.\n  A characteristic feature of this construction is a pronounced asymmetry among the three quaternionic factors. For the $816$ vectors obtained after removing the third $24$-cell, most of the squared norm is concentrated in the first two quaternionic coordinates, while the third coordinate carries systematically less mass. Thus, the third four-dimensional factor contains more available space than the first two.\n  We then show that this $840$-point configuration provides a natural structural model for the numerical $841$-point record.\n  Finally, we introduce a notion of the general quaternionic construction in dimensions divisible by $4$, and check that record kissing arrangements in ${\\mathbb R}^{4k}$, $k\\leq 5$, admit a quaternionic construction.",
+    "content": "arXiv:2609.09179v1 Announce Type: new \nAbstract: Recently, a new record kissing arrangement of $841$ points in $\\mathbb R^{12}$ was obtained numerically by optimization (Takhanov-Assylbekov-Yun, 2026). The configuration was released as a coordinate file, without a mathematical description of its structure. The purpose of this paper is to provide such a description. The key observation is that the geometry becomes transparent once we regard $\\mathbb R^{12}\\cong \\mathbb H^3$ as the Cartesian product of three copies of the quaternion algebra.\n  We first introduce a new $840$-point kissing arrangement with a certain quaternionic structure. It consists of three mutually orthogonal regular $24$-cells, supported on the three quaternionic coordinate factors $\\mathbb H\\times\\{0\\}\\times\\{0\\}$, $\\{0\\}\\times\\mathbb H\\times\\{0\\}$, $\\{0\\}\\times\\{0\\}\\times\\mathbb H$, together with two $384$-point families obtained by lifting affine sets of the form $$\\{(u,v,w)\\in (\\mathbb F_2^2)^3\\mid u+v+w=\\eta\\},$$ to quaternionic triples (whose components belong to the binary octahedral group $2O$) and then applying suitable component-wise rotations and weightings.\n  A characteristic feature of this construction is a pronounced asymmetry among the three quaternionic factors. For the $816$ vectors obtained after removing the third $24$-cell, most of the squared norm is concentrated in the first two quaternionic coordinates, while the third coordinate carries systematically less mass. Thus, the third four-dimensional factor contains more available space than the first two.\n  We then show that this $840$-point configuration provides a natural structural model for the numerical $841$-point record.\n  Finally, we introduce a notion of the general quaternionic construction in dimensions divisible by $4$, and check that record kissing arrangements in ${\\mathbb R}^{4k}$, $k\\leq 5$, admit a quaternionic construction.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "cs.IT",
+      "math.CO",
+      "math.IT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A note on idempotents in quandle rings",
+    "pubDate": "2026-09-10 04:00:00",
+    "link": "https://arxiv.org/abs/2609.09183",
+    "guid": "oai:arXiv.org:2609.09183v1",
+    "author": "Dilpreet Kaur, Pushpendra Singh",
+    "thumbnail": "",
+    "description": "arXiv:2609.09183v1 Announce Type: new \nAbstract: It was conjectured that the nonzero idempotents of the integral quandle ring of a finite latin quandle are trivial. We prove this holds for latin dihedral quandles. Furthermore, we discuss counterexamples against this conjecture.",
+    "content": "arXiv:2609.09183v1 Announce Type: new \nAbstract: It was conjectured that the nonzero idempotents of the integral quandle ring of a finite latin quandle are trivial. We prove this holds for latin dihedral quandles. Furthermore, we discuss counterexamples against this conjecture.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GR"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Local derivations is a Lie algebra",
+    "pubDate": "2026-09-10 04:00:00",
+    "link": "https://arxiv.org/abs/2609.09198",
+    "guid": "oai:arXiv.org:2609.09198v1",
+    "author": "Zeyu Hao, Liangyun Chen",
+    "thumbnail": "",
+    "description": "arXiv:2609.09198v1 Announce Type: new \nAbstract: In this paper, we utilize the reflexive hull to unify the concepts of local and almost inner derivations. By investigating the algebraic structure of reflexive hulls, we prove the conjecture on the structure of local derivations proposed by Ayupov, Elduque, and Kudaybergenov (\\emph{J. Pure Appl. Algebra}, 2023), as well as the conjecture concerning the structure of almost inner derivations proposed by Burde, Dekimpe, and Verbeke (\\emph{J. Algebra Appl.}, 2018).",
+    "content": "arXiv:2609.09198v1 Announce Type: new \nAbstract: In this paper, we utilize the reflexive hull to unify the concepts of local and almost inner derivations. By investigating the algebraic structure of reflexive hulls, we prove the conjecture on the structure of local derivations proposed by Ayupov, Elduque, and Kudaybergenov (\\emph{J. Pure Appl. Algebra}, 2023), as well as the conjecture concerning the structure of almost inner derivations proposed by Burde, Dekimpe, and Verbeke (\\emph{J. Algebra Appl.}, 2018).",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Homomorphisms and subalgebras of free convex semilattices",
+    "pubDate": "2026-09-10 04:00:00",
+    "link": "https://arxiv.org/abs/2609.09201",
+    "guid": "oai:arXiv.org:2609.09201v1",
+    "author": "Harald Woracek",
+    "thumbnail": "",
+    "description": "arXiv:2609.09201v1 Announce Type: new \nAbstract: A convex semilattices is a convex algebra endowed with an additional semilattice operation that satisfies a distributive law. We investigate free convex semilattices by studying the homomorphisms into products R{\\Omega} and, more specifically, the homomorphisms between two free finitely generated convex semilattices. We characterise the finitely generated subalgebras of a free finitely generated convex semilattice.",
+    "content": "arXiv:2609.09201v1 Announce Type: new \nAbstract: A convex semilattices is a convex algebra endowed with an additional semilattice operation that satisfies a distributive law. We investigate free convex semilattices by studying the homomorphisms into products R{\\Omega} and, more specifically, the homomorphisms between two free finitely generated convex semilattices. We characterise the finitely generated subalgebras of a free finitely generated convex semilattice.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A nonfinitely based additively idempotent semiring that is not strongly nonfinitely based and generates a limit variety",
+    "pubDate": "2026-09-10 04:00:00",
+    "link": "https://arxiv.org/abs/2609.09220",
+    "guid": "oai:arXiv.org:2609.09220v1",
+    "author": "Xiaolei Shao, Miaomiao Ren, Zidong Gao",
+    "thumbnail": "",
+    "description": "arXiv:2609.09220v1 Announce Type: new \nAbstract: We present an explicit infinite equational basis for the six-element additively idempotent semiring $TR_6$ and prove that $TR_6$ is nonfinitely based. We also give a complete description of the subvariety lattice of the variety generated by $TR_6$, showing that it forms a four-element chain. Our results demonstrate that the variety generated by $TR_6$ is a limit variety: it is itself nonfinitely based, yet all of its proper subvarieties are finitely based. This provides a new limit variety of additively idempotent semirings, distinct from all previously known ones. In fact, $\\mathsf{V}(TR_6)$ is the first explicit limit subvariety of the variety generated by the max-plus algebra $\\mathbf{N}$. Moreover, $TR_6$ is not strongly nonfinitely based: it belongs to a finitely based variety generated by a finite additively idempotent semiring. Together with the six-element additively idempotent semiring $SR_6$, these are the first two finite additively idempotent semirings that are nonfinitely based but not strongly nonfinitely based. Finally, we study the variety generated by $SR_6$ and $TR_6$, showing that it is nonfinitely based and has exactly nine subvarieties, four of which are nonfinitely based and the remaining five are finitely based.",
+    "content": "arXiv:2609.09220v1 Announce Type: new \nAbstract: We present an explicit infinite equational basis for the six-element additively idempotent semiring $TR_6$ and prove that $TR_6$ is nonfinitely based. We also give a complete description of the subvariety lattice of the variety generated by $TR_6$, showing that it forms a four-element chain. Our results demonstrate that the variety generated by $TR_6$ is a limit variety: it is itself nonfinitely based, yet all of its proper subvarieties are finitely based. This provides a new limit variety of additively idempotent semirings, distinct from all previously known ones. In fact, $\\mathsf{V}(TR_6)$ is the first explicit limit subvariety of the variety generated by the max-plus algebra $\\mathbf{N}$. Moreover, $TR_6$ is not strongly nonfinitely based: it belongs to a finitely based variety generated by a finite additively idempotent semiring. Together with the six-element additively idempotent semiring $SR_6$, these are the first two finite additively idempotent semirings that are nonfinitely based but not strongly nonfinitely based. Finally, we study the variety generated by $SR_6$ and $TR_6$, showing that it is nonfinitely based and has exactly nine subvarieties, four of which are nonfinitely based and the remaining five are finitely based.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GR"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Linear Preservers of Infinitely Divisible Matrices",
+    "pubDate": "2026-09-10 04:00:00",
+    "link": "https://arxiv.org/abs/2609.09252",
+    "guid": "oai:arXiv.org:2609.09252v1",
+    "author": "Shaun Fallat, Samir Mondal",
+    "thumbnail": "",
+    "description": "arXiv:2609.09252v1 Announce Type: new \nAbstract: An infinitely divisible nonnegative matrix is an entry-wise nonnegative matrix that admits an entry-wise nonnegative $m$th root, with respect to usual matrix multiplication, for every positive integer $m$; it is called strongly infinitely divisible when it is, in addition, invertible. The study of such matrices has its origins in the theory of infinitely divisible probability distributions and the embedding problem for Markov matrices and is closely connected with continuous one-parameter semigroups; in the invertible case, this connection admits a natural description in terms of the exponential map. In this paper, we characterize the bijective linear maps on $M_n(\\mathbb{R})$ that preserve strongly infinitely divisible matrices and infinitely divisible nonnegative matrices. In the former case, we combine the Inverse Function Theorem with Zariski-density techniques, using the Zariski-density approach recently developed in linear preserver theory by Fallat and Mondal [\\textit{Proc. Amer. Math. Soc.}, 2026]. In the latter case, we first show that preserving infinite divisibility forces preservation of the cone of entry-wise nonnegative matrices and then exploit the additional structure afforded by infinite divisibility to complete the characterization.",
+    "content": "arXiv:2609.09252v1 Announce Type: new \nAbstract: An infinitely divisible nonnegative matrix is an entry-wise nonnegative matrix that admits an entry-wise nonnegative $m$th root, with respect to usual matrix multiplication, for every positive integer $m$; it is called strongly infinitely divisible when it is, in addition, invertible. The study of such matrices has its origins in the theory of infinitely divisible probability distributions and the embedding problem for Markov matrices and is closely connected with continuous one-parameter semigroups; in the invertible case, this connection admits a natural description in terms of the exponential map. In this paper, we characterize the bijective linear maps on $M_n(\\mathbb{R})$ that preserve strongly infinitely divisible matrices and infinitely divisible nonnegative matrices. In the former case, we combine the Inverse Function Theorem with Zariski-density techniques, using the Zariski-density approach recently developed in linear preserver theory by Fallat and Mondal [\\textit{Proc. Amer. Math. Soc.}, 2026]. In the latter case, we first show that preserving infinite divisibility forces preservation of the cone of entry-wise nonnegative matrices and then exploit the additional structure afforded by infinite divisibility to complete the characterization.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.PR"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Classification of Nijenhuis operators on three-dimensional multiplicative simple Bihom-Lie algebras",
+    "pubDate": "2026-09-10 04:00:00",
+    "link": "https://arxiv.org/abs/2609.09392",
+    "guid": "oai:arXiv.org:2609.09392v1",
+    "author": "Bouzid Mosbahi",
+    "thumbnail": "",
+    "description": "arXiv:2609.09392v1 Announce Type: new \nAbstract: We provide a complete classification of Nijenhuis operators on three-dimensional multiplicative simple BiHom-Lie algebras over the complex field C. Based on the classification of such algebras by Saadaoui into three families L1, L2, and L3, we derive the complete system of equations arising from the equivariance conditions and the Nijenhuis identity. We provide explicit matrix representations of all solutions, including all degenerate parameter cases. We construct the BiHom-Fr\\\"olicher-Nijenhuis bracket on the cochain complex of a BiHom-Lie algebra, showing that Maurer-Cartan elements of this graded Lie algebra are precisely Nijenhuis operators. This enables us to define the cohomology of Nijenhuis operators and study formal deformations. We introduce BiHom-NS-Lie algebras as the algebraic structure underlying Nijenhuis operators. We provide explicit deformed BiHom-Lie algebra structures and prove the non-isomorphism of different families. We also study the moduli space of Nijenhuis operators and provide computational verification of all results.",
+    "content": "arXiv:2609.09392v1 Announce Type: new \nAbstract: We provide a complete classification of Nijenhuis operators on three-dimensional multiplicative simple BiHom-Lie algebras over the complex field C. Based on the classification of such algebras by Saadaoui into three families L1, L2, and L3, we derive the complete system of equations arising from the equivariance conditions and the Nijenhuis identity. We provide explicit matrix representations of all solutions, including all degenerate parameter cases. We construct the BiHom-Fr\\\"olicher-Nijenhuis bracket on the cochain complex of a BiHom-Lie algebra, showing that Maurer-Cartan elements of this graded Lie algebra are precisely Nijenhuis operators. This enables us to define the cohomology of Nijenhuis operators and study formal deformations. We introduce BiHom-NS-Lie algebras as the algebraic structure underlying Nijenhuis operators. We provide explicit deformed BiHom-Lie algebra structures and prove the non-isomorphism of different families. We also study the moduli space of Nijenhuis operators and provide computational verification of all results.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Extremal Rota-Baxter operators on matrix algebras",
     "pubDate": "2026-09-09 04:00:00",
     "link": "https://arxiv.org/abs/2609.05647",
