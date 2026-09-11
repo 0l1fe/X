@@ -1,5 +1,102 @@
 [
   {
+    "title": "Invariants of Nilpotent Lie Algebras via Geometry and Algebra with a Focus on Computation",
+    "pubDate": "2026-09-11 04:00:00",
+    "link": "https://arxiv.org/abs/2609.10956",
+    "guid": "oai:arXiv.org:2609.10956v1",
+    "author": "Csaba Schneider, Igor Martins Silva",
+    "thumbnail": "",
+    "description": "arXiv:2609.10956v1 Announce Type: new \nAbstract: We consider the problem of computing rational invariants of nilpotent Lie algebras. We compare two methods that are commonly used for this task: the method of integral curves and the Dixmier map. Given a derivation of a rational function field with polynomial coefficients, we formulate a condition under which the kernel can be recovered from a family of rational integral curves, and we show that triangular derivations satisfy this hypothesis. This yields an explicit description of the kernel as a purely transcendental extension and produces algebraically independent generators. We also show that, in the triangular case, the resulting generators agree with those obtained from the Dixmier map via a local slice. A careful analysis of the generating set obtained from this method leads to an algorithm for computing generators of the rational invariant field of a nilpotent Lie algebra. An implementation of the methods is available in the SageMath system.",
+    "content": "arXiv:2609.10956v1 Announce Type: new \nAbstract: We consider the problem of computing rational invariants of nilpotent Lie algebras. We compare two methods that are commonly used for this task: the method of integral curves and the Dixmier map. Given a derivation of a rational function field with polynomial coefficients, we formulate a condition under which the kernel can be recovered from a family of rational integral curves, and we show that triangular derivations satisfy this hypothesis. This yields an explicit description of the kernel as a purely transcendental extension and produces algebraically independent generators. We also show that, in the triangular case, the resulting generators agree with those obtained from the Dixmier map via a local slice. A careful analysis of the generating set obtained from this method leads to an algorithm for computing generators of the rational invariant field of a nilpotent Lie algebra. An implementation of the methods is available in the SageMath system.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Quasilinear multiplication in the real Cayley--Dickson tower",
+    "pubDate": "2026-09-11 04:00:00",
+    "link": "https://arxiv.org/abs/2609.11588",
+    "guid": "oai:arXiv.org:2609.11588v1",
+    "author": "Harrison Lemley",
+    "thumbnail": "",
+    "description": "arXiv:2609.11588v1 Announce Type: new \nAbstract: Direct evaluation of the defining product in the real Cayley--Dickson algebra $A_n$, of dimension $N=2^n$, has quadratic arithmetic complexity. This paper gives a uniform algorithm for multiplication using $O(N\\log N)$ real arithmetic operations and $O(N)$ auxiliary storage. The algorithm reduces multiplication to the alternating product on the imaginary subspace, then evaluates that product by a two-call recursion over one fixed quadratic coefficient extension. For $n\\ge1$, the resulting bilinear algorithm uses at most $(9n-15)2^{n-1}+10$ input-dependent real multiplications, and for $n\\ge3$, the specified arithmetic schedule uses $(34n-83)2^{n-1}+50$ real operations in total. Under this counting convention, the quasilinear schedule uses fewer operations than direct multiplication for $N\\ge16$ and than the uniform Cariow--Cariowa method for $N\\ge32$. The algorithm is implemented in the MIT-licensed C11 library fastCD, with a NumPy-backed Python interface, and its results are checked against an independent implementation of the defining recursion. In single-core benchmarks against direct multiplication and the uniform Cariow--Cariowa method, the quasilinear implementation had the lowest mean time of the three at every tested dimension $N\\ge32$, for both single and batched products, and was roughly $16$ times faster than direct multiplication at $N=1024$.",
+    "content": "arXiv:2609.11588v1 Announce Type: new \nAbstract: Direct evaluation of the defining product in the real Cayley--Dickson algebra $A_n$, of dimension $N=2^n$, has quadratic arithmetic complexity. This paper gives a uniform algorithm for multiplication using $O(N\\log N)$ real arithmetic operations and $O(N)$ auxiliary storage. The algorithm reduces multiplication to the alternating product on the imaginary subspace, then evaluates that product by a two-call recursion over one fixed quadratic coefficient extension. For $n\\ge1$, the resulting bilinear algorithm uses at most $(9n-15)2^{n-1}+10$ input-dependent real multiplications, and for $n\\ge3$, the specified arithmetic schedule uses $(34n-83)2^{n-1}+50$ real operations in total. Under this counting convention, the quasilinear schedule uses fewer operations than direct multiplication for $N\\ge16$ and than the uniform Cariow--Cariowa method for $N\\ge32$. The algorithm is implemented in the MIT-licensed C11 library fastCD, with a NumPy-backed Python interface, and its results are checked against an independent implementation of the defining recursion. In single-core benchmarks against direct multiplication and the uniform Cariow--Cariowa method, the quasilinear implementation had the lowest mean time of the three at every tested dimension $N\\ge32$, for both single and batched products, and was roughly $16$ times faster than direct multiplication at $N=1024$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "cs.NA",
+      "cs.SC",
+      "math.NA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Graded classification of Leavitt path algebras in terms of strong shift equivalence",
+    "pubDate": "2026-09-11 04:00:00",
+    "link": "https://arxiv.org/abs/2609.11834",
+    "guid": "oai:arXiv.org:2609.11834v1",
+    "author": "Boris Bilich, Adam Dor-On",
+    "thumbnail": "",
+    "description": "arXiv:2609.11834v1 Announce Type: new \nAbstract: Given two finite essential adjacency matrices $A$ and $B$, Hazrat's graded classification conjectures posit that an order preserving $\\mathbb{Z}[x,x^{-1}]$-module isomorphism of $K_0$ groups implies graded Morita equivalence of the Leavitt path algebras of $A$ and $B$, while the pointed version predicts a graded isomorphism of the Leavitt path algebras when the $K_0$ group isomorphism additionally preserves the class of the regular module. For any field $k$, we show that the Leavitt path algebras over $k$ of $A$ and $B$ are graded Morita equivalent if and only if $A$ and $B$ are strong shift equivalent. By appealing to counterexamples of Kim and Roush from symbolic dynamics, this shows that Hazrat's graded classification conjectures are false.",
+    "content": "arXiv:2609.11834v1 Announce Type: new \nAbstract: Given two finite essential adjacency matrices $A$ and $B$, Hazrat's graded classification conjectures posit that an order preserving $\\mathbb{Z}[x,x^{-1}]$-module isomorphism of $K_0$ groups implies graded Morita equivalence of the Leavitt path algebras of $A$ and $B$, while the pointed version predicts a graded isomorphism of the Leavitt path algebras when the $K_0$ group isomorphism additionally preserves the class of the regular module. For any field $k$, we show that the Leavitt path algebras over $k$ of $A$ and $B$ are graded Morita equivalent if and only if $A$ and $B$ are strong shift equivalent. By appealing to counterexamples of Kim and Roush from symbolic dynamics, this shows that Hazrat's graded classification conjectures are false.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.OA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On $(n,d)$-Coherence and Its Applications to Algebraic $\\mathsf{K}$-Theory",
+    "pubDate": "2026-09-11 04:00:00",
+    "link": "https://arxiv.org/abs/2603.25679",
+    "guid": "oai:arXiv.org:2603.25679v3",
+    "author": "Rafael Parra",
+    "thumbnail": "",
+    "description": "arXiv:2603.25679v3 Announce Type: replace \nAbstract: We introduce a unified approach to finiteness conditions in homological algebra and algebraic $\\mathsf{K}$-theory by studying the class of $(n,d)$-coherent rings, defined for $n\\in\\mathbb{N}^*$ and $d\\in\\mathbb{N}^*\\cup \\{\\infty\\}$. This framework simultaneously controls higher finiteness conditions and bounds on the projective dimensions of modules. In the context of algebraic $\\mathsf{K}$-theory, we prove that, for a left $(n,d)$-coherent ring, the inclusion $\\mathsf{proj}(R)\\hookrightarrow\\mathsf{FP}_n^{\\leq d}(R)$ induces isomorphisms on all nonnegative $\\mathsf{K}$-groups. We then introduce the corresponding relative notions of $\\mathsf{FP}_n^{\\leq d}$-injective, $\\mathsf{FP}_n^{\\leq d}$-projective, $\\mathsf{FP}_n^{\\leq d}$-flat, and $\\mathsf{FP}_n^{\\leq d}$-cotorsion modules, and obtain characterizations of $(n,d)$-coherent rings in terms of these classes. When $d\\geq\\gD(R)$ or $d=\\infty$, our notions recover several previously studied classes and results.",
+    "content": "arXiv:2603.25679v3 Announce Type: replace \nAbstract: We introduce a unified approach to finiteness conditions in homological algebra and algebraic $\\mathsf{K}$-theory by studying the class of $(n,d)$-coherent rings, defined for $n\\in\\mathbb{N}^*$ and $d\\in\\mathbb{N}^*\\cup \\{\\infty\\}$. This framework simultaneously controls higher finiteness conditions and bounds on the projective dimensions of modules. In the context of algebraic $\\mathsf{K}$-theory, we prove that, for a left $(n,d)$-coherent ring, the inclusion $\\mathsf{proj}(R)\\hookrightarrow\\mathsf{FP}_n^{\\leq d}(R)$ induces isomorphisms on all nonnegative $\\mathsf{K}$-groups. We then introduce the corresponding relative notions of $\\mathsf{FP}_n^{\\leq d}$-injective, $\\mathsf{FP}_n^{\\leq d}$-projective, $\\mathsf{FP}_n^{\\leq d}$-flat, and $\\mathsf{FP}_n^{\\leq d}$-cotorsion modules, and obtain characterizations of $(n,d)$-coherent rings in terms of these classes. When $d\\geq\\gD(R)$ or $d=\\infty$, our notions recover several previously studied classes and results.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Global dimension of dg algebras via compact silting objects",
+    "pubDate": "2026-09-11 04:00:00",
+    "link": "https://arxiv.org/abs/2604.13698",
+    "guid": "oai:arXiv.org:2604.13698v2",
+    "author": "Panagiotis Kostas",
+    "thumbnail": "",
+    "description": "arXiv:2604.13698v2 Announce Type: replace-cross \nAbstract: We introduce a notion of global dimension for a triangulated category relative to a compact silting object. We prove that the finiteness of this dimension is an intrinsic property of the triangulated category itself and, therefore, independent of the choice of the silting object. Focusing on the setup of connective differential graded (dg) algebras, we analyse the behaviour of global dimension under dg algebra homomorphisms and establish explicit bounds. This allows us to deduce a bound for the global dimension of certain dg quiver algebras. We also relate the regularity of the big singularity category of a proper connective dg algebra to the finiteness of its global dimension.",
+    "content": "arXiv:2604.13698v2 Announce Type: replace-cross \nAbstract: We introduce a notion of global dimension for a triangulated category relative to a compact silting object. We prove that the finiteness of this dimension is an intrinsic property of the triangulated category itself and, therefore, independent of the choice of the silting object. Focusing on the setup of connective differential graded (dg) algebras, we analyse the behaviour of global dimension under dg algebra homomorphisms and establish explicit bounds. This allows us to deduce a bound for the global dimension of certain dg quiver algebras. We also relate the regularity of the big singularity category of a proper connective dg algebra to the finiteness of its global dimension.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.CT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Adjoint Closures of Singular Quadratic Pencils and First's Pfister-Type Conjecture",
+    "pubDate": "2026-09-11 04:00:00",
+    "link": "https://arxiv.org/abs/2608.21017",
+    "guid": "oai:arXiv.org:2608.21017v3",
+    "author": "Shisong Xu",
+    "thumbnail": "",
+    "description": "arXiv:2608.21017v3 Announce Type: replace-cross \nAbstract: We construct, over every formally real field, a singular pair of quadratic forms in dimension seven whose adjoint closure equals its pencil and consists entirely of hyperbolic forms in First's sense, although the pair is not weakly hyperbolic. This disproves First's conjecture that his local--global criterion for nonsingular pairs extends to singular pairs. The example has minimal dimension over formally real number fields and real closed fields. The construction uses an explicit closure formula: adjoining a symmetric singular Kronecker block of positive minimal index to a pair with a nondegenerate first member forces the adjoint closure of the sum to equal its pencil. We determine the corresponding closure formulas for Kronecker decompositions and compute the adjoint algebra, its Jacobson radical, and the involution-trace form of the seven-dimensional example.",
+    "content": "arXiv:2608.21017v3 Announce Type: replace-cross \nAbstract: We construct, over every formally real field, a singular pair of quadratic forms in dimension seven whose adjoint closure equals its pencil and consists entirely of hyperbolic forms in First's sense, although the pair is not weakly hyperbolic. This disproves First's conjecture that his local--global criterion for nonsingular pairs extends to singular pairs. The example has minimal dimension over formally real number fields and real closed fields. The construction uses an explicit closure formula: adjoining a symmetric singular Kronecker block of positive minimal index to a pair with a nondegenerate first member forces the adjoint closure of the sum to equal its pencil. We determine the corresponding closure formulas for Kronecker decompositions and compute the adjoint algebra, its Jacobson radical, and the involution-trace form of the seven-dimensional example.",
+    "enclosure": {},
+    "categories": [
+      "math.NT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "A Simple Way of Getting Large Examples of Osborn Loops",
     "pubDate": "2026-09-10 04:00:00",
     "link": "https://arxiv.org/abs/2609.09176",
