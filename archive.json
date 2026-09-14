@@ -1,5 +1,144 @@
 [
   {
+    "title": "Notes on Reversed Products of Two Elements in Rings",
+    "pubDate": "2026-09-14 04:00:00",
+    "link": "https://arxiv.org/abs/2609.12643",
+    "guid": "oai:arXiv.org:2609.12643v1",
+    "author": "Long Wang, Tingting Li, Yuheng Liu",
+    "thumbnail": "",
+    "description": "arXiv:2609.12643v1 Announce Type: new \nAbstract: This paper investigates reversed product properties of two elements in rings. Motivated by Cline's formula, we characterize reversible and $\\ast$-reversible rings in terms of group invertible elements, EP elements, and the transfer behaviour of generalized inverses for reversed products. We prove that a unital ring $R$ is reversible if and only if $ab\\in R^{\\sharp}$ yields $ba\\in R^{\\sharp}$. For an involutive ring $R$, $R$ is $\\ast$-reversible precisely whenever $ab\\in R^{\\mathrm{EP}}$ implies $b^{\\ast}a\\in R^{\\mathrm{EP}}$. Several counterexamples are constructed to differentiate these ring classes, and the mutual inclusion relations among them are also discussed.",
+    "content": "arXiv:2609.12643v1 Announce Type: new \nAbstract: This paper investigates reversed product properties of two elements in rings. Motivated by Cline's formula, we characterize reversible and $\\ast$-reversible rings in terms of group invertible elements, EP elements, and the transfer behaviour of generalized inverses for reversed products. We prove that a unital ring $R$ is reversible if and only if $ab\\in R^{\\sharp}$ yields $ba\\in R^{\\sharp}$. For an involutive ring $R$, $R$ is $\\ast$-reversible precisely whenever $ab\\in R^{\\mathrm{EP}}$ implies $b^{\\ast}a\\in R^{\\mathrm{EP}}$. Several counterexamples are constructed to differentiate these ring classes, and the mutual inclusion relations among them are also discussed.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On the growth of Lie algebras and Jordan algebras",
+    "pubDate": "2026-09-14 04:00:00",
+    "link": "https://arxiv.org/abs/2609.12852",
+    "guid": "oai:arXiv.org:2609.12852v1",
+    "author": "Be'eri Greenfeld",
+    "thumbnail": "",
+    "description": "arXiv:2609.12852v1 Announce Type: new \nAbstract: We prove that every increasing, polynomially bounded function is realizable, up to bi-Lipschitz equivalence, as the growth function of some finitely generated Lie algebra. This does not extend to general increasing subexponential functions. We further prove that the classes of growth functions of Jordan algebras and associative algebras coincide, answering in the affirmative a question of Mart\\'inez and Zelmanov.",
+    "content": "arXiv:2609.12852v1 Announce Type: new \nAbstract: We prove that every increasing, polynomially bounded function is realizable, up to bi-Lipschitz equivalence, as the growth function of some finitely generated Lie algebra. This does not extend to general increasing subexponential functions. We further prove that the classes of growth functions of Jordan algebras and associative algebras coincide, answering in the affirmative a question of Mart\\'inez and Zelmanov.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Uniqueness of Rank-Metric Completions of Bratteli Systems",
+    "pubDate": "2026-09-14 04:00:00",
+    "link": "https://arxiv.org/abs/2609.12924",
+    "guid": "oai:arXiv.org:2609.12924v1",
+    "author": "Baojie Jiang",
+    "thumbnail": "",
+    "description": "arXiv:2609.12924v1 Announce Type: new \nAbstract: Let $R$ be a unital ring equipped with a Sylvester matrix rank function $\\rk$. A harmonic function $\\alpha$ on a Bratteli diagram $B$ defines a weighted matrix rank on the associated algebraic direct limit $A(B,R)$. We prove that, if $\\alpha$ is extreme and the total weight of blocks of any fixed bounded size tends to zero, then the rank completion of $A(B,R)$ is isomorphic to $\\mathcal M_{R,\\rk}$, the rank completion of the direct system $\\Mat_{2^k}(R)$ with connecting maps $x\\mapsto\\diag(x,x)$ and normalized ranks $2^{-k}\\rk$. The isomorphism preserves the unital $R$-algebra structure and the ranks on all rectangular matrices. The coefficient ring need not be regular, and the specified rank need not be induced from a regular ring. We recover factor-sequence uniqueness and construct corners of every prescribed rank in $(0,1]$ that are isomorphic to $\\mathcal M_{R,\\rk}$ with their normalized ranks. Examples show that the coefficient rank can affect the isomorphism type and that the completion can be non-regular and non-simple. For complex coefficients, the trace determined by $\\alpha$ gives a rank completion of the associated AF $C^*$-algebra canonically isomorphic to the affiliated-operator ring of its GNS closure. The rank completion of the algebraic direct limit can be a proper subring of this ring.",
+    "content": "arXiv:2609.12924v1 Announce Type: new \nAbstract: Let $R$ be a unital ring equipped with a Sylvester matrix rank function $\\rk$. A harmonic function $\\alpha$ on a Bratteli diagram $B$ defines a weighted matrix rank on the associated algebraic direct limit $A(B,R)$. We prove that, if $\\alpha$ is extreme and the total weight of blocks of any fixed bounded size tends to zero, then the rank completion of $A(B,R)$ is isomorphic to $\\mathcal M_{R,\\rk}$, the rank completion of the direct system $\\Mat_{2^k}(R)$ with connecting maps $x\\mapsto\\diag(x,x)$ and normalized ranks $2^{-k}\\rk$. The isomorphism preserves the unital $R$-algebra structure and the ranks on all rectangular matrices. The coefficient ring need not be regular, and the specified rank need not be induced from a regular ring. We recover factor-sequence uniqueness and construct corners of every prescribed rank in $(0,1]$ that are isomorphic to $\\mathcal M_{R,\\rk}$ with their normalized ranks. Examples show that the coefficient rank can affect the isomorphism type and that the completion can be non-regular and non-simple. For complex coefficients, the trace determined by $\\alpha$ gives a rank completion of the associated AF $C^*$-algebra canonically isomorphic to the affiliated-operator ring of its GNS closure. The rank completion of the algebraic direct limit can be a proper subring of this ring.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Weighted Poisson polynomial rings in dimension three",
+    "pubDate": "2026-09-14 04:00:00",
+    "link": "https://arxiv.org/abs/2309.00714",
+    "guid": "oai:arXiv.org:2309.00714v3",
+    "author": "Hongdi Huang, Xin Tang, Xingting Wang, James J. Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2309.00714v3 Announce Type: replace \nAbstract: We discuss Poisson structures on a weighted polynomial algebra $A:=\\Bbbk[x, y, z]$ defined by a homogeneous element $\\Omega\\in A$, called a potential. We start with classifying potentials $\\Omega$ of degree deg$(x)+$deg$(y)+$deg$(z)$ with any positive weight (deg$(x)$, deg$(y)$, deg$(z)$) and list all with isolated singularity. Based on the classification, we study the rigidity of $A$ in terms of graded twistings and classify Poisson fraction fields of $A/(\\Omega)$ for irreducible potentials. Using Poisson valuations, we characterize the Poisson automorphism group of $A$ when $\\Omega$ has an isolated singularity extending a nice result of Makar-Limanov-Turusbekova-Umirbaev. Finally, Poisson cohomology groups are computed for new classes of Poisson polynomial algebras.",
+    "content": "arXiv:2309.00714v3 Announce Type: replace \nAbstract: We discuss Poisson structures on a weighted polynomial algebra $A:=\\Bbbk[x, y, z]$ defined by a homogeneous element $\\Omega\\in A$, called a potential. We start with classifying potentials $\\Omega$ of degree deg$(x)+$deg$(y)+$deg$(z)$ with any positive weight (deg$(x)$, deg$(y)$, deg$(z)$) and list all with isolated singularity. Based on the classification, we study the rigidity of $A$ in terms of graded twistings and classify Poisson fraction fields of $A/(\\Omega)$ for irreducible potentials. Using Poisson valuations, we characterize the Poisson automorphism group of $A$ when $\\Omega$ has an isolated singularity extending a nice result of Makar-Limanov-Turusbekova-Umirbaev. Finally, Poisson cohomology groups are computed for new classes of Poisson polynomial algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Poisson valuations",
+    "pubDate": "2026-09-14 04:00:00",
+    "link": "https://arxiv.org/abs/2309.05511",
+    "guid": "oai:arXiv.org:2309.05511v2",
+    "author": "Hongdi Huang, Xin Tang, Xingting Wang, James J. Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2309.05511v2 Announce Type: replace \nAbstract: We study Poisson valuations and provide their applications in solving problems related to rigidity, automorphisms, Dixmier property, isomorphisms, and embeddings of Poisson algebras and fields.",
+    "content": "arXiv:2309.05511v2 Announce Type: replace \nAbstract: We study Poisson valuations and provide their applications in solving problems related to rigidity, automorphisms, Dixmier property, isomorphisms, and embeddings of Poisson algebras and fields.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Groupoids of finitely aligned higher-rank graphs via filters and graph morphisms",
+    "pubDate": "2026-09-14 04:00:00",
+    "link": "https://arxiv.org/abs/2509.13929",
+    "guid": "oai:arXiv.org:2509.13929v2",
+    "author": "Lisa Orloff Clark, Malcolm Jones",
+    "thumbnail": "",
+    "description": "arXiv:2509.13929v2 Announce Type: replace \nAbstract: Higher-rank graphs are certain small categories that are a higher-dimensional generalisation of both directed graphs and free monoids. Path and boundary-path groupoids of finitely aligned higher-rank graphs are often constructed using either filters or graph morphisms. We generalise the graph morphism approach to finitely aligned P-graphs where (Q, P) is a weakly quasi-lattice ordered group, and we show the filter approach and the graph morphism approach yield isomorphic path and boundary-path groupoids. To do this, we define conjugacy of partial monoid actions such that conjugate actions have isomorphic semidirect product groupoids. Combining our results with others in the literature, we survey many isomorphic presentations of path and boundary-path groupoids at different levels of generality.",
+    "content": "arXiv:2509.13929v2 Announce Type: replace \nAbstract: Higher-rank graphs are certain small categories that are a higher-dimensional generalisation of both directed graphs and free monoids. Path and boundary-path groupoids of finitely aligned higher-rank graphs are often constructed using either filters or graph morphisms. We generalise the graph morphism approach to finitely aligned P-graphs where (Q, P) is a weakly quasi-lattice ordered group, and we show the filter approach and the graph morphism approach yield isomorphic path and boundary-path groupoids. To do this, we define conjugacy of partial monoid actions such that conjugate actions have isomorphic semidirect product groupoids. Combining our results with others in the literature, we survey many isomorphic presentations of path and boundary-path groupoids at different levels of generality.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.OA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "$\\sigma$-matching and interchangeable structures on truncated polynomial algebras",
+    "pubDate": "2026-09-14 04:00:00",
+    "link": "https://arxiv.org/abs/2603.07362",
+    "guid": "oai:arXiv.org:2603.07362v4",
+    "author": "Kobiljon Abdurasulov, Jobir Adashev, Feruza Toshtemirova",
+    "thumbnail": "",
+    "description": "arXiv:2603.07362v4 Announce Type: replace \nAbstract: We describe $\\sigma$-matching, interchangeable and, as a consequence, totally compatible products on truncated polynomial algebras.",
+    "content": "arXiv:2603.07362v4 Announce Type: replace \nAbstract: We describe $\\sigma$-matching, interchangeable and, as a consequence, totally compatible products on truncated polynomial algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The Boolean spectrum of a Grothendieck category",
+    "pubDate": "2026-09-14 04:00:00",
+    "link": "https://arxiv.org/abs/2411.16309",
+    "guid": "oai:arXiv.org:2411.16309v3",
+    "author": "Henning Krause",
+    "thumbnail": "",
+    "description": "arXiv:2411.16309v3 Announce Type: replace-cross \nAbstract: A notion of support for objects in any Grothendieck category is introduced. This is based on the spectral category of a Grothendieck category and uses its Boolean lattice of localising subcategories. The support provides a classification of all subcategories that are closed under arbitrary coproducts, subobjects, and essential extensions. There is also a notion of exact support which classifies certain thick subcategories. As an application, the coproduct decompositions of objects are described in terms of Boolean lattices. Also, for any ring Crawley-Boevey's correspondence between definable subcategories of modules and closed subsets of the Ziegler spectrum is extended.",
+    "content": "arXiv:2411.16309v3 Announce Type: replace-cross \nAbstract: A notion of support for objects in any Grothendieck category is introduced. This is based on the spectral category of a Grothendieck category and uses its Boolean lattice of localising subcategories. The support provides a classification of all subcategories that are closed under arbitrary coproducts, subobjects, and essential extensions. There is also a notion of exact support which classifies certain thick subcategories. As an application, the coproduct decompositions of objects are described in terms of Boolean lattices. Also, for any ring Crawley-Boevey's correspondence between definable subcategories of modules and closed subsets of the Ziegler spectrum is extended.",
+    "enclosure": {},
+    "categories": [
+      "math.CT",
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Infinite Families of Counterexamples to a Conjecture of Liu and Qian and a Refined Inverse Theorem for Restricted Sumsets in $\\mathbb{Z}_p$",
+    "pubDate": "2026-09-14 04:00:00",
+    "link": "https://arxiv.org/abs/2609.10148",
+    "guid": "oai:arXiv.org:2609.10148v2",
+    "author": "Jiantao Li, Xinyi Liang",
+    "thumbnail": "",
+    "description": "arXiv:2609.10148v2 Announce Type: replace-cross \nAbstract: Let $p$ be a prime and let $A,B$ be nonempty subsets of the cyclic group $\\mathbb{Z}_p$ with $|A|\\neq |B|$. The Alon--Nathanson--Ruzsa theorem gives the lower bound $|A\\rplus B|\\ge \\min\\{p,\\,|A|+|B|-2\\},$ where $A\\rplus B=\\{a+b:a\\in A,\\ b\\in B,\\ a\\neq b\\}$ is the restricted sumset. The inverse problem of characterizing all critical pairs $(A,B)$ attaining equality was posed by Alon, Nathanson, and Ruzsa in 1996 and remains open. Recently, Liu and Qian solved the inverse problem under the assumption that at least one of the sets is an arithmetic progression, and proposed a conjecture for the general case. The main purpose of this paper is to show that this conjecture fails in the boundary case $|A|+|B|=p$. More precisely, we construct infinite families of non-arithmetic critical pairs $(A,B)$ with $|A|+|B|=p$ and $|A\\rplus B|=p-2$ for every prime $p\\ge 11$. These families show that the boundary case is fundamentally different from the non-boundary case. Motivated by this, we formulate and prove a refined inverse theorem under the natural hypothesis $|A|+|B|\\le p-1$, which excludes the boundary.",
+    "content": "arXiv:2609.10148v2 Announce Type: replace-cross \nAbstract: Let $p$ be a prime and let $A,B$ be nonempty subsets of the cyclic group $\\mathbb{Z}_p$ with $|A|\\neq |B|$. The Alon--Nathanson--Ruzsa theorem gives the lower bound $|A\\rplus B|\\ge \\min\\{p,\\,|A|+|B|-2\\},$ where $A\\rplus B=\\{a+b:a\\in A,\\ b\\in B,\\ a\\neq b\\}$ is the restricted sumset. The inverse problem of characterizing all critical pairs $(A,B)$ attaining equality was posed by Alon, Nathanson, and Ruzsa in 1996 and remains open. Recently, Liu and Qian solved the inverse problem under the assumption that at least one of the sets is an arithmetic progression, and proposed a conjecture for the general case. The main purpose of this paper is to show that this conjecture fails in the boundary case $|A|+|B|=p$. More precisely, we construct infinite families of non-arithmetic critical pairs $(A,B)$ with $|A|+|B|=p$ and $|A\\rplus B|=p-2$ for every prime $p\\ge 11$. These families show that the boundary case is fundamentally different from the non-boundary case. Motivated by this, we formulate and prove a refined inverse theorem under the natural hypothesis $|A|+|B|\\le p-1$, which excludes the boundary.",
+    "enclosure": {},
+    "categories": [
+      "math.NT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Invariants of Nilpotent Lie Algebras via Geometry and Algebra with a Focus on Computation",
     "pubDate": "2026-09-11 04:00:00",
     "link": "https://arxiv.org/abs/2609.10956",
