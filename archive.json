@@ -1,5 +1,159 @@
 [
   {
+    "title": "Constructive recurrences for determinants and permanents of banded Toeplitz matrices",
+    "pubDate": "2026-09-15 04:00:00",
+    "link": "https://arxiv.org/abs/2609.13674",
+    "guid": "oai:arXiv.org:2609.13674v1",
+    "author": "Max A. Alekseyev, Dmitry I. Khomovsky",
+    "thumbnail": "",
+    "description": "arXiv:2609.13674v1 Announce Type: new \nAbstract: For fixed nonnegative integers $m_1,m_2$, let $A_n=(a_{j-i})_{i,j=1}^n$ be the leading $n\\times n$ section of a Toeplitz matrix with lower and upper semibandwidths $m_1$ and $m_2$. We give two constructive Laplace-expansion methods for scalar recurrences of $\\det A_n$ and $\\perm A_n$. The increasing-rows method eliminates a fixed family of boundary cofactors and gives recurrence order at most $d=\\binom{m_1+m_2}{m_1}$ for both sequences. The row-column method closes normalized boundary minors recursively and packages them in a sparse transfer matrix. Its reachable states are classified exactly: level $j$ is indexed by a pair of $j$-subsets of $[m_1]$ and $[m_2]$. Hence the transfer dimension is $d$, and we obtain an explicit formula for the number of nonzero transitions.\n  For determinants, the complementary cofactors of the increasing-rows construction are coordinates of the classical compound companion representation. The independently constructed row-column transfer has the Widom characteristic polynomial and is generically similar to the compound transfer. Thus the order $d$ recurrence is generically minimal for the unrestricted fixed-band determinant family. For permanents the same state graph gives the binomial upper bound, without a general minimality claim. The pentadiagonal case recovers Sweet's order-six determinant recurrence and its permanent analogue, while the one-superdiagonal family gives closed scalar recurrences and rational generating functions. Position-dependent band weights preserve the finite state graph but replace the constant transfer by a cocycle. For cyclic determinants, Fourier diagonalization produces all subset products of the symbol roots and a generically minimal annihilator of degree $2^{m_1+m_2}$, corresponding to the passage from one exterior degree to the full exterior algebra.",
+    "content": "arXiv:2609.13674v1 Announce Type: new \nAbstract: For fixed nonnegative integers $m_1,m_2$, let $A_n=(a_{j-i})_{i,j=1}^n$ be the leading $n\\times n$ section of a Toeplitz matrix with lower and upper semibandwidths $m_1$ and $m_2$. We give two constructive Laplace-expansion methods for scalar recurrences of $\\det A_n$ and $\\perm A_n$. The increasing-rows method eliminates a fixed family of boundary cofactors and gives recurrence order at most $d=\\binom{m_1+m_2}{m_1}$ for both sequences. The row-column method closes normalized boundary minors recursively and packages them in a sparse transfer matrix. Its reachable states are classified exactly: level $j$ is indexed by a pair of $j$-subsets of $[m_1]$ and $[m_2]$. Hence the transfer dimension is $d$, and we obtain an explicit formula for the number of nonzero transitions.\n  For determinants, the complementary cofactors of the increasing-rows construction are coordinates of the classical compound companion representation. The independently constructed row-column transfer has the Widom characteristic polynomial and is generically similar to the compound transfer. Thus the order $d$ recurrence is generically minimal for the unrestricted fixed-band determinant family. For permanents the same state graph gives the binomial upper bound, without a general minimality claim. The pentadiagonal case recovers Sweet's order-six determinant recurrence and its permanent analogue, while the one-superdiagonal family gives closed scalar recurrences and rational generating functions. Position-dependent band weights preserve the finite state graph but replace the constant transfer by a cocycle. For cyclic determinants, Fourier diagonalization produces all subset products of the symbol roots and a generically minimal annihilator of degree $2^{m_1+m_2}$, corresponding to the passage from one exterior degree to the full exterior algebra.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Dedekind Poisson Algebras over Arbitrary Fields",
+    "pubDate": "2026-09-15 04:00:00",
+    "link": "https://arxiv.org/abs/2609.13767",
+    "guid": "oai:arXiv.org:2609.13767v1",
+    "author": "A. I. Plakosh, O. O. Pypka",
+    "thumbnail": "",
+    "description": "arXiv:2609.13767v1 Announce Type: new \nAbstract: We study Poisson algebras in which every Poisson subalgebra is a Poisson ideal, called Dedekind Poisson algebras, over arbitrary fields and without any finite-dimensionality assumption. In characteristic different from 2, combining the two operations by $x*y=xy+[x,y]$ connects the problem with Outcalt's classical classification of power-associative H-algebras and yields the same structural type. We obtain a complete classification by a direct two-operation argument valid in every characteristic. This approach also shows that characteristic 2 retains additional Poisson information which cannot be recovered from the single product $*$.",
+    "content": "arXiv:2609.13767v1 Announce Type: new \nAbstract: We study Poisson algebras in which every Poisson subalgebra is a Poisson ideal, called Dedekind Poisson algebras, over arbitrary fields and without any finite-dimensionality assumption. In characteristic different from 2, combining the two operations by $x*y=xy+[x,y]$ connects the problem with Outcalt's classical classification of power-associative H-algebras and yields the same structural type. We obtain a complete classification by a direct two-operation argument valid in every characteristic. This approach also shows that characteristic 2 retains additional Poisson information which cannot be recovered from the single product $*$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On the Structure of Low-Dimensional Poisson Algebras over Arbitrary Fields",
+    "pubDate": "2026-09-15 04:00:00",
+    "link": "https://arxiv.org/abs/2609.13784",
+    "guid": "oai:arXiv.org:2609.13784v1",
+    "author": "A. V. Petrov, O. O. Pypka",
+    "thumbnail": "",
+    "description": "arXiv:2609.13784v1 Announce Type: new \nAbstract: We investigate the structure of Poisson algebras of dimensions at most three over an arbitrary field. Our approach is based on the internal structure of the associated commutative associative and Lie algebras, with particular emphasis on the associative square $P^2$, the derived Lie algebra $[P,P]$, the Lie center, the associative annihilator, idempotents, ideals and decomposability.\n  We obtain a complete classification in dimensions one and two and give a structural classification in dimension three. In dimension two, we prove that the associative and Lie multiplications cannot be simultaneously non-zero. In dimension three, the classification is organized according to the dimension and position of the derived Lie algebra and, in the case of trivial Lie multiplication, according to the dimension of $P^2$.\n  The arbitrary-field setting leads to phenomena which do not occur over the complex field. In particular, quadratic and cubic field extensions appear naturally in the classification, some families depend on equivalence classes of symmetric bilinear forms and on the structure of three-dimensional Lie algebras over the ground field, and characteristic $2$ gives an additional family of Poisson algebras with both multiplications non-zero. Over the complex field, the resulting classification specializes, up to changes of basis and notation, to the known classifications in dimensions at most three.",
+    "content": "arXiv:2609.13784v1 Announce Type: new \nAbstract: We investigate the structure of Poisson algebras of dimensions at most three over an arbitrary field. Our approach is based on the internal structure of the associated commutative associative and Lie algebras, with particular emphasis on the associative square $P^2$, the derived Lie algebra $[P,P]$, the Lie center, the associative annihilator, idempotents, ideals and decomposability.\n  We obtain a complete classification in dimensions one and two and give a structural classification in dimension three. In dimension two, we prove that the associative and Lie multiplications cannot be simultaneously non-zero. In dimension three, the classification is organized according to the dimension and position of the derived Lie algebra and, in the case of trivial Lie multiplication, according to the dimension of $P^2$.\n  The arbitrary-field setting leads to phenomena which do not occur over the complex field. In particular, quadratic and cubic field extensions appear naturally in the classification, some families depend on equivalence classes of symmetric bilinear forms and on the structure of three-dimensional Lie algebras over the ground field, and characteristic $2$ gives an additional family of Poisson algebras with both multiplications non-zero. Over the complex field, the resulting classification specializes, up to changes of basis and notation, to the known classifications in dimensions at most three.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On flat pseudo-Euclidean solvable Malcev algebras",
+    "pubDate": "2026-09-15 04:00:00",
+    "link": "https://arxiv.org/abs/2609.13950",
+    "guid": "oai:arXiv.org:2609.13950v1",
+    "author": "Mohamed Boucetta, Hamza El Ouali, Oumaima Tibssirte",
+    "thumbnail": "",
+    "description": "arXiv:2609.13950v1 Announce Type: new \nAbstract: A pseudo-Euclidean Malcev algebra is a Malcev algebra equipped with a non-degenerate symmetric bilinear form. In this paper, we introduce a curvature operator for pseudo-Euclidean Malcev algebras, generalizing the notion of curvature for pseudo-Euclidean Lie algebras. We define flat pseudo-Euclidean Malcev algebras and show that every flat Euclidean solvable Malcev algebra which is also a Lie algebra remains flat in the classical Lie algebra curvature sense. Furthermore, we develop the flat double extension construction for flat pseudo-Euclidean Malcev algebras and prove that every flat Lorentzian Malcev algebra with a degenerate center can be obtained via the flat double extension of a flat Euclidean Malcev algebra. Moreover, we demonstrate that all flat Lorentzian nilpotent Malcev algebras arise from the flat double extension of a Euclidean abelian Lie algebras. Finally, we establish that any flat Lorentzian nilpotent Malcev algebra is necessarily a Lie algebra and is flat in the classical Lie algebra curvature sense.",
+    "content": "arXiv:2609.13950v1 Announce Type: new \nAbstract: A pseudo-Euclidean Malcev algebra is a Malcev algebra equipped with a non-degenerate symmetric bilinear form. In this paper, we introduce a curvature operator for pseudo-Euclidean Malcev algebras, generalizing the notion of curvature for pseudo-Euclidean Lie algebras. We define flat pseudo-Euclidean Malcev algebras and show that every flat Euclidean solvable Malcev algebra which is also a Lie algebra remains flat in the classical Lie algebra curvature sense. Furthermore, we develop the flat double extension construction for flat pseudo-Euclidean Malcev algebras and prove that every flat Lorentzian Malcev algebra with a degenerate center can be obtained via the flat double extension of a flat Euclidean Malcev algebra. Moreover, we demonstrate that all flat Lorentzian nilpotent Malcev algebras arise from the flat double extension of a Euclidean abelian Lie algebras. Finally, we establish that any flat Lorentzian nilpotent Malcev algebra is necessarily a Lie algebra and is flat in the classical Lie algebra curvature sense.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Extending structures for the linear framework of Universal Algebra with applications to transposed Poisson algebras",
+    "pubDate": "2026-09-15 04:00:00",
+    "link": "https://arxiv.org/abs/2609.14013",
+    "guid": "oai:arXiv.org:2609.14013v1",
+    "author": "Changhuan Liu, Tingfeng Wan, Guodong Zhou",
+    "thumbnail": "",
+    "description": "arXiv:2609.14013v1 Announce Type: new \nAbstract: We present a general study of extending structures in the linear framework of Universal Algebra, which unifies many existing results and contains applications to various Poisson type algebras including transposed Poisson algebras.",
+    "content": "arXiv:2609.14013v1 Announce Type: new \nAbstract: We present a general study of extending structures in the linear framework of Universal Algebra, which unifies many existing results and contains applications to various Poisson type algebras including transposed Poisson algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Matrices over non-commutative rings as sums of fifth and seventh powers",
+    "pubDate": "2026-09-15 04:00:00",
+    "link": "https://arxiv.org/abs/2609.14064",
+    "guid": "oai:arXiv.org:2609.14064v1",
+    "author": "Tanay Kochrekar, A. S. Garge",
+    "thumbnail": "",
+    "description": "arXiv:2609.14064v1 Announce Type: new \nAbstract: Let $R$ be non-commutative ring with unity. In this paper, we prove that a given matrix in $M_n(R)$ is a sum of $p$-th powers in $M_n(R)$, where $n ",
+    "content": "arXiv:2609.14064v1 Announce Type: new \nAbstract: Let $R$ be non-commutative ring with unity. In this paper, we prove that a given matrix in $M_n(R)$ is a sum of $p$-th powers in $M_n(R)$, where $n ",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.NT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Yang-Baxter permutation group actions on distributive Yang-Baxter algebras",
+    "pubDate": "2026-09-15 04:00:00",
+    "link": "https://arxiv.org/abs/2609.14220",
+    "guid": "oai:arXiv.org:2609.14220v1",
+    "author": "Ji-Wei He, Xiaolan Yu",
+    "thumbnail": "",
+    "description": "arXiv:2609.14220v1 Announce Type: new \nAbstract: Let $(X,r)$ be a distributive set-theoretical solution of the Yang-Baxter equation and $\\mathcal{A}(X,r)$ the associated Yang-Baxter algebra. We prove that $\\mathcal{A}(X,r)$ is isomorphic to a skew polynomial algebra and compute its Nakayama automorphism explicitly. We study the action of the permutation group $\\mathcal{G}(X,r)$. It induces a subgroup $\\overline{\\mathcal{G}}\\subseteq\\operatorname{Aut}(\\mathcal{A}(X,r))$, the induced automorphism group, for which $\\mathcal{A}(X,r)$ is a faithful module. We characterize when $\\overline{\\mathcal{G}}$ is a reflection group and, in that case, describe the invariant subalgebra $\\mathcal{A}(X,r)^{\\overline{\\mathcal{G}}}$ together with its Jacobian, reflection arrangement and discriminant. We further establish the Auslander theorem for a large class of distributive Yang-Baxter algebras. Finally, for a class of nontrivial distributive Yang--Baxter algebras, we obtain a lower bound for the pertinency of the group action induced by the permutation group.",
+    "content": "arXiv:2609.14220v1 Announce Type: new \nAbstract: Let $(X,r)$ be a distributive set-theoretical solution of the Yang-Baxter equation and $\\mathcal{A}(X,r)$ the associated Yang-Baxter algebra. We prove that $\\mathcal{A}(X,r)$ is isomorphic to a skew polynomial algebra and compute its Nakayama automorphism explicitly. We study the action of the permutation group $\\mathcal{G}(X,r)$. It induces a subgroup $\\overline{\\mathcal{G}}\\subseteq\\operatorname{Aut}(\\mathcal{A}(X,r))$, the induced automorphism group, for which $\\mathcal{A}(X,r)$ is a faithful module. We characterize when $\\overline{\\mathcal{G}}$ is a reflection group and, in that case, describe the invariant subalgebra $\\mathcal{A}(X,r)^{\\overline{\\mathcal{G}}}$ together with its Jacobian, reflection arrangement and discriminant. We further establish the Auslander theorem for a large class of distributive Yang-Baxter algebras. Finally, for a class of nontrivial distributive Yang--Baxter algebras, we obtain a lower bound for the pertinency of the group action induced by the permutation group.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Fast tensor transforms and ring-valued orthogonal matrices: an application to cryptography",
+    "pubDate": "2026-09-15 04:00:00",
+    "link": "https://arxiv.org/abs/2609.14782",
+    "guid": "oai:arXiv.org:2609.14782v1",
+    "author": "Jacques Peyri\\`ere",
+    "thumbnail": "",
+    "description": "arXiv:2609.14782v1 Announce Type: new \nAbstract: We present a generalization of the Fast Fourier and fast Walsh\n  transform algorithms to tensor products of $n$ arbitrary $q\\times q$\n  matrices over a commutative ring, reducing the cost of applying such\n  a tensor product from $q^{2n}$ to $nq^{n}$ ring operations. We then\n  give an explicit construction of square orthogonal matrices over a\n  commutative unitary ring, starting from a prescribed first row, and\n  specialize this construction to ${\\mathbb Z}/256{\\mathbb\n  Z}$. Combining these two ingredients, we propose a symmetric\n  cryptosystem in which the secret key determines~$n$ orthogonal\n  matrices over ${\\mathbb Z}/256{\\mathbb Z}$ whose tensor product\n  encrypts a block of $q^n$ bytes; encryption and decryption both\n  exploit the fast tensor product algorithm. We give three examples of\n  implementations.",
+    "content": "arXiv:2609.14782v1 Announce Type: new \nAbstract: We present a generalization of the Fast Fourier and fast Walsh\n  transform algorithms to tensor products of $n$ arbitrary $q\\times q$\n  matrices over a commutative ring, reducing the cost of applying such\n  a tensor product from $q^{2n}$ to $nq^{n}$ ring operations. We then\n  give an explicit construction of square orthogonal matrices over a\n  commutative unitary ring, starting from a prescribed first row, and\n  specialize this construction to ${\\mathbb Z}/256{\\mathbb\n  Z}$. Combining these two ingredients, we propose a symmetric\n  cryptosystem in which the secret key determines~$n$ orthogonal\n  matrices over ${\\mathbb Z}/256{\\mathbb Z}$ whose tensor product\n  encrypts a block of $q^n$ bytes; encryption and decryption both\n  exploit the fast tensor product algorithm. We give three examples of\n  implementations.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "PHP decompositions and primitivity of group rings for linear groups",
+    "pubDate": "2026-09-15 04:00:00",
+    "link": "https://arxiv.org/abs/2609.14814",
+    "guid": "oai:arXiv.org:2609.14814v1",
+    "author": "Felipe I. Flores",
+    "thumbnail": "",
+    "description": "arXiv:2609.14814v1 Announce Type: new \nAbstract: We show that every countable group $G$ that has Ozawa's property $\\rm PHP$ and contains a non-abelian free subgroup has the following property: the group ring $KG$ is primitive for any field $K$. As a consequence, we deduce that all non-trivial countable linear groups with trivial amenable radical have this property. Along the way, we prove that the class of groups with $\\rm PHP$ enjoys some permanence properties that are of independent interest.",
+    "content": "arXiv:2609.14814v1 Announce Type: new \nAbstract: We show that every countable group $G$ that has Ozawa's property $\\rm PHP$ and contains a non-abelian free subgroup has the following property: the group ring $KG$ is primitive for any field $K$. As a consequence, we deduce that all non-trivial countable linear groups with trivial amenable radical have this property. Along the way, we prove that the class of groups with $\\rm PHP$ enjoys some permanence properties that are of independent interest.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GR",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The K\\\"othe conjecture via point modules",
+    "pubDate": "2026-09-15 04:00:00",
+    "link": "https://arxiv.org/abs/2609.15080",
+    "guid": "oai:arXiv.org:2609.15080v1",
+    "author": "B. Greenfeld, B. King, L. Vendramin",
+    "thumbnail": "",
+    "description": "arXiv:2609.15080v1 Announce Type: new \nAbstract: We give a short construction refuting the K\\\"othe Conjecture. The construction is based on the point module approach to the problem, introduced by the first-named and second-named authors together with Easton and Ford.",
+    "content": "arXiv:2609.15080v1 Announce Type: new \nAbstract: We give a short construction refuting the K\\\"othe Conjecture. The construction is based on the point module approach to the problem, introduced by the first-named and second-named authors together with Easton and Ford.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Notes on Reversed Products of Two Elements in Rings",
     "pubDate": "2026-09-14 04:00:00",
     "link": "https://arxiv.org/abs/2609.12643",
