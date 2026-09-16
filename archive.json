@@ -1,5 +1,135 @@
 [
   {
+    "title": "Relative commuting probability and BFC-type results for finite skew braces",
+    "pubDate": "2026-09-16 04:00:00",
+    "link": "https://arxiv.org/abs/2609.16269",
+    "guid": "oai:arXiv.org:2609.16269v1",
+    "author": "Susanta Mondal, Pavel Shumyatsky, Marco Trombetti, Manoj Kumar Yadav",
+    "thumbnail": "",
+    "description": "arXiv:2609.16269v1 Announce Type: new \nAbstract: We develop a probabilistic approach to the structure of finite skew left braces, motivated both by classical commuting probability in finite group theory and by the role of skew left braces in the study of set-theoretic solutions of the Yang--Baxter equation. We introduce relative commuting probability for skew left braces and establish analogues of several classical structural results, including relative BFC-type theorems. For natural classes of finite skew left braces, we show that a positive lower bound for the commuting probability forces the existence of a large section which is trivial up to bounded subgroups. We also study the probability that two elements generate a trivial sub-skew brace and a Sylow-local version of commuting probability, obtaining further structural consequences. Finally, we introduce a commuting probability for finite non-degenerate set-theoretic solutions of the Yang--Baxter equation. Under natural hypotheses on the associated structure skew brace $G(X,r)$, a positive lower bound for this probability yields a bound on $|G(X,r):\\Soc(G(X,r))|$ depending only on the probability and on $|X|$.",
+    "content": "arXiv:2609.16269v1 Announce Type: new \nAbstract: We develop a probabilistic approach to the structure of finite skew left braces, motivated both by classical commuting probability in finite group theory and by the role of skew left braces in the study of set-theoretic solutions of the Yang--Baxter equation. We introduce relative commuting probability for skew left braces and establish analogues of several classical structural results, including relative BFC-type theorems. For natural classes of finite skew left braces, we show that a positive lower bound for the commuting probability forces the existence of a large section which is trivial up to bounded subgroups. We also study the probability that two elements generate a trivial sub-skew brace and a Sylow-local version of commuting probability, obtaining further structural consequences. Finally, we introduce a commuting probability for finite non-degenerate set-theoretic solutions of the Yang--Baxter equation. Under natural hypotheses on the associated structure skew brace $G(X,r)$, a positive lower bound for this probability yields a bound on $|G(X,r):\\Soc(G(X,r))|$ depending only on the probability and on $|X|$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.PR"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Regular Sublattices, O Closed Ideals and Dedekind MacNeille Completions",
+    "pubDate": "2026-09-16 04:00:00",
+    "link": "https://arxiv.org/abs/2609.16280",
+    "guid": "oai:arXiv.org:2609.16280v1",
+    "author": "Kevin Abela, Emmanuel Chetcuti",
+    "thumbnail": "",
+    "description": "arXiv:2609.16280v1 Announce Type: new \nAbstract: We study the behaviour of regular sublattices of infinitely distributive lattices under completion. Using order convergence, we associate with an infinitely distributive lattice \\(L\\) the complete lattice \\(\\mathfrak I_L\\) of \\(O\\)-closed order ideals and describe the corresponding closure operator \\(A\\mapsto A^{\\sigma_L}\\). We show that every lattice homomorphism induces a canonical map between the corresponding lattices of \\(O\\)-closed ideals, and compare \\(\\mathfrak I_L\\) with the Dedekind--MacNeille completion \\(\\DM(L)\\). When \\(\\DM(L)\\) remains infinitely distributive, this comparison yields extension results for lattice homomorphisms and a join-regular realization of \\(\\DM(Y)\\) inside an ambient complete lattice.\n  We also determine a sharp finite-dimensional obstruction. We construct an infinitely distributive regular sublattice \\(L\\subseteq\\mathbb R^3\\) whose Dedekind--MacNeille completion is not even modular, and therefore cannot be realized as a sublattice of \\(\\mathbb R^3\\). In contrast, we prove that the Dedekind--MacNeille completion of every bounded sublattice of a product of two chains is distributive. Thus dimension three is the least dimension in which a bounded sublattice of a finite product of real chains can have a non-distributive Dedekind--MacNeille completion.",
+    "content": "arXiv:2609.16280v1 Announce Type: new \nAbstract: We study the behaviour of regular sublattices of infinitely distributive lattices under completion. Using order convergence, we associate with an infinitely distributive lattice \\(L\\) the complete lattice \\(\\mathfrak I_L\\) of \\(O\\)-closed order ideals and describe the corresponding closure operator \\(A\\mapsto A^{\\sigma_L}\\). We show that every lattice homomorphism induces a canonical map between the corresponding lattices of \\(O\\)-closed ideals, and compare \\(\\mathfrak I_L\\) with the Dedekind--MacNeille completion \\(\\DM(L)\\). When \\(\\DM(L)\\) remains infinitely distributive, this comparison yields extension results for lattice homomorphisms and a join-regular realization of \\(\\DM(Y)\\) inside an ambient complete lattice.\n  We also determine a sharp finite-dimensional obstruction. We construct an infinitely distributive regular sublattice \\(L\\subseteq\\mathbb R^3\\) whose Dedekind--MacNeille completion is not even modular, and therefore cannot be realized as a sublattice of \\(\\mathbb R^3\\). In contrast, we prove that the Dedekind--MacNeille completion of every bounded sublattice of a product of two chains is distributive. Thus dimension three is the least dimension in which a bounded sublattice of a finite product of real chains can have a non-distributive Dedekind--MacNeille completion.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The prime spectrum of the talented monoid of a higher-rank graph and applications",
+    "pubDate": "2026-09-16 04:00:00",
+    "link": "https://arxiv.org/abs/2609.16632",
+    "guid": "oai:arXiv.org:2609.16632v1",
+    "author": "Roozbeh Hazrat, Promit Mukherjee",
+    "thumbnail": "",
+    "description": "arXiv:2609.16632v1 Announce Type: new \nAbstract: In this paper, we further investigate the role of the graded Grothendieck group $K_0^{\\gr}$ and its positive cone (the talented monoid) as an effective tool for distinguishing structural types of algebras associated to higher-rank $k$-graphs. We study the prime spectrum (the space of all prime $\\Gamma$-order ideals equipped with a Zariski-like topology) of a general commutative $\\Gamma$-monoid and establish that this space is spectral in the sense of Hochster, provided the monoid has the refinement property and every $\\Gamma$-order ideal is finitely generated. As a result we are able to show that the prime spectrum of the talented monoid of a row-finite $k$-graph without sources and with a finite set of vertices is spectral.\n  For any row-finite $k$-graph $\\Lambda$ without sources, one of our main results says that the space of all graded prime ideals of the Kumjian--Pask algebra $\\KP(\\Lambda)$ is homeomorphic to both the space of all prime $\\mathbb{Z}^k$-order ideals and the space of all prime $\\mathbb{Z}^k$-filters of the talented monoid $T_\\Lambda$. Another main result of this paper provides a complete topological description of regular $\\Gamma$-order ideals of a refinement $\\Gamma$-monoid: a $\\Gamma$-order ideal $J$ is regular if and only if the corresponding closed (resp., open) set $V(J)$ (resp., $D(J)$) is regular closed (resp., regular open) in the prime spectrum. As an application of these results, we establish a lattice isomorphism between the lattice of all regular $\\mathbb{Z}^k$-order ideals of the talented monoid and the lattice of all regular graded ideals of the Kumjian--Pask algebra via a spectrum-theoretic approach.",
+    "content": "arXiv:2609.16632v1 Announce Type: new \nAbstract: In this paper, we further investigate the role of the graded Grothendieck group $K_0^{\\gr}$ and its positive cone (the talented monoid) as an effective tool for distinguishing structural types of algebras associated to higher-rank $k$-graphs. We study the prime spectrum (the space of all prime $\\Gamma$-order ideals equipped with a Zariski-like topology) of a general commutative $\\Gamma$-monoid and establish that this space is spectral in the sense of Hochster, provided the monoid has the refinement property and every $\\Gamma$-order ideal is finitely generated. As a result we are able to show that the prime spectrum of the talented monoid of a row-finite $k$-graph without sources and with a finite set of vertices is spectral.\n  For any row-finite $k$-graph $\\Lambda$ without sources, one of our main results says that the space of all graded prime ideals of the Kumjian--Pask algebra $\\KP(\\Lambda)$ is homeomorphic to both the space of all prime $\\mathbb{Z}^k$-order ideals and the space of all prime $\\mathbb{Z}^k$-filters of the talented monoid $T_\\Lambda$. Another main result of this paper provides a complete topological description of regular $\\Gamma$-order ideals of a refinement $\\Gamma$-monoid: a $\\Gamma$-order ideal $J$ is regular if and only if the corresponding closed (resp., open) set $V(J)$ (resp., $D(J)$) is regular closed (resp., regular open) in the prime spectrum. As an application of these results, we establish a lattice isomorphism between the lattice of all regular $\\mathbb{Z}^k$-order ideals of the talented monoid and the lattice of all regular graded ideals of the Kumjian--Pask algebra via a spectrum-theoretic approach.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GN",
+      "math.OA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Reduction techniques for the derived delooping levels",
+    "pubDate": "2026-09-16 04:00:00",
+    "link": "https://arxiv.org/abs/2609.16957",
+    "guid": "oai:arXiv.org:2609.16957v1",
+    "author": "Kaili Wu, Jiaqun Wei, Dajun Liu, Weiqing Cao",
+    "thumbnail": "",
+    "description": "arXiv:2609.16957v1 Announce Type: new \nAbstract: The derived delooping level is a recently introduced homological invariant that provides an upper bound for the finitistic dimension of the opposite algebra. In this paper, we employ two reduction techniques-cleft extensions and recollements-to study the finiteness of the derived delooping level of finite-dimensional algebras over a field. By applying the theory of cleft extensions to bound quiver algebras, we establish arrow-removal operations that preserve the finiteness of the derived delooping level. In parallel, using recollement techniques, we develop vertex-removal operations with the same finiteness-preserving property. We conclude with several examples illustrating the applicability and effectiveness of these reduction methods.",
+    "content": "arXiv:2609.16957v1 Announce Type: new \nAbstract: The derived delooping level is a recently introduced homological invariant that provides an upper bound for the finitistic dimension of the opposite algebra. In this paper, we employ two reduction techniques-cleft extensions and recollements-to study the finiteness of the derived delooping level of finite-dimensional algebras over a field. By applying the theory of cleft extensions to bound quiver algebras, we establish arrow-removal operations that preserve the finiteness of the derived delooping level. In parallel, using recollement techniques, we develop vertex-removal operations with the same finiteness-preserving property. We conclude with several examples illustrating the applicability and effectiveness of these reduction methods.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A Differential Algebraic Framework for Boundary Layer $\\alpha$-Models",
+    "pubDate": "2026-09-16 04:00:00",
+    "link": "https://arxiv.org/abs/2609.16442",
+    "guid": "oai:arXiv.org:2609.16442v1",
+    "author": "C. Valencia-Negrete, J. Flores, M. Perez, M. Romero de Terreros, M. Favela",
+    "thumbnail": "",
+    "description": "arXiv:2609.16442v1 Announce Type: cross \nAbstract: By addressing the problem of describing the differences between the saturation monoids of the Prandtl and Leray-$\\alpha$ boundary layers, and algebraically distinguishing the action of the Helmholtz operator, we can show that, when the modification of the vector field is halted at a minimum scale determined by the differential filter, the paradox of constructing a solution that reaches infinite velocity in a finite time is avoided. Furthermore, it allows us to obtain the coefficients of the Taylor expansion near the wall for boundary layers where the Helmholtz operator has been applied.",
+    "content": "arXiv:2609.16442v1 Announce Type: cross \nAbstract: By addressing the problem of describing the differences between the saturation monoids of the Prandtl and Leray-$\\alpha$ boundary layers, and algebraically distinguishing the action of the Helmholtz operator, we can show that, when the modification of the vector field is halted at a minimum scale determined by the differential filter, the paradox of constructing a solution that reaches infinite velocity in a finite time is avoided. Furthermore, it allows us to obtain the coefficients of the Taylor expansion near the wall for boundary layers where the Helmholtz operator has been applied.",
+    "enclosure": {},
+    "categories": [
+      "math.AP",
+      "math-ph",
+      "math.MP",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Wreath products of cocommutative Hopf algebras",
+    "pubDate": "2026-09-16 04:00:00",
+    "link": "https://arxiv.org/abs/1407.3835",
+    "guid": "oai:arXiv.org:1407.3835v2",
+    "author": "Laurent Bartholdi",
+    "thumbnail": "",
+    "description": "arXiv:1407.3835v2 Announce Type: replace \nAbstract: We define wreath products of cocommutative Hopf algebras, and show that they enjoy a universal property for coalgebra-split extensions, analogous to the Kaloujnine-Krasner theorem for groups.\n  We show that the group ring of a wreath product of groups is the wreath product of their group rings. The enveloping algebra of the wreath product of two Lie algebras is the irreducible component containing the identity in the wreath product of their enveloping algebras.\n  We recover the aforementioned result that group extensions may be classified as certain subgroups of a wreath product, and that Lie algebra extensions may also be classified as certain subalgebras of a wreath product.",
+    "content": "arXiv:1407.3835v2 Announce Type: replace \nAbstract: We define wreath products of cocommutative Hopf algebras, and show that they enjoy a universal property for coalgebra-split extensions, analogous to the Kaloujnine-Krasner theorem for groups.\n  We show that the group ring of a wreath product of groups is the wreath product of their group rings. The enveloping algebra of the wreath product of two Lie algebras is the irreducible component containing the identity in the wreath product of their enveloping algebras.\n  We recover the aforementioned result that group extensions may be classified as certain subgroups of a wreath product, and that Lie algebra extensions may also be classified as certain subalgebras of a wreath product.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CT",
+      "math.GR"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Polynomial Identities and Codimensions of Certain Three-Dimensional Metabelian Non-Lie Leibniz Algebras",
+    "pubDate": "2026-09-16 04:00:00",
+    "link": "https://arxiv.org/abs/2512.12282",
+    "guid": "oai:arXiv.org:2512.12282v3",
+    "author": "Luis Fertunani, Claudemir Fideles, Airton Muniz",
+    "thumbnail": "",
+    "description": "arXiv:2512.12282v3 Announce Type: replace \nAbstract: Over an arbitrary field, we conduct a comprehensive study of the polynomial identities and codimensions of two- and three-dimensional metabelian non-Lie Leibniz algebras. In addition, we compute the images of multihomogeneous polynomials on two-dimensional Leibniz algebras and, as a consequence, prove that the image of any multilinear polynomial evaluated on such algebras is always a vector space. Our analysis includes the three nontrivial isomorphism classes in dimension two and the ten isomorphism classes in dimension three, all of which are metabelian. In particular, we determine finite bases for their corresponding $T$-ideals and provide explicit bases for the associated relatively free graded algebras.",
+    "content": "arXiv:2512.12282v3 Announce Type: replace \nAbstract: Over an arbitrary field, we conduct a comprehensive study of the polynomial identities and codimensions of two- and three-dimensional metabelian non-Lie Leibniz algebras. In addition, we compute the images of multihomogeneous polynomials on two-dimensional Leibniz algebras and, as a consequence, prove that the image of any multilinear polynomial evaluated on such algebras is always a vector space. Our analysis includes the three nontrivial isomorphism classes in dimension two and the ten isomorphism classes in dimension three, all of which are metabelian. In particular, we determine finite bases for their corresponding $T$-ideals and provide explicit bases for the associated relatively free graded algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Gorenstein homological invariants and monoidal model categories of Hopf algebras",
+    "pubDate": "2026-09-16 04:00:00",
+    "link": "https://arxiv.org/abs/2601.20249",
+    "guid": "oai:arXiv.org:2601.20249v2",
+    "author": "Wei Ren, Ruipeng Zhu",
+    "thumbnail": "",
+    "description": "arXiv:2601.20249v2 Announce Type: replace \nAbstract: Let $H$ be a Hopf algebra over a field $k$ with a bijective antipode. It is proved that the Gorenstein global dimension of $H$ coincides with the Gorenstein projective dimension of the trivial left (or right) $H$-module $k$. Then, $H$ is finite dimensional if and only if the Gorenstein projective dimension of $k$ is trivial. Although monoidal Morita-Takeuchi equivalence of Hopf algebras does not preserve the global dimension, we demonstrate that it does preserve the Gorenstein global dimension and the Artin-Schelter Gorenstein property; this supports Brown-Goodearl's question of whether every noetherian (affine) Hopf algebra is AS Gorenstein. Finally, for $H$ and an $H$-Galois object $B$, we show the categories of modules $_H\\mathcal{M}$ and $_B\\mathcal{M}_B^H$ are monoidal model categories regarding Gorenstein projective model structure, provided that the Gorenstein global dimension of $H$ is finite. The corresponding stable categories are tensor triangulated categories.",
+    "content": "arXiv:2601.20249v2 Announce Type: replace \nAbstract: Let $H$ be a Hopf algebra over a field $k$ with a bijective antipode. It is proved that the Gorenstein global dimension of $H$ coincides with the Gorenstein projective dimension of the trivial left (or right) $H$-module $k$. Then, $H$ is finite dimensional if and only if the Gorenstein projective dimension of $k$ is trivial. Although monoidal Morita-Takeuchi equivalence of Hopf algebras does not preserve the global dimension, we demonstrate that it does preserve the Gorenstein global dimension and the Artin-Schelter Gorenstein property; this supports Brown-Goodearl's question of whether every noetherian (affine) Hopf algebra is AS Gorenstein. Finally, for $H$ and an $H$-Galois object $B$, we show the categories of modules $_H\\mathcal{M}$ and $_B\\mathcal{M}_B^H$ are monoidal model categories regarding Gorenstein projective model structure, provided that the Gorenstein global dimension of $H$ is finite. The corresponding stable categories are tensor triangulated categories.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.KT",
+      "math.QA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Constructive recurrences for determinants and permanents of banded Toeplitz matrices",
     "pubDate": "2026-09-15 04:00:00",
     "link": "https://arxiv.org/abs/2609.13674",
