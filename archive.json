@@ -1,5 +1,164 @@
 [
   {
+    "title": "Idempotent-free non-solvable evolution algebras over $\\mathbb{C}$",
+    "pubDate": "2026-09-23 04:00:00",
+    "link": "https://arxiv.org/abs/2609.25023",
+    "guid": "oai:arXiv.org:2609.25023v1",
+    "author": "Xing-Yu Hu, Ran Wen",
+    "thumbnail": "",
+    "description": "arXiv:2609.25023v1 Announce Type: new \nAbstract: A recent conjecture states that a finite-dimensional complex evolution algebra is solvable if and only if it has no non-zero idempotents. We exhibit a three-dimensional counterexample over $\\mathbb{C}$ whose isomorphism class already appears in the classification of three-dimensional complex evolution algebras. Since the conjecture is known in dimensions one and two, this counterexample has the smallest possible dimension. The algebra is defined over every field of characteristic different from $2$ and is the exceptional member of a one-parameter family of pairwise non-isomorphic non-solvable evolution algebras whose idempotents are determined explicitly. For the exceptional parameter, the derived series stabilises at a non-zero two-dimensional subalgebra whose only idempotent is zero. Direct sums with zero algebras give complex counterexamples in every dimension at least three. We also prove the conjectured equivalence whenever the stable term of the derived series is an evolution algebra.",
+    "content": "arXiv:2609.25023v1 Announce Type: new \nAbstract: A recent conjecture states that a finite-dimensional complex evolution algebra is solvable if and only if it has no non-zero idempotents. We exhibit a three-dimensional counterexample over $\\mathbb{C}$ whose isomorphism class already appears in the classification of three-dimensional complex evolution algebras. Since the conjecture is known in dimensions one and two, this counterexample has the smallest possible dimension. The algebra is defined over every field of characteristic different from $2$ and is the exceptional member of a one-parameter family of pairwise non-isomorphic non-solvable evolution algebras whose idempotents are determined explicitly. For the exceptional parameter, the derived series stabilises at a non-zero two-dimensional subalgebra whose only idempotent is zero. Direct sums with zero algebras give complex counterexamples in every dimension at least three. We also prove the conjectured equivalence whenever the stable term of the derived series is an evolution algebra.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Reflectors and the Globalization Problem for Partial Actions of Semiconstellations",
+    "pubDate": "2026-09-23 04:00:00",
+    "link": "https://arxiv.org/abs/2609.25346",
+    "guid": "oai:arXiv.org:2609.25346v1",
+    "author": "Rafael Haag, Tha\\'isa Tamusiunas",
+    "thumbnail": "",
+    "description": "arXiv:2609.25346v1 Announce Type: new \nAbstract: We introduce semiconstellations and restriction semiconstellations, together with their actions on sets, providing a common setting for partial actions of categories, inverse semigroupoids, restriction semigroups, and semigroupoids. We then investigate the \\emph{globalization problem}, which asks whether every partial action can, up to isomorphism, be obtained by restricting a global action. A distinctive feature of our approach is the use of reflectors not only to construct globalizations, but also to study when partial actions are globalizable. We show that every partial action of a restriction semiconstellation admits a reflector in the full subcategory of $S$-algebras consisting of what we call \\emph{almost global actions}, and investigate conditions under which this reflector provides a globalization. As an application, we obtain a positive answer to the globalization problem for partial actions of restriction semigroupoids on sets, and consequently for restriction semigroups and restriction categories. In contrast, the answer is negative for restriction semiconstellations in general. Finally, given a semiconstellation $S$ and a suitable equivalence relation $R$ on $S$, we introduce the notion of an \\emph{$R$-compatible action of} $S$ and construct a restriction semiconstellation $S^R$. We then show that partial and $R$-compatible actions of $S$ correspond, respectively, to partial and global actions of $S^R$. In this way, the globalization problem for semiconstellations can be reduced to the corresponding problem for restriction semiconstellations.",
+    "content": "arXiv:2609.25346v1 Announce Type: new \nAbstract: We introduce semiconstellations and restriction semiconstellations, together with their actions on sets, providing a common setting for partial actions of categories, inverse semigroupoids, restriction semigroups, and semigroupoids. We then investigate the \\emph{globalization problem}, which asks whether every partial action can, up to isomorphism, be obtained by restricting a global action. A distinctive feature of our approach is the use of reflectors not only to construct globalizations, but also to study when partial actions are globalizable. We show that every partial action of a restriction semiconstellation admits a reflector in the full subcategory of $S$-algebras consisting of what we call \\emph{almost global actions}, and investigate conditions under which this reflector provides a globalization. As an application, we obtain a positive answer to the globalization problem for partial actions of restriction semigroupoids on sets, and consequently for restriction semigroups and restriction categories. In contrast, the answer is negative for restriction semiconstellations in general. Finally, given a semiconstellation $S$ and a suitable equivalence relation $R$ on $S$, we introduce the notion of an \\emph{$R$-compatible action of} $S$ and construct a restriction semiconstellation $S^R$. We then show that partial and $R$-compatible actions of $S$ correspond, respectively, to partial and global actions of $S^R$. In this way, the globalization problem for semiconstellations can be reduced to the corresponding problem for restriction semiconstellations.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On the Peirce spectral rigidity of decorated incidence algebras",
+    "pubDate": "2026-09-23 04:00:00",
+    "link": "https://arxiv.org/abs/2609.25353",
+    "guid": "oai:arXiv.org:2609.25353v1",
+    "author": "Daniel J. F. Fox, Vladimir G. Tkachev",
+    "thumbnail": "",
+    "description": "arXiv:2609.25353v1 Announce Type: new \nAbstract: The multiplication operator of an idempotent in a metrized commutative nonassociative algebra is a self-adjoint linear endomorphism whose spectrum reflects the algebraic and geometric structure encoded in the algebra. Although for general algebras the spectra of idempotents can behave arbitrarily, for the most interesting classes -- among them algebras of Clifford and Jordan type arising in geometry -- the spectrum is highly constrained. We consider a family of algebras determined by a partial Steiner triple system (PSTS) with blocks decorated by signs, each block determining an idempotent; even for the simplest PSTS the resulting algebras can be quite complicated. For decorations of the Grassmannian PSTS $G_2(m)$, whose blocks are $3$-subsets of an $m$-element set and whose points parametrize an underlying incidence geometry, the spectra behave rigidly: the spectrum with multiplicity of a block idempotent is a function of a single combinatorial parameter, the number of negatively signed Pasch configurations -- quadrilateral subconfigurations -- containing the block. The resulting block spectra organize into a spectral profile, recovered by binomial inversion from a hierarchy of moment invariants. For a distinguished family of decorations, the associated algebras are axial algebras satisfying a fusion law independent of $m$, and for these algebras there is given an alternative explicit matrix model exhibiting the rigidity directly; the even part of this model is a direct sum containing a polar algebra summand, linking the construction to polar algebras and symmetric Clifford systems.",
+    "content": "arXiv:2609.25353v1 Announce Type: new \nAbstract: The multiplication operator of an idempotent in a metrized commutative nonassociative algebra is a self-adjoint linear endomorphism whose spectrum reflects the algebraic and geometric structure encoded in the algebra. Although for general algebras the spectra of idempotents can behave arbitrarily, for the most interesting classes -- among them algebras of Clifford and Jordan type arising in geometry -- the spectrum is highly constrained. We consider a family of algebras determined by a partial Steiner triple system (PSTS) with blocks decorated by signs, each block determining an idempotent; even for the simplest PSTS the resulting algebras can be quite complicated. For decorations of the Grassmannian PSTS $G_2(m)$, whose blocks are $3$-subsets of an $m$-element set and whose points parametrize an underlying incidence geometry, the spectra behave rigidly: the spectrum with multiplicity of a block idempotent is a function of a single combinatorial parameter, the number of negatively signed Pasch configurations -- quadrilateral subconfigurations -- containing the block. The resulting block spectra organize into a spectral profile, recovered by binomial inversion from a hierarchy of moment invariants. For a distinguished family of decorations, the associated algebras are axial algebras satisfying a fusion law independent of $m$, and for these algebras there is given an alternative explicit matrix model exhibiting the rigidity directly; the even part of this model is a direct sum containing a polar algebra summand, linking the construction to polar algebras and symmetric Clifford systems.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On multilinear polynomial identities for $2\\times2$ matrices in characteristic $2$",
+    "pubDate": "2026-09-23 04:00:00",
+    "link": "https://arxiv.org/abs/2609.25362",
+    "guid": "oai:arXiv.org:2609.25362v1",
+    "author": "Iritan Ferreira dos Santos",
+    "thumbnail": "",
+    "description": "arXiv:2609.25362v1 Announce Type: new \nAbstract: Let $K$ be an infinite field of characteristic $2$. It is well known that the Lie algebra $\\mathfrak{gl}_2(K)=M_2(K)^{(-)}$ of all $2\\times 2$ matrices does not admit a finite basis of polynomial identities. Similarly, the finite basis problem for the associative algebra $M_2(K)$ remains open. In this note, we obtain two multilinear identities of degree $5$ for $M_2(K)$ and prove that, together with the standard polynomial of degree $4$, they generate all multilinear identities of degree up to $7$. Moreover, we prove that none of the three generators can be omitted.",
+    "content": "arXiv:2609.25362v1 Announce Type: new \nAbstract: Let $K$ be an infinite field of characteristic $2$. It is well known that the Lie algebra $\\mathfrak{gl}_2(K)=M_2(K)^{(-)}$ of all $2\\times 2$ matrices does not admit a finite basis of polynomial identities. Similarly, the finite basis problem for the associative algebra $M_2(K)$ remains open. In this note, we obtain two multilinear identities of degree $5$ for $M_2(K)$ and prove that, together with the standard polynomial of degree $4$, they generate all multilinear identities of degree up to $7$. Moreover, we prove that none of the three generators can be omitted.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A counterexample to Enochs' conjecture under $V=L$",
+    "pubDate": "2026-09-23 04:00:00",
+    "link": "https://arxiv.org/abs/2609.25495",
+    "guid": "oai:arXiv.org:2609.25495v1",
+    "author": "Chencheng Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2609.25495v1 Announce Type: new \nAbstract: Assuming the nonexistence of uncountable measurable cardinals, we construct an $\\mathbb F_2$-algebra and a covering class of right modules which is not closed under colimits of countable chains. This gives a counterexample to Enochs' conjecture under $V=L$.",
+    "content": "arXiv:2609.25495v1 Announce Type: new \nAbstract: Assuming the nonexistence of uncountable measurable cardinals, we construct an $\\mathbb F_2$-algebra and a covering class of right modules which is not closed under colimits of countable chains. This gives a counterexample to Enochs' conjecture under $V=L$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.LO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Graphs of Moore-Penrose inverse of matrices possessing the treeangle property",
+    "pubDate": "2026-09-23 04:00:00",
+    "link": "https://arxiv.org/abs/2609.25983",
+    "guid": "oai:arXiv.org:2609.25983v1",
+    "author": "A. M. Encinas, K. Kranthi Priya, K. C. Sivakumar",
+    "thumbnail": "",
+    "description": "arXiv:2609.25983v1 Announce Type: new \nAbstract: It is known that the inverse of an invertible real square matrix satisfying the treeangle property, is a treediagonal matrix. A converse statement also holds. We show that the verbatim analogues are not true for the Moore-Penrose inverse, and obtain the precise structure of graphs corresponding to the Moore-Penrose inverse of matrices possessing the treeangle property.",
+    "content": "arXiv:2609.25983v1 Announce Type: new \nAbstract: It is known that the inverse of an invertible real square matrix satisfying the treeangle property, is a treediagonal matrix. A converse statement also holds. We show that the verbatim analogues are not true for the Moore-Penrose inverse, and obtain the precise structure of graphs corresponding to the Moore-Penrose inverse of matrices possessing the treeangle property.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Stochastic realisers of non-degenerate full-degree Type II reduced Ito polynomials",
+    "pubDate": "2026-09-23 04:00:00",
+    "link": "https://arxiv.org/abs/2609.26055",
+    "guid": "oai:arXiv.org:2609.26055v1",
+    "author": "Brecht Verbeken, Vincent Ginis",
+    "thumbnail": "",
+    "description": "arXiv:2609.26055v1 Announce Type: new \nAbstract: Let $f_\\alpha(x)=(x^q-(1-\\alpha))^d-\\alpha^d x^z$, where $0",
+    "content": "arXiv:2609.26055v1 Announce Type: new \nAbstract: Let $f_\\alpha(x)=(x^q-(1-\\alpha))^d-\\alpha^d x^z$, where $0",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.PR",
+      "math.SP"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Critical Invariant Polygons and the Farey--Ito Boundary of Stochastic Spectra",
+    "pubDate": "2026-09-23 04:00:00",
+    "link": "https://arxiv.org/abs/2609.26058",
+    "guid": "oai:arXiv.org:2609.26058v1",
+    "author": "Brecht Verbeken, Vincent Ginis",
+    "thumbnail": "",
+    "description": "arXiv:2609.26058v1 Announce Type: new \nAbstract: Let $T$ be an orientation-preserving real-linear contraction of an oriented plane with nonreal eigenvalues, and let its polygonal complexity be the least number of vertices of a nondegenerate convex polygon $P$ satisfying $TP\\subseteq P$. We first develop an intrinsic contact theory for radially critical maps. Hereditary saturation, one-sided contact selection, exact contact mutations, a finite cyclic reduction, and the unimodular lattice sail lead to a contact-return normal form and a projective no-skipping principle. In an adapted complex coordinate, the resulting monodromy yields a heterogeneous Ito product and an exact lifted phase identity carried by Farey neighbors. We then apply this structure to determine, for every $n$, the union $\\Theta_n$ of the spectra of all real row-stochastic $n\\times n$ matrices. A strictly convex log-sine potential equalizes the monodromy factors and gives the sharp radial equation. Sparse stochastic matrices attain every equality point, while scalar Farey refinement proves nesting from order $n-1$ to order $n$. Together with radial filling and the unit-circle analysis, this establishes the full Farey--Ito description of the Karpelevi\\v{c} region from critical invariant polygons.",
+    "content": "arXiv:2609.26058v1 Announce Type: new \nAbstract: Let $T$ be an orientation-preserving real-linear contraction of an oriented plane with nonreal eigenvalues, and let its polygonal complexity be the least number of vertices of a nondegenerate convex polygon $P$ satisfying $TP\\subseteq P$. We first develop an intrinsic contact theory for radially critical maps. Hereditary saturation, one-sided contact selection, exact contact mutations, a finite cyclic reduction, and the unimodular lattice sail lead to a contact-return normal form and a projective no-skipping principle. In an adapted complex coordinate, the resulting monodromy yields a heterogeneous Ito product and an exact lifted phase identity carried by Farey neighbors. We then apply this structure to determine, for every $n$, the union $\\Theta_n$ of the spectra of all real row-stochastic $n\\times n$ matrices. A strictly convex log-sine potential equalizes the monodromy factors and gives the sharp radial equation. Sparse stochastic matrices attain every equality point, while scalar Farey refinement proves nesting from order $n-1$ to order $n$. Together with radial filling and the unit-circle analysis, this establishes the full Farey--Ito description of the Karpelevi\\v{c} region from critical invariant polygons.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.PR",
+      "math.SP"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Frobenius functors and $n$-torsionfree objects",
+    "pubDate": "2026-09-23 04:00:00",
+    "link": "https://arxiv.org/abs/2609.25539",
+    "guid": "oai:arXiv.org:2609.25539v1",
+    "author": "Zhibing Zhao",
+    "thumbnail": "",
+    "description": "arXiv:2609.25539v1 Announce Type: cross \nAbstract: We study $n$-torsionfree objects in abelian categories with enough projectives. Frobenius functors preserve $n$-torsionfreeness, and faithful ones reflect it. We prove that stabilization of the torsionfree filtration implies weak Gorensteinness. For Frobenius extensions satisfying a generator condition, we compare the terms of minimal injective resolutions and obtain transfer of Auslander-type conditions and of the Auslander--Gorenstein conjecture. We also compute a family of non-Gorenstein algebras whose torsionfree filtrations stabilize at level two and contain explicit nonprojective Gorenstein projective modules.",
+    "content": "arXiv:2609.25539v1 Announce Type: cross \nAbstract: We study $n$-torsionfree objects in abelian categories with enough projectives. Frobenius functors preserve $n$-torsionfreeness, and faithful ones reflect it. We prove that stabilization of the torsionfree filtration implies weak Gorensteinness. For Frobenius extensions satisfying a generator condition, we compare the terms of minimal injective resolutions and obtain transfer of Auslander-type conditions and of the Auslander--Gorenstein conjecture. We also compute a family of non-Gorenstein algebras whose torsionfree filtrations stabilize at level two and contain explicit nonprojective Gorenstein projective modules.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "K\\\"ahlerian oxidation and reduction of Lie algebras with K\\\"ahler structures",
+    "pubDate": "2026-09-23 04:00:00",
+    "link": "https://arxiv.org/abs/2609.26417",
+    "guid": "oai:arXiv.org:2609.26417v1",
+    "author": "Mustapha Bachaou, Ignacio Bajo, Mohamed Louzari",
+    "thumbnail": "",
+    "description": "arXiv:2609.26417v1 Announce Type: cross \nAbstract: A K\\\"ahler structure on a real Lie algebra $\\mathfrak{g}$ is a pair $(\\omega, J)$ of a 2-cocycle and a complex structure on $\\mathfrak{g}$ which are compatible in the sense that $J$ is skew-symmetric with respect to $\\omega$. This paper investigates K\\\"ahler structures on Lie algebras, with a particular focus on the nilpotent case. We introduce an algebraic framework for the K\\\"ahlerian reduction and oxidation of Lie algebras by one-dimensional and two-dimensional ideals. Our main structural result demonstrates that every indecomposable, quasi-nilpotent K\\\"ahlerian nilpotent Lie algebra of dimension greater than four can be inductively reconstructed through a finite sequence of K\\\"ahlerian central oxidations by planes. This reduction sequence originates from a base algebra that is either $\\{0\\}$, $\\mathbb{R}^2$, or one admitting a strongly non-nilpotent complex structure. Moreover, if the complex structure is nilpotent, all intermediate reductions also have a nilpotent complex structure.",
+    "content": "arXiv:2609.26417v1 Announce Type: cross \nAbstract: A K\\\"ahler structure on a real Lie algebra $\\mathfrak{g}$ is a pair $(\\omega, J)$ of a 2-cocycle and a complex structure on $\\mathfrak{g}$ which are compatible in the sense that $J$ is skew-symmetric with respect to $\\omega$. This paper investigates K\\\"ahler structures on Lie algebras, with a particular focus on the nilpotent case. We introduce an algebraic framework for the K\\\"ahlerian reduction and oxidation of Lie algebras by one-dimensional and two-dimensional ideals. Our main structural result demonstrates that every indecomposable, quasi-nilpotent K\\\"ahlerian nilpotent Lie algebra of dimension greater than four can be inductively reconstructed through a finite sequence of K\\\"ahlerian central oxidations by planes. This reduction sequence originates from a base algebra that is either $\\{0\\}$, $\\mathbb{R}^2$, or one admitting a strongly non-nilpotent complex structure. Moreover, if the complex structure is nilpotent, all intermediate reductions also have a nilpotent complex structure.",
+    "enclosure": {},
+    "categories": [
+      "math.DG",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Just-Infinite Loops and Loop Algebras",
     "pubDate": "2026-09-21 04:00:00",
     "link": "https://arxiv.org/abs/2609.21016",
