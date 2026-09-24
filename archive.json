@@ -1,5 +1,164 @@
 [
   {
+    "title": "Integral Dependence over One-Sided Ideals, Part II: G-Left Ideals and the K\\\"othe Problem",
+    "pubDate": "2026-09-24 04:00:00",
+    "link": "https://arxiv.org/abs/2609.26909",
+    "guid": "oai:arXiv.org:2609.26909v1",
+    "author": "Masood Aryapoor",
+    "thumbnail": "",
+    "description": "arXiv:2609.26909v1 Announce Type: new \nAbstract: We study integral dependence over left ideals using G-left ideals, namely left ideals maximal with respect to the failure of integrality of a fixed element. We establish several characterizations of G-left ideals, and show that their intersection is precisely the upper nilradical. Motivated by the K\\\"othe conjecture, we introduce the class of left KI-rings as rings in which sums of left ideals integral over a fixed left ideal remain integral over that ideal. It is shown that left artinian rings, PI-rings, algebraic algebras, and algebras of dimension smaller than the cardinality of the ground field are left KI-rings.",
+    "content": "arXiv:2609.26909v1 Announce Type: new \nAbstract: We study integral dependence over left ideals using G-left ideals, namely left ideals maximal with respect to the failure of integrality of a fixed element. We establish several characterizations of G-left ideals, and show that their intersection is precisely the upper nilradical. Motivated by the K\\\"othe conjecture, we introduce the class of left KI-rings as rings in which sums of left ideals integral over a fixed left ideal remain integral over that ideal. It is shown that left artinian rings, PI-rings, algebraic algebras, and algebras of dimension smaller than the cardinality of the ground field are left KI-rings.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Phantom categories on 3-vertex directed DG quivers",
+    "pubDate": "2026-09-24 04:00:00",
+    "link": "https://arxiv.org/abs/2609.27191",
+    "guid": "oai:arXiv.org:2609.27191v1",
+    "author": "Yeqin Liu, Yu Shen",
+    "thumbnail": "",
+    "description": "arXiv:2609.27191v1 Announce Type: new \nAbstract: We construct infinitely many pairwise non-derived-Morita-equivalent phantom categories $\\mathcal{P}_{m}, m\\in\\mathbb{Z}$ from concrete directed DG quivers with 3 vertices. Moreover, there exists a fixed finite-dimensional DG algebra $C$ such that for each $m\\in\\mathbb{Z}$, there is a way to reassign cohomological gradings on $C$ (without changing the differential) to obtain a new DG algebra $C_{m}$ with $\\mathrm{Perf}(C_{m})\\cong \\mathcal{P}_{m}$.",
+    "content": "arXiv:2609.27191v1 Announce Type: new \nAbstract: We construct infinitely many pairwise non-derived-Morita-equivalent phantom categories $\\mathcal{P}_{m}, m\\in\\mathbb{Z}$ from concrete directed DG quivers with 3 vertices. Moreover, there exists a fixed finite-dimensional DG algebra $C$ such that for each $m\\in\\mathbb{Z}$, there is a way to reassign cohomological gradings on $C$ (without changing the differential) to obtain a new DG algebra $C_{m}$ with $\\mathrm{Perf}(C_{m})\\cong \\mathcal{P}_{m}$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Toeplitz multiplication and graded factorization of determinant recurrences",
+    "pubDate": "2026-09-24 04:00:00",
+    "link": "https://arxiv.org/abs/2609.27268",
+    "guid": "oai:arXiv.org:2609.27268v1",
+    "author": "Max A. Alekseyev, Dmitry I. Khomovsky",
+    "thumbnail": "",
+    "description": "arXiv:2609.27268v1 Announce Type: new \nAbstract: Toeplitz matrices are matrices whose entries are constant along each diagonal. When only finitely many diagonals are nonzero, the determinants of successively larger matrices obey a fixed linear recurrence: each new determinant is a fixed linear combination of finitely many preceding ones. We ask whether the recurrence for a complicated band can be built from recurrences for simpler factors, and show that it can.\n  Multiplying two finite banded Toeplitz matrices reproduces the expected product throughout the interior, with discrepancies only near two opposite corners. Shifting the factors relative to the main diagonal redistributes these boundary discrepancies, and the different shifts account exactly for the pieces from which the full determinant recurrence is assembled. For several factors, all allowed shifts are described by a finite system of linear inequalities, giving a systematic decomposition of the recurrence. This viewpoint also leads to a recursive construction that works directly with polynomial coefficients, without solving for their roots. When a factorization into bounded-degree pieces is supplied, a valid recurrence can be constructed using essentially a linear number of arithmetic operations in the number of coefficients that must be output. A five-diagonal example shows how a sixth-order recurrence is assembled from two tridiagonal Toeplitz factors together with two boundary contributions.",
+    "content": "arXiv:2609.27268v1 Announce Type: new \nAbstract: Toeplitz matrices are matrices whose entries are constant along each diagonal. When only finitely many diagonals are nonzero, the determinants of successively larger matrices obey a fixed linear recurrence: each new determinant is a fixed linear combination of finitely many preceding ones. We ask whether the recurrence for a complicated band can be built from recurrences for simpler factors, and show that it can.\n  Multiplying two finite banded Toeplitz matrices reproduces the expected product throughout the interior, with discrepancies only near two opposite corners. Shifting the factors relative to the main diagonal redistributes these boundary discrepancies, and the different shifts account exactly for the pieces from which the full determinant recurrence is assembled. For several factors, all allowed shifts are described by a finite system of linear inequalities, giving a systematic decomposition of the recurrence. This viewpoint also leads to a recursive construction that works directly with polynomial coefficients, without solving for their roots. When a factorization into bounded-degree pieces is supplied, a valid recurrence can be constructed using essentially a linear number of arithmetic operations in the number of coefficients that must be output. A five-diagonal example shows how a sixth-order recurrence is assembled from two tridiagonal Toeplitz factors together with two boundary contributions.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "cs.SC"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Controlling graded Lie algebras and cohomologies of double Lie algebras",
+    "pubDate": "2026-09-24 04:00:00",
+    "link": "https://arxiv.org/abs/2609.27420",
+    "guid": "oai:arXiv.org:2609.27420v1",
+    "author": "Zhongyin Xu, Chengming Bai",
+    "thumbnail": "",
+    "description": "arXiv:2609.27420v1 Announce Type: new \nAbstract: We construct a graded Lie algebra structure on the space of cyclically skew-symmetric cochains whose Maurer-Cartan elements characterize double Lie algebra structures. Twisting by a fixed double Lie bracket yields a cochain complex that is isomorphic to the positive arity part of the complex introduced by Fairon and Valeri after reindexing and degreewise sign adjustment. Using the Koszul resolution of the double Lie properad, we identify the resulting differential graded Lie algebra with the convolution differential graded Lie algebra on the deformation complex of the fixed double Lie algebra. We also construct a graded Lie algebra governing skew-symmetric Rota-Baxter operators on a finite-dimensional symmetric Frobenius algebra. For a finite-dimensional vector space $V$ and $A=\\en(V)$, we lift the known correspondence between double Lie algebra structures on $V$ and skew-symmetric Rota-Baxter operators on $A$ to an isomorphism of their governing graded Lie algebras. After twisting by corresponding Maurer-Cartan elements, this isomorphism becomes an isomorphism of differential graded Lie algebras and hence induces an isomorphism between the associated cohomology groups. We further prove that the cohomology of a skew-symmetric Rota-Baxter operator on a symmetric Frobenius algebra can be seen as the cyclic cohomology of its descendent associative algebra. Thus the cohomology of a double Lie algebra is identified with the cyclic cohomology of the descendent associative algebra associated with the skew-symmetric Rota-Baxter operator on the matrix algebra.",
+    "content": "arXiv:2609.27420v1 Announce Type: new \nAbstract: We construct a graded Lie algebra structure on the space of cyclically skew-symmetric cochains whose Maurer-Cartan elements characterize double Lie algebra structures. Twisting by a fixed double Lie bracket yields a cochain complex that is isomorphic to the positive arity part of the complex introduced by Fairon and Valeri after reindexing and degreewise sign adjustment. Using the Koszul resolution of the double Lie properad, we identify the resulting differential graded Lie algebra with the convolution differential graded Lie algebra on the deformation complex of the fixed double Lie algebra. We also construct a graded Lie algebra governing skew-symmetric Rota-Baxter operators on a finite-dimensional symmetric Frobenius algebra. For a finite-dimensional vector space $V$ and $A=\\en(V)$, we lift the known correspondence between double Lie algebra structures on $V$ and skew-symmetric Rota-Baxter operators on $A$ to an isomorphism of their governing graded Lie algebras. After twisting by corresponding Maurer-Cartan elements, this isomorphism becomes an isomorphism of differential graded Lie algebras and hence induces an isomorphism between the associated cohomology groups. We further prove that the cohomology of a skew-symmetric Rota-Baxter operator on a symmetric Frobenius algebra can be seen as the cyclic cohomology of its descendent associative algebra. Thus the cohomology of a double Lie algebra is identified with the cyclic cohomology of the descendent associative algebra associated with the skew-symmetric Rota-Baxter operator on the matrix algebra.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math-ph",
+      "math.MP"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Equality cases for matrix spaces with bounded-rank commutators",
+    "pubDate": "2026-09-24 04:00:00",
+    "link": "https://arxiv.org/abs/2609.27928",
+    "guid": "oai:arXiv.org:2609.27928v1",
+    "author": "Zhi-Lin Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2609.27928v1 Announce Type: new \nAbstract: Let $0\\leq k ",
+    "content": "arXiv:2609.27928v1 Announce Type: new \nAbstract: Let $0\\leq k ",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AG"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Some constructions of antisymmetric infinitesimal bialgebras and their applications to Lie bialgebras",
+    "pubDate": "2026-09-24 04:00:00",
+    "link": "https://arxiv.org/abs/2609.27947",
+    "guid": "oai:arXiv.org:2609.27947v1",
+    "author": "Bo Hou",
+    "thumbnail": "",
+    "description": "arXiv:2609.27947v1 Announce Type: new \nAbstract: In this paper, we mainly provide some methods for constructing antisymmetric infinitesimal (ASI) bialgebras and Lie bialgebras using Zinbiel bialgebras and diassociative bialgebras. We first show that there is an ASI bialgebra structure on the tensor product of a diassociative bialgebra and a quadratic Zinbiel algebra, while there is an infinite-dimensional ASI bialgebra structure on the tensor product of a Zinbiel bialgebra and a quadratic $\\bz$-graded diassociative algebra. For a special quadratic $\\bz$-graded Leibniz algebra, the property that its tensor product with a Zinbiel bialgebra forms an ASI bialgebra characterizes the Zinbiel bialgebra. By examining the relationship between solutions of the (classical) Yang-Baxter equation in a Zinbiel algebra and the induced associative algebra, we prove that the induced ASI bialgebra is quasi-triangular (resp. triangular, factorizable) whenever the original Zinbiel bialgebra is quasi-triangular (resp. triangular, factorizable). These conclusions enable us to provide a method for constructing Lie bialgebras from Zinbiel bialgebras and two approaches for constructing Lie bialgebras from diassociative bialgebras. We also provide specific descriptions of the connections between the solutions of the Yang-Baxter equations and the connections between the $O$-operators corresponding to these constructions.",
+    "content": "arXiv:2609.27947v1 Announce Type: new \nAbstract: In this paper, we mainly provide some methods for constructing antisymmetric infinitesimal (ASI) bialgebras and Lie bialgebras using Zinbiel bialgebras and diassociative bialgebras. We first show that there is an ASI bialgebra structure on the tensor product of a diassociative bialgebra and a quadratic Zinbiel algebra, while there is an infinite-dimensional ASI bialgebra structure on the tensor product of a Zinbiel bialgebra and a quadratic $\\bz$-graded diassociative algebra. For a special quadratic $\\bz$-graded Leibniz algebra, the property that its tensor product with a Zinbiel bialgebra forms an ASI bialgebra characterizes the Zinbiel bialgebra. By examining the relationship between solutions of the (classical) Yang-Baxter equation in a Zinbiel algebra and the induced associative algebra, we prove that the induced ASI bialgebra is quasi-triangular (resp. triangular, factorizable) whenever the original Zinbiel bialgebra is quasi-triangular (resp. triangular, factorizable). These conclusions enable us to provide a method for constructing Lie bialgebras from Zinbiel bialgebras and two approaches for constructing Lie bialgebras from diassociative bialgebras. We also provide specific descriptions of the connections between the solutions of the Yang-Baxter equations and the connections between the $O$-operators corresponding to these constructions.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.QA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Factorizable Lie conformal bialgebras, quadratic Rota-Baxter Lie conformal algebras and some induced structures",
+    "pubDate": "2026-09-24 04:00:00",
+    "link": "https://arxiv.org/abs/2609.28011",
+    "guid": "oai:arXiv.org:2609.28011v1",
+    "author": "Zhongyin Xu, Chengming Bai, Yanyong Hong",
+    "thumbnail": "",
+    "description": "arXiv:2609.28011v1 Announce Type: new \nAbstract: We introduce the notion of factorizable Lie conformal bialgebras and establish their correspondence with quadratic Rota-Baxter Lie conformal algebras of nonzero weight. Consequently, on the one hand, a Lie conformal bialgebra with a Rota-Baxter operator of nonzero weight gives a factorizable Lie conformal bialgebra. And on the other hand, as the conformal analogue of the fact that a quadratic Rota-Baxter Lie algebra induces a generalized pseudo-Hessian post-Lie algebra and a special partial-pre-post-Lie algebra, a quadratic Rota-Baxter Lie conformal algebra as well as a factorizable Lie conformal bialgebra induces a generalized pseudo-Hessian post-Lie conformal algebra and a special partial-pre-post-Lie conformal algebra. Furthermore, we generalize the correspondence between Gel'fand-Dorfman bialgebras and a class of Lie conformal bialgebras to the factorizable cases. There is not only a correspondence between factorizable Gel'fand-Dorfman bialgebras and a class of factorizable Lie conformal bialgebras, but also a correspondence for their corresponding quadratic Rota-Baxter counterparts as well as some induced structures. In particular, there is a construction of factorizable Lie conformal bialgebras from Gel'fand-Dorfman bialgebras with a Rota-Baxter operator of nonzero weight.",
+    "content": "arXiv:2609.28011v1 Announce Type: new \nAbstract: We introduce the notion of factorizable Lie conformal bialgebras and establish their correspondence with quadratic Rota-Baxter Lie conformal algebras of nonzero weight. Consequently, on the one hand, a Lie conformal bialgebra with a Rota-Baxter operator of nonzero weight gives a factorizable Lie conformal bialgebra. And on the other hand, as the conformal analogue of the fact that a quadratic Rota-Baxter Lie algebra induces a generalized pseudo-Hessian post-Lie algebra and a special partial-pre-post-Lie algebra, a quadratic Rota-Baxter Lie conformal algebra as well as a factorizable Lie conformal bialgebra induces a generalized pseudo-Hessian post-Lie conformal algebra and a special partial-pre-post-Lie conformal algebra. Furthermore, we generalize the correspondence between Gel'fand-Dorfman bialgebras and a class of Lie conformal bialgebras to the factorizable cases. There is not only a correspondence between factorizable Gel'fand-Dorfman bialgebras and a class of factorizable Lie conformal bialgebras, but also a correspondence for their corresponding quadratic Rota-Baxter counterparts as well as some induced structures. In particular, there is a construction of factorizable Lie conformal bialgebras from Gel'fand-Dorfman bialgebras with a Rota-Baxter operator of nonzero weight.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Braidings, duoidal categories and pre-Cartier structures for bi(co)modules",
+    "pubDate": "2026-09-24 04:00:00",
+    "link": "https://arxiv.org/abs/2609.28304",
+    "guid": "oai:arXiv.org:2609.28304v1",
+    "author": "Andrea Sciandra, Lukas Simons",
+    "thumbnail": "",
+    "description": "arXiv:2609.28304v1 Announce Type: new \nAbstract: We study braidings and infinitesimal braidings on categories of bi(co)modules and tetramodules, and their compatibility with duoidal structures. For an arbitrary coalgebra, we classify braidings on its category of bicomodules with the cotensor product in terms of canonical $R$-forms, dualizing the classification for bimodules obtained by Agore, Caenepeel, and Militaru. Every such braiding is a symmetry and admits only the zero infinitesimal braiding. We construct duoidal structures on categories of bi(co)modules and tetramodules over bimonoids in braided monoidal categories under suitable assumptions on equalizers and coequalizers. We then introduce pre-Cartier duoidal categories and their one-sided variants. We establish obstructions to compatible braidings for tetramodules, construct nonzero one-sided pre-Cartier structures on bi(co)modules, and give a pre-Cartier duoidal example with distinct monoidal products and a nonzero infinitesimal braiding.",
+    "content": "arXiv:2609.28304v1 Announce Type: new \nAbstract: We study braidings and infinitesimal braidings on categories of bi(co)modules and tetramodules, and their compatibility with duoidal structures. For an arbitrary coalgebra, we classify braidings on its category of bicomodules with the cotensor product in terms of canonical $R$-forms, dualizing the classification for bimodules obtained by Agore, Caenepeel, and Militaru. Every such braiding is a symmetry and admits only the zero infinitesimal braiding. We construct duoidal structures on categories of bi(co)modules and tetramodules over bimonoids in braided monoidal categories under suitable assumptions on equalizers and coequalizers. We then introduce pre-Cartier duoidal categories and their one-sided variants. We establish obstructions to compatible braidings for tetramodules, construct nonzero one-sided pre-Cartier structures on bi(co)modules, and give a pre-Cartier duoidal example with distinct monoidal products and a nonzero infinitesimal braiding.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CT",
+      "math.QA",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Almost subtractive submonoids of additive monoids and related quadratic forms",
+    "pubDate": "2026-09-24 04:00:00",
+    "link": "https://arxiv.org/abs/2609.28356",
+    "guid": "oai:arXiv.org:2609.28356v1",
+    "author": "Zur Izhakian, Manfred Knebusch",
+    "thumbnail": "",
+    "description": "arXiv:2609.28356v1 Announce Type: new \nAbstract: We introduce and study the class of almost subtractive submonoids of additive monoids. This property relaxes the strict condition of subtractivity while still allowing for a simulated subtraction operation sufficient for many algebraic applications. We explore the structural properties of these monoids and demonstrate their significance in the theory of modules over semirings, specifically regarding quadratic forms and their companions.",
+    "content": "arXiv:2609.28356v1 Announce Type: new \nAbstract: We introduce and study the class of almost subtractive submonoids of additive monoids. This property relaxes the strict condition of subtractivity while still allowing for a simulated subtraction operation sufficient for many algebraic applications. We explore the structural properties of these monoids and demonstrate their significance in the theory of modules over semirings, specifically regarding quadratic forms and their companions.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Ooms spectra of Frobenius maximal parabolics: strict unimodality and Euclidean log-concavity",
+    "pubDate": "2026-09-24 04:00:00",
+    "link": "https://arxiv.org/abs/2609.27153",
+    "guid": "oai:arXiv.org:2609.27153v1",
+    "author": "Vincent E. Coll Jr",
+    "thumbnail": "",
+    "description": "arXiv:2609.27153v1 Announce Type: cross \nAbstract: We study the Ooms multiplicities of Frobenius maximal parabolics $W(a,b)$ of type~$A$. For $a=mb+r$ with $1\\le r<b the euclidean algorithm relates their potential histograms to those of smaller algebra we prove strict unimodality for every positive coprime pair: multiplicities increase strictly equal central values at eigenvalues and then decrease strictly. this strengthens recent maximal-parabolic theorem giaquinto irving lauve mastnak. also log-concavity unbounded families t where>t$, $\\gcd(b,t)=1$, and $m\\ge1$. These results cover every Frobenius case with smaller block at most $8$, and also smaller block $10$. For each fixed residue class, we then prove that log-concavity of the whole family is determined by finitely many initial spectra. The finite cutoff is obtained symbolically. Exact integer verification of the resulting finite lists proves strict internal log-concavity whenever the smaller block is at most $128$, with no bound on the larger block. The unrestricted log-concavity conjecture is not proved here.</b>\n",
+    "content": "arXiv:2609.27153v1 Announce Type: cross \nAbstract: We study the Ooms multiplicities of Frobenius maximal parabolics $W(a,b)$ of type~$A$. For $a=mb+r$ with $1\\le r<b the euclidean algorithm relates their potential histograms to those of smaller algebra we prove strict unimodality for every positive coprime pair: multiplicities increase strictly equal central values at eigenvalues and then decrease strictly. this strengthens recent maximal-parabolic theorem giaquinto irving lauve mastnak. also log-concavity unbounded families t where>t$, $\\gcd(b,t)=1$, and $m\\ge1$. These results cover every Frobenius case with smaller block at most $8$, and also smaller block $10$. For each fixed residue class, we then prove that log-concavity of the whole family is determined by finitely many initial spectra. The finite cutoff is obtained symbolically. Exact integer verification of the resulting finite lists proves strict internal log-concavity whenever the smaller block is at most $128$, with no bound on the larger block. The unrestricted log-concavity conjecture is not proved here.</b>\n",
+    "enclosure": {},
+    "categories": [
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Idempotent-free non-solvable evolution algebras over $\\mathbb{C}$",
     "pubDate": "2026-09-23 04:00:00",
     "link": "https://arxiv.org/abs/2609.25023",
