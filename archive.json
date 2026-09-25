@@ -1,5 +1,150 @@
 [
   {
+    "title": "Duality for matrix space questions",
+    "pubDate": "2026-09-25 04:00:00",
+    "link": "https://arxiv.org/abs/2609.29177",
+    "guid": "oai:arXiv.org:2609.29177v1",
+    "author": "Yuval Wigderson",
+    "thumbnail": "",
+    "description": "arXiv:2609.29177v1 Announce Type: new \nAbstract: We present a new proof of a classical theorem of Dieudonn\\'e: if a linear space of $n\\times n$ matrices consists entirely of singular matrices, then its dimension is at most $n^2-n$. Our proof is based on a surprising ``duality'' argument: we prove this universal upper bound by exhibiting a single matrix space that serves as a lower bound for a related problem. Interestingly, this approach only works for certain fields, but we use model-theoretic arguments to obtain the same result for all fields. We hope that this approach can be generalized to provide new duality-based proofs of other classical theorems on matrix spaces, and give some preliminary results in this direction.",
+    "content": "arXiv:2609.29177v1 Announce Type: new \nAbstract: We present a new proof of a classical theorem of Dieudonn\\'e: if a linear space of $n\\times n$ matrices consists entirely of singular matrices, then its dimension is at most $n^2-n$. Our proof is based on a surprising ``duality'' argument: we prove this universal upper bound by exhibiting a single matrix space that serves as a lower bound for a related problem. Interestingly, this approach only works for certain fields, but we use model-theoretic arguments to obtain the same result for all fields. We hope that this approach can be generalized to provide new duality-based proofs of other classical theorems on matrix spaces, and give some preliminary results in this direction.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On the Regularity and Clean Properties of Matrices over Dual Numbers",
+    "pubDate": "2026-09-25 04:00:00",
+    "link": "https://arxiv.org/abs/2609.29468",
+    "guid": "oai:arXiv.org:2609.29468v1",
+    "author": "Berrin \\c{S}ent\\&quot;urk, Neslihan Ay\\c{s}en \\&quot;Ozbay",
+    "thumbnail": "",
+    "description": "arXiv:2609.29468v1 Announce Type: new \nAbstract: In this paper, we study regularity and clean-type decompositions for matrices over dual numbers. We characterize the von Neumann regularity of dual matrices by establishing a necessary and sufficient compatibility condition between their real and dual components. We determine the conditions under which a dual matrix $\\mathcal{M} = A + B\\epsilon$ is regular, $\\pi$-regular, nil-clean, or strongly nil-clean. Using the solvability of Sylvester matrix equations, we show that the matrix ring over dual numbers $M_n(\\mathbb{D})$ is strongly $\\pi$-regular and strongly clean. Moreover, $M_n(\\mathbb{D})$ is $\\pi$-regular, clean, $r$-clean, strongly $r$-clean, $\\mathrm{NR}$-clean, and strongly $\\mathrm{NR}$-clean. On the other hand, $M_n(\\mathbb{D})$ fails to be regular, strongly regular, nil-clean, strongly nil-clean and uniquely $\\mathrm{NR}$-clean, although it inherits several strong decomposition properties from $M_n(\\mathbb{R})$.",
+    "content": "arXiv:2609.29468v1 Announce Type: new \nAbstract: In this paper, we study regularity and clean-type decompositions for matrices over dual numbers. We characterize the von Neumann regularity of dual matrices by establishing a necessary and sufficient compatibility condition between their real and dual components. We determine the conditions under which a dual matrix $\\mathcal{M} = A + B\\epsilon$ is regular, $\\pi$-regular, nil-clean, or strongly nil-clean. Using the solvability of Sylvester matrix equations, we show that the matrix ring over dual numbers $M_n(\\mathbb{D})$ is strongly $\\pi$-regular and strongly clean. Moreover, $M_n(\\mathbb{D})$ is $\\pi$-regular, clean, $r$-clean, strongly $r$-clean, $\\mathrm{NR}$-clean, and strongly $\\mathrm{NR}$-clean. On the other hand, $M_n(\\mathbb{D})$ fails to be regular, strongly regular, nil-clean, strongly nil-clean and uniquely $\\mathrm{NR}$-clean, although it inherits several strong decomposition properties from $M_n(\\mathbb{R})$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Differential perm bialgebras, differential perm Yang-Baxter equation, and their applications in related bialgebra structures",
+    "pubDate": "2026-09-25 04:00:00",
+    "link": "https://arxiv.org/abs/2609.29576",
+    "guid": "oai:arXiv.org:2609.29576v1",
+    "author": "Ahuan Dong, Bo Hou",
+    "thumbnail": "",
+    "description": "arXiv:2609.29576v1 Announce Type: new \nAbstract: We introduce the differential perm bialgebras by generalizing the study of perm bialgebras to the context of differential perm algebras. They are characterized by the Manin triple of differential perm algebras as well as the matched pairs of differential perm algebras. The quasi-triangular (resp. triangular, factorizable) differential perm bialgebra are introduced. In particular, symmetric solutions of an analogue of perm Yang-Baxter equation in differential perm algebras provide triangular differential perm bialgebras, whereas in turn the notions of $\\mathcal{O}$-operators of differential perm algebras. As an application, the relationship between differential perm bialgebras and related bialgebra structures is discussed in detail. We show that there is a natural differential infinitesimal bialgebra structure on the tensor product of a differential perm bialgebra and a quadratic Zinbiel algebra, and this differential infinitesimal bialgebra structure is quasi-triangular (resp. triangular, factorizable) if the original differential perm bialgebra is quasi-triangular (resp. triangular, factorizable). Starting from a differential perm bialgebras with certain conditions, we can construct Novikov bialgebras, and these Novikov bialgebras can also be implemented by using the tensor product of diNovikov bialgebras and quadratic Zinbiel algebras.",
+    "content": "arXiv:2609.29576v1 Announce Type: new \nAbstract: We introduce the differential perm bialgebras by generalizing the study of perm bialgebras to the context of differential perm algebras. They are characterized by the Manin triple of differential perm algebras as well as the matched pairs of differential perm algebras. The quasi-triangular (resp. triangular, factorizable) differential perm bialgebra are introduced. In particular, symmetric solutions of an analogue of perm Yang-Baxter equation in differential perm algebras provide triangular differential perm bialgebras, whereas in turn the notions of $\\mathcal{O}$-operators of differential perm algebras. As an application, the relationship between differential perm bialgebras and related bialgebra structures is discussed in detail. We show that there is a natural differential infinitesimal bialgebra structure on the tensor product of a differential perm bialgebra and a quadratic Zinbiel algebra, and this differential infinitesimal bialgebra structure is quasi-triangular (resp. triangular, factorizable) if the original differential perm bialgebra is quasi-triangular (resp. triangular, factorizable). Starting from a differential perm bialgebras with certain conditions, we can construct Novikov bialgebras, and these Novikov bialgebras can also be implemented by using the tensor product of diNovikov bialgebras and quadratic Zinbiel algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.QA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Failure of Ado-type theorems for preLie and postLie algebras",
+    "pubDate": "2026-09-25 04:00:00",
+    "link": "https://arxiv.org/abs/2609.29582",
+    "guid": "oai:arXiv.org:2609.29582v1",
+    "author": "Vsevolod Gubarev",
+    "thumbnail": "",
+    "description": "arXiv:2609.29582v1 Announce Type: new \nAbstract: Over an arbitrary field of characteristic zero, we construct a two-dimensional preLie algebra and a two-dimensional postLie algebra that do not embed into the corresponding induced structures of any finite-dimensional preassociative or postassociative algebra, respectively.",
+    "content": "arXiv:2609.29582v1 Announce Type: new \nAbstract: Over an arbitrary field of characteristic zero, we construct a two-dimensional preLie algebra and a two-dimensional postLie algebra that do not embed into the corresponding induced structures of any finite-dimensional preassociative or postassociative algebra, respectively.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Total rings of quotients of higher dimensional Iwasawa algebras",
+    "pubDate": "2026-09-25 04:00:00",
+    "link": "https://arxiv.org/abs/2609.29956",
+    "guid": "oai:arXiv.org:2609.29956v1",
+    "author": "Ben Forr\\'as",
+    "thumbnail": "",
+    "description": "arXiv:2609.29956v1 Announce Type: new \nAbstract: Let $\\mathcal G=H\\rtimes\\Gamma$ be a semidirect product of a finite group $H$ with $\\Gamma=\\mathbb Z_p^d$, the direct product of finitely many copies of the additive group of the $p$-adic integers. In the case $d=1$, Iwasawa algebras of such profinite groups were studied by Ritter--Weiss, Lau, Nickel, and the author. We generalise these results to all $d\\ge1$, describing the Wedderburn decomposition of the total ring of quotients of the Iwasawa algebra of $\\mathcal G$.",
+    "content": "arXiv:2609.29956v1 Announce Type: new \nAbstract: Let $\\mathcal G=H\\rtimes\\Gamma$ be a semidirect product of a finite group $H$ with $\\Gamma=\\mathbb Z_p^d$, the direct product of finitely many copies of the additive group of the $p$-adic integers. In the case $d=1$, Iwasawa algebras of such profinite groups were studied by Ritter--Weiss, Lau, Nickel, and the author. We generalise these results to all $d\\ge1$, describing the Wedderburn decomposition of the total ring of quotients of the Iwasawa algebra of $\\mathcal G$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.NT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Bi-Oriented Interlaced Matrix Multiplication and an Operator Factorisation of the Quantum Harmonic Oscillator",
+    "pubDate": "2026-09-25 04:00:00",
+    "link": "https://arxiv.org/abs/2609.28511",
+    "guid": "oai:arXiv.org:2609.28511v1",
+    "author": "Jean-Pierre Gazeau",
+    "thumbnail": "",
+    "description": "arXiv:2609.28511v1 Announce Type: cross \nAbstract: We introduce a bi-oriented interlaced matrix product on $2\\times 2$ matrices over a unital, possibly non-associative algebra, extending a matrix mnemonic for Cayley--Dickson doubling. The opposite orientations $X_R$ and $X_L$ coincide precisely when the underlying algebra is commutative. For the canonical position and momentum operators $Q,P$ on $L^2(\\mathbb{R})$, a matrix $D$ and its companion $\\widetilde{D}$ satisfy, on the common Schwartz domain, $\\widetilde{D} X_R D =\\widetilde{D} X_L D =2H Id_2$, where $H=(P^2+Q^2)/2$. We study the associated interlaced eigenvalue equations for operator-valued columns. The combinations $\\Phi=A+iB$ and $\\Psi=A-iB$ decouple the equations into two-sided Sylvester equations. We construct explicit rank-one generalized eigenoperators from position and momentum eigenstates. Their distributional kernels belong to the doubled rigged Hilbert space $S(\\mathbb{R}^2)\\subset L^2(\\mathbb{R}^2) \\subset S'(\\mathbb{R}^2)$; the corresponding position and momentum operators act on different tensor factors and therefore commute. The rank-one families do not exhaust the distributional solutions: higher-order generalized solutions are also exhibited. We distinguish the algebraic identities on the Schwartz core from questions concerning closed-operator realizations.",
+    "content": "arXiv:2609.28511v1 Announce Type: cross \nAbstract: We introduce a bi-oriented interlaced matrix product on $2\\times 2$ matrices over a unital, possibly non-associative algebra, extending a matrix mnemonic for Cayley--Dickson doubling. The opposite orientations $X_R$ and $X_L$ coincide precisely when the underlying algebra is commutative. For the canonical position and momentum operators $Q,P$ on $L^2(\\mathbb{R})$, a matrix $D$ and its companion $\\widetilde{D}$ satisfy, on the common Schwartz domain, $\\widetilde{D} X_R D =\\widetilde{D} X_L D =2H Id_2$, where $H=(P^2+Q^2)/2$. We study the associated interlaced eigenvalue equations for operator-valued columns. The combinations $\\Phi=A+iB$ and $\\Psi=A-iB$ decouple the equations into two-sided Sylvester equations. We construct explicit rank-one generalized eigenoperators from position and momentum eigenstates. Their distributional kernels belong to the doubled rigged Hilbert space $S(\\mathbb{R}^2)\\subset L^2(\\mathbb{R}^2) \\subset S'(\\mathbb{R}^2)$; the corresponding position and momentum operators act on different tensor factors and therefore commute. The rank-one families do not exhaust the distributional solutions: higher-order generalized solutions are also exhibited. We distinguish the algebraic identities on the Schwartz core from questions concerning closed-operator realizations.",
+    "enclosure": {},
+    "categories": [
+      "math-ph",
+      "math.MP",
+      "math.RA",
+      "quant-ph"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Multivariate Quandles as Groupoid Invariants",
+    "pubDate": "2026-09-25 04:00:00",
+    "link": "https://arxiv.org/abs/2609.30262",
+    "guid": "oai:arXiv.org:2609.30262v1",
+    "author": "Xerxes D. Arsiwalla, Louis H. Kauffman",
+    "thumbnail": "",
+    "description": "arXiv:2609.30262v1 Announce Type: cross \nAbstract: We introduce a new structural framework for constructing multivariate Alexander quandles based on a groupoid ${\\cal G}$, composed of a disjoint union of delooping groupoids of deck groups. Compared to standard Alexander modules over group rings ${\\mathbb{Z}}[{\\mathbb{Z}}]$, the multivariate version involves modules over groupoid rings ${\\mathbb{Z}}[{\\cal G}]$. A manifestly categorical description is given in terms of ${\\mathbb{Z}}$-Algebroids, whose functorial module theory yields an equivalent definition of multivariate Alexander modules. Using the category of elements construction, we define multivariate Alexander quandles from this groupoid framework. Three classes of multivariate quandle operations follow. In contrast to earlier approaches, we abstract the algebraic structure from explicit link-dependence. As a consequence, we have a structural framework for: (i) enumerating new classes of Alexander quandles, and (ii) finding new coloring invariants of links. We show that maps between ${\\mathbb{Z}}$-modules, facilitated via multivariate quandle operations, realize a quiver presentation of quandles, which makes manifest the oidification of Alexander modules. Oidified Alexander modules, based on groupoids, provide a constructive framework for composing univariate quandles to obtain new multivariate ones. Finally, we comment on the possibility of new link invariants coming from groupoid-based formulations, including the fundamental groupoid.",
+    "content": "arXiv:2609.30262v1 Announce Type: cross \nAbstract: We introduce a new structural framework for constructing multivariate Alexander quandles based on a groupoid ${\\cal G}$, composed of a disjoint union of delooping groupoids of deck groups. Compared to standard Alexander modules over group rings ${\\mathbb{Z}}[{\\mathbb{Z}}]$, the multivariate version involves modules over groupoid rings ${\\mathbb{Z}}[{\\cal G}]$. A manifestly categorical description is given in terms of ${\\mathbb{Z}}$-Algebroids, whose functorial module theory yields an equivalent definition of multivariate Alexander modules. Using the category of elements construction, we define multivariate Alexander quandles from this groupoid framework. Three classes of multivariate quandle operations follow. In contrast to earlier approaches, we abstract the algebraic structure from explicit link-dependence. As a consequence, we have a structural framework for: (i) enumerating new classes of Alexander quandles, and (ii) finding new coloring invariants of links. We show that maps between ${\\mathbb{Z}}$-modules, facilitated via multivariate quandle operations, realize a quiver presentation of quandles, which makes manifest the oidification of Alexander modules. Oidified Alexander modules, based on groupoids, provide a constructive framework for composing univariate quandles to obtain new multivariate ones. Finally, we comment on the possibility of new link invariants coming from groupoid-based formulations, including the fundamental groupoid.",
+    "enclosure": {},
+    "categories": [
+      "math.GT",
+      "math.AT",
+      "math.CT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "t-Product and t-STP of cubic matrices with an application to hyper-networked systems",
+    "pubDate": "2026-09-25 04:00:00",
+    "link": "https://arxiv.org/abs/2412.07153",
+    "guid": "oai:arXiv.org:2412.07153v4",
+    "author": "Daizhan Cheng, Zhengping Ji",
+    "thumbnail": "",
+    "description": "arXiv:2412.07153v4 Announce Type: replace \nAbstract: Control systems with tensor-valued state transitions require a product that specifies both how coefficients act on each frontal slice and how different slices interact. This paper develops a t-semi-tensor product (t-STP) on cubic matrices that retains the circular coupling of the t-product while allowing rectangular coefficient slices to act on a fixed state space. The construction combines the dimension-keeping semi-tensor product (DK-STP) bridge with circular convolution, overcoming the absence of cross-slice coupling in a slice-wise DK-STP. It provides a compact coefficient description of a structured class of dynamical operators, with fewer stored entries when the coefficient slices have fewer columns than rows. For a fixed number of frontal slices, we establish associative algebra and module structures and describe the associated Lie algebra and Lie groups. These structures make coefficient composition and exponential evolution consistent, while equivalent classical matrix realizations connect the tensor formulation to control analysis of cubic matrix-based dynamics. A specified supply-network game illustrates how the construction organizes interacting chain flows, reproduces the classical trajectories, and supports a globally convergent payoff-gradient adjustment law with explicit damping. The example quantifies coefficient storage while clarifying that the state dimension is unchanged and that the same economy is available to a classical implementation retaining the factorization.",
+    "content": "arXiv:2412.07153v4 Announce Type: replace \nAbstract: Control systems with tensor-valued state transitions require a product that specifies both how coefficients act on each frontal slice and how different slices interact. This paper develops a t-semi-tensor product (t-STP) on cubic matrices that retains the circular coupling of the t-product while allowing rectangular coefficient slices to act on a fixed state space. The construction combines the dimension-keeping semi-tensor product (DK-STP) bridge with circular convolution, overcoming the absence of cross-slice coupling in a slice-wise DK-STP. It provides a compact coefficient description of a structured class of dynamical operators, with fewer stored entries when the coefficient slices have fewer columns than rows. For a fixed number of frontal slices, we establish associative algebra and module structures and describe the associated Lie algebra and Lie groups. These structures make coefficient composition and exponential evolution consistent, while equivalent classical matrix realizations connect the tensor formulation to control analysis of cubic matrix-based dynamics. A specified supply-network game illustrates how the construction organizes interacting chain flows, reproduces the classical trajectories, and supports a globally convergent payoff-gradient adjustment law with explicit damping. The example quantifies coefficient storage while clarifying that the state dimension is unchanged and that the same economy is available to a classical implementation retaining the factorization.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Maximal Subsemigroups of Infinite Symmetric Inverse Monoids",
+    "pubDate": "2026-09-25 04:00:00",
+    "link": "https://arxiv.org/abs/2509.08468",
+    "guid": "oai:arXiv.org:2509.08468v2",
+    "author": "M. Hampenberg, Y. P\\'eresse",
+    "thumbnail": "",
+    "description": "arXiv:2509.08468v2 Announce Type: replace \nAbstract: The symmetric inverse monoid $I_X$ on a set $X$ consists of all bijective functions whose domain and range are subsets of $X$ under the usual composition and inversion of partial functions. For an arbitrary infinite set $X$, we classify all maximal subsemigroups and maximal inverse subsemigroups of $I_X$ which contain the symmetric group Sym($X$) or any of the following subgroups of Sym($X$): the pointwise stabiliser of a finite subset of $X$, the stabiliser of an ultrafilter on $X$, or the stabiliser of a partition of $X$ into finitely many parts of equal cardinality.",
+    "content": "arXiv:2509.08468v2 Announce Type: replace \nAbstract: The symmetric inverse monoid $I_X$ on a set $X$ consists of all bijective functions whose domain and range are subsets of $X$ under the usual composition and inversion of partial functions. For an arbitrary infinite set $X$, we classify all maximal subsemigroups and maximal inverse subsemigroups of $I_X$ which contain the symmetric group Sym($X$) or any of the following subgroups of Sym($X$): the pointwise stabiliser of a finite subset of $X$, the stabiliser of an ultrafilter on $X$, or the stabiliser of a partition of $X$ into finitely many parts of equal cardinality.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GR"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Integral Dependence over One-Sided Ideals, Part II: G-Left Ideals and the K\\\"othe Problem",
     "pubDate": "2026-09-24 04:00:00",
     "link": "https://arxiv.org/abs/2609.26909",
