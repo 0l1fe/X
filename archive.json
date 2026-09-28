@@ -1,5 +1,167 @@
 [
   {
+    "title": "The Hua identity implies alternativity",
+    "pubDate": "2026-09-28 04:00:00",
+    "link": "https://arxiv.org/abs/2609.30447",
+    "guid": "oai:arXiv.org:2609.30447v1",
+    "author": "Pasha Zusmanovich",
+    "thumbnail": "",
+    "description": "arXiv:2609.30447v1 Announce Type: new \nAbstract: The well-known Hua identity $a - (a^{-1} + (b^{-1} - a)^{-1})^{-1} = aba$ holds in any associative division ring. We prove, in a sense, a converse: if a (nonassociative) ring with unit and multiplicative inverses satisfies the Hua identity, then it is alternative.",
+    "content": "arXiv:2609.30447v1 Announce Type: new \nAbstract: The well-known Hua identity $a - (a^{-1} + (b^{-1} - a)^{-1})^{-1} = aba$ holds in any associative division ring. We prove, in a sense, a converse: if a (nonassociative) ring with unit and multiplicative inverses satisfies the Hua identity, then it is alternative.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The $m$-Invariant of Fields of Characteristic 2",
+    "pubDate": "2026-09-28 04:00:00",
+    "link": "https://arxiv.org/abs/2609.30502",
+    "guid": "oai:arXiv.org:2609.30502v1",
+    "author": "Adam Chapman, Kelly McKinnie",
+    "thumbnail": "",
+    "description": "arXiv:2609.30502v1 Announce Type: new \nAbstract: We study the minimal dimension of a nonsingular anisotropic universal quadratic form over a field $F$ of $\\operatorname{char}(F)=2$, which we call the ``$m$-invariant\" of $F$. We show that every even number is the $m$-invariant of some field of characteristic 2, and consider cases when $u(F)$ and $m(F)$ are equal and when they are not.",
+    "content": "arXiv:2609.30502v1 Announce Type: new \nAbstract: We study the minimal dimension of a nonsingular anisotropic universal quadratic form over a field $F$ of $\\operatorname{char}(F)=2$, which we call the ``$m$-invariant\" of $F$. We show that every even number is the $m$-invariant of some field of characteristic 2, and consider cases when $u(F)$ and $m(F)$ are equal and when they are not.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Fast factorization in diagram monoids",
+    "pubDate": "2026-09-28 04:00:00",
+    "link": "https://arxiv.org/abs/2609.30804",
+    "guid": "oai:arXiv.org:2609.30804v1",
+    "author": "Matthias Fresacher, Willow Stewart, Daniel Tubbenhauer",
+    "thumbnail": "",
+    "description": "arXiv:2609.30804v1 Announce Type: new \nAbstract: We give explicit algorithms that factor elements of the standard diagram monoids into their usual generators. These algorithms generalize sorting from permutations to partial matchings and set partitions. In every case the worst-case complexity is $n^2$, which is optimal for algorithms that explicitly list the factors. We also determine the average complexity of our algorithms.",
+    "content": "arXiv:2609.30804v1 Announce Type: new \nAbstract: We give explicit algorithms that factor elements of the standard diagram monoids into their usual generators. These algorithms generalize sorting from permutations to partial matchings and set partitions. In every case the worst-case complexity is $n^2$, which is optimal for algorithms that explicitly list the factors. We also determine the average complexity of our algorithms.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "cs.DS",
+      "math.CO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Asymptotic completions of preordered semirings",
+    "pubDate": "2026-09-28 04:00:00",
+    "link": "https://arxiv.org/abs/2609.31021",
+    "guid": "oai:arXiv.org:2609.31021v1",
+    "author": "P\\'eter Vrana",
+    "thumbnail": "",
+    "description": "arXiv:2609.31021v1 Announce Type: new \nAbstract: The study of preordered semirings is motivated by applications in computer science, graph theory, and information theory, and provides tools for understanding the asymptotic preorder, which compares large powers of a pair of elements. This paper studies sequences which behave approximately as sequences of powers, but are not necessarily equivalent to geometric sequences. Our main result is that preordered semirings admit completions where such sequences, that we call approximately geometric, become equivalent to geometric sequences, and that existing characterizations of the asymptotic preorder extend to the completion.\n  We provide several classes of examples of approximately geometric sequences in the semiring of tensors, and in the semiring of graphs. As a concrete application, we determine the strong converse exponent for binary hypothesis testing with composite Markov hypotheses.",
+    "content": "arXiv:2609.31021v1 Announce Type: new \nAbstract: The study of preordered semirings is motivated by applications in computer science, graph theory, and information theory, and provides tools for understanding the asymptotic preorder, which compares large powers of a pair of elements. This paper studies sequences which behave approximately as sequences of powers, but are not necessarily equivalent to geometric sequences. Our main result is that preordered semirings admit completions where such sequences, that we call approximately geometric, become equivalent to geometric sequences, and that existing characterizations of the asymptotic preorder extend to the completion.\n  We provide several classes of examples of approximately geometric sequences in the semiring of tensors, and in the semiring of graphs. As a concrete application, we determine the strong converse exponent for binary hypothesis testing with composite Markov hypotheses.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "cs.IT",
+      "math.CO",
+      "math.IT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Boolean Trusses as Rectangular Bands and Boolean Rings",
+    "pubDate": "2026-09-28 04:00:00",
+    "link": "https://arxiv.org/abs/2609.31051",
+    "guid": "oai:arXiv.org:2609.31051v1",
+    "author": "Ryszard R. Andruszkiewicz, Bernard Rybo{\\l}owicz",
+    "thumbnail": "",
+    "description": "arXiv:2609.31051v1 Announce Type: new \nAbstract: We introduce Boolean trusses, that is, trusses in which every element is idempotent. Every Boolean truss admits a decomposition into a truss arising from a Boolean ring and a rectangular truss. Furthermore, we classify all Boolean trusses up to isomorphism.",
+    "content": "arXiv:2609.31051v1 Announce Type: new \nAbstract: We introduce Boolean trusses, that is, trusses in which every element is idempotent. Every Boolean truss admits a decomposition into a truss arising from a Boolean ring and a rectangular truss. Furthermore, we classify all Boolean trusses up to isomorphism.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The Hilbert Basis Theorem for Non-Associative Skew Power Series Rings and Non-Associative Skew Laurent Series Rings over a Non-Associative Coefficient Ring",
+    "pubDate": "2026-09-28 04:00:00",
+    "link": "https://arxiv.org/abs/2609.31486",
+    "guid": "oai:arXiv.org:2609.31486v1",
+    "author": "Darwin P. Mangubat, Jocelyn P. Vilela, Johan Richter",
+    "thumbnail": "",
+    "description": "arXiv:2609.31486v1 Announce Type: new \nAbstract: In this paper, we give conditions on a unital non-associative ring $R$ and additive map $\\sigma: R\\longrightarrow R$ so that the non-associative skew power series ring, denoted by $R[[X;\\sigma]]$ and the non-associative skew Laurent series ring denoted by $R((X;\\sigma))$ are left (resp. right) Noetherian, respectively. Consequently, we establish versions of Hilbert Basis Theorem of $R[[X;\\sigma]]$ and $R((X;\\sigma))$, respectively, for left (resp. right) Noetherianity . We also give a counterexample showing that the Hilbert Basis Theorem does not hold in general in the non-associative case. In establishing the Hilbert Basis Theorems for $R[[X;\\sigma]]$ and $R((X;\\sigma))$, we introduce and utilize the right (resp. left) quasi-associative property of $R$, which is equivalent to $rR$ (resp. $Rc$) being one-sided ideals for all $r\\in R$ (resp. $c\\in R$).",
+    "content": "arXiv:2609.31486v1 Announce Type: new \nAbstract: In this paper, we give conditions on a unital non-associative ring $R$ and additive map $\\sigma: R\\longrightarrow R$ so that the non-associative skew power series ring, denoted by $R[[X;\\sigma]]$ and the non-associative skew Laurent series ring denoted by $R((X;\\sigma))$ are left (resp. right) Noetherian, respectively. Consequently, we establish versions of Hilbert Basis Theorem of $R[[X;\\sigma]]$ and $R((X;\\sigma))$, respectively, for left (resp. right) Noetherianity . We also give a counterexample showing that the Hilbert Basis Theorem does not hold in general in the non-associative case. In establishing the Hilbert Basis Theorems for $R[[X;\\sigma]]$ and $R((X;\\sigma))$, we introduce and utilize the right (resp. left) quasi-associative property of $R$, which is equivalent to $rR$ (resp. $Rc$) being one-sided ideals for all $r\\in R$ (resp. $c\\in R$).",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Quantum Laurent positivity in rank three",
+    "pubDate": "2026-09-28 04:00:00",
+    "link": "https://arxiv.org/abs/2609.30387",
+    "guid": "oai:arXiv.org:2609.30387v1",
+    "author": "Qiyue Tang",
+    "thumbnail": "",
+    "description": "arXiv:2609.30387v1 Announce Type: cross \nAbstract: We prove Laurent positivity for skew-symmetrizable quantum cluster algebras of rank three, with arbitrary integral compatible quantizations and invertible frozen variables. The proof uses mutation-acyclic positivity from a companion manuscript.",
+    "content": "arXiv:2609.30387v1 Announce Type: cross \nAbstract: We prove Laurent positivity for skew-symmetrizable quantum cluster algebras of rank three, with arbitrary integral compatible quantizations and invertible frozen variables. The proof uses mutation-acyclic positivity from a companion manuscript.",
+    "enclosure": {},
+    "categories": [
+      "math.QA",
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Quasi-equivalence of relabeled positroid cluster structures",
+    "pubDate": "2026-09-28 04:00:00",
+    "link": "https://arxiv.org/abs/2609.30637",
+    "guid": "oai:arXiv.org:2609.30637v1",
+    "author": "Yilin Wu",
+    "thumbnail": "",
+    "description": "arXiv:2609.30637v1 Announce Type: cross \nAbstract: We prove the Fraser--Sherman-Bennett conjecture on the quasi-equivalence of positroid cluster structures arising from admissibly relabeled plabic graphs. We construct a tilting module from the boundary necklace and obtain a Frobenius categorification of the relabeled cluster structure. By identifying localized characters of rank-one modules with Pl\\\"ucker coordinates, we match the stable images of the mutable face modules with the summands of a reachable cluster-tilting object in the stable category. The induced derived equivalence yields a unimodular transformation of relative index lattices intertwining the full extended exchange matrices. These comparisons show that the identity map on the coordinate ring is a quasi-cluster isomorphism between the two cluster structures.",
+    "content": "arXiv:2609.30637v1 Announce Type: cross \nAbstract: We prove the Fraser--Sherman-Bennett conjecture on the quasi-equivalence of positroid cluster structures arising from admissibly relabeled plabic graphs. We construct a tilting module from the boundary necklace and obtain a Frobenius categorification of the relabeled cluster structure. By identifying localized characters of rank-one modules with Pl\\\"ucker coordinates, we match the stable images of the mutable face modules with the summands of a reachable cluster-tilting object in the stable category. The induced derived equivalence yields a unimodular transformation of relative index lattices intertwining the full extended exchange matrices. These comparisons show that the identity map on the coordinate ring is a quasi-cluster isomorphism between the two cluster structures.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Dualities for universal (co)acting Hopf monoids",
+    "pubDate": "2026-09-28 04:00:00",
+    "link": "https://arxiv.org/abs/2406.17684",
+    "guid": "oai:arXiv.org:2406.17684v3",
+    "author": "Ana Agore, Alexey Gordienko, Joost Vercruysse",
+    "thumbnail": "",
+    "description": "arXiv:2406.17684v3 Announce Type: replace-cross \nAbstract: In general, universal (co)measuring (co)monoids and universal (co)acting bi/Hopf monoids, which prove to be a useful tool in the classification of quantum symmetries, do not always exist. In order to ensure their existence, the support of a given object was recently introduced in \\cite{AGV3} and used to restrict the class of objects considered when defining universal (co)acting objects. It is well-known that, in contrast with the universal coacting Hopf algebra, for actions on algebras over a field it is usually difficult to describe the universal acting Hopf algebra explicitly and this turns the duality theorem into an important investigation tool. In the present paper we establish duality results for universal (co)measuring (co)monoids and universal (co)acting bi/Hopf monoids in pre-rigid braided monoidal categories $\\mathcal{C}$. In addition, when the base category $\\mathcal{C}$ is closed monoidal, we provide a convenient uniform approach to the aforementioned universal objects in terms of the cosupports, which in this case become subobjects of internal hom-objects. In order to explain our constructions, we use the language of locally initial objects. Known results from the literature are recovered when the base category is the category of vector spaces over a field. New cases where our results can be applied are explored, including categories of (co)modules over (co)quasitriangular Hopf algebras, Yetter-Drinfeld modules and dg-vector spaces.",
+    "content": "arXiv:2406.17684v3 Announce Type: replace-cross \nAbstract: In general, universal (co)measuring (co)monoids and universal (co)acting bi/Hopf monoids, which prove to be a useful tool in the classification of quantum symmetries, do not always exist. In order to ensure their existence, the support of a given object was recently introduced in \\cite{AGV3} and used to restrict the class of objects considered when defining universal (co)acting objects. It is well-known that, in contrast with the universal coacting Hopf algebra, for actions on algebras over a field it is usually difficult to describe the universal acting Hopf algebra explicitly and this turns the duality theorem into an important investigation tool. In the present paper we establish duality results for universal (co)measuring (co)monoids and universal (co)acting bi/Hopf monoids in pre-rigid braided monoidal categories $\\mathcal{C}$. In addition, when the base category $\\mathcal{C}$ is closed monoidal, we provide a convenient uniform approach to the aforementioned universal objects in terms of the cosupports, which in this case become subobjects of internal hom-objects. In order to explain our constructions, we use the language of locally initial objects. Known results from the literature are recovered when the base category is the category of vector spaces over a field. New cases where our results can be applied are explored, including categories of (co)modules over (co)quasitriangular Hopf algebras, Yetter-Drinfeld modules and dg-vector spaces.",
+    "enclosure": {},
+    "categories": [
+      "math.CT",
+      "math.QA",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Projective simplicity and Bergman's property for unit groups of continuous rings",
+    "pubDate": "2026-09-28 04:00:00",
+    "link": "https://arxiv.org/abs/2510.23752",
+    "guid": "oai:arXiv.org:2510.23752v3",
+    "author": "Friedrich Martin Schneider",
+    "thumbnail": "",
+    "description": "arXiv:2510.23752v3 Announce Type: replace-cross \nAbstract: We prove that the projective unit group $\\mathrm{PGL}(R)$, i.e., the quotient of the unit group $\\mathrm{GL}(R)$ modulo its center, of any non-discrete irreducible, continuous ring $R$ is simple. Moreover, we show that $\\mathrm{GL}(R)$ has uncountable strong cofinality, that is, it is not the union of a countable chain of proper subgroups and it has finite width with respect to any generating set. Equivalently, every isometric action of $\\mathrm{GL}(R)$ on a metric space has bounded orbits. It follows that every action of $\\mathrm{GL}(R)$ by isometries on a non-empty complete $\\mathrm{CAT}(0)$ space admits a fixed point. In particular, $\\mathrm{GL}(R)$ possesses Serre's properties $(FH)$ and $(FA)$. Furthermore, our results entail that $\\mathrm{PGL}(R)$ has bounded normal generation. In turn, we answer two questions by Carderi and Thom. Finally, building on work of Larsen and Shalev, we prove that $\\mathrm{GL}(R)$ is verbally simple.",
+    "content": "arXiv:2510.23752v3 Announce Type: replace-cross \nAbstract: We prove that the projective unit group $\\mathrm{PGL}(R)$, i.e., the quotient of the unit group $\\mathrm{GL}(R)$ modulo its center, of any non-discrete irreducible, continuous ring $R$ is simple. Moreover, we show that $\\mathrm{GL}(R)$ has uncountable strong cofinality, that is, it is not the union of a countable chain of proper subgroups and it has finite width with respect to any generating set. Equivalently, every isometric action of $\\mathrm{GL}(R)$ on a metric space has bounded orbits. It follows that every action of $\\mathrm{GL}(R)$ by isometries on a non-empty complete $\\mathrm{CAT}(0)$ space admits a fixed point. In particular, $\\mathrm{GL}(R)$ possesses Serre's properties $(FH)$ and $(FA)$. Furthermore, our results entail that $\\mathrm{PGL}(R)$ has bounded normal generation. In turn, we answer two questions by Carderi and Thom. Finally, building on work of Larsen and Shalev, we prove that $\\mathrm{GL}(R)$ is verbally simple.",
+    "enclosure": {},
+    "categories": [
+      "math.GR",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Duality for matrix space questions",
     "pubDate": "2026-09-25 04:00:00",
     "link": "https://arxiv.org/abs/2609.29177",
