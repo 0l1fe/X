@@ -1,5 +1,168 @@
 [
   {
+    "title": "Algebras with Variable Structural Constants and Their Applications",
+    "pubDate": "2026-09-29 04:00:00",
+    "link": "https://arxiv.org/abs/2609.31627",
+    "guid": "oai:arXiv.org:2609.31627v1",
+    "author": "Vitalii Shpakivskyi",
+    "thumbnail": "",
+    "description": "arXiv:2609.31627v1 Announce Type: new \nAbstract: We introduce a new class of algebras with variable structural constants and develop elements of the theory of monogenic functions in such algebras. Compatibility conditions for the structural functions are established. It is shown that the components of monogenic functions satisfy certain second-order partial differential equations with variable coefficients, and converse results are proved. This approach provides a constructive method for obtaining explicit solutions of such equations. Several illustrative examples are presented.",
+    "content": "arXiv:2609.31627v1 Announce Type: new \nAbstract: We introduce a new class of algebras with variable structural constants and develop elements of the theory of monogenic functions in such algebras. Compatibility conditions for the structural functions are established. It is shown that the components of monogenic functions satisfy certain second-order partial differential equations with variable coefficients, and converse results are proved. This approach provides a constructive method for obtaining explicit solutions of such equations. Several illustrative examples are presented.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AC",
+      "math.AP",
+      "math.CV",
+      "math.OA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Algebras with Variable Operator-Valued Structural Constants and Their Applications",
+    "pubDate": "2026-09-29 04:00:00",
+    "link": "https://arxiv.org/abs/2609.31628",
+    "guid": "oai:arXiv.org:2609.31628v1",
+    "author": "Vitalii Shpakivskyi",
+    "thumbnail": "",
+    "description": "arXiv:2609.31628v1 Announce Type: new \nAbstract: We introduce a new class of algebras with variable operator-valued structural constants and develop elements of the theory of monogenic functions in such algebras. Compatibility conditions for the structural operators are established. It is shown that the components of monogenic functions satisfy second-order operator-differential equations with variable coefficients, and converse results are proved. The proposed approach provides a constructive method for obtaining solutions of various differential, integro-differential, and functional-differential equations. Several illustrative examples are presented.",
+    "content": "arXiv:2609.31628v1 Announce Type: new \nAbstract: We introduce a new class of algebras with variable operator-valued structural constants and develop elements of the theory of monogenic functions in such algebras. Compatibility conditions for the structural operators are established. It is shown that the components of monogenic functions satisfy second-order operator-differential equations with variable coefficients, and converse results are proved. The proposed approach provides a constructive method for obtaining solutions of various differential, integro-differential, and functional-differential equations. Several illustrative examples are presented.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math-ph",
+      "math.AC",
+      "math.AP",
+      "math.CV",
+      "math.MP",
+      "math.OA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Relative Global Dimension of Controllable Extensions",
+    "pubDate": "2026-09-29 04:00:00",
+    "link": "https://arxiv.org/abs/2609.31642",
+    "guid": "oai:arXiv.org:2609.31642v1",
+    "author": "Kostiantyn Iusenko, Roger R. Primolan",
+    "thumbnail": "",
+    "description": "arXiv:2609.31642v1 Announce Type: new \nAbstract: We study relative global dimensions of extensions $B \\subseteq A$ of Artin algebras over a perfect field. A controllable extension is introduced as one for which the relative global dimension is determined by the ordinary global dimension of the quotient $A/AJ(B)A$. General inequalities and sufficient conditions for controllability are established, including the case in which $J(B)$ is a two-sided ideal of $A$. The interaction between relative global dimensions and relative projective dimensions of the regular bimodule is then studied. The class of homologically controllable extensions is introduced, and it is shown to be closed under tensor products. Consequently, for homologically controllable extensions $B \\subseteq A$ and $D \\subseteq C$, we obtain \\[\\operatorname{gldim}(A \\otimes C, B \\otimes D)=\\operatorname{gldim}(A,B) + \\operatorname{gldim}(C,D).\\] The proof relies on a relative K\\\"unneth-type result for tensor products of complexes, which may be of independent interest. Finally, controllable extensions with prescribed relative global dimension are constructed, along with families of non-controllable extensions for which the relative global dimension differs arbitrarily from the global dimension of $A/AJ(B)A$.",
+    "content": "arXiv:2609.31642v1 Announce Type: new \nAbstract: We study relative global dimensions of extensions $B \\subseteq A$ of Artin algebras over a perfect field. A controllable extension is introduced as one for which the relative global dimension is determined by the ordinary global dimension of the quotient $A/AJ(B)A$. General inequalities and sufficient conditions for controllability are established, including the case in which $J(B)$ is a two-sided ideal of $A$. The interaction between relative global dimensions and relative projective dimensions of the regular bimodule is then studied. The class of homologically controllable extensions is introduced, and it is shown to be closed under tensor products. Consequently, for homologically controllable extensions $B \\subseteq A$ and $D \\subseteq C$, we obtain \\[\\operatorname{gldim}(A \\otimes C, B \\otimes D)=\\operatorname{gldim}(A,B) + \\operatorname{gldim}(C,D).\\] The proof relies on a relative K\\\"unneth-type result for tensor products of complexes, which may be of independent interest. Finally, controllable extensions with prescribed relative global dimension are constructed, along with families of non-controllable extensions for which the relative global dimension differs arbitrarily from the global dimension of $A/AJ(B)A$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AC",
+      "math.KT",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Augmentation-Ideal Realization of Special Nottingham Congruence Series and Cartier Indecomposables",
+    "pubDate": "2026-09-29 04:00:00",
+    "link": "https://arxiv.org/abs/2609.31710",
+    "guid": "oai:arXiv.org:2609.31710v1",
+    "author": "Chao Ma",
+    "thumbnail": "",
+    "description": "arXiv:2609.31710v1 Announce Type: new \nAbstract: Let $k=\\mathbf{F}_p$, with $p\\ge 5$, let $A=k[[x_1,\\ldots,x_n]]$, $n\\ge 3$, and let $m$ be its maximal ideal. Let $G$ be the group of volume-preserving formal automorphisms of $A$ tangent to the identity, and put $G_s=\\{g\\in G: g(x_i)-x_i\\in m^s \\text{ for every } i\\}$ and $T_N=G/G_N$. Then $T_N$ is a finite $p$-group. Its action on $A/m^N$ filters the integral augmentation ideal by the amount through which an operator raises the $m$-adic filtration. The resulting ideals $I_a$ satisfy $\\{g\\in T_N: g-1\\in I_a\\}=G_{a+1}/G_N$ for $1\\le a\\le N-1$. The canonical weighted augmentation filtration attached to $H_a=G_{a+1}/G_N$ lies inside $I_\\ast$ and has the same dimension subgroups. Hence the shifted congruence series is realized by its canonical filtration in $\\mathbf{Z}[T_N]$.\n  The group symbols in the associated graded of the augmentation ideal of $\\mathbf{Z}[T_N]$ identify with the coefficient-degree-$<n truncation of the lie algebra divergence-free polynomial vector fields where has graded degree if l_d denotes subspace corresponding to exact then for d here quotient means degree- component indecomposables it does not assert indecomposability as a rational this is and vanishes unless some in an exceptional leading-field identification makes isomorphic v these quotients are compatible with></n>\n",
+    "content": "arXiv:2609.31710v1 Announce Type: new \nAbstract: Let $k=\\mathbf{F}_p$, with $p\\ge 5$, let $A=k[[x_1,\\ldots,x_n]]$, $n\\ge 3$, and let $m$ be its maximal ideal. Let $G$ be the group of volume-preserving formal automorphisms of $A$ tangent to the identity, and put $G_s=\\{g\\in G: g(x_i)-x_i\\in m^s \\text{ for every } i\\}$ and $T_N=G/G_N$. Then $T_N$ is a finite $p$-group. Its action on $A/m^N$ filters the integral augmentation ideal by the amount through which an operator raises the $m$-adic filtration. The resulting ideals $I_a$ satisfy $\\{g\\in T_N: g-1\\in I_a\\}=G_{a+1}/G_N$ for $1\\le a\\le N-1$. The canonical weighted augmentation filtration attached to $H_a=G_{a+1}/G_N$ lies inside $I_\\ast$ and has the same dimension subgroups. Hence the shifted congruence series is realized by its canonical filtration in $\\mathbf{Z}[T_N]$.\n  The group symbols in the associated graded of the augmentation ideal of $\\mathbf{Z}[T_N]$ identify with the coefficient-degree-$<n truncation of the lie algebra divergence-free polynomial vector fields where has graded degree if l_d denotes subspace corresponding to exact then for d here quotient means degree- component indecomposables it does not assert indecomposability as a rational this is and vanishes unless some in an exceptional leading-field identification makes isomorphic v these quotients are compatible with></n>\n",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Extremal Derived Length in the Unipotent Radicals of Cartan-Type Automorphism Groups",
+    "pubDate": "2026-09-29 04:00:00",
+    "link": "https://arxiv.org/abs/2609.31711",
+    "guid": "oai:arXiv.org:2609.31711v1",
+    "author": "Chao Ma",
+    "thumbnail": "",
+    "description": "arXiv:2609.31711v1 Announce Type: new \nAbstract: In every group $G^{(j)}\\subseteq\\gamma_{2^j}(G)$. We exhibit a natural family in which this inclusion is an equality at every step. Let $k$ be a perfect field of characteristic $p\\ge 5$ and let $U_S$ be the unipotent radical of the automorphism group of the height-one special algebra $S(n;1)^{(1)}$, $n\\ge 3$, so that $\\mathrm{Aut}(S(n;1)^{(1)})_{\\mathrm{red}}^{\\circ}\\simeq U_S\\rtimes\\mathrm{GL}_n$. Writing $D=n(p-1)$, we prove $U_S^{(j)}=\\gamma_{2^j}(U_S)$ for all $j$, so that $U_S$ has nilpotency class $D-2$ and the largest derived length its class permits, namely $\\lceil\\log_2(D-1)\\rceil$. The same holds for $U_S(\\mathbf{F}_q)$, whose Frattini quotient and lower $p$-central series are determined in closed form.\n  The mechanism is a congruence filtration whose graded Lie algebra has exact bracket generation outside finitely many degrees, the exceptions governed by a single Cartier quotient, which occurs both in the abelianization and in the five-term homology sequence. The non-smooth automorphism scheme contains a canonical Frobenius thickening of $U_S$, whose Verschiebung filtration and distribution algebra are computed. At arbitrary divided-power height, Cartier-Verschiebung morphisms on the de Rham complexes induce explicit maps on restricted derivations.\n  In height one we determine both series for the Witt family in rank at least two and for the Hamiltonian family, and identify the contact automorphism group scheme with the coordinate contact stabilizer. For the Witt radical the congruence filtration is itself the lower central series, and $\\mathrm{cl}(U_W)=D-1$, $\\mathrm{dl}(U_W)=\\lceil\\log_2 D\\rceil$. For the Hamiltonian radical it is cut out by the flux character and the socle line; with $D_H=2r(p-1)$, $r\\ge 2$, one has $\\mathrm{cl}(U_H)=D_H-3$, $\\mathrm{dl}(U_H)=\\lceil\\log_2(D_H-2)\\rceil$. Thus all three attain the largest derived length their classes permit.",
+    "content": "arXiv:2609.31711v1 Announce Type: new \nAbstract: In every group $G^{(j)}\\subseteq\\gamma_{2^j}(G)$. We exhibit a natural family in which this inclusion is an equality at every step. Let $k$ be a perfect field of characteristic $p\\ge 5$ and let $U_S$ be the unipotent radical of the automorphism group of the height-one special algebra $S(n;1)^{(1)}$, $n\\ge 3$, so that $\\mathrm{Aut}(S(n;1)^{(1)})_{\\mathrm{red}}^{\\circ}\\simeq U_S\\rtimes\\mathrm{GL}_n$. Writing $D=n(p-1)$, we prove $U_S^{(j)}=\\gamma_{2^j}(U_S)$ for all $j$, so that $U_S$ has nilpotency class $D-2$ and the largest derived length its class permits, namely $\\lceil\\log_2(D-1)\\rceil$. The same holds for $U_S(\\mathbf{F}_q)$, whose Frattini quotient and lower $p$-central series are determined in closed form.\n  The mechanism is a congruence filtration whose graded Lie algebra has exact bracket generation outside finitely many degrees, the exceptions governed by a single Cartier quotient, which occurs both in the abelianization and in the five-term homology sequence. The non-smooth automorphism scheme contains a canonical Frobenius thickening of $U_S$, whose Verschiebung filtration and distribution algebra are computed. At arbitrary divided-power height, Cartier-Verschiebung morphisms on the de Rham complexes induce explicit maps on restricted derivations.\n  In height one we determine both series for the Witt family in rank at least two and for the Hamiltonian family, and identify the contact automorphism group scheme with the coordinate contact stabilizer. For the Witt radical the congruence filtration is itself the lower central series, and $\\mathrm{cl}(U_W)=D-1$, $\\mathrm{dl}(U_W)=\\lceil\\log_2 D\\rceil$. For the Hamiltonian radical it is cut out by the flux character and the socle line; with $D_H=2r(p-1)$, $r\\ge 2$, one has $\\mathrm{cl}(U_H)=D_H-3$, $\\mathrm{dl}(U_H)=\\lceil\\log_2(D_H-2)\\rceil$. Thus all three attain the largest derived length their classes permit.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Dual reflection groups for three-dimensional Artin--Schelter regular algebras",
+    "pubDate": "2026-09-29 04:00:00",
+    "link": "https://arxiv.org/abs/2609.31907",
+    "guid": "oai:arXiv.org:2609.31907v1",
+    "author": "Lucas Buzaglo, Daniel Rogalski",
+    "thumbnail": "",
+    "description": "arXiv:2609.31907v1 Announce Type: new \nAbstract: By definition, a dual reflection group is a finite group which grades an Artin--Schelter regular algebra $A$ such that the identity component $A_e$ is again regular. In this paper, we completely classify the nonabelian dual reflection groups for regular algebras of dimension $3$: we first classify all possible nonabelian gradings which refine the natural $\\mathbb{N}$-grading of the algebra, and then determine which of these gradings yield dual reflection groups. We show that none of the cubic algebras admit dual reflection groups, while for quadratic algebras, the dual reflection groups arise either from Ore extensions of two-dimensional regular algebras, or from the Sklyanin algebras $S_{q,0,1}$.\n  In the Sklyanin case, the dual reflection groups form a new infinite family of groups $\\Delta_n$ of order $27n^3$, answering a question of Goetz, Kirkman, Moore, and Vashaw. We also extend the four-dimensional examples of the same authors to two new infinite families of dual reflection groups. Finally, we show that an AS regular algebra admitting a dual reflection group need not have binomial relations, answering another of their questions. However, we conjecture that the relations must be binomial when $A_e$ contains no elements of degree $1$, and we prove this for nonabelian gradings in dimension $3$.",
+    "content": "arXiv:2609.31907v1 Announce Type: new \nAbstract: By definition, a dual reflection group is a finite group which grades an Artin--Schelter regular algebra $A$ such that the identity component $A_e$ is again regular. In this paper, we completely classify the nonabelian dual reflection groups for regular algebras of dimension $3$: we first classify all possible nonabelian gradings which refine the natural $\\mathbb{N}$-grading of the algebra, and then determine which of these gradings yield dual reflection groups. We show that none of the cubic algebras admit dual reflection groups, while for quadratic algebras, the dual reflection groups arise either from Ore extensions of two-dimensional regular algebras, or from the Sklyanin algebras $S_{q,0,1}$.\n  In the Sklyanin case, the dual reflection groups form a new infinite family of groups $\\Delta_n$ of order $27n^3$, answering a question of Goetz, Kirkman, Moore, and Vashaw. We also extend the four-dimensional examples of the same authors to two new infinite families of dual reflection groups. Finally, we show that an AS regular algebra admitting a dual reflection group need not have binomial relations, answering another of their questions. However, we conjecture that the relations must be binomial when $A_e$ contains no elements of degree $1$, and we prove this for nonabelian gradings in dimension $3$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "$\\Hom$-Lie structures on Lie algebras",
+    "pubDate": "2026-09-29 04:00:00",
+    "link": "https://arxiv.org/abs/2609.32174",
+    "guid": "oai:arXiv.org:2609.32174v1",
+    "author": "Jobir Adashev, Majidkhon Azizov, Vasily Voronin",
+    "thumbnail": "",
+    "description": "arXiv:2609.32174v1 Announce Type: new \nAbstract: We give a systematic description of $\\Hom$-Lie structures on several classes of Lie algebras and of their relations with transposed Poisson structures. Our starting point is the observation that the left-hand side of the defining identity is an alternating trilinear map; this makes $\\mathcal{H}(\\LL)$, the set of $\\Hom$-Lie structures of $\\LL$, a subspace of $\\End(\\LL)$ and reduces its computation to increasing triples of basis vectors. From this we derive, in every finite dimension $n$, the lower bound $\\dim \\mathcal{H}(\\LL)\\geq n \\dim \\mathcal{C}(\\LL)$ and the codimension bound $\\binom{n}{3}\\dim [\\LL,[\\LL,\\LL]]$, together with a refinement of the latter, and we determine $\\mathcal{H}(\\LL)$ for nilpotent, oscillator and solvable algebras, for $\\sltwo \\oplus A_{n-3}$, for the Witt, Virasoro and Heisenberg--Virasoro algebras, for all three-dimensional algebras, for $M_n(\\bF)$ and $T_n(\\bF)$, for the Virasoro-like algebra and its $q$-analogue, and for the planar Galilean conformal algebra. By a result of Filippov, every $\\frac12$-derivation, and more generally every $\\delta$-derivation with $\\delta\\neq0,1$, of a Lie algebra is a $\\Hom$-Lie structure; we observe that, more generally, for $\\delta\\neq 0,1$ the $\\delta$-derivations of an algebra of any variety defined by identities of degree at most three (associative, Novikov, left-symmetric, Leibniz, \\ldots) are $\\Hom$-structures of the corresponding $\\Hom$-variety. We show that the inclusion of the $\\frac12$-derivations into the $\\Hom$-Lie structures is far from being an equality by computing the graded $\\Hom$-Lie structures of Witt-, Virasoro- and Schr\\\"odinger-type algebras and of their central extensions, for which we give an explicit lifting obstruction. Along the way we correct two multiplication tables from the literature that violate the Jacobi identity.",
+    "content": "arXiv:2609.32174v1 Announce Type: new \nAbstract: We give a systematic description of $\\Hom$-Lie structures on several classes of Lie algebras and of their relations with transposed Poisson structures. Our starting point is the observation that the left-hand side of the defining identity is an alternating trilinear map; this makes $\\mathcal{H}(\\LL)$, the set of $\\Hom$-Lie structures of $\\LL$, a subspace of $\\End(\\LL)$ and reduces its computation to increasing triples of basis vectors. From this we derive, in every finite dimension $n$, the lower bound $\\dim \\mathcal{H}(\\LL)\\geq n \\dim \\mathcal{C}(\\LL)$ and the codimension bound $\\binom{n}{3}\\dim [\\LL,[\\LL,\\LL]]$, together with a refinement of the latter, and we determine $\\mathcal{H}(\\LL)$ for nilpotent, oscillator and solvable algebras, for $\\sltwo \\oplus A_{n-3}$, for the Witt, Virasoro and Heisenberg--Virasoro algebras, for all three-dimensional algebras, for $M_n(\\bF)$ and $T_n(\\bF)$, for the Virasoro-like algebra and its $q$-analogue, and for the planar Galilean conformal algebra. By a result of Filippov, every $\\frac12$-derivation, and more generally every $\\delta$-derivation with $\\delta\\neq0,1$, of a Lie algebra is a $\\Hom$-Lie structure; we observe that, more generally, for $\\delta\\neq 0,1$ the $\\delta$-derivations of an algebra of any variety defined by identities of degree at most three (associative, Novikov, left-symmetric, Leibniz, \\ldots) are $\\Hom$-structures of the corresponding $\\Hom$-variety. We show that the inclusion of the $\\frac12$-derivations into the $\\Hom$-Lie structures is far from being an equality by computing the graded $\\Hom$-Lie structures of Witt-, Virasoro- and Schr\\\"odinger-type algebras and of their central extensions, for which we give an explicit lifting obstruction. Along the way we correct two multiplication tables from the literature that violate the Jacobi identity.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Global and local triviality for extensions of ample groupoids: an algebraic approach",
+    "pubDate": "2026-09-29 04:00:00",
+    "link": "https://arxiv.org/abs/2609.32294",
+    "guid": "oai:arXiv.org:2609.32294v1",
+    "author": "Nathan Brownlowe, Lisa Orloff Clark, Enrique Pardo, Aidan Sims",
+    "thumbnail": "",
+    "description": "arXiv:2609.32294v1 Announce Type: new \nAbstract: Using the duality between the categories of inverse semigroups and ample groupoids, we prove the triviality (global and local) of the central term of the extension in terms of twisted crossed products.",
+    "content": "arXiv:2609.32294v1 Announce Type: new \nAbstract: Using the duality between the categories of inverse semigroups and ample groupoids, we prove the triviality (global and local) of the central term of the extension in terms of twisted crossed products.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Conservative CSPs in Symmetric Linear Datalog",
+    "pubDate": "2026-09-29 04:00:00",
+    "link": "https://arxiv.org/abs/2609.32463",
+    "guid": "oai:arXiv.org:2609.32463v1",
+    "author": "Florian Starke",
+    "thumbnail": "",
+    "description": "arXiv:2609.32463v1 Announce Type: new \nAbstract: We show that the constraint satisfaction problem of any finite conservative structure that can not pp-construct st-Con (whose CSP is NL-complete) or 3Lin2 (whose CSP is Mod2L-complete) is solved by a symmetric linear Datalog program and therefore in L.",
+    "content": "arXiv:2609.32463v1 Announce Type: new \nAbstract: We show that the constraint satisfaction problem of any finite conservative structure that can not pp-construct st-Con (whose CSP is NL-complete) or 3Lin2 (whose CSP is Mod2L-complete) is solved by a symmetric linear Datalog program and therefore in L.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Commutative algebras are ideals of evolution algebras",
+    "pubDate": "2026-09-29 04:00:00",
+    "link": "https://arxiv.org/abs/2609.32784",
+    "guid": "oai:arXiv.org:2609.32784v1",
+    "author": "Cristina Costoya, Amir Fern\\'andez Ouaridi, Antonio Viruel",
+    "thumbnail": "",
+    "description": "arXiv:2609.32784v1 Announce Type: new \nAbstract: We prove that every finite-dimensional commutative algebra can be embedded as an ideal of a finite-dimensional evolution algebra. We then determine the smallest possible dimension of an evolution algebra admitting such an embedding and study some structural properties preserved by the construction. Over fields of characteristic different from two, we relate this minimal dimension to simultaneous Waring decompositions of the quadratic map $x\\mapsto x^2$. In particular, for unital commutative algebras, the smallest possible dimension of an evolution algebra containing the given algebra coincides with the Waring rank of its squaring map. As an application, we determine this minimal dimension for the truncated polynomial algebras $\\mathbb{F}[t]/(t^n)$. Finally, we study embeddings for which additional structure is preserved, including automorphisms and multiplicative bases.",
+    "content": "arXiv:2609.32784v1 Announce Type: new \nAbstract: We prove that every finite-dimensional commutative algebra can be embedded as an ideal of a finite-dimensional evolution algebra. We then determine the smallest possible dimension of an evolution algebra admitting such an embedding and study some structural properties preserved by the construction. Over fields of characteristic different from two, we relate this minimal dimension to simultaneous Waring decompositions of the quadratic map $x\\mapsto x^2$. In particular, for unital commutative algebras, the smallest possible dimension of an evolution algebra containing the given algebra coincides with the Waring rank of its squaring map. As an application, we determine this minimal dimension for the truncated polynomial algebras $\\mathbb{F}[t]/(t^n)$. Finally, we study embeddings for which additional structure is preserved, including automorphisms and multiplicative bases.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "The Hua identity implies alternativity",
     "pubDate": "2026-09-28 04:00:00",
     "link": "https://arxiv.org/abs/2609.30447",
