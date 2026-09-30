@@ -1,5 +1,164 @@
 [
   {
+    "title": "Exponent Profiles of Oscillatory Matrices under Matrix and Inverse Sparsity",
+    "pubDate": "2026-09-30 04:00:00",
+    "link": "https://arxiv.org/abs/2609.35846",
+    "guid": "oai:arXiv.org:2609.35846v1",
+    "author": "Wei Xie",
+    "thumbnail": "",
+    "description": "arXiv:2609.35846v1 Announce Type: new \nAbstract: We classify the simultaneous half-bandwidths \\(p,q\\) of a symmetric oscillatory matrix \\(A\\) and its inverse. At order \\(n\\ge2\\), the possible pairs are \\((1,n-1)\\), \\((n-1,1)\\), and all pairs with \\(2\\le p,q\\le n-1\\). Every pair has an integer realization of determinant one.\n  Let \\(e_k(A)\\) be the least positive integer \\(m\\) for which all minors of order \\(k\\) of \\(A^m\\) are positive. We prove \\[ e_k(A)\\le \\min\\{\\max\\{k,n-p\\},\\max\\{n-k,n-q\\}\\}\\qquad(1\\le k<n when n one realization attains all these bounds simultaneously. the maximum of is determined for every bandwidth pair. write u with unit upper triangular and positive diagonal. let be least number elementary bidiagonal factors at fixed its minimum bound sharp each factor count equality characterized using zero corner minors in particular exactly basic matrices. oscillatory class without a symmetry assumption integer vector realizable if only k f_ explicit orders realize such vector.></n>\n",
+    "content": "arXiv:2609.35846v1 Announce Type: new \nAbstract: We classify the simultaneous half-bandwidths \\(p,q\\) of a symmetric oscillatory matrix \\(A\\) and its inverse. At order \\(n\\ge2\\), the possible pairs are \\((1,n-1)\\), \\((n-1,1)\\), and all pairs with \\(2\\le p,q\\le n-1\\). Every pair has an integer realization of determinant one.\n  Let \\(e_k(A)\\) be the least positive integer \\(m\\) for which all minors of order \\(k\\) of \\(A^m\\) are positive. We prove \\[ e_k(A)\\le \\min\\{\\max\\{k,n-p\\},\\max\\{n-k,n-q\\}\\}\\qquad(1\\le k<n when n one realization attains all these bounds simultaneously. the maximum of is determined for every bandwidth pair. write u with unit upper triangular and positive diagonal. let be least number elementary bidiagonal factors at fixed its minimum bound sharp each factor count equality characterized using zero corner minors in particular exactly basic matrices. oscillatory class without a symmetry assumption integer vector realizable if only k f_ explicit orders realize such vector.></n>\n",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Gorenstein homological properties of n-trivial extensions of rings",
+    "pubDate": "2026-09-30 04:00:00",
+    "link": "https://arxiv.org/abs/2609.36499",
+    "guid": "oai:arXiv.org:2609.36499v1",
+    "author": "Lixin Mao",
+    "thumbnail": "",
+    "description": "arXiv:2609.36499v1 Announce Type: new \nAbstract: We explicitly investigate Gorenstein projective, injective and flat modules over the $n$-trivial extension $R\\ltimes_{n}M$ of a ring $R$ by an $R$-bimodule $M$. Assume that $fd(M^{\\otimes_{R}i}_{R})",
+    "content": "arXiv:2609.36499v1 Announce Type: new \nAbstract: We explicitly investigate Gorenstein projective, injective and flat modules over the $n$-trivial extension $R\\ltimes_{n}M$ of a ring $R$ by an $R$-bimodule $M$. Assume that $fd(M^{\\otimes_{R}i}_{R})",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AC"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Square matrices with integer eigenvalues under entry permutations",
+    "pubDate": "2026-09-30 04:00:00",
+    "link": "https://arxiv.org/abs/2609.36524",
+    "guid": "oai:arXiv.org:2609.36524v1",
+    "author": "Shuming Cheng, Siran Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2609.36524v1 Announce Type: new \nAbstract: We investigate the problem of which multisets of integer entries yield integer eigenvalues in every square matrix arrangement? Combining module reduction with a dyadic criterion for complete splitting of cubic polynomials, we first show that if the multiset has at least one zero entry, the only possibilities have either at most one nonzero entry or exactly two whose product is a perfect square. We then apply block embedding to extend it to higher dimensions, by obtaining a linear threshold on the number of zeros. For any multiset close to a nonzero constant, we use rank reduction to derive an exact criterion for one exceptional entry, thus yielding nonconstant examples in infinitely many dimensions, and to also derive an exact reduction for two distinct exceptional entries in dimension three. The general fully nonzero three-dimensional case remains open.",
+    "content": "arXiv:2609.36524v1 Announce Type: new \nAbstract: We investigate the problem of which multisets of integer entries yield integer eigenvalues in every square matrix arrangement? Combining module reduction with a dyadic criterion for complete splitting of cubic polynomials, we first show that if the multiset has at least one zero entry, the only possibilities have either at most one nonzero entry or exactly two whose product is a perfect square. We then apply block embedding to extend it to higher dimensions, by obtaining a linear threshold on the number of zeros. For any multiset close to a nonzero constant, we use rank reduction to derive an exact criterion for one exceptional entry, thus yielding nonconstant examples in infinitely many dimensions, and to also derive an exact reduction for two distinct exceptional entries in dimension three. The general fully nonzero three-dimensional case remains open.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.NT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Irreducible $\\mathbb Z_+$-modules over $\\mathbb Z[\\sqrt[m]{d_1},\\sqrt[m]{d_2},\\ldots, \\sqrt[m]{d_r}]$",
+    "pubDate": "2026-09-30 04:00:00",
+    "link": "https://arxiv.org/abs/2609.36904",
+    "guid": "oai:arXiv.org:2609.36904v1",
+    "author": "Surender Kumar, Sumandeep Kaur",
+    "thumbnail": "",
+    "description": "arXiv:2609.36904v1 Announce Type: new \nAbstract: Let $d_1,d_2,\\ldots, d_r\\ge 2$ be $m$-th power free positive integers. In this paper, we provide explicit representations of all irreducible $\\mathbb{Z}_+$-modules over $\\mathbb{Z}[\\sqrt[m]{d_1},\\sqrt[m]{d_2},\\ldots,\\sqrt[m]{d_r}]$, where $\\mathbb{Z}_+$ denotes the semiring of non-negative integers.",
+    "content": "arXiv:2609.36904v1 Announce Type: new \nAbstract: Let $d_1,d_2,\\ldots, d_r\\ge 2$ be $m$-th power free positive integers. In this paper, we provide explicit representations of all irreducible $\\mathbb{Z}_+$-modules over $\\mathbb{Z}[\\sqrt[m]{d_1},\\sqrt[m]{d_2},\\ldots,\\sqrt[m]{d_r}]$, where $\\mathbb{Z}_+$ denotes the semiring of non-negative integers.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Representation of abstract pseudogroups",
+    "pubDate": "2026-09-30 04:00:00",
+    "link": "https://arxiv.org/abs/2609.37124",
+    "guid": "oai:arXiv.org:2609.37124v1",
+    "author": "Joshua L. Wrigley",
+    "thumbnail": "",
+    "description": "arXiv:2609.37124v1 Announce Type: new \nAbstract: The Wagner-Preston theorem states that every inverse semigroup can be embedded into an inverse semigroup of partial bijections on some set. However, this embedding does not respect lattice operations in the natural ordering. In this paper, we show that an abstract pseudogroup can be faithfully represented by partial bijections on a set if and only if its frame of idempotents is spatial. More generally, we show that any abstract pseudogroup can be faithfully represented by partial homeomorphisms on a locale.",
+    "content": "arXiv:2609.37124v1 Announce Type: new \nAbstract: The Wagner-Preston theorem states that every inverse semigroup can be embedded into an inverse semigroup of partial bijections on some set. However, this embedding does not respect lattice operations in the natural ordering. In this paper, we show that an abstract pseudogroup can be faithfully represented by partial bijections on a set if and only if its frame of idempotents is spatial. More generally, we show that any abstract pseudogroup can be faithfully represented by partial homeomorphisms on a locale.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Schreyer Resolutions over the Exterior Algebra",
+    "pubDate": "2026-09-30 04:00:00",
+    "link": "https://arxiv.org/abs/2609.37610",
+    "guid": "oai:arXiv.org:2609.37610v1",
+    "author": "Janko Boehm, Lakshmi Ramesh",
+    "thumbnail": "",
+    "description": "arXiv:2609.37610v1 Announce Type: new \nAbstract: Schreyer's algorithm is usually the fastest way to determine a (typically non-minimal) free resolution of a finitely presented module over a polynomial ring. We adapt a refined version of Schreyer's algorithm to compute free resolutions over the exterior algebra, relying on relative Groebner bases. We illustrate the use of our algorithm for the computation of cohomology of coherent sheaves over projective space, which by the BGG correspondence can be computed via free resolutions over the exterior algebra. Schreyer's method relies on a tree traversal and thus has the potential for parallel computations. We report on ongoing work on a massively parallel implementation, observing that Gnawali's parallel approach over polynomial rings can be carried over to our setting.",
+    "content": "arXiv:2609.37610v1 Announce Type: new \nAbstract: Schreyer's algorithm is usually the fastest way to determine a (typically non-minimal) free resolution of a finitely presented module over a polynomial ring. We adapt a refined version of Schreyer's algorithm to compute free resolutions over the exterior algebra, relying on relative Groebner bases. We illustrate the use of our algorithm for the computation of cohomology of coherent sheaves over projective space, which by the BGG correspondence can be computed via free resolutions over the exterior algebra. Schreyer's method relies on a tree traversal and thus has the potential for parallel computations. We report on ongoing work on a massively parallel implementation, observing that Gnawali's parallel approach over polynomial rings can be carried over to our setting.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "cs.SC",
+      "math.AC",
+      "math.AG"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Euclidean modules, submodules of their direct sums and strong reduced echelon form",
+    "pubDate": "2026-09-30 04:00:00",
+    "link": "https://arxiv.org/abs/2609.37893",
+    "guid": "oai:arXiv.org:2609.37893v1",
+    "author": "V. V. Bavula",
+    "thumbnail": "",
+    "description": "arXiv:2609.37893v1 Announce Type: new \nAbstract: The aim of the paper is to study Euclidean and l-finite Euclidean modules over a ring, submodules of their finite direct sums, reduced and strong reduced echelon forms of matrices with coefficients in Euclidean modules and bimodules. The concept of Euclidean module is a module-theoretic analogue of the concept of Euclidean ring. The class of (not necessarily commutative) Euclidean rings is a nice but `very small' class of rings that have arithmetic-like properties. On the contrary, surprisingly,\n  the class of Euclidean modules is a `large class' of modules. The Euclidean modules exist for many {\\em constructions} of rings that are defined over {\\em arbitrary} rings. For example, for every skew polynomial ring $A=D[x;\\s, \\d]$ with coefficients in an {\\em arbitrary} ring $D$, the generalized Weyl algebra $D[x,y;\\s, a]$, the Weyl algebra $A_1=K[x][\\der; \\frac{d}{dx}]$, $U(\\sl2)$ and many classical algebras, there exist Euclidean modules.",
+    "content": "arXiv:2609.37893v1 Announce Type: new \nAbstract: The aim of the paper is to study Euclidean and l-finite Euclidean modules over a ring, submodules of their finite direct sums, reduced and strong reduced echelon forms of matrices with coefficients in Euclidean modules and bimodules. The concept of Euclidean module is a module-theoretic analogue of the concept of Euclidean ring. The class of (not necessarily commutative) Euclidean rings is a nice but `very small' class of rings that have arithmetic-like properties. On the contrary, surprisingly,\n  the class of Euclidean modules is a `large class' of modules. The Euclidean modules exist for many {\\em constructions} of rings that are defined over {\\em arbitrary} rings. For example, for every skew polynomial ring $A=D[x;\\s, \\d]$ with coefficients in an {\\em arbitrary} ring $D$, the generalized Weyl algebra $D[x,y;\\s, a]$, the Weyl algebra $A_1=K[x][\\der; \\frac{d}{dx}]$, $U(\\sl2)$ and many classical algebras, there exist Euclidean modules.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Group-graded Ore extensions and graded simplicity",
+    "pubDate": "2026-09-30 04:00:00",
+    "link": "https://arxiv.org/abs/2609.38131",
+    "guid": "oai:arXiv.org:2609.38131v1",
+    "author": "Yassine Ait Mohamed",
+    "thumbnail": "",
+    "description": "arXiv:2609.38131v1 Announce Type: new \nAbstract: We study Ore extensions $R[t;\\sigma,\\delta]$ of rings graded by an arbitrary group $\\Gamma$. The grading of $R$ extends to a grading with $t$ homogeneous of degree $\\gamma$ if and only if $\\sigma$ and $\\delta$ are compatible with conjugation and translation by $\\gamma$, and this grading is then unique. For nonabelian $\\Gamma$ the degree of $t$ need not centralize the support of $R$; this twist can be removed by a change of variable when $R_\\gamma$ contains a unit, but not in general. The graded forms of the classical necessary conditions for simplicity are not sufficient, as the quantized Weyl algebra shows. If $R$ is graded-simple and $\\sigma$ is an automorphism, then $R[t;\\sigma,\\delta]$ is graded-simple if and only if it contains no homogeneous normal element that is monic of positive $t$-degree. For Ore extensions of group algebras, an affine action of the group on the line describes all graded ideals; in characteristic zero, graded simplicity is equivalent to the nonvanishing of a class in $H^1(G,k_\\chi)$, and simplicity forces the group to be metabelian.",
+    "content": "arXiv:2609.38131v1 Announce Type: new \nAbstract: We study Ore extensions $R[t;\\sigma,\\delta]$ of rings graded by an arbitrary group $\\Gamma$. The grading of $R$ extends to a grading with $t$ homogeneous of degree $\\gamma$ if and only if $\\sigma$ and $\\delta$ are compatible with conjugation and translation by $\\gamma$, and this grading is then unique. For nonabelian $\\Gamma$ the degree of $t$ need not centralize the support of $R$; this twist can be removed by a change of variable when $R_\\gamma$ contains a unit, but not in general. The graded forms of the classical necessary conditions for simplicity are not sufficient, as the quantized Weyl algebra shows. If $R$ is graded-simple and $\\sigma$ is an automorphism, then $R[t;\\sigma,\\delta]$ is graded-simple if and only if it contains no homogeneous normal element that is monic of positive $t$-degree. For Ore extensions of group algebras, an affine action of the group on the line describes all graded ideals; in characteristic zero, graded simplicity is equivalent to the nonvanishing of a class in $H^1(G,k_\\chi)$, and simplicity forces the group to be metabelian.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Zero divisors of Gorenstein Rings",
+    "pubDate": "2026-09-30 04:00:00",
+    "link": "https://arxiv.org/abs/2609.36021",
+    "guid": "oai:arXiv.org:2609.36021v1",
+    "author": "Ganesh S. Kadu, Vishnu Tanpure",
+    "thumbnail": "",
+    "description": "arXiv:2609.36021v1 Announce Type: cross \nAbstract: Let $R$ be a commutative Artinian ring. We consider two graphs associated to $R$, namely the compressed zero-divisor graph $\\Gamma_E(R)$ and the associate class graph $\\Gamma_A(R)$. Partitioning the vertex set of a zero-divisor graph into its core and its boundary, we count the core vertices that dominate the core. This count is a graph invariant, and we estimate it for $\\Gamma(R)$, $\\Gamma_A(R)$ and $\\Gamma_E(R)$. We prove that the count for $\\Gamma_A(R)$ is bounded below by the count for $\\Gamma_E(R)$, and that the lower bound is attained precisely when $R$ is Gorenstein. As a consequence we obtain that $R$ is Gorenstein if and only if $\\Gamma_A(R)\\cong\\Gamma_E(R)$ as graphs, the isomorphism being an arbitrary one and not merely the natural compression map. Using the same counting technique we then answer, for Artinian rings, a question of Anderson and LaGrange by showing that $\\Gamma(R)\\cong\\Gamma_E(R)$ if and only if $R\\cong \\mathbb Z_2^{\\,n}$ for some $n\\ge2$, or $R\\cong\\mathbb Z_4$, or $R\\cong\\mathbb Z_2[x]/(x^2)$.",
+    "content": "arXiv:2609.36021v1 Announce Type: cross \nAbstract: Let $R$ be a commutative Artinian ring. We consider two graphs associated to $R$, namely the compressed zero-divisor graph $\\Gamma_E(R)$ and the associate class graph $\\Gamma_A(R)$. Partitioning the vertex set of a zero-divisor graph into its core and its boundary, we count the core vertices that dominate the core. This count is a graph invariant, and we estimate it for $\\Gamma(R)$, $\\Gamma_A(R)$ and $\\Gamma_E(R)$. We prove that the count for $\\Gamma_A(R)$ is bounded below by the count for $\\Gamma_E(R)$, and that the lower bound is attained precisely when $R$ is Gorenstein. As a consequence we obtain that $R$ is Gorenstein if and only if $\\Gamma_A(R)\\cong\\Gamma_E(R)$ as graphs, the isomorphism being an arbitrary one and not merely the natural compression map. Using the same counting technique we then answer, for Artinian rings, a question of Anderson and LaGrange by showing that $\\Gamma(R)\\cong\\Gamma_E(R)$ if and only if $R\\cong \\mathbb Z_2^{\\,n}$ for some $n\\ge2$, or $R\\cong\\mathbb Z_4$, or $R\\cong\\mathbb Z_2[x]/(x^2)$.",
+    "enclosure": {},
+    "categories": [
+      "math.AC",
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A note on inverse limits of injective modules",
+    "pubDate": "2026-09-30 04:00:00",
+    "link": "https://arxiv.org/abs/2609.36089",
+    "guid": "oai:arXiv.org:2609.36089v1",
+    "author": "Chencheng Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2609.36089v1 Announce Type: cross \nAbstract: Let $R$ be a ring and $M$ a left $R$-module. We prove that $M$ is an $\\omega_1$-indexed inverse limit of injective modules with split epimorphic connecting maps, and $M$ is also an $\\omega$-indexed inverse limit of a stationary tower defined by a split monic endomorphism of one injective module. These constructions answer two questions of Bergman. We then study the class of direct summands of $\\omega$-indexed inverse limit of injective modules with epimorphic connecting maps. Over a commutative Noetherian ring $R$, they are precisely the Enochs cotorsion modules if and only if $\\operatorname{gldim}R\\leq1$ and $\\operatorname{Spec}R$ is countable.",
+    "content": "arXiv:2609.36089v1 Announce Type: cross \nAbstract: Let $R$ be a ring and $M$ a left $R$-module. We prove that $M$ is an $\\omega_1$-indexed inverse limit of injective modules with split epimorphic connecting maps, and $M$ is also an $\\omega$-indexed inverse limit of a stationary tower defined by a split monic endomorphism of one injective module. These constructions answer two questions of Bergman. We then study the class of direct summands of $\\omega$-indexed inverse limit of injective modules with epimorphic connecting maps. Over a commutative Noetherian ring $R$, they are precisely the Enochs cotorsion modules if and only if $\\operatorname{gldim}R\\leq1$ and $\\operatorname{Spec}R$ is countable.",
+    "enclosure": {},
+    "categories": [
+      "math.AC",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Algebras with Variable Structural Constants and Their Applications",
     "pubDate": "2026-09-29 04:00:00",
     "link": "https://arxiv.org/abs/2609.31627",
