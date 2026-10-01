@@ -1,5 +1,164 @@
 [
   {
+    "title": "Algebraic derivations and radicals of automorphism groups of algebras",
+    "pubDate": "2026-10-01 04:00:00",
+    "link": "https://arxiv.org/abs/2609.38188",
+    "guid": "oai:arXiv.org:2609.38188v1",
+    "author": "A. Yu. Golubkov",
+    "thumbnail": "",
+    "description": "arXiv:2609.38188v1 Announce Type: new \nAbstract: The paper \"Algebraic derivations and radicals of automorphism groups of algebras\" continues both the well-known line of description of algebraic derivations of semiprime associative algebras in terms of inner derivations of their symmetric Martindale rings of quotients, and results on the coincidence of the prime and weakly solvable radicals of subgroups of multiplicative groups of PI-rings using the example of automorphism groups of algebras associated with their algebraic derivations.",
+    "content": "arXiv:2609.38188v1 Announce Type: new \nAbstract: The paper \"Algebraic derivations and radicals of automorphism groups of algebras\" continues both the well-known line of description of algebraic derivations of semiprime associative algebras in terms of inner derivations of their symmetric Martindale rings of quotients, and results on the coincidence of the prime and weakly solvable radicals of subgroups of multiplicative groups of PI-rings using the example of automorphism groups of algebras associated with their algebraic derivations.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Tensor factorization of local algebras",
+    "pubDate": "2026-10-01 04:00:00",
+    "link": "https://arxiv.org/abs/2609.38323",
+    "guid": "oai:arXiv.org:2609.38323v1",
+    "author": "Taro Sakurai",
+    "thumbnail": "",
+    "description": "arXiv:2609.38323v1 Announce Type: new \nAbstract: Let $A$ be a finite-dimensional local algebra over a splitting field. We prove that an irreducible tensor factorization $A \\cong P_1 \\otimes \\dotsb \\otimes P_n$ of the algebra $A$ is unique up to isomorphism and order of $P_1, \\dotsc, P_n$.",
+    "content": "arXiv:2609.38323v1 Announce Type: new \nAbstract: Let $A$ be a finite-dimensional local algebra over a splitting field. We prove that an irreducible tensor factorization $A \\cong P_1 \\otimes \\dotsb \\otimes P_n$ of the algebra $A$ is unique up to isomorphism and order of $P_1, \\dotsc, P_n$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GR"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Quotient Morita Theory with Applications",
+    "pubDate": "2026-10-01 04:00:00",
+    "link": "https://arxiv.org/abs/2609.39160",
+    "guid": "oai:arXiv.org:2609.39160v1",
+    "author": "Xuyang Chen, Haonan Li, Quanshui Wu",
+    "thumbnail": "",
+    "description": "arXiv:2609.39160v1 Announce Type: new \nAbstract: We study equivalences between quotient categories of module categories associated with Gabriel topologies. We establish necessary and sufficient conditions for a Morita context to induce an equivalence between quotient categories and characterize such equivalences in terms of Morita contexts after passing to rings of quotients. Motivated by Artin--Zhang's noncommutative Serre theorem, we introduce a notion of ampleness relative to a Gabriel topology and use it to characterize quotient categories of finitely generated modules under suitable noetherian hypotheses. As an application, we establish a sufficient condition under which the noncommutative Auslander theorem holds for actions of finite-dimensional Hopf algebras on AS-regular algebras without assuming that the Hopf algebras are semisimple.",
+    "content": "arXiv:2609.39160v1 Announce Type: new \nAbstract: We study equivalences between quotient categories of module categories associated with Gabriel topologies. We establish necessary and sufficient conditions for a Morita context to induce an equivalence between quotient categories and characterize such equivalences in terms of Morita contexts after passing to rings of quotients. Motivated by Artin--Zhang's noncommutative Serre theorem, we introduce a notion of ampleness relative to a Gabriel topology and use it to characterize quotient categories of finitely generated modules under suitable noetherian hypotheses. As an application, we establish a sufficient condition under which the noncommutative Auslander theorem holds for actions of finite-dimensional Hopf algebras on AS-regular algebras without assuming that the Hopf algebras are semisimple.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Perspectivity and the perspective-Schr\\\"oder-Bernstein Property",
+    "pubDate": "2026-10-01 04:00:00",
+    "link": "https://arxiv.org/abs/2609.39491",
+    "guid": "oai:arXiv.org:2609.39491v1",
+    "author": "Dinesh Khurana, Shubham Mittal",
+    "thumbnail": "",
+    "description": "arXiv:2609.39491v1 Announce Type: new \nAbstract: In this paper, we study various aspects of perspectivity in modules. We prove that the following classes of modules satisfy the perspective-Schr\\\"oder-Bernstein property: modules with transitive perspectivity, quasi-continuous modules, Harada (and hence discrete) modules and quasi-discrete modules with the (finite) exchange property. Furthermore, we prove that for a semiregular ring, the Schr\\\"oder-Bernstein property implies the perspective-Schr\\\"oder-Bernstein property. We prove that for $A,B \\subseteq ^{\\oplus} M$, if all complements of $A$ are perspective with $B$, then all complements of $B$ are perspective with $A$.\n  We also provide new characterizations of weakly perspective modules and modules in which perspectivity is transitive. Some applications of these results are given. We finally prove that perspectivity is transitive in a ring $R$ if and only if every special clean element of $R$ is perspective.",
+    "content": "arXiv:2609.39491v1 Announce Type: new \nAbstract: In this paper, we study various aspects of perspectivity in modules. We prove that the following classes of modules satisfy the perspective-Schr\\\"oder-Bernstein property: modules with transitive perspectivity, quasi-continuous modules, Harada (and hence discrete) modules and quasi-discrete modules with the (finite) exchange property. Furthermore, we prove that for a semiregular ring, the Schr\\\"oder-Bernstein property implies the perspective-Schr\\\"oder-Bernstein property. We prove that for $A,B \\subseteq ^{\\oplus} M$, if all complements of $A$ are perspective with $B$, then all complements of $B$ are perspective with $A$.\n  We also provide new characterizations of weakly perspective modules and modules in which perspectivity is transitive. Some applications of these results are given. We finally prove that perspectivity is transitive in a ring $R$ if and only if every special clean element of $R$ is perspective.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A Koteljanskii inequality for permanents",
+    "pubDate": "2026-10-01 04:00:00",
+    "link": "https://arxiv.org/abs/2609.39979",
+    "guid": "oai:arXiv.org:2609.39979v1",
+    "author": "Suvrit Sra",
+    "thumbnail": "",
+    "description": "arXiv:2609.39979v1 Announce Type: new \nAbstract: We prove a permanental analogue of Koteljanskii's inequality. If $A$ is an inverse $M$-matrix that becomes symmetric after a positive diagonal similarity, then $\\mathrm{per}(A_{S\\cup T})\\,\\mathrm{per}(A_{S\\cap T})\\ge\\mathrm{per}(A_S)\\,\\mathrm{per}(A_T)$ for all $S,T\\subseteq[n]$, where $A_S$ is the principal submatrix indexed by $S$. The proof expresses permanents as moments of a complex Gaussian vector and uses Ginibre's correlation inequality. Finally, an explicit counterexample shows that symmetry cannot be dropped.",
+    "content": "arXiv:2609.39979v1 Announce Type: new \nAbstract: We prove a permanental analogue of Koteljanskii's inequality. If $A$ is an inverse $M$-matrix that becomes symmetric after a positive diagonal similarity, then $\\mathrm{per}(A_{S\\cup T})\\,\\mathrm{per}(A_{S\\cap T})\\ge\\mathrm{per}(A_S)\\,\\mathrm{per}(A_T)$ for all $S,T\\subseteq[n]$, where $A_S$ is the principal submatrix indexed by $S$. The proof expresses permanents as moments of a complex Gaussian vector and uses Ginibre's correlation inequality. Finally, an explicit counterexample shows that symmetry cannot be dropped.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CO",
+      "math.PR"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Higher Cotorsion Pairs on Image-Nilpotent \\(\\eta\\)-Extensions",
+    "pubDate": "2026-10-01 04:00:00",
+    "link": "https://arxiv.org/abs/2609.39003",
+    "guid": "oai:arXiv.org:2609.39003v1",
+    "author": "Dajun Liu, Hanpeng Gao",
+    "thumbnail": "",
+    "description": "arXiv:2609.39003v1 Announce Type: cross \nAbstract: Let \\(\\cB\\) be an abelian category with enough projective and injective objects, and let $\n\\cA=\\cB\\ltimes_\\eta\\sF $\nbe an \\(\\eta\\)-extension induced by a right exact endofunctor \\(\\sF\\). We introduce uniform image-nilpotence for \\(\\eta\\)-extensions and characterize it in terms of the nilpotence of the associative natural transformation \\(\\eta:\\sF^2\\to\\sF\\). Using the associated \\(\\eta\\)-Loewy filtration, we prove a lifting theorem for right \\(n\\)-cotorsion pairs over image-nilpotent \\(\\eta\\)-extensions and establish a corresponding completeness theorem. As applications, our results recover and unify related constructions for split nilpotent ring extensions, comma categories, formal triangular matrix rings, Morita context rings and classical trivial extensions.",
+    "content": "arXiv:2609.39003v1 Announce Type: cross \nAbstract: Let \\(\\cB\\) be an abelian category with enough projective and injective objects, and let $\n\\cA=\\cB\\ltimes_\\eta\\sF $\nbe an \\(\\eta\\)-extension induced by a right exact endofunctor \\(\\sF\\). We introduce uniform image-nilpotence for \\(\\eta\\)-extensions and characterize it in terms of the nilpotence of the associative natural transformation \\(\\eta:\\sF^2\\to\\sF\\). Using the associated \\(\\eta\\)-Loewy filtration, we prove a lifting theorem for right \\(n\\)-cotorsion pairs over image-nilpotent \\(\\eta\\)-extensions and establish a corresponding completeness theorem. As applications, our results recover and unify related constructions for split nilpotent ring extensions, comma categories, formal triangular matrix rings, Morita context rings and classical trivial extensions.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Tilting mutation of gentle algebras and its combinatorial description",
+    "pubDate": "2026-10-01 04:00:00",
+    "link": "https://arxiv.org/abs/2609.39536",
+    "guid": "oai:arXiv.org:2609.39536v1",
+    "author": "Difan Deng, Shengfei Geng, Pin Liu",
+    "thumbnail": "",
+    "description": "arXiv:2609.39536v1 Announce Type: cross \nAbstract: Tilting mutation provides a natural way to construct derived-equivalent algebras by replacing an indecomposable summand of a tilting object. In this paper, we study tilting mutation of gentle algebras via generalized $\\mathrm{BB}$-tilting modules. For a gentle algebra $A=\\mathbb{k} Q/\\langle I\\rangle$ and a vertex $k\\in Q_0$, we first give a necessary and sufficient condition, expressed in terms of the arrows and relations incident with $k$, for the corresponding minimal left approximation of $P(k)$ to yield a tilting mutation. This criterion applies uniformly to vertices with or without loops. When the mutation exists, we determine the irreducible morphisms between the indecomposable summands of the mutated tilting module and use them to construct explicitly the Gabriel quiver and defining relations of its endomorphism algebra. In particular, we obtain a combinatorial mutation $(Q,I)\\mapsto(Q',I')$ of gentle pairs such that $\\mu_k^+(A)\\cong \\mathbb{k} Q'/\\langle I'\\rangle,$ so the resulting algebra is again gentle and derived equivalent to $A$. Finally, we formulate the dual cotilting mutation and its combinatorial description via opposite gentle pairs.",
+    "content": "arXiv:2609.39536v1 Announce Type: cross \nAbstract: Tilting mutation provides a natural way to construct derived-equivalent algebras by replacing an indecomposable summand of a tilting object. In this paper, we study tilting mutation of gentle algebras via generalized $\\mathrm{BB}$-tilting modules. For a gentle algebra $A=\\mathbb{k} Q/\\langle I\\rangle$ and a vertex $k\\in Q_0$, we first give a necessary and sufficient condition, expressed in terms of the arrows and relations incident with $k$, for the corresponding minimal left approximation of $P(k)$ to yield a tilting mutation. This criterion applies uniformly to vertices with or without loops. When the mutation exists, we determine the irreducible morphisms between the indecomposable summands of the mutated tilting module and use them to construct explicitly the Gabriel quiver and defining relations of its endomorphism algebra. In particular, we obtain a combinatorial mutation $(Q,I)\\mapsto(Q',I')$ of gentle pairs such that $\\mu_k^+(A)\\cong \\mathbb{k} Q'/\\langle I'\\rangle,$ so the resulting algebra is again gentle and derived equivalent to $A$. Finally, we formulate the dual cotilting mutation and its combinatorial description via opposite gentle pairs.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Tensor Product Does Not Behave Additively on Delooping Level",
+    "pubDate": "2026-10-01 04:00:00",
+    "link": "https://arxiv.org/abs/2609.39745",
+    "guid": "oai:arXiv.org:2609.39745v1",
+    "author": "Ryan Lam",
+    "thumbnail": "",
+    "description": "arXiv:2609.39745v1 Announce Type: cross \nAbstract: The Finitistic Dimension Conjecture is one of the most important homological conjectures in the representation theory of finite-dimensional algebras. Recently, G\\'elinas arXiv:2004.04828 proposed the notion of ``delooping level'' to study the Finitistic Dimension Conjecture. This article reports a misconception between the delooping level and the tensor product of algebras. Namely, for finte-dimensional algebras $A$ and $B$, it is not always true that $\\operatorname{dell}(A\\otimes_{\\mathbf{k}}B) = \\operatorname{dell}(A)+ \\operatorname{dell}(B)$.",
+    "content": "arXiv:2609.39745v1 Announce Type: cross \nAbstract: The Finitistic Dimension Conjecture is one of the most important homological conjectures in the representation theory of finite-dimensional algebras. Recently, G\\'elinas arXiv:2004.04828 proposed the notion of ``delooping level'' to study the Finitistic Dimension Conjecture. This article reports a misconception between the delooping level and the tensor product of algebras. Namely, for finte-dimensional algebras $A$ and $B$, it is not always true that $\\operatorname{dell}(A\\otimes_{\\mathbf{k}}B) = \\operatorname{dell}(A)+ \\operatorname{dell}(B)$.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Lattice of 456 semigroup varieties from equations of order up to 4",
+    "pubDate": "2026-10-01 04:00:00",
+    "link": "https://arxiv.org/abs/2609.39872",
+    "guid": "oai:arXiv.org:2609.39872v1",
+    "author": "Bruno Le Floch",
+    "thumbnail": "",
+    "description": "arXiv:2609.39872v1 Announce Type: cross \nAbstract: We consider the 653 equational laws of order up to 4 for an associative binary operation, and all of their conjunctions. We determine that there are only 456 equivalence classes of such conjunctions (associative equational theories), and find all implications between them. The conjunction operation makes this set of theories into a semi-lattice. These results are formalized in Lean. This is a semigroup analogue of the Equational Theories Project, but extended to conjunctions of equations.",
+    "content": "arXiv:2609.39872v1 Announce Type: cross \nAbstract: We consider the 653 equational laws of order up to 4 for an associative binary operation, and all of their conjunctions. We determine that there are only 456 equivalence classes of such conjunctions (associative equational theories), and find all implications between them. The conjunction operation makes this set of theories into a semi-lattice. These results are formalized in Lean. This is a semigroup analogue of the Equational Theories Project, but extended to conjunctions of equations.",
+    "enclosure": {},
+    "categories": [
+      "math.LO",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Characterization Results on Generalized Smash Biproduct Hopf Algebras over the Partial Dual Construction",
+    "pubDate": "2026-10-01 04:00:00",
+    "link": "https://arxiv.org/abs/2609.39896",
+    "guid": "oai:arXiv.org:2609.39896v1",
+    "author": "Kangqiao Li",
+    "thumbnail": "",
+    "description": "arXiv:2609.39896v1 Announce Type: cross \nAbstract: Let $B$ and $D$ be both algebras and coalgebras in a braided monoidal category $\\mathcal{C}$. In the literature, there are equivalent conditions for $(B,D)$ to form a generalized smash biproduct (or cross product) denoted by $B\\times D$, which were mainly given by Bespalov and Drabant in 1999 as well as by Bulacu, Caenepeel and Torrecillas in 2013. This paper is devoted to constructing another biproduct $D\\times B^\\ast$ when $B$ has a left dual object $B^\\ast$ in $\\mathcal{C}$. As results, we show that $B\\times D$ is left smash over $D\\times B^\\ast$, and establish a specific isomorphism ${}_{B\\times D}\\mathfrak{YD}(\\mathcal{C})^{B\\times D}\\cong{}_{D\\times B^\\ast}\\mathfrak{YD}(\\mathcal{C})^{D\\times B^\\ast}$ between the categories of the (left-right) Yetter-Drinfeld modules in $\\mathcal{C}$. The constructions and results are provided in three levels: (1) $B\\times D$ is an algebra and a coalgebra; (2) $B\\times D$ is a bialgebra; (3) $B\\times D$ is a Hopf algebra.",
+    "content": "arXiv:2609.39896v1 Announce Type: cross \nAbstract: Let $B$ and $D$ be both algebras and coalgebras in a braided monoidal category $\\mathcal{C}$. In the literature, there are equivalent conditions for $(B,D)$ to form a generalized smash biproduct (or cross product) denoted by $B\\times D$, which were mainly given by Bespalov and Drabant in 1999 as well as by Bulacu, Caenepeel and Torrecillas in 2013. This paper is devoted to constructing another biproduct $D\\times B^\\ast$ when $B$ has a left dual object $B^\\ast$ in $\\mathcal{C}$. As results, we show that $B\\times D$ is left smash over $D\\times B^\\ast$, and establish a specific isomorphism ${}_{B\\times D}\\mathfrak{YD}(\\mathcal{C})^{B\\times D}\\cong{}_{D\\times B^\\ast}\\mathfrak{YD}(\\mathcal{C})^{D\\times B^\\ast}$ between the categories of the (left-right) Yetter-Drinfeld modules in $\\mathcal{C}$. The constructions and results are provided in three levels: (1) $B\\times D$ is an algebra and a coalgebra; (2) $B\\times D$ is a bialgebra; (3) $B\\times D$ is a Hopf algebra.",
+    "enclosure": {},
+    "categories": [
+      "math.QA",
+      "math.CT",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Exponent Profiles of Oscillatory Matrices under Matrix and Inverse Sparsity",
     "pubDate": "2026-09-30 04:00:00",
     "link": "https://arxiv.org/abs/2609.35846",
