@@ -1,5 +1,161 @@
 [
   {
+    "title": "On extensive amenability of algebras",
+    "pubDate": "2026-10-02 04:00:00",
+    "link": "https://arxiv.org/abs/2610.00364",
+    "guid": "oai:arXiv.org:2610.00364v1",
+    "author": "Laurent Bartholdi",
+    "thumbnail": "",
+    "description": "arXiv:2610.00364v1 Announce Type: new \nAbstract: For a module \\(M\\) over a cocommutative Hopf algebra \\(\\mathscr A\\), we define extensive amenability by amenability of its symmetric algebra as a module over \\(\\operatorname{Sym}(M)\\#\\mathscr A\\). Using the author's coalgebraic rounding and quotient theorems, we prove that nonzero extensively amenable modules are amenable, that every module over an amenable Hopf algebra is extensively amenable, and that extensive amenability is preserved and reflected by short exact sequences. For permutation modules this definition agrees, over every field, with extensive amenability of group actions. A final section gives the modifications for exterior algebras and establishes the comparison between the two definitions in several cases.",
+    "content": "arXiv:2610.00364v1 Announce Type: new \nAbstract: For a module \\(M\\) over a cocommutative Hopf algebra \\(\\mathscr A\\), we define extensive amenability by amenability of its symmetric algebra as a module over \\(\\operatorname{Sym}(M)\\#\\mathscr A\\). Using the author's coalgebraic rounding and quotient theorems, we prove that nonzero extensively amenable modules are amenable, that every module over an amenable Hopf algebra is extensively amenable, and that extensive amenability is preserved and reflected by short exact sequences. For permutation modules this definition agrees, over every field, with extensive amenability of group actions. A final section gives the modifications for exterior algebras and establishes the comparison between the two definitions in several cases.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "An Algebraic View of Amenable Groupoids",
+    "pubDate": "2026-10-02 04:00:00",
+    "link": "https://arxiv.org/abs/2610.00789",
+    "guid": "oai:arXiv.org:2610.00789v1",
+    "author": "Karol Herrera, Andr\\'es Rubiano",
+    "thumbnail": "",
+    "description": "arXiv:2610.00789v1 Announce Type: new \nAbstract: We introduce source-anchored algebraic amenability for Hausdorff ample groupoids, a F{\\o}lner condition formulated in the Steinberg algebra and localized at compact open subsets of the unit space. The unanchored bisectional condition is exactly algebraic amenability of the Steinberg algebra, whereas the anchored version recovers ordinary amenability for one-unit groupoids and detects behavior invisible to the unanchored theory. We establish permanence under isomorphisms, open invariant reductions, disjoint unions, finite products, directed unions and AF approximations, while arbitrary subgroupoids need not inherit the property. For countable transitive discrete groupoids, infinite unit spaces are amenable through range escape, whereas finite unit spaces are amenable precisely when their isotropy groups are. This yields a characterization of hereditary algebraic amenability in terms of isotropy.",
+    "content": "arXiv:2610.00789v1 Announce Type: new \nAbstract: We introduce source-anchored algebraic amenability for Hausdorff ample groupoids, a F{\\o}lner condition formulated in the Steinberg algebra and localized at compact open subsets of the unit space. The unanchored bisectional condition is exactly algebraic amenability of the Steinberg algebra, whereas the anchored version recovers ordinary amenability for one-unit groupoids and detects behavior invisible to the unanchored theory. We establish permanence under isomorphisms, open invariant reductions, disjoint unions, finite products, directed unions and AF approximations, while arbitrary subgroupoids need not inherit the property. For countable transitive discrete groupoids, infinite unit spaces are amenable through range escape, whereas finite unit spaces are amenable precisely when their isotropy groups are. This yields a characterization of hereditary algebraic amenability in terms of isotropy.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Rational linear forms of linearizable ordinary differential equations",
+    "pubDate": "2026-10-02 04:00:00",
+    "link": "https://arxiv.org/abs/2610.01338",
+    "guid": "oai:arXiv.org:2610.01338v1",
+    "author": "Dmitry Lyakhov",
+    "thumbnail": "",
+    "description": "arXiv:2610.01338v1 Announce Type: new \nAbstract: Every scalar ordinary differential equation of order at least three with rational right-hand side that is locally linearizable by a point transformation admits a linear form with rational coefficients over the same coefficient field. We prove this by restricting the derived symmetry algebra to a coordinate line and recovering a scalar differential operator from rational symmetry-jet data. The construction uses differential elimination and linear algebra; it does not require the symmetry generators or a linearizing transformation to be solved for. A single integer parameter suffices to choose the line.",
+    "content": "arXiv:2610.01338v1 Announce Type: new \nAbstract: Every scalar ordinary differential equation of order at least three with rational right-hand side that is locally linearizable by a point transformation admits a linear form with rational coefficients over the same coefficient field. We prove this by restricting the derived symmetry algebra to a coordinate line and recovering a scalar differential operator from rational symmetry-jet data. The construction uses differential elimination and linear algebra; it does not require the symmetry generators or a linearizing transformation to be solved for. A single integer parameter suffices to choose the line.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "cs.SC",
+      "nlin.SI"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Local and 2 local $\\frac{1}{2}$-derivation of $n$-dimensional totally graded filiform Lie algebras",
+    "pubDate": "2026-10-02 04:00:00",
+    "link": "https://arxiv.org/abs/2610.01556",
+    "guid": "oai:arXiv.org:2610.01556v1",
+    "author": "Farkhodzhon Arzikulov, Mirzobek Shodiev",
+    "thumbnail": "",
+    "description": "arXiv:2610.01556v1 Announce Type: new \nAbstract: This article provides a complete algebraic description of $\\frac{1}{2}$-derivations, local $\\frac{1}{2}$-derivations, and 2-local $\\frac{1}{2}$-derivations on $n$-dimensional totally graded complex filiform Lie algebras of maximum length. Based on the foundational classification framework established by Janez Bernik (2020), we systematically determine the vector spaces of $\\frac{1}{2}$-derivations for the six infinite structural sequences ($m_0(n)$, $m_2(n)$, $W^+(n)$, $m_{0,1}(n)$, $m_{0,2}(n)$, $m_{0,3}(n)$) and the five exceptional one-parameter families ($g_{7,\\alpha}$ through $g_{11,\\alpha}$). By analyzing the pointwise local evaluation equations via parametric matrix systems, we establish the structural linearity and rigidity of local $\\frac{1}{2}$-derivations. In contrast, we demonstrate that the independent parameters residing in the boundary rows of the $\\frac{1}{2}$-derivation matrices provide sufficient degrees of freedom to bypass linearity constraints. Exploiting these boundary configurations, we explicitly construct pure non-linear and non-additive 2-local $\\frac{1}{2}$-derivations leveraging the homogeneous function of degree one, $f(z_1, z_2) = z_1^3 / (z_1^2 + z_2^2)$, thereby defining the exact boundary where local rigidity fails.",
+    "content": "arXiv:2610.01556v1 Announce Type: new \nAbstract: This article provides a complete algebraic description of $\\frac{1}{2}$-derivations, local $\\frac{1}{2}$-derivations, and 2-local $\\frac{1}{2}$-derivations on $n$-dimensional totally graded complex filiform Lie algebras of maximum length. Based on the foundational classification framework established by Janez Bernik (2020), we systematically determine the vector spaces of $\\frac{1}{2}$-derivations for the six infinite structural sequences ($m_0(n)$, $m_2(n)$, $W^+(n)$, $m_{0,1}(n)$, $m_{0,2}(n)$, $m_{0,3}(n)$) and the five exceptional one-parameter families ($g_{7,\\alpha}$ through $g_{11,\\alpha}$). By analyzing the pointwise local evaluation equations via parametric matrix systems, we establish the structural linearity and rigidity of local $\\frac{1}{2}$-derivations. In contrast, we demonstrate that the independent parameters residing in the boundary rows of the $\\frac{1}{2}$-derivation matrices provide sufficient degrees of freedom to bypass linearity constraints. Exploiting these boundary configurations, we explicitly construct pure non-linear and non-additive 2-local $\\frac{1}{2}$-derivations leveraging the homogeneous function of degree one, $f(z_1, z_2) = z_1^3 / (z_1^2 + z_2^2)$, thereby defining the exact boundary where local rigidity fails.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The Comon Rank Gap of a Third-Order Symmetric Tensor Can Exceed One",
+    "pubDate": "2026-10-02 04:00:00",
+    "link": "https://arxiv.org/abs/2610.01660",
+    "guid": "oai:arXiv.org:2610.01660v1",
+    "author": "Jianze Li",
+    "thumbnail": "",
+    "description": "arXiv:2610.01660v1 Announce Type: new \nAbstract: For a third-order symmetric tensor, the Comon rank gap is the difference between its CP rank and its symmetric rank. We study direct sums of Lovitz's rational $27$-dimensional tensor, whose two ranks are $55$ and $56$. Two copies have ranks $110$ and $112$, and three copies have ranks $165$ and $168$, over both the real and the complex fields. Thus direct sums yield concise cubic tensors on spaces of dimensions $54$ and $81$ with Comon rank gaps two and three.",
+    "content": "arXiv:2610.01660v1 Announce Type: new \nAbstract: For a third-order symmetric tensor, the Comon rank gap is the difference between its CP rank and its symmetric rank. We study direct sums of Lovitz's rational $27$-dimensional tensor, whose two ranks are $55$ and $56$. Two copies have ranks $110$ and $112$, and three copies have ranks $165$ and $168$, over both the real and the complex fields. Thus direct sums yield concise cubic tensors on spaces of dimensions $54$ and $81$ with Comon rank gaps two and three.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AG"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The Weight Criterion, Dong Property, and Manin Products of Operads",
+    "pubDate": "2026-10-02 04:00:00",
+    "link": "https://arxiv.org/abs/2610.01798",
+    "guid": "oai:arXiv.org:2610.01798v1",
+    "author": "P. Kolesnikov, B. Sartayev",
+    "thumbnail": "",
+    "description": "arXiv:2610.01798v1 Announce Type: new \nAbstract: We establish that, for a binary operad Var, the Hadamard product of Var and the operad Nov of Novikov algebras is a binary operad (i.e., coincides with their Manin white product Nov $\\circ$ Var) if and only if the quadratic part of Var governs a 2-variety. The condition Nov $\\circ$ Var $=$ Nov $\\otimes$ Var is known to be equivalent to the existence of an easily verifiable characterization of those differential Var-polynomials which lie in the free derived Var-algebra. For a binary quadratic operad, these conditions are also equivalent to the Dong property of formal distributions. We distinguish the white product defined as a generated sub-operad from its quadratic approximation and give an example in which the canonical epimorphism between them is not injective.",
+    "content": "arXiv:2610.01798v1 Announce Type: new \nAbstract: We establish that, for a binary operad Var, the Hadamard product of Var and the operad Nov of Novikov algebras is a binary operad (i.e., coincides with their Manin white product Nov $\\circ$ Var) if and only if the quadratic part of Var governs a 2-variety. The condition Nov $\\circ$ Var $=$ Nov $\\otimes$ Var is known to be equivalent to the existence of an easily verifiable characterization of those differential Var-polynomials which lie in the free derived Var-algebra. For a binary quadratic operad, these conditions are also equivalent to the Dong property of formal distributions. We distinguish the white product defined as a generated sub-operad from its quadratic approximation and give an example in which the canonical epimorphism between them is not injective.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.QA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On a Rank Nullstellensatz Conjecture for Noncommutative Polynomials",
+    "pubDate": "2026-10-02 04:00:00",
+    "link": "https://arxiv.org/abs/2610.01804",
+    "guid": "oai:arXiv.org:2610.01804v1",
+    "author": "Sizhuo Yan, Jianting Yang",
+    "thumbnail": "",
+    "description": "arXiv:2610.01804v1 Announce Type: new \nAbstract: Jurij Vol\\v{c}i\\v{c} conjectured that a noncommutative polynomial $g$ belongs to the two-sided ideal generated by $f_1,\\ldots,f_l$ if and only if, for matrices of every size, the rank of the evaluation of $g$ is bounded by a constant times the maximum rank of the evaluations of $f_1,\\ldots,f_l$. In this paper, we show this equivalence when the generators $f_1,\\ldots,f_l$ are homogeneous. We then give an explicit counterexample in the non-homogeneous case.",
+    "content": "arXiv:2610.01804v1 Announce Type: new \nAbstract: Jurij Vol\\v{c}i\\v{c} conjectured that a noncommutative polynomial $g$ belongs to the two-sided ideal generated by $f_1,\\ldots,f_l$ if and only if, for matrices of every size, the rank of the evaluation of $g$ is bounded by a constant times the maximum rank of the evaluations of $f_1,\\ldots,f_l$. In this paper, we show this equivalence when the generators $f_1,\\ldots,f_l$ are homogeneous. We then give an explicit counterexample in the non-homogeneous case.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The Derived Algebra of Nonlinear Polynomial Divergence-Free Vector Fields",
+    "pubDate": "2026-10-02 04:00:00",
+    "link": "https://arxiv.org/abs/2610.01838",
+    "guid": "oai:arXiv.org:2610.01838v1",
+    "author": "Chao Ma",
+    "thumbnail": "",
+    "description": "arXiv:2610.01838v1 Announce Type: new \nAbstract: We study the Lie algebra $L_{\\ge2}$ of divergence-free polynomial vector fields on $k^n$, $n\\ge3$, with coefficients of degree at least two, graded by coefficient degree. Over every field its derived algebra in degree $d\\ge3$ is the space of exact fields, those whose contraction with the volume form is an exact form, and it is already spanned by brackets with quadratic fields. In characteristic zero this is the whole degree-$d$ component. In characteristic $p&gt;0$ the abelianization is nonzero above degree two exactly in the degrees $d\\ge(p-1)(n-1)$ with $d\\equiv1-n\\pmod p$, and Cartier descent identifies it with a Frobenius twist of a rational $\\mathrm{GL}_n$-module, tensored with a power of the determinant. For $p\\ge5$ each exact component is obtained from the previous one by bracketing with quadratic fields.",
+    "content": "arXiv:2610.01838v1 Announce Type: new \nAbstract: We study the Lie algebra $L_{\\ge2}$ of divergence-free polynomial vector fields on $k^n$, $n\\ge3$, with coefficients of degree at least two, graded by coefficient degree. Over every field its derived algebra in degree $d\\ge3$ is the space of exact fields, those whose contraction with the volume form is an exact form, and it is already spanned by brackets with quadratic fields. In characteristic zero this is the whole degree-$d$ component. In characteristic $p&gt;0$ the abelianization is nonzero above degree two exactly in the degrees $d\\ge(p-1)(n-1)$ with $d\\equiv1-n\\pmod p$, and Cartier descent identifies it with a Frobenius twist of a rational $\\mathrm{GL}_n$-module, tensored with a power of the determinant. For $p\\ge5$ each exact component is obtained from the previous one by bracketing with quadratic fields.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AG"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Ideals of homomorphic images of the enveloping algebra of the Witt algebra",
+    "pubDate": "2026-10-02 04:00:00",
+    "link": "https://arxiv.org/abs/2610.01913",
+    "guid": "oai:arXiv.org:2610.01913v1",
+    "author": "Tuan Anh Pham",
+    "thumbnail": "",
+    "description": "arXiv:2610.01913v1 Announce Type: new \nAbstract: Let $W_{\\geq -1} = \\mathbb{C}[t]\\partial$ and $W = \\mathbb{C}[t, t^{-1}]\\partial$ be the Witt algebra of algebraic vector fields on $\\mathbb{C}$ and $\\mathbb{C}^*$ respectively. In this paper, we make significant progress toward the open conjecture that the enveloping algebras $\\mathrm{U}(W_{\\geq -1})$ and $\\mathrm{U}(W)$ satisfy the ascending chain condition (ACC) on two-sided ideals. We show that all homomorphic images of $\\mathrm{U}(W_{\\geq -1})$ and $\\mathrm{U}(W)$ under the family of ``orbit homomorphisms'' of arbitrary Gelfand-Kirillov dimension satisfy ACC on ideals. These orbit homomorphisms were the key ingredient allowing us to ``lift'' the Dixmier map from finite-dimensional solvable settings to infinite-dimensional settings of the Witt and Virasoro algebras in our recent work [Pham, 2025, arXiv:2504.14670].\n  As a result, we completely classify the prime and primitive spectra of these homomorphic images. As these images approximate $\\mathrm{U}(W_{\\geq -1})$ better as their GK-dimension increases, this classification sheds new light on the two-sided and prime ideal structures of $\\mathrm{U}(W_{\\geq -1})$. Finally, we discuss several applications of our results to the Dixmier map for $W_{\\geq -1}$.",
+    "content": "arXiv:2610.01913v1 Announce Type: new \nAbstract: Let $W_{\\geq -1} = \\mathbb{C}[t]\\partial$ and $W = \\mathbb{C}[t, t^{-1}]\\partial$ be the Witt algebra of algebraic vector fields on $\\mathbb{C}$ and $\\mathbb{C}^*$ respectively. In this paper, we make significant progress toward the open conjecture that the enveloping algebras $\\mathrm{U}(W_{\\geq -1})$ and $\\mathrm{U}(W)$ satisfy the ascending chain condition (ACC) on two-sided ideals. We show that all homomorphic images of $\\mathrm{U}(W_{\\geq -1})$ and $\\mathrm{U}(W)$ under the family of ``orbit homomorphisms'' of arbitrary Gelfand-Kirillov dimension satisfy ACC on ideals. These orbit homomorphisms were the key ingredient allowing us to ``lift'' the Dixmier map from finite-dimensional solvable settings to infinite-dimensional settings of the Witt and Virasoro algebras in our recent work [Pham, 2025, arXiv:2504.14670].\n  As a result, we completely classify the prime and primitive spectra of these homomorphic images. As these images approximate $\\mathrm{U}(W_{\\geq -1})$ better as their GK-dimension increases, this classification sheds new light on the two-sided and prime ideal structures of $\\mathrm{U}(W_{\\geq -1})$. Finally, we discuss several applications of our results to the Dixmier map for $W_{\\geq -1}$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Invertibility of structured perturbations of singular matrices over unital rings",
+    "pubDate": "2026-10-02 04:00:00",
+    "link": "https://arxiv.org/abs/2610.01948",
+    "guid": "oai:arXiv.org:2610.01948v1",
+    "author": "Johan \\&quot;{O}inert",
+    "thumbnail": "",
+    "description": "arXiv:2610.01948v1 Announce Type: new \nAbstract: In this article, we study the invertibility of matrices of the form $A+EDF$, where $A$ and $D$ are square matrices over a unital, not necessarily commutative, ring and $A$ is singular. Under natural hypotheses on kernels and images, we prove that $A+EDF$ is invertible if and only if $D$ is invertible, and obtain an explicit formula for the inverse of $A+EDF$ by purely algebraic methods. When the coefficient ring is stably finite, or more specifically a field, we obtain an invertibility criterion under weaker hypotheses. Our results extend and sharpen a theorem of Eriksson and Nordqvist for complex matrices.",
+    "content": "arXiv:2610.01948v1 Announce Type: new \nAbstract: In this article, we study the invertibility of matrices of the form $A+EDF$, where $A$ and $D$ are square matrices over a unital, not necessarily commutative, ring and $A$ is singular. Under natural hypotheses on kernels and images, we prove that $A+EDF$ is invertible if and only if $D$ is invertible, and obtain an explicit formula for the inverse of $A+EDF$ by purely algebraic methods. When the coefficient ring is stably finite, or more specifically a field, we obtain an invertibility criterion under weaker hypotheses. Our results extend and sharpen a theorem of Eriksson and Nordqvist for complex matrices.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Algebraic derivations and radicals of automorphism groups of algebras",
     "pubDate": "2026-10-01 04:00:00",
     "link": "https://arxiv.org/abs/2609.38188",
