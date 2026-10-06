@@ -1,5 +1,161 @@
 [
   {
+    "title": "Generalizing the $A^A$ Problem for Finite Ordered Sets",
+    "pubDate": "2026-10-06 04:00:00",
+    "link": "https://arxiv.org/abs/2610.03986",
+    "guid": "oai:arXiv.org:2610.03986v1",
+    "author": "George Gr\\&quot;atzer",
+    "thumbnail": "",
+    "description": "arXiv:2610.03986v1 Announce Type: new \nAbstract: Let X and Y be finite ordered sets and let $X^Y$ denote the ordered set of order-preserving maps from $Y$ to $X$.\n  Let $t$ be a~term formed from a~single variable by exponentiation. We prove that, for every term $t$ with at most twelve variable occurrences and arbitrary finite ordered sets $A,B$, $t(A)\\cong t(B)$ implies that $A\\cong B$.\n  General constructions and reconstruction principles are developed first; the second part gives the occurrence-by-occurrence proofs.\n  At twelve occurrences the proof covers 4,766 interchange normal forms, representing all 58,786 binary parenthesizations, including 40 exceptional forms. Two additional unbounded reconstruction families, complete finite audit data, and 457 exact height-comparison certificates are included.",
+    "content": "arXiv:2610.03986v1 Announce Type: new \nAbstract: Let X and Y be finite ordered sets and let $X^Y$ denote the ordered set of order-preserving maps from $Y$ to $X$.\n  Let $t$ be a~term formed from a~single variable by exponentiation. We prove that, for every term $t$ with at most twelve variable occurrences and arbitrary finite ordered sets $A,B$, $t(A)\\cong t(B)$ implies that $A\\cong B$.\n  General constructions and reconstruction principles are developed first; the second part gives the occurrence-by-occurrence proofs.\n  At twelve occurrences the proof covers 4,766 interchange normal forms, representing all 58,786 binary parenthesizations, including 40 exceptional forms. Two additional unbounded reconstruction families, complete finite audit data, and 457 exact height-comparison certificates are included.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Finite-dimensional Lie subalgebras of the universal enveloping algebra of $\\mathfrak{sl}(2,\\mathbb{C})$",
+    "pubDate": "2026-10-06 04:00:00",
+    "link": "https://arxiv.org/abs/2610.04001",
+    "guid": "oai:arXiv.org:2610.04001v1",
+    "author": "Tim Heib",
+    "thumbnail": "",
+    "description": "arXiv:2610.04001v1 Announce Type: new \nAbstract: In this work we provide the complete classification of all non-zero finite-dimensional complex Lie subalgebras of the universal enveloping algebra of the special linear Lie algebra $\\mathfrak{sl}(2,\\mathbb{C})$. That is, we show that every such nilpotent Lie subalgebra is abelian and every non-solvable Lie subalgebra is reductive, with semisimple component isomorphic to $\\mathfrak{sl}(2,\\mathbb{C})$ itself. Every non-nilpotent solvable Lie subalgebra is the direct sum of an abelian center and a member of the family of solvable Lie algebras $\\mathfrak{r}(\\boldsymbol{d},\\boldsymbol{m})$, parameterized by a vector $\\boldsymbol{d}$ whose entries are strictly increasing positive integers that have greatest common divisor one together with a positive integer vector $\\boldsymbol{m}$ of the same length recording their multiplicities. Moreover, we discuss the corresponding classification in a real skew-hermitian setting and its relation to the realizations in the single- and two-mode Weyl algebras.",
+    "content": "arXiv:2610.04001v1 Announce Type: new \nAbstract: In this work we provide the complete classification of all non-zero finite-dimensional complex Lie subalgebras of the universal enveloping algebra of the special linear Lie algebra $\\mathfrak{sl}(2,\\mathbb{C})$. That is, we show that every such nilpotent Lie subalgebra is abelian and every non-solvable Lie subalgebra is reductive, with semisimple component isomorphic to $\\mathfrak{sl}(2,\\mathbb{C})$ itself. Every non-nilpotent solvable Lie subalgebra is the direct sum of an abelian center and a member of the family of solvable Lie algebras $\\mathfrak{r}(\\boldsymbol{d},\\boldsymbol{m})$, parameterized by a vector $\\boldsymbol{d}$ whose entries are strictly increasing positive integers that have greatest common divisor one together with a positive integer vector $\\boldsymbol{m}$ of the same length recording their multiplicities. Moreover, we discuss the corresponding classification in a real skew-hermitian setting and its relation to the realizations in the single- and two-mode Weyl algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math-ph",
+      "math.MP",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Characterization of the centrally finite Amitsur-Small division rings",
+    "pubDate": "2026-10-06 04:00:00",
+    "link": "https://arxiv.org/abs/2610.04317",
+    "guid": "oai:arXiv.org:2610.04317v1",
+    "author": "Elad Paran",
+    "thumbnail": "",
+    "description": "arXiv:2610.04317v1 Announce Type: new \nAbstract: In 1978, Amitsur and Small asked whether, for every division ring $D$, maximal left ideals of $D[x_1,\\ldots,x_n]$ contract to maximal left ideals in smaller polynomial subrings. Chapman and the author showed that the answer is negative in general and called $D$ an Amitsur-Small ring when this contraction property always holds. Earlier work showed that Hamilton's real quaternion algebra is Amitsur-Small, that division algebras of degree three are not Amitsur-Small, and that degree-two examples are restricted to a specific quaternionic form; subsequent work excluded cyclic division algebras of odd prime degree. We give a complete resolution in the centrally finite case. If $D$ has finite dimension over its center $F$, then $D$ is an Amitsur-Small ring if and only if either $D=F$, or $F$ is real closed and $D$ is the Hamilton quaternion algebra $(-1,-1)_F$. In every other noncommutative centrally finite case, failure already occurs in two variables: there is a maximal left ideal $M\\subseteq D[x,y]$ such that $M\\cap D[x]$ is not maximal in $D[x]$.",
+    "content": "arXiv:2610.04317v1 Announce Type: new \nAbstract: In 1978, Amitsur and Small asked whether, for every division ring $D$, maximal left ideals of $D[x_1,\\ldots,x_n]$ contract to maximal left ideals in smaller polynomial subrings. Chapman and the author showed that the answer is negative in general and called $D$ an Amitsur-Small ring when this contraction property always holds. Earlier work showed that Hamilton's real quaternion algebra is Amitsur-Small, that division algebras of degree three are not Amitsur-Small, and that degree-two examples are restricted to a specific quaternionic form; subsequent work excluded cyclic division algebras of odd prime degree. We give a complete resolution in the centrally finite case. If $D$ has finite dimension over its center $F$, then $D$ is an Amitsur-Small ring if and only if either $D=F$, or $F$ is real closed and $D$ is the Hamilton quaternion algebra $(-1,-1)_F$. In every other noncommutative centrally finite case, failure already occurs in two variables: there is a maximal left ideal $M\\subseteq D[x,y]$ such that $M\\cap D[x]$ is not maximal in $D[x]$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Generalized Commutator on Octonion Algebra",
+    "pubDate": "2026-10-06 04:00:00",
+    "link": "https://arxiv.org/abs/2610.04466",
+    "guid": "oai:arXiv.org:2610.04466v1",
+    "author": "Thiago Castilho De Mello, Prachi Saini",
+    "thumbnail": "",
+    "description": "arXiv:2610.04466v1 Announce Type: new \nAbstract: Let $\\mathcal O$ be an octonion algebra over a field $F$ of characteristic different from $2$, and let $A,B\\in\\mathcal O$, not both zero. We study the image of the generalized commutator $\\Phi(x,y)=A(xy)-B(yx)$ on $\\mathcal O$. We prove that $\\Phi$ is surjective if and only if either one of $A$ and $B$ is invertible and $A\\neq B$, or $A$ and $B$ are nonzero zero divisors and $A-B$ is invertible. In the remaining cases, the image of $\\Phi$ is a hyperplane or a four-dimensional maximal totally isotropic subspace of $\\mathcal O$, except when $A$ and $B$ are linearly independent zero divisors and $A-B$ is not invertible, in which case the image spans a six-dimensional subspace. Along the way, we show that every octonion of trace zero is a commutator. We also prove that the image of $Axy-Byx$ on any quaternion algebra over $F$ is a vector subspace, extending a result of Panja S., Saini P. and Singh A. (Images of polynomial maps with constants, Mathematika 71 (2025), no. 3, Paper No. e70031) for $2\\times 2$ matrices over algebraically closed fields, and we give examples of other generalized polynomials whose images are not vector subspaces.",
+    "content": "arXiv:2610.04466v1 Announce Type: new \nAbstract: Let $\\mathcal O$ be an octonion algebra over a field $F$ of characteristic different from $2$, and let $A,B\\in\\mathcal O$, not both zero. We study the image of the generalized commutator $\\Phi(x,y)=A(xy)-B(yx)$ on $\\mathcal O$. We prove that $\\Phi$ is surjective if and only if either one of $A$ and $B$ is invertible and $A\\neq B$, or $A$ and $B$ are nonzero zero divisors and $A-B$ is invertible. In the remaining cases, the image of $\\Phi$ is a hyperplane or a four-dimensional maximal totally isotropic subspace of $\\mathcal O$, except when $A$ and $B$ are linearly independent zero divisors and $A-B$ is not invertible, in which case the image spans a six-dimensional subspace. Along the way, we show that every octonion of trace zero is a commutator. We also prove that the image of $Axy-Byx$ on any quaternion algebra over $F$ is a vector subspace, extending a result of Panja S., Saini P. and Singh A. (Images of polynomial maps with constants, Mathematika 71 (2025), no. 3, Paper No. e70031) for $2\\times 2$ matrices over algebraically closed fields, and we give examples of other generalized polynomials whose images are not vector subspaces.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Formal Matrix Rings with the Involution Property",
+    "pubDate": "2026-10-06 04:00:00",
+    "link": "https://arxiv.org/abs/2610.04709",
+    "guid": "oai:arXiv.org:2610.04709v1",
+    "author": "Valeriya Kirova",
+    "thumbnail": "",
+    "description": "arXiv:2610.04709v1 Announce Type: new \nAbstract: We study formal matrix rings with the involution property, that is, rings in which every element can be represented as the sum of an invertible element and an involution. After recalling the construction of formal matrix rings via Morita contexts, we describe involutions in triangular formal matrix rings and establish a criterion for upper triangular rings of order two. We then prove that a formal matrix ring of arbitrary finite order has the involution property whenever all of its diagonal rings have this property. Several examples and counterexamples are included to illustrate the obtained results.",
+    "content": "arXiv:2610.04709v1 Announce Type: new \nAbstract: We study formal matrix rings with the involution property, that is, rings in which every element can be represented as the sum of an invertible element and an involution. After recalling the construction of formal matrix rings via Morita contexts, we describe involutions in triangular formal matrix rings and establish a criterion for upper triangular rings of order two. We then prove that a formal matrix ring of arbitrary finite order has the involution property whenever all of its diagonal rings have this property. Several examples and counterexamples are included to illustrate the obtained results.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Hypergraphs associated to skew polynomial algebras and surface triangulations",
+    "pubDate": "2026-10-06 04:00:00",
+    "link": "https://arxiv.org/abs/2610.05311",
+    "guid": "oai:arXiv.org:2610.05311v1",
+    "author": "Akihiro Higashitani, Kenta Ueyama",
+    "thumbnail": "",
+    "description": "arXiv:2610.05311v1 Announce Type: new \nAbstract: We study the realization problem for point schemes of skew polynomial algebras. We approach this problem combinatorially by translating it into the study of certain $3$-uniform hypergraphs, which we call point hypergraphs. We first give a homological criterion characterizing point hypergraphs. Using this criterion, we study hypergraphs obtained by deleting triangles from triangulations of connected orientable closed surfaces. Deleting exactly one triangle always gives a non-point hypergraph. When the triangulation has no separating nonfacial $3$-cycles, deleting either no triangles or at least two triangles gives a point hypergraph, and the one-triangle deletions are minimal non-point hypergraphs with respect to taking induced sub-hypergraphs. It follows that point hypergraphs cannot be characterized by finitely many forbidden induced sub-hypergraphs. Next, for each point hypergraph, we construct an affine moduli variety of skew polynomial algebras realizing it, and determine its dimension. For point hypergraphs arising from the above surface construction, we obtain an explicit dimension formula in terms of the number of vertices, the Euler characteristic, and the number of deleted triangles. Finally, we characterize point hypergraphs on six vertices in terms of a four-vertex local condition together with a single exceptional obstruction.",
+    "content": "arXiv:2610.05311v1 Announce Type: new \nAbstract: We study the realization problem for point schemes of skew polynomial algebras. We approach this problem combinatorially by translating it into the study of certain $3$-uniform hypergraphs, which we call point hypergraphs. We first give a homological criterion characterizing point hypergraphs. Using this criterion, we study hypergraphs obtained by deleting triangles from triangulations of connected orientable closed surfaces. Deleting exactly one triangle always gives a non-point hypergraph. When the triangulation has no separating nonfacial $3$-cycles, deleting either no triangles or at least two triangles gives a point hypergraph, and the one-triangle deletions are minimal non-point hypergraphs with respect to taking induced sub-hypergraphs. It follows that point hypergraphs cannot be characterized by finitely many forbidden induced sub-hypergraphs. Next, for each point hypergraph, we construct an affine moduli variety of skew polynomial algebras realizing it, and determine its dimension. For point hypergraphs arising from the above surface construction, we obtain an explicit dimension formula in terms of the number of vertices, the Euler characteristic, and the number of deleted triangles. Finally, we characterize point hypergraphs on six vertices in terms of a four-vertex local condition together with a single exceptional obstruction.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A simple construction of a simple nil ring",
+    "pubDate": "2026-10-06 04:00:00",
+    "link": "https://arxiv.org/abs/2610.05384",
+    "guid": "oai:arXiv.org:2610.05384v1",
+    "author": "Vsevolod Gubarev",
+    "thumbnail": "",
+    "description": "arXiv:2610.05384v1 Announce Type: new \nAbstract: In 1999, A. Smoktunowicz solved a long-standing problem and constructed a simple nil ring. We present a substantial simplification of this construction found by Aristotle (Harmonic) with the assistance of ChatGPT.",
+    "content": "arXiv:2610.05384v1 Announce Type: new \nAbstract: In 1999, A. Smoktunowicz solved a long-standing problem and constructed a simple nil ring. We present a substantial simplification of this construction found by Aristotle (Harmonic) with the assistance of ChatGPT.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Genus of quaternion algebras over formally real fields",
+    "pubDate": "2026-10-06 04:00:00",
+    "link": "https://arxiv.org/abs/2610.05392",
+    "guid": "oai:arXiv.org:2610.05392v1",
+    "author": "Sergey V. Tikhonov",
+    "thumbnail": "",
+    "description": "arXiv:2610.05392v1 Announce Type: new \nAbstract: We prove the finiteness of the genus of quaternion division algebras over some formally real fields. In particular, if $F$ is a formally real field and the second power of the fundamental ideal $I^2(F)$ is torsion-free, then the genus of any quaternion division $F$-algebra is trivial. For instance, this immediately implies that the genus vanishes for any quaternion division algebra over a formally real pythagorean field. The proofs are based on methods from the theory of quadratic forms.",
+    "content": "arXiv:2610.05392v1 Announce Type: new \nAbstract: We prove the finiteness of the genus of quaternion division algebras over some formally real fields. In particular, if $F$ is a formally real field and the second power of the fundamental ideal $I^2(F)$ is torsion-free, then the genus of any quaternion division $F$-algebra is trivial. For instance, this immediately implies that the genus vanishes for any quaternion division algebra over a formally real pythagorean field. The proofs are based on methods from the theory of quadratic forms.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Baer-Type Ring Characterizations of Steinberg Algebras, with Applications to Leavitt Path Algebras",
+    "pubDate": "2026-10-06 04:00:00",
+    "link": "https://arxiv.org/abs/2610.05862",
+    "guid": "oai:arXiv.org:2610.05862v1",
+    "author": "Morteza Ahmadi",
+    "thumbnail": "",
+    "description": "arXiv:2610.05862v1 Announce Type: new \nAbstract: We extend the theory of Baer, Rickart, and their local, graded, and $*$-analogues for Steinberg algebras. First, we prove that positive definiteness passes from the coefficient field to the Steinberg algebra, and that this, together with graded von Neumann regularity, characterized by Steinberg and van Wyk, yields graded locally Rickart $*$-Steinberg algebras. Then we show that local Baer behavior forces every compact open subset of the unit space to be extremally disconnected. Consequently, when compact open subspaces of the unit space are metrizable, local Baer behavior forces the groupoid to be discrete. In the discrete case, we use the orbit-by-orbit decomposition into finitary matrix algebras over isotropy group algebras to convert annihilator conditions into explicit matrix conditions. For groupoids whose isotropy is trivial or infinite cyclic, these ingredients yield complete local and unital characterizations. In particular, local Baer and graded local Baer conditions are equivalent to discreteness, while the ungraded local Baer $*$-condition additionally requires that every orbit with nontrivial isotropy be a singleton. We then apply the theory to boundary path groupoids. Using the Steinberg algebra model, we obtain the Rickart, Baer, and Baer $*$ characterizations of Leavitt path algebras, including the local and graded variants.",
+    "content": "arXiv:2610.05862v1 Announce Type: new \nAbstract: We extend the theory of Baer, Rickart, and their local, graded, and $*$-analogues for Steinberg algebras. First, we prove that positive definiteness passes from the coefficient field to the Steinberg algebra, and that this, together with graded von Neumann regularity, characterized by Steinberg and van Wyk, yields graded locally Rickart $*$-Steinberg algebras. Then we show that local Baer behavior forces every compact open subset of the unit space to be extremally disconnected. Consequently, when compact open subspaces of the unit space are metrizable, local Baer behavior forces the groupoid to be discrete. In the discrete case, we use the orbit-by-orbit decomposition into finitary matrix algebras over isotropy group algebras to convert annihilator conditions into explicit matrix conditions. For groupoids whose isotropy is trivial or infinite cyclic, these ingredients yield complete local and unital characterizations. In particular, local Baer and graded local Baer conditions are equivalent to discreteness, while the ungraded local Baer $*$-condition additionally requires that every orbit with nontrivial isotropy be a singleton. We then apply the theory to boundary path groupoids. Using the Steinberg algebra model, we obtain the Rickart, Baer, and Baer $*$ characterizations of Leavitt path algebras, including the local and graded variants.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.OA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Graded bimodules over split group algebras: stabilizers and Peirce decompositions",
+    "pubDate": "2026-10-06 04:00:00",
+    "link": "https://arxiv.org/abs/2610.06072",
+    "guid": "oai:arXiv.org:2610.06072v1",
+    "author": "Felipe de Mattos Chafik Hindi, Waldeck Schutzer",
+    "thumbnail": "",
+    "description": "arXiv:2610.06072v1 Announce Type: new \nAbstract: We classify, up to graded isomorphism, graded bimodules over split group algebras of finite abelian subgroups of an arbitrary group. The classification is governed by double cosets, stabilizer characters, and coefficient modules. Over a field, we determine the essential image of the induction functor on Yetter-Drinfel'd modules, giving a negative answer to a question of Dos Santos and Yasumura in the nonabelian case. We also compute the Peirce components and characterize multiplicity-free bimodules through extensions of stabilizer characters.",
+    "content": "arXiv:2610.06072v1 Announce Type: new \nAbstract: We classify, up to graded isomorphism, graded bimodules over split group algebras of finite abelian subgroups of an arbitrary group. The classification is governed by double cosets, stabilizer characters, and coefficient modules. Over a field, we determine the essential image of the induction functor on Yetter-Drinfel'd modules, giving a negative answer to a question of Dos Santos and Yasumura in the nonabelian case. We also compute the Peirce components and characterize multiplicity-free bimodules through extensions of stabilizer characters.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Prime-Power Multiplicative Modular Monoid Morphisms",
     "pubDate": "2026-10-05 04:00:00",
     "link": "https://arxiv.org/abs/2610.02393",
