@@ -1,5 +1,148 @@
 [
   {
+    "title": "Symmetry and Invariant Theory of Quadratic Dynamics over Eight-Dimensional Composition Algebras",
+    "pubDate": "2026-10-08 04:00:00",
+    "link": "https://arxiv.org/abs/2610.09544",
+    "guid": "oai:arXiv.org:2610.09544v1",
+    "author": "Daniele Corradetti",
+    "thumbnail": "",
+    "description": "arXiv:2610.09544v1 Announce Type: new \nAbstract: The iteration of $z\\mapsto z^2+c$ over the octonions has been drawn for more than thirty years, and it is known that the octonionic Julia sets are bodies of revolution about the imaginary part of the constant. Real eight-dimensional composition algebras, however, are much richer than the octonions: beside the Hurwitz algebras there are the symmetric composition algebras, the para-octonions and the Okubo algebras, which have no unit and whose automorphism groups are $G_2$ and $PSU(3)$ respectively. In this work we study, to our knowledge for the first time, the quadratic dynamics over these algebras, and we do it in an experimental spirit: an atlas of 134 four-dimensional renderings, measured quarter by quarter, suggests the statements, which we then prove and test against new, predicted pictures. We show that the symmetries of the Julia sets of the Okubo algebra are governed by the root decomposition of $\\mathfrak{su}(3)$ with respect to the plane of $1$ and $i$: for a constant in that plane the continuous symmetry is a maximal torus, which acts by rotations on three root planes and grows to $U(2)$ on the Weyl walls; the automorphism group of the symmetrized product is $PSU(3)\\rtimes\\mathbb{Z}_2$. We then prove that the Mandelbrot set with seed $0$ of every symmetric composition algebra is the pull-back of a single planar set through the invariants $n(c)$ and $n(c,c\\diamond c)$: the tricorn in the compact case, the tricorn and a hyperbolic tricorn in the split case. The result is quite surprising since the para-octonionic and the Okubonic Mandelbrot sets turn out to be the same planar figure saturated by two different groups. Finally, we show that every bilateral map over a symmetric composition algebra is an octonionic quadratic map in disguise, and that at the Petersson angle $\\theta=90^\\circ$ the dynamics acquires symmetries that do not come from automorphisms.",
+    "content": "arXiv:2610.09544v1 Announce Type: new \nAbstract: The iteration of $z\\mapsto z^2+c$ over the octonions has been drawn for more than thirty years, and it is known that the octonionic Julia sets are bodies of revolution about the imaginary part of the constant. Real eight-dimensional composition algebras, however, are much richer than the octonions: beside the Hurwitz algebras there are the symmetric composition algebras, the para-octonions and the Okubo algebras, which have no unit and whose automorphism groups are $G_2$ and $PSU(3)$ respectively. In this work we study, to our knowledge for the first time, the quadratic dynamics over these algebras, and we do it in an experimental spirit: an atlas of 134 four-dimensional renderings, measured quarter by quarter, suggests the statements, which we then prove and test against new, predicted pictures. We show that the symmetries of the Julia sets of the Okubo algebra are governed by the root decomposition of $\\mathfrak{su}(3)$ with respect to the plane of $1$ and $i$: for a constant in that plane the continuous symmetry is a maximal torus, which acts by rotations on three root planes and grows to $U(2)$ on the Weyl walls; the automorphism group of the symmetrized product is $PSU(3)\\rtimes\\mathbb{Z}_2$. We then prove that the Mandelbrot set with seed $0$ of every symmetric composition algebra is the pull-back of a single planar set through the invariants $n(c)$ and $n(c,c\\diamond c)$: the tricorn in the compact case, the tricorn and a hyperbolic tricorn in the split case. The result is quite surprising since the para-octonionic and the Okubonic Mandelbrot sets turn out to be the same planar figure saturated by two different groups. Finally, we show that every bilateral map over a symmetric composition algebra is an octonionic quadratic map in disguise, and that at the Petersson angle $\\theta=90^\\circ$ the dynamics acquires symmetries that do not come from automorphisms.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.DS"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The algebraic classification of five-dimensional nilpotent right alternative algebras",
+    "pubDate": "2026-10-08 04:00:00",
+    "link": "https://arxiv.org/abs/2610.09816",
+    "guid": "oai:arXiv.org:2610.09816v1",
+    "author": "Zohida Raxmatova, Aloberdi Sattarov",
+    "thumbnail": "",
+    "description": "arXiv:2610.09816v1 Announce Type: new \nAbstract: We develop the method of central extensions (the Skjelbred--Sund method) for nilpotent right alternative algebras over the field of complex numbers and apply it to obtain the algebraic classification of five-dimensional nilpotent right alternative algebras. More precisely, we classify, up to isomorphism, all complex five-dimensional nilpotent right alternative algebras that have no annihilator component (that is, which are not a direct sum of a smaller algebra and a one-dimensional algebra with zero product) and which are not $2$-step nilpotent. Every such algebra is a non-split central extension of a nontrivial nilpotent right alternative algebra of dimension three (by a two-dimensional space) or of dimension four (by a one-dimensional space). For each of the relevant three- and four-dimensional algebras we compute the second cohomology space, the automorphism group and its action on the second cohomology, and we determine all orbits that give non-split extensions. The resulting list consists of $124$ algebras and families of algebras; it contains $29$ algebras with two-dimensional annihilator and $95$ algebras with one-dimensional annihilator.",
+    "content": "arXiv:2610.09816v1 Announce Type: new \nAbstract: We develop the method of central extensions (the Skjelbred--Sund method) for nilpotent right alternative algebras over the field of complex numbers and apply it to obtain the algebraic classification of five-dimensional nilpotent right alternative algebras. More precisely, we classify, up to isomorphism, all complex five-dimensional nilpotent right alternative algebras that have no annihilator component (that is, which are not a direct sum of a smaller algebra and a one-dimensional algebra with zero product) and which are not $2$-step nilpotent. Every such algebra is a non-split central extension of a nontrivial nilpotent right alternative algebra of dimension three (by a two-dimensional space) or of dimension four (by a one-dimensional space). For each of the relevant three- and four-dimensional algebras we compute the second cohomology space, the automorphism group and its action on the second cohomology, and we determine all orbits that give non-split extensions. The resulting list consists of $124$ algebras and families of algebras; it contains $29$ algebras with two-dimensional annihilator and $95$ algebras with one-dimensional annihilator.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "From bosonized $\\mathfrak{osp}(1|2)$ to liftings of the super Jordan plane",
+    "pubDate": "2026-10-08 04:00:00",
+    "link": "https://arxiv.org/abs/2610.10098",
+    "guid": "oai:arXiv.org:2610.10098v1",
+    "author": "Tao Lu",
+    "thumbnail": "",
+    "description": "arXiv:2610.10098v1 Announce Type: new \nAbstract: We study a family of liftings $\\mathfrak U(\\lambda)$ of the super Jordan plane over the infinite cyclic group in characteristic zero. For a nonzero lifting parameter $\\lambda$, we identify a natural subalgebra $\\mathfrak B$ with the bosonization of $U(\\mathfrak{osp}(1|2))$, also known as $sl_{-1}(2)$, and show that the lifting $\\mathfrak U(\\lambda)$ is obtained from $\\mathfrak B$ by an Ore localization at a single distinguished element. This structural description provides a unified approach to the representation theory and ideal structure of $\\mathfrak U(\\lambda)$. We classify the finite-dimensional simple modules of $\\mathfrak B$ and prove that every finite-dimensional $\\mathfrak B$-module is completely reducible; the localization then yields the corresponding results for $\\mathfrak U(\\lambda)$. We determine the prime, primitive, and completely prime ideals of both algebras. Finally, we compute their classical quotient rings, showing in particular that the classical quotient ring of $\\mathfrak U(\\lambda)$ is a $2\\times2$ matrix algebra over the skew field of fractions of the tensor product of its centre and the first Weyl algebra.",
+    "content": "arXiv:2610.10098v1 Announce Type: new \nAbstract: We study a family of liftings $\\mathfrak U(\\lambda)$ of the super Jordan plane over the infinite cyclic group in characteristic zero. For a nonzero lifting parameter $\\lambda$, we identify a natural subalgebra $\\mathfrak B$ with the bosonization of $U(\\mathfrak{osp}(1|2))$, also known as $sl_{-1}(2)$, and show that the lifting $\\mathfrak U(\\lambda)$ is obtained from $\\mathfrak B$ by an Ore localization at a single distinguished element. This structural description provides a unified approach to the representation theory and ideal structure of $\\mathfrak U(\\lambda)$. We classify the finite-dimensional simple modules of $\\mathfrak B$ and prove that every finite-dimensional $\\mathfrak B$-module is completely reducible; the localization then yields the corresponding results for $\\mathfrak U(\\lambda)$. We determine the prime, primitive, and completely prime ideals of both algebras. Finally, we compute their classical quotient rings, showing in particular that the classical quotient ring of $\\mathfrak U(\\lambda)$ is a $2\\times2$ matrix algebra over the skew field of fractions of the tensor product of its centre and the first Weyl algebra.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On computing deformations of contraction algebras of type E",
+    "pubDate": "2026-10-08 04:00:00",
+    "link": "https://arxiv.org/abs/2610.10157",
+    "guid": "oai:arXiv.org:2610.10157v1",
+    "author": "Agata Smoktunowicz, Alicja Smoktunowicz",
+    "thumbnail": "",
+    "description": "arXiv:2610.10157v1 Announce Type: new \nAbstract: We construct deformations of contraction algebras of type E to semisimple algebras. We consider the class given by the potential x^3+xy^3+p(y), where p(y) is a non-zero polynomial of order larger or equal to 4.",
+    "content": "arXiv:2610.10157v1 Announce Type: new \nAbstract: We construct deformations of contraction algebras of type E to semisimple algebras. We consider the class given by the potential x^3+xy^3+p(y), where p(y) is a non-zero polynomial of order larger or equal to 4.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "$W$-algebras with involution: polynomial identities and asymptotic growth",
+    "pubDate": "2026-10-08 04:00:00",
+    "link": "https://arxiv.org/abs/2610.10406",
+    "guid": "oai:arXiv.org:2610.10406v1",
+    "author": "Ginevra Giordani, Antonio Ioppolo, Carla Rizzo",
+    "thumbnail": "",
+    "description": "arXiv:2610.10406v1 Announce Type: new \nAbstract: Let $W$ be an algebra with involution over a field of characteristic zero. We develop a theory of $W$-polynomial identities with involution for finite-dimensional $(W,*)$-algebras $A$, using the multiplier algebra with involution of $A$. We prove that the $(W,*)$-exponent of $A$ exists and coincides with the ordinary $*$-exponent. We then consider a four-dimensional subalgebra $M$ of the algebra of $4\\times4$ upper triangular matrices, endowed with the reflection involution, and study two non-equivalent $(W,*)$-algebra structures on it. For both structures, we determine the corresponding $T_W^*$-ideals of $W$-polynomial identities with involution and compute the $(W,*)$-codimension sequences explicitly; for one of them, we also determine the complete $(W,*)$-cocharacter sequence. Finally, we prove that these two $W$-algebras with involution generate distinct varieties of almost polynomial growth.",
+    "content": "arXiv:2610.10406v1 Announce Type: new \nAbstract: Let $W$ be an algebra with involution over a field of characteristic zero. We develop a theory of $W$-polynomial identities with involution for finite-dimensional $(W,*)$-algebras $A$, using the multiplier algebra with involution of $A$. We prove that the $(W,*)$-exponent of $A$ exists and coincides with the ordinary $*$-exponent. We then consider a four-dimensional subalgebra $M$ of the algebra of $4\\times4$ upper triangular matrices, endowed with the reflection involution, and study two non-equivalent $(W,*)$-algebra structures on it. For both structures, we determine the corresponding $T_W^*$-ideals of $W$-polynomial identities with involution and compute the $(W,*)$-codimension sequences explicitly; for one of them, we also determine the complete $(W,*)$-cocharacter sequence. Finally, we prove that these two $W$-algebras with involution generate distinct varieties of almost polynomial growth.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Ramified Quivers with Potentials, Monodromy Characters, and Cluster Bases I",
+    "pubDate": "2026-10-08 04:00:00",
+    "link": "https://arxiv.org/abs/2610.09868",
+    "guid": "oai:arXiv.org:2610.09868v1",
+    "author": "Jiarui Fei",
+    "thumbnail": "",
+    "description": "arXiv:2610.09868v1 Announce Type: cross \nAbstract: We construct categorical models and cluster characters for skew-symmetrizable cluster algebras admitting good ramified realizations. Goodness is equivalent to nondegenerate realizability. When a reddening sequence is given, it is enough to check sign coherence of the arrow types along that sequence. Triangular extensions with arbitrary connecting bimodule types preserve goodness when both component matrices admit reddening sequences. Consequently, every matrix obtained from one vertex by triangular extensions and mutations admits a good Jacobi-finite nondegenerate realization for every compatible positive integral symmetrizer.\n  For a good Jacobi-finite nondegenerate realization, alternating traces of tame monodromy on representation Grassmannians define $F$-polynomials satisfying mutation without a rigidity hypothesis. Under the seed reachability condition, every full initial order determines a basis of the middle cluster algebra for arbitrary geometric coefficients, with frozen variables inverted. The same family is an upper-cluster-algebra basis when the middle and upper algebras coincide. For a fixed Jacobian algebra and $\\delta$-vector, the Newton polytope of the generic monodromy $F$-polynomial is independent of the order.",
+    "content": "arXiv:2610.09868v1 Announce Type: cross \nAbstract: We construct categorical models and cluster characters for skew-symmetrizable cluster algebras admitting good ramified realizations. Goodness is equivalent to nondegenerate realizability. When a reddening sequence is given, it is enough to check sign coherence of the arrow types along that sequence. Triangular extensions with arbitrary connecting bimodule types preserve goodness when both component matrices admit reddening sequences. Consequently, every matrix obtained from one vertex by triangular extensions and mutations admits a good Jacobi-finite nondegenerate realization for every compatible positive integral symmetrizer.\n  For a good Jacobi-finite nondegenerate realization, alternating traces of tame monodromy on representation Grassmannians define $F$-polynomials satisfying mutation without a rigidity hypothesis. Under the seed reachability condition, every full initial order determines a basis of the middle cluster algebra for arbitrary geometric coefficients, with frozen variables inverted. The same family is an upper-cluster-algebra basis when the middle and upper algebras coincide. For a fixed Jacobian algebra and $\\delta$-vector, the Newton polytope of the generic monodromy $F$-polynomial is independent of the order.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.AC",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Higher Fomin-Kirillov algebras are infinite-dimensional",
+    "pubDate": "2026-10-08 04:00:00",
+    "link": "https://arxiv.org/abs/2610.10144",
+    "guid": "oai:arXiv.org:2610.10144v1",
+    "author": "N. Andruskiewitsch, I. Angiono, I. Heckenberger, S. Lentner, C. Reiher, L. Vendramin",
+    "thumbnail": "",
+    "description": "arXiv:2610.10144v1 Announce Type: cross \nAbstract: We show that the Fomin--Kirillov algebras $FK_n$ are infinite-dimensional for $n\\geq6$. This answers a question posed by Fomin and Kirillov in 1997. To prove this, we demonstrate that the Nichols algebras supported on the conjugacy class of transpositions of the symmetric group are infinite-dimensional for both relevant 2-cocycles. For this, we develop a new method of partially semisimplifying a Nichols algebra along an automorphism of order $p$ in characteristic $p$.",
+    "content": "arXiv:2610.10144v1 Announce Type: cross \nAbstract: We show that the Fomin--Kirillov algebras $FK_n$ are infinite-dimensional for $n\\geq6$. This answers a question posed by Fomin and Kirillov in 1997. To prove this, we demonstrate that the Nichols algebras supported on the conjugacy class of transpositions of the symmetric group are infinite-dimensional for both relevant 2-cocycles. For this, we develop a new method of partially semisimplifying a Nichols algebra along an automorphism of order $p$ in characteristic $p$.",
+    "enclosure": {},
+    "categories": [
+      "math.QA",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Comparing Numbers of Diagonal Subsemigroups and Congruences for Semigroups",
+    "pubDate": "2026-10-08 04:00:00",
+    "link": "https://arxiv.org/abs/2602.17286",
+    "guid": "oai:arXiv.org:2602.17286v2",
+    "author": "Callum Barber, Nik Ru\\v{s}kuc",
+    "thumbnail": "",
+    "description": "arXiv:2602.17286v2 Announce Type: replace \nAbstract: Given a semigroup $S$, a diagonal subsemigroup $\\rho$ is defined to be a reflexive and compatible relation on $S$, i.e. a subsemigroup of the direct square $S\\times S$ containing the diagonal $\\{ (s,s)\\colon s\\in S\\}$. When $S$ is finite, we define the DSC coefficient $\\chi(S)$ to be the ratio of the number of congruences to the number of diagonal subsemigroups. In a previous work we observed that $\\chi(S) = 1$ if and only if $S$ is a group. Here we show that for any rational $\\alpha$ with $0 ",
+    "content": "arXiv:2602.17286v2 Announce Type: replace \nAbstract: Given a semigroup $S$, a diagonal subsemigroup $\\rho$ is defined to be a reflexive and compatible relation on $S$, i.e. a subsemigroup of the direct square $S\\times S$ containing the diagonal $\\{ (s,s)\\colon s\\in S\\}$. When $S$ is finite, we define the DSC coefficient $\\chi(S)$ to be the ratio of the number of congruences to the number of diagonal subsemigroups. In a previous work we observed that $\\chi(S) = 1$ if and only if $S$ is a group. Here we show that for any rational $\\alpha$ with $0 ",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CO",
+      "math.GR"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "On rational orbits in some prehomogeneous vector spaces",
+    "pubDate": "2026-10-08 04:00:00",
+    "link": "https://arxiv.org/abs/2512.24783",
+    "guid": "oai:arXiv.org:2512.24783v2",
+    "author": "Sayan Pal",
+    "thumbnail": "",
+    "description": "arXiv:2512.24783v2 Announce Type: replace-cross \nAbstract: Let $k$ be a field with characteristic different from $2$. In this paper, we describe the $k$-rational orbit spaces in some irreducible prehomogeneous vector spaces $(G,V)$, where $G$ is a connected reductive algebraic group and $V$ is an irreducible rational representation of $G$ with a Zariski dense open orbit over the field $k$. We prove that all composition algebras over $k$ appear as orbit spaces in some of these representations associated to the group $Sp_{6}$. This leads to a parametric description of the reduced Freudenthal algebras of dimensions $6$ and $9$ over $k$ (if $\\text{char}(k)\\neq 2,3$). In this process, we provide a construction of the irreducible representation of $Sp_{6}$ with dimension $14$ from the split octonion algebra. We also get the orbit decomposition in the irreducible representation of dimension $7$ and the corresponding octonion algebra of any simple connected group of type $G_{2}$, and a parametrization of the isotopes of any Freudenthal algebra over $k$.",
+    "content": "arXiv:2512.24783v2 Announce Type: replace-cross \nAbstract: Let $k$ be a field with characteristic different from $2$. In this paper, we describe the $k$-rational orbit spaces in some irreducible prehomogeneous vector spaces $(G,V)$, where $G$ is a connected reductive algebraic group and $V$ is an irreducible rational representation of $G$ with a Zariski dense open orbit over the field $k$. We prove that all composition algebras over $k$ appear as orbit spaces in some of these representations associated to the group $Sp_{6}$. This leads to a parametric description of the reduced Freudenthal algebras of dimensions $6$ and $9$ over $k$ (if $\\text{char}(k)\\neq 2,3$). In this process, we provide a construction of the irreducible representation of $Sp_{6}$ with dimension $14$ from the split octonion algebra. We also get the orbit decomposition in the irreducible representation of dimension $7$ and the corresponding octonion algebra of any simple connected group of type $G_{2}$, and a parametrization of the isotopes of any Freudenthal algebra over $k$.",
+    "enclosure": {},
+    "categories": [
+      "math.GR",
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Nilpotent Product Probability of Finite Rings",
     "pubDate": "2026-10-07 04:00:00",
     "link": "https://arxiv.org/abs/2610.07892",
