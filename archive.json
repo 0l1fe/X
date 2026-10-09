@@ -1,5 +1,162 @@
 [
   {
+    "title": "A Proof of the Dittert Conjecture via Boundary Rigidity",
+    "pubDate": "2026-10-09 04:00:00",
+    "link": "https://arxiv.org/abs/2610.10545",
+    "guid": "oai:arXiv.org:2610.10545v1",
+    "author": "Xinan Dai, Wenhao Deng, Yingdong Shi, Tailin Wu, Yuchen Yang",
+    "thumbnail": "",
+    "description": "arXiv:2610.10545v1 Announce Type: new \nAbstract: Let $\\mathcal{K}_n$ be the simplex of nonnegative $n \\times n$ matrices whose entries sum to $n$. For $A$ in $\\mathcal{K}_n$, with row sums $r_1,\\ldots,r_n$ and column sums $c_1,\\ldots,c_n$, define $\\Phi(A)=\\prod_{i=1}^n r_i+\\prod_{j=1}^n c_j-\\mathrm{per}(A)$. Dittert conjectured that $\\Phi$ is uniquely maximized by the uniform matrix $U_n=J_n/n$, with maximum $2-n!/n^n$. We prove the conjecture for every $n \\geq 2$. Hwang's theorem already determines every positive maximizer, so the essential problem is to exclude maximizers on the boundary of $\\mathcal{K}_n$. A reduction of Cheon and Wanless supplies two zero entries in distinct rows and columns. In order four, we classify all admissible support strata and exclude them by exact Karush-Kuhn-Tucker identities together with a Bernstein-form positivity certificate. For all $n \\geq 5$, an attained-stratum averaging argument compresses a hypothetical boundary maximizer to a seven-parameter matrix with one multiplicity $m=n-2$. A symbolic odd-variable expansion, a cofactor identity at the two missing entries, and uniform coefficient inequalities then contradict the one-sided multiplier conditions. This argument is uniform in $m$ and uses no finite enumeration. We also give independent spectral proofs in dimensions 7 through 13 and prescribed-zero proofs in dimensions 14 and 15. Every dimension-dependent calculation is certified over the rationals and recorded explicitly in the appendices.",
+    "content": "arXiv:2610.10545v1 Announce Type: new \nAbstract: Let $\\mathcal{K}_n$ be the simplex of nonnegative $n \\times n$ matrices whose entries sum to $n$. For $A$ in $\\mathcal{K}_n$, with row sums $r_1,\\ldots,r_n$ and column sums $c_1,\\ldots,c_n$, define $\\Phi(A)=\\prod_{i=1}^n r_i+\\prod_{j=1}^n c_j-\\mathrm{per}(A)$. Dittert conjectured that $\\Phi$ is uniquely maximized by the uniform matrix $U_n=J_n/n$, with maximum $2-n!/n^n$. We prove the conjecture for every $n \\geq 2$. Hwang's theorem already determines every positive maximizer, so the essential problem is to exclude maximizers on the boundary of $\\mathcal{K}_n$. A reduction of Cheon and Wanless supplies two zero entries in distinct rows and columns. In order four, we classify all admissible support strata and exclude them by exact Karush-Kuhn-Tucker identities together with a Bernstein-form positivity certificate. For all $n \\geq 5$, an attained-stratum averaging argument compresses a hypothetical boundary maximizer to a seven-parameter matrix with one multiplicity $m=n-2$. A symbolic odd-variable expansion, a cofactor identity at the two missing entries, and uniform coefficient inequalities then contradict the one-sided multiplier conditions. This argument is uniform in $m$ and uses no finite enumeration. We also give independent spectral proofs in dimensions 7 through 13 and prescribed-zero proofs in dimensions 14 and 15. Every dimension-dependent calculation is certified over the rationals and recorded explicitly in the appendices.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CO"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Wells exact sequences for $n$-Lie algebras",
+    "pubDate": "2026-10-09 04:00:00",
+    "link": "https://arxiv.org/abs/2610.10561",
+    "guid": "oai:arXiv.org:2610.10561v1",
+    "author": "Tao Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2610.10561v1 Announce Type: new \nAbstract: We study derivations and automorphisms of arbitrary non-abelian extensions of $n$-Lie algebras through their full crossed-product data. Their relative center is a canonical coefficient module, and a third cohomology class obstructs completion of data satisfying the mixed Filippov identities. When this class vanishes, a relative second cohomology space classifies the remaining extension data. We prove a non-abelian good criterion, construct the Lie algebra and group of compatible pairs, and obtain derivation and automorphism Wells sequences with explicit lifting equations. The derivation obstruction is a Lie algebra $1$-cocycle; the additive automorphism obstruction is a crossed homomorphism. We distinguish the ordinary center from the relative center, and outer derivations of the kernel from the mixed action required. Sparse crossed products are treated, including the representation class of their second mixed operation and the additional equations governing changes of sparse sections.",
+    "content": "arXiv:2610.10561v1 Announce Type: new \nAbstract: We study derivations and automorphisms of arbitrary non-abelian extensions of $n$-Lie algebras through their full crossed-product data. Their relative center is a canonical coefficient module, and a third cohomology class obstructs completion of data satisfying the mixed Filippov identities. When this class vanishes, a relative second cohomology space classifies the remaining extension data. We prove a non-abelian good criterion, construct the Lie algebra and group of compatible pairs, and obtain derivation and automorphism Wells sequences with explicit lifting equations. The derivation obstruction is a Lie algebra $1$-cocycle; the additive automorphism obstruction is a crossed homomorphism. We distinguish the ordinary center from the relative center, and outer derivations of the kernel from the mixed action required. Sparse crossed products are treated, including the representation class of their second mixed operation and the additional equations governing changes of sparse sections.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Lower and Upper Lie Nilpotency Indices of Modular Group Algebras",
+    "pubDate": "2026-10-09 04:00:00",
+    "link": "https://arxiv.org/abs/2610.10915",
+    "guid": "oai:arXiv.org:2610.10915v1",
+    "author": "Joe Gildea",
+    "thumbnail": "",
+    "description": "arXiv:2610.10915v1 Announce Type: new \nAbstract: We resolve the remaining cases of a longstanding problem on the lower and upper Lie nilpotency indices of modular group algebras. Equality of the two indices has been known in characteristics greater than three since 1992; we establish it in the remaining characteristics two and three, thereby completing the problem for finite groups of prime-power order over finite fields. The proof gives a uniform argument for every prime and introduces a terminal restricted Poincare-Birkhoff-Witt construction that converts the lower-Lie problem into a chronological reachability argument, with no structural hypothesis on the derived subgroup.",
+    "content": "arXiv:2610.10915v1 Announce Type: new \nAbstract: We resolve the remaining cases of a longstanding problem on the lower and upper Lie nilpotency indices of modular group algebras. Equality of the two indices has been known in characteristics greater than three since 1992; we establish it in the remaining characteristics two and three, thereby completing the problem for finite groups of prime-power order over finite fields. The proof gives a uniform argument for every prime and introduces a terminal restricted Poincare-Birkhoff-Witt construction that converts the lower-Lie problem into a chronological reachability argument, with no structural hypothesis on the derived subgroup.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Affine Schur--Weyl theory for loop Semigroups and polynomial representations",
+    "pubDate": "2026-10-09 04:00:00",
+    "link": "https://arxiv.org/abs/2610.11282",
+    "guid": "oai:arXiv.org:2610.11282v1",
+    "author": "Qiang Fu",
+    "thumbnail": "",
+    "description": "arXiv:2610.11282v1 Announce Type: new \nAbstract: Classical Schur--Weyl duality plays a fundamental role in the representation theory of general linear and symmetric groups. In this paper, we develop an affine Schur--Weyl theory for the Laurent polynomial loop semigroup.\n  Let $\\hat G_K(n)$ denote the Laurent polynomial loop semigroup inside the loop group $GL_n(K((t)))$ over a field $K$, and let $\\hat S_K(n,r)$ be the affine Schur algebra. The natural action of $\\hat G_K(n)$ on the affine tensor space $\\Omega_K^{\\otimes r}$ induces an algebra homomorphism $K\\hat G_K(n)\\rightarrow \\hat S_K(n,r).$ We prove that this homomorphism is surjective for every field $K$ satisfying $|K|&gt;r$. Furthermore, we establish the double centralizer property for affine Schur algebras over unique factorization domains for all $n\\geq2$. For $n\\geq2$ and any field $K$ with $|K|&gt;r$, this yields the corresponding centralizer property for $\\hat G_K(n)$. In contrast, for $n=1$ and $r\\geq2$, the corresponding natural homomorphism is not surjective over any field. For $n\\geq 2$, we use the double centralizer theorem to determine the center of the affine Schur algebra and, when $K$ is a field with $|K|&gt;r$, show that $\\hat\\zeta_{r,K}$ maps the center of $K\\hat G_K(n)$ onto it.\n  Over an algebraically closed field $K$ of arbitrary characteristic, we prove that every finite-dimensional irreducible $\\hat S_K(n,r)$-module is a tensor product of evaluation modules. Moreover, we obtain explicit character formulas expressing these irreducible characters as products of characters of irreducible classical Schur algebra modules.\n  Finally, we study polynomial representations of $\\hat G_K(n)$ over algebraically closed fields $K$, and classify its finite-dimensional irreducible polynomial representations. For finite fields $\\mathbb F_q$ with $q&gt;r$, this yields a classification in the defining-characteristic setting.",
+    "content": "arXiv:2610.11282v1 Announce Type: new \nAbstract: Classical Schur--Weyl duality plays a fundamental role in the representation theory of general linear and symmetric groups. In this paper, we develop an affine Schur--Weyl theory for the Laurent polynomial loop semigroup.\n  Let $\\hat G_K(n)$ denote the Laurent polynomial loop semigroup inside the loop group $GL_n(K((t)))$ over a field $K$, and let $\\hat S_K(n,r)$ be the affine Schur algebra. The natural action of $\\hat G_K(n)$ on the affine tensor space $\\Omega_K^{\\otimes r}$ induces an algebra homomorphism $K\\hat G_K(n)\\rightarrow \\hat S_K(n,r).$ We prove that this homomorphism is surjective for every field $K$ satisfying $|K|&gt;r$. Furthermore, we establish the double centralizer property for affine Schur algebras over unique factorization domains for all $n\\geq2$. For $n\\geq2$ and any field $K$ with $|K|&gt;r$, this yields the corresponding centralizer property for $\\hat G_K(n)$. In contrast, for $n=1$ and $r\\geq2$, the corresponding natural homomorphism is not surjective over any field. For $n\\geq 2$, we use the double centralizer theorem to determine the center of the affine Schur algebra and, when $K$ is a field with $|K|&gt;r$, show that $\\hat\\zeta_{r,K}$ maps the center of $K\\hat G_K(n)$ onto it.\n  Over an algebraically closed field $K$ of arbitrary characteristic, we prove that every finite-dimensional irreducible $\\hat S_K(n,r)$-module is a tensor product of evaluation modules. Moreover, we obtain explicit character formulas expressing these irreducible characters as products of characters of irreducible classical Schur algebra modules.\n  Finally, we study polynomial representations of $\\hat G_K(n)$ over algebraically closed fields $K$, and classify its finite-dimensional irreducible polynomial representations. For finite fields $\\mathbb F_q$ with $q&gt;r$, this yields a classification in the defining-characteristic setting.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Structure theory of finite solvable Lie conformal algebras",
+    "pubDate": "2026-10-09 04:00:00",
+    "link": "https://arxiv.org/abs/2610.11304",
+    "guid": "oai:arXiv.org:2610.11304v1",
+    "author": "Bakhrom Omirov, Yuhui Tan",
+    "thumbnail": "",
+    "description": "arXiv:2610.11304v1 Announce Type: new \nAbstract: We develop a structure theory of finite solvable Lie conformal algebras. It is proved that every such algebra admits a Cartan subalgebra, and any two Cartan subalgebras are conjugate by a finite product of exponentials of nilpotent zero modes of elements of the derived algebra. Applied to finite vertex algebras, this yields inner conjugacy of Cartan subalgebras, answering a question of D'Andrea and Marchei. The nilradical and solvable radical of an arbitrary finite Lie conformal algebra are shown to be saturated and invariant under ordinary and conformal derivations. For finite free Lie conformal algebras, we prove a simultaneous diagonalization theorem for conformal tori and characterize the existence of a nonzero torus by explicit identities for constant weights. An example demonstrates that maximal conformal tori of a finite nilpotent Lie conformal algebra can have different ranks, so that conjugacy fails in general. The totally saturated null-filiform Lie conformal algebras admitting a nonzero conformal torus are classified. For each algebra in this classification, we prove that maximal conformal tori have rank one and that the maximal solvable extension with the prescribed nilradical is unique (up to isomorphism) and is the semidirect product with a maximal conformal torus.",
+    "content": "arXiv:2610.11304v1 Announce Type: new \nAbstract: We develop a structure theory of finite solvable Lie conformal algebras. It is proved that every such algebra admits a Cartan subalgebra, and any two Cartan subalgebras are conjugate by a finite product of exponentials of nilpotent zero modes of elements of the derived algebra. Applied to finite vertex algebras, this yields inner conjugacy of Cartan subalgebras, answering a question of D'Andrea and Marchei. The nilradical and solvable radical of an arbitrary finite Lie conformal algebra are shown to be saturated and invariant under ordinary and conformal derivations. For finite free Lie conformal algebras, we prove a simultaneous diagonalization theorem for conformal tori and characterize the existence of a nonzero torus by explicit identities for constant weights. An example demonstrates that maximal conformal tori of a finite nilpotent Lie conformal algebra can have different ranks, so that conjugacy fails in general. The totally saturated null-filiform Lie conformal algebras admitting a nonzero conformal torus are classified. For each algebra in this classification, we prove that maximal conformal tori have rank one and that the maximal solvable extension with the prescribed nilradical is unique (up to isomorphism) and is the semidirect product with a maximal conformal torus.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "A Counterexample to Left-Right Symmetry for Diagonal Auslander-Regularity",
+    "pubDate": "2026-10-09 04:00:00",
+    "link": "https://arxiv.org/abs/2610.11406",
+    "guid": "oai:arXiv.org:2610.11406v1",
+    "author": "Zhenyu Wang, Zhaoyong Huang, Yu-Zhe Liu",
+    "thumbnail": "",
+    "description": "arXiv:2610.11406v1 Announce Type: new \nAbstract: We construct a finite-dimensional Auslander-regular algebra $R$ with global dimension three, which is right diagonal but not left diagonal; moreover, any simple right $R$-module with grade $i$ has projective dimension $i$, but there is a simple left $R$-module with grade one and projective dimension two. It answers a question raised by Iyama negatively.",
+    "content": "arXiv:2610.11406v1 Announce Type: new \nAbstract: We construct a finite-dimensional Auslander-regular algebra $R$ with global dimension three, which is right diagonal but not left diagonal; moreover, any simple right $R$-module with grade $i$ has projective dimension $i$, but there is a simple left $R$-module with grade one and projective dimension two. It answers a question raised by Iyama negatively.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "BiHom-Poisson conformal superalgebras arising from related algebraic structures",
+    "pubDate": "2026-10-09 04:00:00",
+    "link": "https://arxiv.org/abs/2610.11661",
+    "guid": "oai:arXiv.org:2610.11661v1",
+    "author": "Bakol\\`E Louamou, Ibrahima Bakayoko, Kol B\\'Eatrice Gamou",
+    "thumbnail": "",
+    "description": "arXiv:2610.11661v1 Announce Type: new \nAbstract: Inspired from some works on constructions of algebraic structures from other ones, we purpose to give some construction theorems on BiHom-Poisson conformal superalgebras which unify the notion of the Z2 -graded Poisson algebras, the BiHom-Poisson algebras and their conformal setting. So, we introduce BiHom-Poisson conformal superalgebras and show that they are closed under twisting. We then prouve that any regular BiHom-associative conformal algebra leads to BiHom-Poisson conformal algebra via the commutator bracket. Then, we point out that any BiHom-Poisson conformal superalgebra together with Rota-Baxter operator give rises to another BiHom-Poisson conformal superalgebra. Next, we show that tensor prod- uct of any BiHom-associative superalgebra and any BiHom-Poisson conformal superalgebra is also a BiHom-Poisson conformal superalgebra. Contruction from Hom-post-Poisson conformal superalgebras is also given.",
+    "content": "arXiv:2610.11661v1 Announce Type: new \nAbstract: Inspired from some works on constructions of algebraic structures from other ones, we purpose to give some construction theorems on BiHom-Poisson conformal superalgebras which unify the notion of the Z2 -graded Poisson algebras, the BiHom-Poisson algebras and their conformal setting. So, we introduce BiHom-Poisson conformal superalgebras and show that they are closed under twisting. We then prouve that any regular BiHom-associative conformal algebra leads to BiHom-Poisson conformal algebra via the commutator bracket. Then, we point out that any BiHom-Poisson conformal superalgebra together with Rota-Baxter operator give rises to another BiHom-Poisson conformal superalgebra. Next, we show that tensor prod- uct of any BiHom-associative superalgebra and any BiHom-Poisson conformal superalgebra is also a BiHom-Poisson conformal superalgebra. Contruction from Hom-post-Poisson conformal superalgebras is also given.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "The rank of $3\\times 3$ matrix multiplication over $\\mathbb{F}_2$ is 23",
+    "pubDate": "2026-10-09 04:00:00",
+    "link": "https://arxiv.org/abs/2610.11823",
+    "guid": "oai:arXiv.org:2610.11823v1",
+    "author": "Tejasvi Singh Tomar",
+    "thumbnail": "",
+    "description": "arXiv:2610.11823v1 Announce Type: new \nAbstract: The rank of the tensor of $3\\times 3$ matrix multiplication over the field with two elements is at most $23$ by Laderman's algorithm, and Rudich and Rousseau recently proved that it is at least $22$. We prove that it equals $23$. Hence Laderman's algorithm uses the fewest multiplications among all bilinear algorithms over $\\mathbb{F}_2$ and among all bilinear algorithms with integer coefficients. The proof uses the substitution method in the form developed in recent work of D'Ambrosio, Wang and Yang et al.: a subspace $S$ of the space of first factors contains at most $r-R(S)$ first factors of a decomposition of length $r$, where $R(S)$ is the rank of the tensor modulo $S$. We raise the known lower bounds on $R(S)$ for $111$ of Wang's $496$ symmetry classes of subspaces. One of these bounds, $R(S)\\ge 21$ for a point spanned by a matrix of rank one, forces the $22$ first factors of a decomposition of length $22$ to be distinct. A $27\\times 27$ flattening of the tensor gives further constraints on the ranks of the first factors, and a separate enumeration shows that, when at least $14$ first factors have rank one, no line in a certain orbit of lines contains two first factors. A computer search then lists, up to symmetry, all sets of $22$ matrices that satisfy these constraints, and an exact completion search shows that none of them is the set of first factors of a decomposition. The computation emits certificates, which are checked in the Lean 4 proof assistant by checkers whose soundness is proved in Lean. The largest checks are evaluated as compiled code, so the proof relies on the Lean compiler in addition to its kernel.",
+    "content": "arXiv:2610.11823v1 Announce Type: new \nAbstract: The rank of the tensor of $3\\times 3$ matrix multiplication over the field with two elements is at most $23$ by Laderman's algorithm, and Rudich and Rousseau recently proved that it is at least $22$. We prove that it equals $23$. Hence Laderman's algorithm uses the fewest multiplications among all bilinear algorithms over $\\mathbb{F}_2$ and among all bilinear algorithms with integer coefficients. The proof uses the substitution method in the form developed in recent work of D'Ambrosio, Wang and Yang et al.: a subspace $S$ of the space of first factors contains at most $r-R(S)$ first factors of a decomposition of length $r$, where $R(S)$ is the rank of the tensor modulo $S$. We raise the known lower bounds on $R(S)$ for $111$ of Wang's $496$ symmetry classes of subspaces. One of these bounds, $R(S)\\ge 21$ for a point spanned by a matrix of rank one, forces the $22$ first factors of a decomposition of length $22$ to be distinct. A $27\\times 27$ flattening of the tensor gives further constraints on the ranks of the first factors, and a separate enumeration shows that, when at least $14$ first factors have rank one, no line in a certain orbit of lines contains two first factors. A computer search then lists, up to symmetry, all sets of $22$ matrices that satisfy these constraints, and an exact completion search shows that none of them is the set of first factors of a decomposition. The computation emits certificates, which are checked in the Lean 4 proof assistant by checkers whose soundness is proved in Lean. The largest checks are evaluated as compiled code, so the proof relies on the Lean compiler in addition to its kernel.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "cs.CC"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "An explicit tame factorization of the four-variable Anick automorphism",
+    "pubDate": "2026-10-09 04:00:00",
+    "link": "https://arxiv.org/abs/2610.11013",
+    "guid": "oai:arXiv.org:2610.11013v1",
+    "author": "Alexei Miasnikov, Ivan Shestakov",
+    "thumbnail": "",
+    "description": "arXiv:2610.11013v1 Announce Type: cross \nAbstract: Let $\\delta=xz-yt$. We give an explicit tame factorization of the Anick automorphism $(x+\\delta t,y+\\delta z,z,t)$ of $F[x,y,z,t]$. After a linear change of coordinates, the factorization consists of sixteen elementary automorphisms, all fixing $z$. The proof uses a commutator construction with variables already present in the algebra. A complete list of the elementary factors is included in Section 5. The explicit polynomial factorization identities are defined over $\\ZZ[1/2]$; no conclusion in characteristic $2$ is asserted.",
+    "content": "arXiv:2610.11013v1 Announce Type: cross \nAbstract: Let $\\delta=xz-yt$. We give an explicit tame factorization of the Anick automorphism $(x+\\delta t,y+\\delta z,z,t)$ of $F[x,y,z,t]$. After a linear change of coordinates, the factorization consists of sixteen elementary automorphisms, all fixing $z$. The proof uses a commutator construction with variables already present in the algebra. A complete list of the elementary factors is included in Section 5. The explicit polynomial factorization identities are defined over $\\ZZ[1/2]$; no conclusion in characteristic $2$ is asserted.",
+    "enclosure": {},
+    "categories": [
+      "math.AG",
+      "math.AC",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
+    "title": "Sharp commutator bounds on complex simple Lie algebras: the B\\\"ottcher--Wenzel inequality and the comass of the Cartan $3$-form",
+    "pubDate": "2026-10-09 04:00:00",
+    "link": "https://arxiv.org/abs/2610.11800",
+    "guid": "oai:arXiv.org:2610.11800v1",
+    "author": "Daniel J. F. Fox",
+    "thumbnail": "",
+    "description": "arXiv:2610.11800v1 Announce Type: cross \nAbstract: For a complex simple Lie algebra $\\mathfrak{g}$ with compact conjugation $\\tau$, Killing form $B$, and Hermitian form $H(x, y) = -B(x, \\tau y)$, it is shown that $H([x,y],[x,y]) \\leq (h^{\\vee})^{-1}H(x,x)H(y,y)$, where $h^{\\vee}$ is the dual Coxeter number, with equality exactly for $H$-orthogonal pairs in $\\tau$-stable long-root subalgebras isomorphic to $\\mathfrak{sl}(2, \\mathbb{C})$. Equivalently, the comass of the Cartan $3$-form with respect to $H$ equals its comass on the compact real form: the spectral norm of the Cartan $3$-form does not increase under complexification. For the Frobenius norm on the image of a representation of Dynkin index $\\ell$ the optimal constant is $2/\\ell$; this contains the B\\\"ottcher--Wenzel and Bloch--Iserles inequalities, extends the latter to complex skew-symmetric matrices, and improves them substantially for the exceptional Lie algebras of types $F_{4}$, $E_{6}$, $E_{7}$, and $E_{8}$. The proof uses the Nahm algebra of $\\mathfrak{g}$ with the conjugation induced by $\\tau$: critical points of the relevant function correspond to $\\tau$-twisted idempotents, and its Hessian is governed by $\\tau$-twisted multiplication operators, whose anticommutation with multiplication by $i$ turns the one-sided second order condition at a maximum into a two-sided spectral bound. Subalgebras isomorphic to $\\mathfrak{sl}(2, \\mathbb{C})$ of Dynkin index $j$ give critical points with critical value $1/(jh^{\\vee})$, whose Morse indices are computed, and the set of maximum points is a nondegenerate critical manifold. Geometrically, the maximal complex sectional curvature of a compact simple Lie group equals its maximal sectional curvature.",
+    "content": "arXiv:2610.11800v1 Announce Type: cross \nAbstract: For a complex simple Lie algebra $\\mathfrak{g}$ with compact conjugation $\\tau$, Killing form $B$, and Hermitian form $H(x, y) = -B(x, \\tau y)$, it is shown that $H([x,y],[x,y]) \\leq (h^{\\vee})^{-1}H(x,x)H(y,y)$, where $h^{\\vee}$ is the dual Coxeter number, with equality exactly for $H$-orthogonal pairs in $\\tau$-stable long-root subalgebras isomorphic to $\\mathfrak{sl}(2, \\mathbb{C})$. Equivalently, the comass of the Cartan $3$-form with respect to $H$ equals its comass on the compact real form: the spectral norm of the Cartan $3$-form does not increase under complexification. For the Frobenius norm on the image of a representation of Dynkin index $\\ell$ the optimal constant is $2/\\ell$; this contains the B\\\"ottcher--Wenzel and Bloch--Iserles inequalities, extends the latter to complex skew-symmetric matrices, and improves them substantially for the exceptional Lie algebras of types $F_{4}$, $E_{6}$, $E_{7}$, and $E_{8}$. The proof uses the Nahm algebra of $\\mathfrak{g}$ with the conjugation induced by $\\tau$: critical points of the relevant function correspond to $\\tau$-twisted idempotents, and its Hessian is governed by $\\tau$-twisted multiplication operators, whose anticommutation with multiplication by $i$ turns the one-sided second order condition at a maximum into a two-sided spectral bound. Subalgebras isomorphic to $\\mathfrak{sl}(2, \\mathbb{C})$ of Dynkin index $j$ give critical points with critical value $1/(jh^{\\vee})$, whose Morse indices are computed, and the set of maximum points is a nondegenerate critical manifold. Geometrically, the maximal complex sectional curvature of a compact simple Lie group equals its maximal sectional curvature.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.DG",
+      "math.RA"
+    ],
+    "__source": "http://rss.arxiv.org/rss/math.RA/"
+  },
+  {
     "title": "Symmetry and Invariant Theory of Quadratic Dynamics over Eight-Dimensional Composition Algebras",
     "pubDate": "2026-10-08 04:00:00",
     "link": "https://arxiv.org/abs/2610.09544",
