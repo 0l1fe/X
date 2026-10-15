@@ -16,7 +16,7 @@ window.MathJax = {
 })();
 
 (async function main() {
-  const feedUrls = ['http://rss.arxiv.org/rss/math.RA/'];
+  const feedUrls = ['https://rss.arxiv.org/rss/math.RA/'];
   const proxyBase = 'https://api.rss2json.com/v1/api.json?rss_url=';
   const feedContainer = document.getElementById('feed');
   const searchInput = document.getElementById('search-input');
