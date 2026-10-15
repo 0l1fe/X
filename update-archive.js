@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 async function updateArchive() {
-  const feedUrl = 'http://rss.arxiv.org/rss/math.RA/';
+  const feedUrl = 'https://rss.arxiv.org/rss/math.RA/';
   const proxyUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feedUrl)}`;
 
   try {
