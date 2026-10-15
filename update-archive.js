@@ -10,7 +10,9 @@ async function updateArchive() {
     const res = await fetch(proxyUrl);
     const data = await res.json();
     
-    if (data.status !== 'ok') throw new Error('Failed to fetch RSS');
+    if (data.status !== 'ok') {
+      throw new Error(`RSS service error: ${data.message || JSON.stringify(data)}`);
+    }
     
     const liveItems = data.items.map(item => ({ ...item, __source: feedUrl }));
 
