@@ -1,32 +1,62 @@
 name: Update RSS Archive
 
-# This controls when the action will run
 on:
   schedule:
-    - cron: '0 5 * * *' # Runs at 5 AM UTC every day (after arXiv posts at 4 AM UTC)
-  workflow_dispatch: # Allows you to run this manually from the Actions tab
+    - cron: '0 8 * * *' # After arXiv's midnight Eastern update, even during US standard time
+  workflow_dispatch:
+    inputs:
+      backfill_days:
+        description: 'Historical lookback in days (use 30 for first recovery; 14 thereafter)'
+        required: false
+        default: '14'
+
+# Commit archive.json and request a rebuild of the existing branch-based Pages site.
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: arxiv-archive
+  cancel-in-progress: false
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v5
-        with:
-          node-version: '24'
+      - name: Update archive directly from arXiv
+        env:
+          BACKFILL_DAYS: ${{ inputs.backfill_days || '14' }}
+          MANUAL_RUN: ${{ github.event_name == 'workflow_dispatch' }}
+        run: |
+          if [ "$MANUAL_RUN" = "true" ]; then
+            python3 update-archive.py --backfill-days "$BACKFILL_DAYS" --require-backfill
+          else
+            python3 update-archive.py --backfill-days "$BACKFILL_DAYS"
+          fi
 
-      - name: Run update script
-        run: node update-archive.js
-
-      - name: Commit and push changes
+      - name: Commit archive changes only
+        id: commit
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add archive.json
-          # This checks if archive.json changed. If it did, it commits and pushes.
-          git diff --quiet && git diff --staged --quiet || git commit -m "Automated archive update"
-          git push
+          if git diff --cached --quiet; then
+            echo 'Archive is unchanged.'
+            echo 'changed=false' >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Automated archive update"
+            git push
+            echo 'changed=true' >> "$GITHUB_OUTPUT"
+          fi
+
+      # A GITHUB_TOKEN push doesn't automatically trigger GitHub Pages.
+      # This asks GitHub to rebuild the existing main/(root) Pages source,
+      # *not* upload a redesigned site or change any Pages settings.
+      - name: Request Pages rebuild from existing branch
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${GITHUB_REPOSITORY}/pages/builds"
