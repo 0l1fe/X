@@ -1,32 +1,75 @@
-name: Update RSS Archive
+name: Update RSS Archive and Publish Site
 
-# This controls when the action will run
 on:
+  push:
+    branches: [main]
   schedule:
-    - cron: '0 5 * * *' # Runs at 5 AM UTC every day (after arXiv posts at 4 AM UTC)
-  workflow_dispatch: # Allows you to run this manually from the Actions tab
+    - cron: '20 6 * * *' # arXiv RSS updates around midnight US Eastern
+  workflow_dispatch:
+    inputs:
+      backfill_days:
+        description: 'Minimum days of submissions to recover (1–120)'
+        required: false
+        default: '14'
+
+# Serialize runs so that two automated updates do not overwrite one another.
+concurrency:
+  group: arxiv-archive-and-pages
+  cancel-in-progress: false
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 20
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          node-version: '24'
+          python-version: '3.12'
 
-      - name: Run update script
-        run: node update-archive.js
+      - name: Update arXiv archive
+        env:
+          BACKFILL_DAYS: ${{ inputs.backfill_days || '14' }}
+        run: python update-archive.py --backfill-days "$BACKFILL_DAYS"
 
-      - name: Commit and push changes
+      - name: Commit archive changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add archive.json
-          # This checks if archive.json changed. If it did, it commits and pushes.
-          git diff --quiet && git diff --staged --quiet || git commit -m "Automated archive update"
-          git push
+          if git diff --cached --quiet; then
+            echo "No new papers to commit."
+          else
+            git commit -m "Update arXiv math.RA archive"
+            git push
+          fi
+
+      - name: Prepare static Pages files
+        run: |
+          mkdir -p _site
+          cp index.html style.css script.js archive.json _site/
+          # Keep the site lightweight; Pages should only contain public assets.
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+  deploy:
+    needs: update-data
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
