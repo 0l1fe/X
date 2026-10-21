@@ -1,5 +1,143 @@
 [
   {
+    "title": "On the square of an isosimple module",
+    "pubDate": "2026-10-21 04:00:00",
+    "link": "https://arxiv.org/abs/2610.26905",
+    "guid": "oai:arXiv.org:2610.26905v1",
+    "author": "Ran Yan, Xiaolei Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2610.26905v1 Announce Type: new \nAbstract: Let $S$ be an isosimple module, that is, a nonzero module isomorphic to every nonzero submodule of itself. In this paper, we investigate if the square $S^2 := S \\oplus S$ is isoantian when $S$ is an isosimple module. If the base ring is commutative, then the answer is yes. However, for noncommutative rings this is no longer true even when $\\mathrm{End}_R(S)$ is a discrete valuation ring. We also give some positive results coming from quasi-projectivity and Morita equivalence. Finally, we consider when every finite powers of an isosimple module are isoantian provided it holds for the square. Our related result says that if $S^2$ is isoantian and $E = \\mathrm{End}_R(S)$ is either commutative Noetherian or right semihereditary, then every finite power of $S$ is isoantian.",
+    "content": "arXiv:2610.26905v1 Announce Type: new \nAbstract: Let $S$ be an isosimple module, that is, a nonzero module isomorphic to every nonzero submodule of itself. In this paper, we investigate if the square $S^2 := S \\oplus S$ is isoantian when $S$ is an isosimple module. If the base ring is commutative, then the answer is yes. However, for noncommutative rings this is no longer true even when $\\mathrm{End}_R(S)$ is a discrete valuation ring. We also give some positive results coming from quasi-projectivity and Morita equivalence. Finally, we consider when every finite powers of an isosimple module are isoantian provided it holds for the square. Our related result says that if $S^2$ is isoantian and $E = \\mathrm{End}_R(S)$ is either commutative Noetherian or right semihereditary, then every finite power of $S$ is isoantian.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "The algebraic and geometric classification of post-$3$-Lie algebras",
+    "pubDate": "2026-10-21 04:00:00",
+    "link": "https://arxiv.org/abs/2610.27300",
+    "guid": "oai:arXiv.org:2610.27300v1",
+    "author": "Hani Abdelwahab, Kobiljon Abdurasulov, Ivan Kaygorodov",
+    "thumbnail": "",
+    "description": "arXiv:2610.27300v1 Announce Type: new \nAbstract: A post-$3$-Lie algebra is a $3$-Lie algebra with an additional ternary multiplication, skew-symmetric in the first two arguments, related to the bracket by four compatibility identities. We give the algebraic and geometric classification of complex $2$- and $3$-dimensional post-$3$-Lie algebras and of complex $4$-dimensional nilpotent post-$3$-Lie algebras. The variety of $2$-dimensional algebras is irreducible of dimension $4$; the variety of $3$-dimensional algebras has dimension $12$ and $12$ irreducible components, and exactly one rigid algebra; the variety of $4$-dimensional nilpotent algebras has dimension $14$, two irreducible components and no rigid algebras.",
+    "content": "arXiv:2610.27300v1 Announce Type: new \nAbstract: A post-$3$-Lie algebra is a $3$-Lie algebra with an additional ternary multiplication, skew-symmetric in the first two arguments, related to the bracket by four compatibility identities. We give the algebraic and geometric classification of complex $2$- and $3$-dimensional post-$3$-Lie algebras and of complex $4$-dimensional nilpotent post-$3$-Lie algebras. The variety of $2$-dimensional algebras is irreducible of dimension $4$; the variety of $3$-dimensional algebras has dimension $12$ and $12$ irreducible components, and exactly one rigid algebra; the variety of $4$-dimensional nilpotent algebras has dimension $14$, two irreducible components and no rigid algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "The Finite Basis Problem for Multiplicatively Idempotent Semirings",
+    "pubDate": "2026-10-21 04:00:00",
+    "link": "https://arxiv.org/abs/2610.27463",
+    "guid": "oai:arXiv.org:2610.27463v1",
+    "author": "Aifa Wang, Lili Wang",
+    "thumbnail": "",
+    "description": "arXiv:2610.27463v1 Announce Type: new \nAbstract: The variety of semirings satisfying $x^2\\approx x$ is hereditarily finitely based in the signature consisting of addition and multiplication, without designated constants. Multiplication may be noncommutative, and the semirings need not be finite. A subdirect decomposition reduces the proof to the subvarieties defined by $3x\\approx x$ and $3x\\approx2x$. In the latter case, we express each polynomial identity using a common doubled part and isolated word occurrences. Four fixed identities align the first- and last-occurrence words of these occurrences. Induction on their content extracts protected identities. The associated word identities define a band variety, to which the finite basis theorem for bands applies.",
+    "content": "arXiv:2610.27463v1 Announce Type: new \nAbstract: The variety of semirings satisfying $x^2\\approx x$ is hereditarily finitely based in the signature consisting of addition and multiplication, without designated constants. Multiplication may be noncommutative, and the semirings need not be finite. A subdirect decomposition reduces the proof to the subvarieties defined by $3x\\approx x$ and $3x\\approx2x$. In the latter case, we express each polynomial identity using a common doubled part and isolated word occurrences. Four fixed identities align the first- and last-occurrence words of these occurrences. Induction on their content extracts protected identities. The associated word identities define a band variety, to which the finite basis theorem for bands applies.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Quantum polynomial-time conjugacy in metabelian groups",
+    "pubDate": "2026-10-21 04:00:00",
+    "link": "https://arxiv.org/abs/2610.27250",
+    "guid": "oai:arXiv.org:2610.27250v1",
+    "author": "Alexei Miasnikov, Alexander Ushakov",
+    "thumbnail": "",
+    "description": "arXiv:2610.27250v1 Announce Type: cross \nAbstract: We prove that the conjugacy problem in finitely presented metabelian groups with a fixed number of generators is solvable in bounded-error quantum polynomial time, uniformly in the defining relations of the group. Both the group presentation and the words representing the elements are part of the input.\n  The main ingredient is a quantum polynomial-time algorithm for computing all multiplicative relations among a fixed number of units in a commutative affine $\\mathbb Z$-algebra presented with a fixed number of variables. The algorithm reduces the problem to computations in finite-dimensional algebras over $\\mathbb Q$ and finite rings by identifying the lattice of exponent vectors whose corresponding products are algebraic over the coefficient field. An effective arithmetic splitting combines the rational and finite-ring computations. The proof uses effective bounds for polynomial equations, algorithms for finite-dimensional commutative algebras, quantum integer factorization, and finite abelian hidden-subgroup algorithms.",
+    "content": "arXiv:2610.27250v1 Announce Type: cross \nAbstract: We prove that the conjugacy problem in finitely presented metabelian groups with a fixed number of generators is solvable in bounded-error quantum polynomial time, uniformly in the defining relations of the group. Both the group presentation and the words representing the elements are part of the input.\n  The main ingredient is a quantum polynomial-time algorithm for computing all multiplicative relations among a fixed number of units in a commutative affine $\\mathbb Z$-algebra presented with a fixed number of variables. The algorithm reduces the problem to computations in finite-dimensional algebras over $\\mathbb Q$ and finite rings by identifying the lattice of exponent vectors whose corresponding products are algebraic over the coefficient field. An effective arithmetic splitting combines the rational and finite-ring computations. The proof uses effective bounds for polynomial equations, algorithms for finite-dimensional commutative algebras, quantum integer factorization, and finite abelian hidden-subgroup algorithms.",
+    "enclosure": {},
+    "categories": [
+      "math.GR",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Lie algebras in symmetric tensor categories",
+    "pubDate": "2026-10-21 04:00:00",
+    "link": "https://arxiv.org/abs/2610.27492",
+    "guid": "oai:arXiv.org:2610.27492v1",
+    "author": "Iv\\'an Angiono, Agustina Czenky, Pavel Etingof, Victor Ostrik, Julia Plavnik, Guillermo Sanmarco",
+    "thumbnail": "",
+    "description": "arXiv:2610.27492v1 Announce Type: cross \nAbstract: We develop the general theory of Lie algebras in symmetric tensor categories. We prove categorical versions of classical results such as Engel's theorem, Cartan's criterion, and that all derivations of a strongly semisimple Lie algebra are inner. For finite-dimensional graded Lie algebras, we construct a graded category $\\mathcal{O}$, classify its graded-simple objects, and prove the generic graded irreducibility of Verma modules. Lastly, we develop the theory of root systems for contragredient Lie algebras.",
+    "content": "arXiv:2610.27492v1 Announce Type: cross \nAbstract: We develop the general theory of Lie algebras in symmetric tensor categories. We prove categorical versions of classical results such as Engel's theorem, Cartan's criterion, and that all derivations of a strongly semisimple Lie algebra are inner. For finite-dimensional graded Lie algebras, we construct a graded category $\\mathcal{O}$, classify its graded-simple objects, and prove the generic graded irreducibility of Verma modules. Lastly, we develop the theory of root systems for contragredient Lie algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "A Lie Bracket on the Space of (Right) Biderivations of a Lie Algebra",
+    "pubDate": "2026-10-21 04:00:00",
+    "link": "https://arxiv.org/abs/2507.12089",
+    "guid": "oai:arXiv.org:2507.12089v2",
+    "author": "Alfonso Di Bartolo, Gianmarco La Rosa",
+    "thumbnail": "",
+    "description": "arXiv:2507.12089v2 Announce Type: replace \nAbstract: Derivations of a Lie algebra form a Lie algebra under the commutator bracket. Motivated by this property, we investigate Lie algebra structures on spaces of biderivations. We introduce right and left biderivations and show that their spaces admit natural Lie brackets induced by pointwise commutators of derivations. We describe these structures in terms of current Lie algebras and establish a cohomological characterisation of classical biderivations, with applications to semisimple and Heisenberg Lie algebras. We also examine the relation between the right and left brackets for symmetric and skew-symmetric biderivations. Finally, we discuss the pointwise integration of right biderivations into families of Lie group automorphisms.",
+    "content": "arXiv:2507.12089v2 Announce Type: replace \nAbstract: Derivations of a Lie algebra form a Lie algebra under the commutator bracket. Motivated by this property, we investigate Lie algebra structures on spaces of biderivations. We introduce right and left biderivations and show that their spaces admit natural Lie brackets induced by pointwise commutators of derivations. We describe these structures in terms of current Lie algebras and establish a cohomological characterisation of classical biderivations, with applications to semisimple and Heisenberg Lie algebras. We also examine the relation between the right and left brackets for symmetric and skew-symmetric biderivations. Finally, we discuss the pointwise integration of right biderivations into families of Lie group automorphisms.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.DG"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Root of the generic cubic as a power series in the discriminant",
+    "pubDate": "2026-10-21 04:00:00",
+    "link": "https://arxiv.org/abs/2605.25992",
+    "guid": "oai:arXiv.org:2605.25992v4",
+    "author": "Jason Bland, Skip Garibaldi, Joel Rosenberg",
+    "thumbnail": "",
+    "description": "arXiv:2605.25992v4 Announce Type: replace \nAbstract: An observation of J-P.~Serre implies that the generic monic cubic polynomial, unique among generic monic polynomials of degree at least two, has a root that is a power series in the discriminant; Serre asked for a formula. We give formulas that work over any field with an absolute value and in every characteristic. Over a complete non-archimedean field we identify the root intrinsically: it is the isolated root, the one farthest from the others. We also answer the next case of Serre's question, computing explicitly the distinguished ramified quadratic factor of the generic monic quartic. The methods combine Hensel's lemma, identities for generalized binomial series, and elementary non-archimedean analysis.",
+    "content": "arXiv:2605.25992v4 Announce Type: replace \nAbstract: An observation of J-P.~Serre implies that the generic monic cubic polynomial, unique among generic monic polynomials of degree at least two, has a root that is a power series in the discriminant; Serre asked for a formula. We give formulas that work over any field with an absolute value and in every characteristic. Over a complete non-archimedean field we identify the root intrinsically: it is the isolated root, the one farthest from the others. We also answer the next case of Serre's question, computing explicitly the distinguished ramified quadratic factor of the generic monic quartic. The methods combine Hensel's lemma, identities for generalized binomial series, and elementary non-archimedean analysis.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Transposed Poisson structure on the Witt-type algebra $\\mathcal{W}(a,-1)$: Derivations, Automorphisms, and Rota--Baxter operators",
+    "pubDate": "2026-10-21 04:00:00",
+    "link": "https://arxiv.org/abs/2606.20584",
+    "guid": "oai:arXiv.org:2606.20584v3",
+    "author": "Roman Lubkov, Ilya Shiringovskiy",
+    "thumbnail": "",
+    "description": "arXiv:2606.20584v3 Announce Type: replace \nAbstract: In this paper, we provide a comprehensive study of the structural properties of the transposed Poisson algebra $\\mathcal{W}(a,-1)$. We classify several types of linear maps, including derivations, local derivations, quasi-derivations, and $\\delta$-derivations, showing that non-trivial $\\delta$-derivations exist only for $\\delta=1$ and $\\delta=\\frac{1}{2}$. Furthermore, we describe the groups of automorphisms, local automorphisms, 2-local automorphisms, and quasi-automorphisms.\n  We also investigate Rota--Baxter operators of weight $1$ on $\\mathcal{W}(a,-1)$. Specifically, we classify operators that are homogeneous with respect to both the standard $\\mathbf{Z}$-grading and a $\\mathbf{Z}_2$-grading, establishing a rigidity result for the latter case. Finally, we classify all $\\mathbf{W}$-compatible Novikov--Poisson structures, demonstrating that the associative product on the Witt algebra is universally compatible with its known Novikov structures.",
+    "content": "arXiv:2606.20584v3 Announce Type: replace \nAbstract: In this paper, we provide a comprehensive study of the structural properties of the transposed Poisson algebra $\\mathcal{W}(a,-1)$. We classify several types of linear maps, including derivations, local derivations, quasi-derivations, and $\\delta$-derivations, showing that non-trivial $\\delta$-derivations exist only for $\\delta=1$ and $\\delta=\\frac{1}{2}$. Furthermore, we describe the groups of automorphisms, local automorphisms, 2-local automorphisms, and quasi-automorphisms.\n  We also investigate Rota--Baxter operators of weight $1$ on $\\mathcal{W}(a,-1)$. Specifically, we classify operators that are homogeneous with respect to both the standard $\\mathbf{Z}$-grading and a $\\mathbf{Z}_2$-grading, establishing a rigidity result for the latter case. Finally, we classify all $\\mathbf{W}$-compatible Novikov--Poisson structures, demonstrating that the associative product on the Witt algebra is universally compatible with its known Novikov structures.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "A polynomial criterion for Jordan elements in a free associative algebra",
+    "pubDate": "2026-10-21 04:00:00",
+    "link": "https://arxiv.org/abs/2609.08314",
+    "guid": "oai:arXiv.org:2609.08314v2",
+    "author": "F. Mashurov, B. Sartayev",
+    "thumbnail": "",
+    "description": "arXiv:2609.08314v2 Announce Type: replace \nAbstract: Let $J$ be the Jordan subalgebra of the free associative algebra $\\Q\\langle X\\rangle$ generated by $X$ and $1$ under $a\\cdot b=\\tfrac12(ab+ba)$. We give a polynomial criterion for an associative polynomial to belong to $J$. For every $n\\ge1$, Robbins' recursion gives a family of operators $T_\\alpha\\in\\Q[S_n]$, indexed by compositions of $n$ into parts $1$ and $2$. We prove that right multiplication by $U_n=\\sum_\\alpha T_\\alpha^\\dagger T_\\alpha$ has image $\\SJ(n)$, the space of multilinear Jordan elements. If its characteristic polynomial is $t^{e_n}q_n(t)$, where $q_n(0)\\ne0$, then $\\Pi_n=I-q_n(U_n)/q_n(0)$ is an idempotent and $f\\in\\SJ(n)$ if and only if $fq_n(U_n)=0$, or equivalently $f\\Pi_n=f$. The same operators give the criterion for arbitrary homogeneous polynomials of degree $n$. We also prove $\\SJ(n)\\cong\\bigoplus_{\\lambda\\vdash n}r_\\lambda S^\\lambda$, where $r_\\lambda=\\rank\\rho_\\lambda(U_n)$. Thus $\\dim\\SJ(n)=\\sum_\\lambda d_\\lambda r_\\lambda$ and $e_n=\\sum_\\lambda d_\\lambda(d_\\lambda-r_\\lambda)$, with $d_\\lambda=\\dim S^\\lambda$. We give a recursion for the corresponding row spaces and use it to compute the multiplicities over $\\Q$ through degree $12$. Exact block characteristic polynomials through degree $7$ and direct computations in small degrees illustrate the criterion.",
+    "content": "arXiv:2609.08314v2 Announce Type: replace \nAbstract: Let $J$ be the Jordan subalgebra of the free associative algebra $\\Q\\langle X\\rangle$ generated by $X$ and $1$ under $a\\cdot b=\\tfrac12(ab+ba)$. We give a polynomial criterion for an associative polynomial to belong to $J$. For every $n\\ge1$, Robbins' recursion gives a family of operators $T_\\alpha\\in\\Q[S_n]$, indexed by compositions of $n$ into parts $1$ and $2$. We prove that right multiplication by $U_n=\\sum_\\alpha T_\\alpha^\\dagger T_\\alpha$ has image $\\SJ(n)$, the space of multilinear Jordan elements. If its characteristic polynomial is $t^{e_n}q_n(t)$, where $q_n(0)\\ne0$, then $\\Pi_n=I-q_n(U_n)/q_n(0)$ is an idempotent and $f\\in\\SJ(n)$ if and only if $fq_n(U_n)=0$, or equivalently $f\\Pi_n=f$. The same operators give the criterion for arbitrary homogeneous polynomials of degree $n$. We also prove $\\SJ(n)\\cong\\bigoplus_{\\lambda\\vdash n}r_\\lambda S^\\lambda$, where $r_\\lambda=\\rank\\rho_\\lambda(U_n)$. Thus $\\dim\\SJ(n)=\\sum_\\lambda d_\\lambda r_\\lambda$ and $e_n=\\sum_\\lambda d_\\lambda(d_\\lambda-r_\\lambda)$, with $d_\\lambda=\\dim S^\\lambda$. We give a recursion for the corresponding row spaces and use it to compute the multiplicities over $\\Q$ through degree $12$. Exact block characteristic polynomials through degree $7$ and direct computations in small degrees illustrate the criterion.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
     "title": "A Proof of the Dittert Conjecture via Boundary Rigidity",
     "pubDate": "2026-10-09 04:00:00",
     "link": "https://arxiv.org/abs/2610.10545",
