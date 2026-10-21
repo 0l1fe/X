@@ -19,7 +19,7 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
-from datetime import datetime, timedelta, timezone
+from datetime import date, datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from xml.etree import ElementTree as ET
@@ -238,9 +238,23 @@ def atomic_write(path: Path, entries: list[dict]) -> None:
             os.unlink(temp_name)
 
 
-def update_archive(path: Path = ARCHIVE, *, backfill_days: int = 14, require_backfill: bool = False) -> tuple[int, int]:
+def update_archive(path: Path = ARCHIVE, *, backfill_days: int = 14,
+                   require_backfill: bool = False,
+                   rebuild_since: str | None = None) -> tuple[int, int]:
     if not 1 <= backfill_days <= 120:
         raise ValueError('backfill_days must be between 1 and 120')
+    # Rebuild mode is transactional: don't remove or overwrite the old archive
+    # until both arXiv sources have been fetched, parsed and validated.
+    cutoff = None
+    if rebuild_since is not None:
+        try:
+            requested = date.fromisoformat(rebuild_since)
+        except ValueError as exc:
+            raise ValueError('rebuild_since must be YYYY-MM-DD (e.g. 2026-09-23)') from exc
+        cutoff = datetime(requested.year, requested.month, requested.day, tzinfo=timezone.utc)
+        if cutoff > datetime.now(timezone.utc):
+            raise ValueError('Rebuild start date is in the future')
+        print(f'SAFE REBUILD requested from {cutoff:%Y-%m-%d} (UTC).', flush=True)
     existing = load_archive(path)
     print(f'Loaded {len(existing)} archived papers.', flush=True)
 
@@ -250,20 +264,23 @@ def update_archive(path: Path = ARCHIVE, *, backfill_days: int = 14, require_bac
     print(f'RSS supplied {len(rss_entries)} announcements.', flush=True)
 
     now = datetime.now(timezone.utc)
-    oldest = now - timedelta(days=backfill_days)
-    dates = []
-    for entry in existing:
-        try:
-            dates.append(utc_date(str(entry.get('pubDate') or '')))
-        except ValueError:
-            continue
-    if dates:
-        latest = max(dates)
-        # Include downtime from the last archive update, capped to a modest interval.
-        oldest = min(oldest, latest - timedelta(days=2))
-        oldest = max(oldest, now - timedelta(days=120))
-        if latest < now - timedelta(days=118):
-            print('::warning::Archive is older than 120 days. Manual historical recovery may be needed.')
+    if cutoff is not None:
+        oldest = cutoff  # exact midnight UTC, rather than a rolling-days approximation
+    else:
+        oldest = now - timedelta(days=backfill_days)
+        dates = []
+        for entry in existing:
+            try:
+                dates.append(utc_date(str(entry.get('pubDate') or '')))
+            except ValueError:
+                continue
+        if dates:
+            latest = max(dates)
+            # Include downtime from the last archive update, capped to a modest interval.
+            oldest = min(oldest, latest - timedelta(days=2))
+            oldest = max(oldest, now - timedelta(days=120))
+            if latest < now - timedelta(days=118):
+                print('::warning::Archive is older than 120 days. Manual historical recovery may be needed.')
 
     # If search API is down, RSS updates still proceed; a future run will retry a
     # rolling window of at least two weeks. Never misreport API recovery as complete.
@@ -271,9 +288,42 @@ def update_archive(path: Path = ARCHIVE, *, backfill_days: int = 14, require_bac
     try:
         historical = api_recovery(oldest, now)
     except (RuntimeError, ValueError, ET.ParseError, urllib.error.URLError) as exc:
-        if require_backfill:
+        if require_backfill or cutoff is not None:
             raise RuntimeError(f'Historical recovery failed: {exc}') from exc
         print(f'::warning::Historical recovery unavailable: {exc}. Daily RSS will still be archived.', flush=True)
+
+    if cutoff is not None:
+        # The historical API must actually return results before we replace an
+        # existing archive. An empty result is suspicious for this category.
+        if not historical:
+            raise RuntimeError('Historical API returned no papers; refusing to replace archive.json')
+        seen = set()
+        new = []
+        for item in [*rss_entries, *historical]:
+            if utc_date(str(item['pubDate'])) < cutoff:
+                continue
+            key = record_key(item)
+            if not key:
+                raise RuntimeError('Unidentified arXiv paper; refusing to replace archive.json')
+            if key not in seen:
+                seen.add(key)
+                new.append(item)
+        if not new:
+            raise RuntimeError('Rebuild produced zero records; refusing to replace archive.json')
+        new.sort(key=lambda item: utc_date(str(item['pubDate'])), reverse=True)
+        # Safety validation before performing the one atomic replacement.
+        if any(set(item) != {
+            'title', 'pubDate', 'link', 'guid', 'author', 'thumbnail',
+            'description', 'content', 'enclosure', 'categories', '__source'
+        } for item in new):
+            raise RuntimeError('Archive schema mismatch; refusing to replace archive.json')
+        atomic_write(path, new)
+        print(f'REBUILD COMPLETE: wrote {len(new)} unique papers from '
+              f'{cutoff:%Y-%m-%d} UTC onward. Previously stored {len(existing)} papers.',
+              flush=True)
+        print('Historical entries use original submission dates and cannot fully '
+              'reconstruct past revision/cross-list RSS announcements.', flush=True)
+        return len(new), len(new)
 
     seen = {key for entry in existing if (key := record_key(entry))}
     new = []
@@ -297,9 +347,14 @@ def main() -> None:
                         help='Minimum historical lookback (1-120 days; default 14)')
     parser.add_argument('--require-backfill', action='store_true',
                         help='Fail rather than silently skip an unavailable historical recovery')
+    parser.add_argument('--rebuild-since', type=str, default=None,
+                        help='Safely replace archive.json with all retrieved math.RA '
+                             'papers since the given YYYY-MM-DD (UTC).')
     args = parser.parse_args()
     try:
-        update_archive(backfill_days=args.backfill_days, require_backfill=args.require_backfill)
+        update_archive(backfill_days=args.backfill_days,
+                       require_backfill=args.require_backfill,
+                       rebuild_since=args.rebuild_since)
     except Exception as exc:
         print(f'Archive update failed: {exc}', file=sys.stderr, flush=True)
         sys.exit(1)
