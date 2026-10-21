@@ -6,9 +6,13 @@ on:
   workflow_dispatch:
     inputs:
       backfill_days:
-        description: 'Historical lookback in days (use 30 for first recovery; 14 thereafter)'
+        description: 'Normal historical lookback in days (default 14)'
         required: false
         default: '14'
+      rebuild_since:
+        description: 'OPTIONAL: replace the entire archive with submissions from YYYY-MM-DD onward (e.g. 2026-09-23)'
+        required: false
+        default: ''
 
 # Commit archive.json and request a rebuild of the existing branch-based Pages site.
 permissions:
@@ -30,8 +34,11 @@ jobs:
         env:
           BACKFILL_DAYS: ${{ inputs.backfill_days || '14' }}
           MANUAL_RUN: ${{ github.event_name == 'workflow_dispatch' }}
+          REBUILD_SINCE: ${{ inputs.rebuild_since || '' }}
         run: |
-          if [ "$MANUAL_RUN" = "true" ]; then
+          if [ -n "$REBUILD_SINCE" ]; then
+            python3 update-archive.py --rebuild-since "$REBUILD_SINCE"
+          elif [ "$MANUAL_RUN" = "true" ]; then
             python3 update-archive.py --backfill-days "$BACKFILL_DAYS" --require-backfill
           else
             python3 update-archive.py --backfill-days "$BACKFILL_DAYS"
