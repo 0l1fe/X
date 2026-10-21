@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Maintain the math.RA arXiv archive without a third-party RSS converter.
+"""Update math.RA archive.json without third-party RSS converters.
 
-Daily arXiv RSS is authoritative for new/cross/replacement announcements.
-The arXiv search API supplements it with recent submissions missed by downtime.
-The API cannot reconstruct all historical cross-listing/replacement announcements.
-No non-standard Python dependencies are required.
+RSS announcements use the same eleven keys and values as the old rss2json
+archive. Historical API backfill uses the same keys, but cannot reconstruct
+all past cross-listings, revisions, or their exact RSS announcement dates.
+This script does not modify the HTML, CSS or frontend JavaScript.
 """
 
 from __future__ import annotations
@@ -172,7 +172,7 @@ def parse_api(data: bytes) -> tuple[list[dict], int]:
         abstract = re.sub(r'\s*\n\s*', ' ', text(entry, f'{ATOM}summary')).strip()
         # API searches operate on original submission dates, not on announcement date.
         published = text(entry, f'{ATOM}published')
-        description = f'arXiv:{identifier}\nAbstract: {abstract}'
+        description = f'arXiv:{identifier} Announce Type: historical recovery \nAbstract: {abstract}'
         canonical_id = re.sub(r'v\d+$', '', identifier)
         link = f'https://arxiv.org/abs/{canonical_id}'
         result.append(make_entry(
@@ -238,7 +238,7 @@ def atomic_write(path: Path, entries: list[dict]) -> None:
             os.unlink(temp_name)
 
 
-def update_archive(path: Path = ARCHIVE, *, backfill_days: int = 14) -> tuple[int, int]:
+def update_archive(path: Path = ARCHIVE, *, backfill_days: int = 14, require_backfill: bool = False) -> tuple[int, int]:
     if not 1 <= backfill_days <= 120:
         raise ValueError('backfill_days must be between 1 and 120')
     existing = load_archive(path)
@@ -271,6 +271,8 @@ def update_archive(path: Path = ARCHIVE, *, backfill_days: int = 14) -> tuple[in
     try:
         historical = api_recovery(oldest, now)
     except (RuntimeError, ValueError, ET.ParseError, urllib.error.URLError) as exc:
+        if require_backfill:
+            raise RuntimeError(f'Historical recovery failed: {exc}') from exc
         print(f'::warning::Historical recovery unavailable: {exc}. Daily RSS will still be archived.', flush=True)
 
     seen = {key for entry in existing if (key := record_key(entry))}
@@ -293,9 +295,11 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--backfill-days', type=int, default=14,
                         help='Minimum historical lookback (1-120 days; default 14)')
+    parser.add_argument('--require-backfill', action='store_true',
+                        help='Fail rather than silently skip an unavailable historical recovery')
     args = parser.parse_args()
     try:
-        update_archive(backfill_days=args.backfill_days)
+        update_archive(backfill_days=args.backfill_days, require_backfill=args.require_backfill)
     except Exception as exc:
         print(f'Archive update failed: {exc}', file=sys.stderr, flush=True)
         sys.exit(1)
