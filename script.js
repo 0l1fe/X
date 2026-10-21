@@ -16,49 +16,32 @@ window.MathJax = {
 })();
 
 (async function main() {
-  const feedUrls = ['https://rss.arxiv.org/rss/math.RA/'];
-  const proxyBase = 'https://api.rss2json.com/v1/api.json?rss_url=';
   const feedContainer = document.getElementById('feed');
   const searchInput = document.getElementById('search-input');
   const searchCount = document.getElementById('search-count');
 
   let allItems = [];
 
-  // ── 1. Fetch live RSS items ──────────────────────────────────────────────
-  let liveItems = [];
-  try {
-    const responses = await Promise.all(
-      feedUrls.map(url => fetch(proxyBase + encodeURIComponent(url)).then(res => res.json()))
-    );
-    liveItems = responses.flatMap((data, i) =>
-      (data.status === 'ok' && Array.isArray(data.items))
-        ? data.items.map(item => ({ ...item, __source: feedUrls[i] }))
-        : []
-    );
-  } catch (_) {
-    // live fetch failed — archive-only mode is fine
-  }
-
-  // ── 2. Fetch archive items ───────────────────────────────────────────────
+  // ── 1. Fetch archived papers ───────────────────────────────────────────────
   let archiveItems = [];
   try {
     const res = await fetch('./archive.json');
     archiveItems = await res.json();
   } catch (_) {}
 
-  // ── 3. Merge, deduplicate by link, sort newest-first ────────────────────
+  // ── 2. Deduplicate by link and sort newest-first ────────────────────
   const seen = new Set();
-  allItems = [...liveItems, ...archiveItems].filter(item => {
+  allItems = archiveItems.filter(item => {
     const key = item.link || item.guid || item.title;
     if (seen.has(key)) return false;
     seen.add(key);
     return true;
   }).sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 
-  // ── 4. Initial render ────────────────────────────────────────────────────
+  // ── 3. Initial render ────────────────────────────────────────────────────
   renderItems(allItems, feedContainer);
 
-  // ── 5. Real-time search ──────────────────────────────────────────────────
+  // ── 4. Real-time search ──────────────────────────────────────────────────
   searchInput.addEventListener('input', () => {
     const query = searchInput.value.trim().toLowerCase();
 
