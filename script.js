@@ -32,7 +32,7 @@ window.MathJax = {
   // ── 2. Deduplicate by link and sort newest-first ────────────────────
   const seen = new Set();
   allItems = archiveItems.filter(item => {
-    const key = item.link || item.guid || item.title;
+    const key = `${item.pubDate}|${item.guid || item.link || item.title}`;
     if (seen.has(key)) return false;
     seen.add(key);
     return true;
