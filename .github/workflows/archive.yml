@@ -2,15 +2,17 @@ name: Update RSS Archive
 
 on:
   schedule:
-    - cron: '0 10 * * *'  # after arXiv midnight US Eastern, all year
+    # Two attempts after arXiv's midnight America/New_York RSS update.
+    # Second run catches delayed feeds or a missed first GitHub schedule.
+    - cron: '30 10,18 * * *'
   workflow_dispatch:
     inputs:
       rebuild_since:
-        description: 'Optional: rebuild archive from YYYY-MM-DD (e.g. 2026-09-23); leave empty for normal update'
+        description: 'Optional full rebuild starting YYYY-MM-DD; leave blank for normal daily updates'
         required: false
         default: ''
       preview_only:
-        description: 'Preview without writing archive.json'
+        description: 'Validate but do not change archive.json'
         required: false
         type: boolean
         default: false
@@ -28,35 +30,38 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 90
     steps:
-      - name: Checkout
+      - name: Checkout archive
         uses: actions/checkout@v5
-      - name: Python dependencies
-        run: python3 -m pip install beautifulsoup4
-      - name: Build or update archive
+        with:
+          persist-credentials: true
+      - name: Install parser
+        run: python3 -m pip install 'beautifulsoup4>=4.12,<5'
+      - name: Update with validation
         env:
           REBUILD_SINCE: ${{ inputs.rebuild_since || '' }}
           PREVIEW_ONLY: ${{ inputs.preview_only || 'false' }}
         run: |
-          ARGUMENTS=()
-          if [ -n "$REBUILD_SINCE" ]; then ARGUMENTS+=(--rebuild-since "$REBUILD_SINCE"); fi
-          if [ "$PREVIEW_ONLY" = "true" ]; then ARGUMENTS+=(--preview); fi
-          python3 update-archive.py "${ARGUMENTS[@]}"
-      - name: Commit updated archive
-        id: saved
-        if: ${{ !inputs.preview_only }}
+          args=()
+          if [ -n "$REBUILD_SINCE" ]; then args+=(--rebuild-since "$REBUILD_SINCE"); fi
+          if [ "$PREVIEW_ONLY" = "true" ]; then args+=(--preview); fi
+          python3 update-archive.py "${args[@]}"
+      - name: Commit archive only
+        id: commit
+        if: ${{ inputs.preview_only != true }}
         run: |
           git config --local user.email 'action@github.com'
           git config --local user.name 'GitHub Action'
           git add archive.json
           if git diff --cached --quiet; then
             echo 'changed=false' >> "$GITHUB_OUTPUT"
+            echo 'Archive unchanged.'
           else
-            git commit -m 'Update math.RA announcements archive'
+            git commit -m 'Update math.RA announcement archive'
             git push
             echo 'changed=true' >> "$GITHUB_OUTPUT"
           fi
-      - name: Rebuild existing branch-based GitHub Pages
-        if: steps.saved.outputs.changed == 'true'
+      - name: Trigger existing branch-based GitHub Pages rebuild
+        if: steps.commit.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh api --method POST "repos/${GITHUB_REPOSITORY}/pages/builds"
