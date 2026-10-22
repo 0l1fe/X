@@ -384,11 +384,20 @@ def main():
     else:
         # Recheck the recent period; replace it with verified dated events.
         archive={}
+        previous_by_key={event_key(e): e for e in previous}
         for e in previous:
             key=event_key(e)
             if key[0] < start.isoformat():
                 archive[key]=e
-        archive.update(events)
+        for key, fresh in events.items():
+            # Rechecked historical catch-up listings provide the event/date,
+            # but their Atom metadata may be from a LATER version. Do not
+            # replace an existing event's historical metadata with that.
+            # The authentic daily RSS, when available, takes precedence.
+            if key in previous_by_key and fresh.get('__source') != RSS:
+                archive[key]=previous_by_key[key]
+            else:
+                archive[key]=fresh
     ordered=sorted(archive.values(), key=lambda n:(n['pubDate'],n['link']), reverse=True)
     counts=Counter(e['pubDate'][:10] for e in ordered)
     print(f'ARCHIVE VALIDATED: {len(ordered)} records; {len(counts)} distinct announcement days.', flush=True)
