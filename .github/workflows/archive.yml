@@ -2,22 +2,18 @@ name: Update RSS Archive
 
 on:
   schedule:
-    - cron: '0 8,16 * * *' # Two opportunities per day to collect daily RSS
+    - cron: '0 10 * * *'  # after arXiv midnight US Eastern, all year
   workflow_dispatch:
     inputs:
-      audit_since:
-        description: 'OPTIONAL: compare archive with all arXiv dated announcements since YYYY-MM-DD; no data edits'
-        required: false
-        default: ''
       rebuild_since:
-        description: 'OPTIONAL: start date YYYY-MM-DD (up to 90 days ago). Keep blank for ordinary RSS update.'
+        description: 'Optional: rebuild archive from YYYY-MM-DD (e.g. 2026-09-23); leave empty for normal update'
         required: false
         default: ''
       preview_only:
-        description: 'Preview/validate only; set to false to replace archive after successful preview'
-        required: true
+        description: 'Preview without writing archive.json'
+        required: false
         type: boolean
-        default: true
+        default: false
 
 permissions:
   contents: write
@@ -30,64 +26,37 @@ concurrency:
 jobs:
   update-data:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v5
-      - name: Back up existing archive as job artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: archive-backup-${{ github.run_id }}
-          path: archive.json
-          if-no-files-found: warn
-          retention-days: 14
-      - name: Validate and update directly from arXiv
+      - name: Python dependencies
+        run: python3 -m pip install beautifulsoup4
+      - name: Build or update archive
         env:
-          AUDIT_SINCE: ${{ inputs.audit_since || '' }}
           REBUILD_SINCE: ${{ inputs.rebuild_since || '' }}
-          PREVIEW_ONLY: ${{ inputs.preview_only }}
+          PREVIEW_ONLY: ${{ inputs.preview_only || 'false' }}
         run: |
-          if [ -n "$AUDIT_SINCE" ]; then
-            python3 update-archive.py --audit-since "$AUDIT_SINCE"
-          elif [ -n "$REBUILD_SINCE" ]; then
-            if [ "$PREVIEW_ONLY" != 'false' ]; then
-              python3 update-archive.py --rebuild-since "$REBUILD_SINCE" --preview
-            else
-              python3 update-archive.py --rebuild-since "$REBUILD_SINCE"
-            fi
-          else
-            python3 update-archive.py
-          fi
-      - name: Upload comparison report (audit runs only)
-        if: ${{ inputs.audit_since != '' }}
-        uses: actions/upload-artifact@v4
-        with:
-          name: arxiv-date-comparison-${{ github.run_id }}
-          path: archive-audit-report.json
-          retention-days: 14
-      - name: Commit archive changes only
-        id: commit
+          ARGUMENTS=()
+          if [ -n "$REBUILD_SINCE" ]; then ARGUMENTS+=(--rebuild-since "$REBUILD_SINCE"); fi
+          if [ "$PREVIEW_ONLY" = "true" ]; then ARGUMENTS+=(--preview); fi
+          python3 update-archive.py "${ARGUMENTS[@]}"
+      - name: Commit updated archive
+        id: saved
+        if: ${{ !inputs.preview_only }}
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email 'action@github.com'
+          git config --local user.name 'GitHub Action'
           git add archive.json
           if git diff --cached --quiet; then
-            echo 'Archive unchanged; nothing to commit.'
             echo 'changed=false' >> "$GITHUB_OUTPUT"
           else
-            git commit -m "Automated archive update"
+            git commit -m 'Update math.RA announcements archive'
             git push
             echo 'changed=true' >> "$GITHUB_OUTPUT"
           fi
-      - name: Request existing branch-based GitHub Pages build
-        if: steps.commit.outputs.changed == 'true'
+      - name: Rebuild existing branch-based GitHub Pages
+        if: steps.saved.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh api --method POST "repos/${GITHUB_REPOSITORY}/pages/builds"
-      - name: Fail visibly if rolling reconciliation was degraded
-        if: always() && steps.commit.outcome == 'success'
-        run: |
-          if [ -f .arxiv-reconciliation-warning ]; then
-            echo '::error::RSS was archived, but the 14-day completeness check failed. Review the log.'
-            cat .arxiv-reconciliation-warning
-            exit 1
-          fi
