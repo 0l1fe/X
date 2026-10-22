@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
-"""Archive every arXiv math.RA announcement by its *announcement day*.
+"""Reliable arXiv math.RA daily archive with loss-prevention and verifiable dates.
 
-Uses official /catchup/math.RA/YYYY-MM-DD pages to get the day's complete set
-of new/cross-listed/replacement announcements and the arXiv Atom API to fill
-metadata, with the official daily RSS preferred when available. No rss2json.
-
-Rebuild replaces archive.json only after *all* requested days and metadata are
-validated. Fail closed instead of quietly publishing an incomplete archive.
+Daily RSS is authoritative for date, version, and abstract. Dated catch-up pages
+are used for missed days; reconstruction may not recover the historically exact
+abstract/version for a cross-listing or replacement. Routine runs NEVER delete
+old events or overwrite their metadata with a reconstructed latest version.
+All writes are atomic and follow validation. Failures leave archive.json intact.
 """
 from __future__ import annotations
 
@@ -42,11 +41,13 @@ DC = '{http://purl.org/dc/elements/1.1/}creator'
 NY = ZoneInfo('America/New_York')
 UA = 'math.RA archive github.com/0l1fe/X (academic RSS reader)'
 MAX_BYTES = 16 * 1024 * 1024
+AVAILABILITY_URL = 'https://info.arxiv.org/help/availability.html'
+_holiday_cache = None
 # arXiv's published 2026 no-announcement holiday dates (availability calendar).
 # Unknown weekday gaps are never silently treated as holidays.
 HOLIDAYS_2026 = {date.fromisoformat(s) for s in (
     '2026-01-01', '2026-01-19', '2026-06-19', '2026-07-03',
-    '2026-09-07', '2026-10-12', '2026-11-26', '2026-12-25', '2026-12-29',
+    '2026-09-07', '2026-10-12', '2026-10-13', '2026-11-26', '2026-12-25', '2026-12-29',
     '2026-12-31')}
 
 _last_request = 0.0
@@ -85,6 +86,30 @@ def download(url: str, retries: int = 4) -> bytes:
             print(f'Fetching failed ({e}), retrying in {cooldown}s', flush=True)
             time.sleep(cooldown)
     raise AssertionError('unreachable')
+
+
+def published_holidays() -> set[date]:
+    """Read arXiv's current public holiday list, for future years too.
+
+    A failure to fetch the calendar must never be interpreted as a holiday.
+    Special ad-hoc deferrals (e.g. 2026-10-12/13) remain explicitly listed.
+    """
+    global _holiday_cache
+    if _holiday_cache is None:
+        raw=download(AVAILABILITY_URL)
+        soup=BeautifulSoup(raw,'html.parser')
+        calendar=soup.get_text(' ',strip=True)
+        candidates=re.findall(r'20\d\d-\d\d-\d\d',calendar)
+        _holiday_cache={date.fromisoformat(x) for x in candidates}
+        if not _holiday_cache:
+            raise RuntimeError('Could not parse arXiv published holiday calendar')
+    return _holiday_cache
+
+
+def is_holiday(day: date) -> bool:
+    if day in HOLIDAYS_2026: return True
+    if day.year <= 2026: return False
+    return day in published_holidays()
 
 
 def paper_id(text: str) -> str:
@@ -139,9 +164,13 @@ def parse_rss(raw: bytes) -> dict[tuple[str, str], dict]:
                        categories=[n.text.strip() for n in item.findall('category') if n.text and n.text.strip()],
                        source=RSS)
         key = event_key(entry)
+        if CATEGORY not in entry['categories']:
+            raise ValueError(f'RSS returned a paper outside {CATEGORY}: {key}')
         if key in result:
             raise ValueError(f'RSS contains duplicate announcement {key}')
         result[key] = entry
+    if len(result) >= 2000:
+        raise RuntimeError('RSS returned 2000 items: possible service cap; cannot guarantee completeness')
     return result
 
 
@@ -204,7 +233,7 @@ def parse_catchup_html(raw: bytes, day: date) -> tuple[list[tuple[str, str]], in
 
 
 def catchup_day(day: date) -> list[tuple[str, str]]:
-    if day.weekday() >= 5 or day in HOLIDAYS_2026:
+    if day.weekday() >= 5 or is_holiday(day):
         return []
     found = []
     total = None
@@ -241,40 +270,52 @@ def catchup_day(day: date) -> list[tuple[str, str]]:
     return found
 
 
-def api_details(ids: set[str]) -> dict[str,dict]:
+def api_details(requests: set[tuple[str, bool]]) -> dict[tuple[str, bool], dict]:
+    """Request v1 for new papers; latest-version metadata otherwise.
+
+    Reconstructed cross/replacements deliberately remain versionless because
+    a daily listing alone does not establish the announced version number.
+    Separate v1 and latest calls so both can be requested for the same ID.
+    """
     result = {}
-    sorted_ids = sorted(ids)
-    for pos in range(0,len(sorted_ids), 35):
-        subset=sorted_ids[pos:pos+35]
-        # arXiv API expects a CSV id_list, and throttles successive calls.
-        url = API + '?' + urllib.parse.urlencode({'id_list': ','.join(subset), 'max_results': len(subset)})
-        data = download(url)
-        root = ET.fromstring(data)
-        if root.tag != ATOM+'feed':
-            raise ValueError('arXiv metadata API returned invalid Atom XML')
-        if (root.findtext(ATOM+'title') or '').strip().lower().startswith('error'):
-            raise ValueError('arXiv API reported an error feed')
-        for entry in root.findall(ATOM+'entry'):
-            id_url = (entry.findtext(ATOM+'id') or '')
-            pid = paper_id(id_url)
-            title = ' '.join((entry.findtext(ATOM+'title') or '').split())
-            abstract = ' '.join((entry.findtext(ATOM+'summary') or '').split())
-            authors = ', '.join(' '.join((n.findtext(ATOM+'name') or '').split())
-                                for n in entry.findall(ATOM+'author'))
-            cats = list(dict.fromkeys(el.attrib['term'] for el in entry.findall(ATOM+'category')
-                                      if el.attrib.get('term')))
-            version = id_url.rsplit('/',1)[-1]
-            if pid in result:
-                raise ValueError(f'Duplicate API metadata for {pid}')
-            if not title or not abstract or not authors:
-                raise ValueError(f'Incomplete API metadata for {pid}')
-            result[pid] = dict(title=title, abstract=abstract, authors=authors,
-                               categories=cats, guid=f'oai:arXiv.org:{version}')
-        print(f'  Metadata downloaded: {len(result)} / {len(ids)}', flush=True)
-    missing = ids - set(result)
-    extra = set(result) - ids
-    if missing or extra:
-        raise RuntimeError(f'Incomplete API metadata: {len(missing)} missing, {len(extra)} unexpected; examples {sorted(missing)[:5]}')
+    for is_new in (True, False):
+        ids=sorted(pid for pid, mode in requests if mode == is_new)
+        for pos in range(0, len(ids), 30):
+            subset=ids[pos:pos+30]
+            requested_ids=[pid+('v1' if is_new else '') for pid in subset]
+            url=API+'?'+urllib.parse.urlencode({'id_list': ','.join(requested_ids),
+                                                  'max_results': len(subset)})
+            root=ET.fromstring(download(url))
+            if root.tag != ATOM+'feed':
+                raise ValueError('arXiv API returned invalid Atom XML')
+            if (root.findtext(ATOM+'title') or '').strip().lower().startswith('error'):
+                raise ValueError('arXiv API returned an error feed')
+            for entry in root.findall(ATOM+'entry'):
+                id_url=entry.findtext(ATOM+'id') or ''
+                pid=paper_id(id_url)
+                key=(pid,is_new)
+                if pid not in subset or key in result:
+                    raise ValueError(f'Unexpected or duplicate API record: {pid}')
+                if is_new and not id_url.endswith(pid+'v1'):
+                    raise ValueError(f'Version-specific request did not return v1: {pid}')
+                title=' '.join((entry.findtext(ATOM+'title') or '').split())
+                abstract=' '.join((entry.findtext(ATOM+'summary') or '').split())
+                authors=', '.join(' '.join((n.findtext(ATOM+'name') or '').split())
+                                  for n in entry.findall(ATOM+'author'))
+                cats=list(dict.fromkeys(e.attrib['term'] for e in entry.findall(ATOM+'category')
+                                        if e.attrib.get('term')))
+                if not (title and abstract and authors):
+                    raise ValueError(f'Incomplete API metadata for {pid}')
+                if CATEGORY not in cats: cats.append(CATEGORY)
+                result[key]=dict(title=title,abstract=abstract,authors=authors,
+                                 categories=cats,
+                                 guid=f'oai:arXiv.org:{pid}'+('v1' if is_new else ''))
+            print(f'  Retrieved {len(result)} / {len(requests)} historical metadata entries',
+                  flush=True)
+    missing=requests-set(result)
+    if missing:
+        raise RuntimeError(f'Historical API omitted {len(missing)} records, '
+                           f'examples: {sorted(missing)[:5]}')
     return result
 
 
@@ -303,117 +344,146 @@ def safe_write(entries: list[dict]) -> None:
             os.unlink(path)
 
 
-def collect_days(days: list[date], rss: dict[tuple[str,str],dict]) -> dict[tuple[str,str],dict]:
+def collect_days(days: list[date], rss: dict[tuple[str,str],dict],
+                 existing: dict[tuple[str,str],dict]) -> dict[tuple[str,str],dict]:
+    """Verify catch-up lists, but do not fetch or replace metadata for known events."""
     announcements = {}
+    today = datetime.now(timezone.utc).date()
     for day in days:
-        # The current day's listing sometimes lags the RSS; trust today's RSS
-        # rather than inventing a historical date from submission timestamp.
-        if day == datetime.now(timezone.utc).date():
-            todays = {k:v for k,v in rss.items() if k[0] == day.isoformat()}
-            if todays:
-                announcements.update(todays)
-                print(f'  {day}: {len(todays)} current-day RSS announcements', flush=True)
-                continue
-            # no RSS available for current day -- tomorrow's run will revisit it
+        # RSS is authoritative on its own batch day; catch-up pages can lag it.
+        todays = {k:v for k,v in rss.items() if k[0] == day.isoformat()}
+        if day == today:
+            announcements.update(todays)
+            print(f'  {day}: {len(todays)} same-day RSS items', flush=True)
             continue
-        for pid, kind in catchup_day(day):
-            key = (day.isoformat(), pid)
+        listed = catchup_day(day)
+        for pid, kind in listed:
+            key = (day.isoformat(),pid)
             if key in announcements:
-                raise RuntimeError(f'Repeated event {key}')
-            announcements[key] = (day, pid, kind)
-    ids = {item[1] for item in announcements.values() if isinstance(item,tuple) and len(item)==3
-           and (item[0].isoformat(),item[1]) not in rss}
-    meta = api_details(ids) if ids else {}
+                raise RuntimeError(f'Duplicate event in catch-up: {key}')
+            announcements[key] = (day,pid,kind)
+        if todays:
+            listing_ids = {pid for pid,_ in listed}
+            rss_ids = {k[1] for k in todays}
+            if listing_ids != rss_ids:
+                raise RuntimeError(f'RSS and historical listing disagree for {day}: '
+                                   f'{len(rss_ids)} RSS vs {len(listing_ids)} listing, '
+                                   f'RSS-only={sorted(rss_ids-listing_ids)[:3]}, '
+                                   f'listing-only={sorted(listing_ids-rss_ids)[:3]}')
+    # Fetch API metadata ONLY for new, missing archive keys. Prefer original RSS.
+    needs = set()
+    for key, evt in announcements.items():
+        if key not in existing and key not in rss and isinstance(evt,tuple):
+            day,pid,kind = evt
+            needs.add((pid, kind == 'new'))
+    meta = api_details(needs) if needs else {}
     entries = {}
     for key, evt in announcements.items():
         if key in rss:
             entries[key] = rss[key]
-            continue
-        day,pid,kind = evt
-        m = meta[pid]
-        descriptor = f'arXiv:{m["guid"].split(":")[-1]} Announce Type: {kind} \nAbstract: {m["abstract"]}'
-        entries[key] = record(title=m['title'], stamp=announcement_stamp(day),
-                              pid=pid, guid=m['guid'], author=m['authors'],
-                              description=descriptor, categories=m['categories'],
-                              source=f'{CATCHUP}/{day.isoformat()}')
-    # RSS entries beyond the catchup's lookback are still authoritative today.
-    # Keep RSS only for the dates being rebuilt/verified; a stale feed
-    # must never pull entries earlier than the chosen rebuild start.
+        elif key in existing:
+            entries[key] = existing[key]
+        else:
+            day,pid,kind = evt
+            m=meta[(pid,kind == 'new')]
+            label=m['guid'].split(':')[-1]
+            description=f'arXiv:{label} Announce Type: {kind} \nAbstract: {m["abstract"]}'
+            entries[key]=record(title=m['title'], stamp=announcement_stamp(day),
+                                pid=pid, guid=m['guid'], author=m['authors'],
+                                description=description, categories=m['categories'],
+                                source=f'{CATCHUP}/{day.isoformat()}')
+            if kind != 'new':
+                print(f'::warning::Historical {kind} metadata for {pid} on {day} '
+                      'may reflect a newer abstract; version intentionally unspecified.', flush=True)
+    # RSS may cover a batch date outside the dated verification window.
     entries.update(rss)
     return entries
 
 
 def main():
-    ap=argparse.ArgumentParser(description=__doc__)
-    ap.add_argument('--rebuild-since', metavar='YYYY-MM-DD', help='Replace archive after successful complete date-by-date rebuild')
-    ap.add_argument('--lookback-days', type=int, default=8, help='Days to recheck on scheduled update')
-    ap.add_argument('--preview', action='store_true', help='Fetch and validate but do not write archive.json')
-    args=ap.parse_args()
-    today=datetime.now(timezone.utc).date()
-    previous=load_archive()
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument('--rebuild-since', metavar='YYYY-MM-DD',
+                    help='Explicit full replacement ONLY after every requested day validates')
+    ap.add_argument('--lookback-days', type=int, default=5)
+    ap.add_argument('--preview', action='store_true')
+    args = ap.parse_args()
+    today = datetime.now(timezone.utc).date()
+    previous = load_archive()
+    existing = {}
+    for e in previous:
+        if set(e) != set(FIELDS):
+            raise ValueError('Existing archive schema is incompatible with website')
+        key = event_key(e)
+        if key in existing:
+            raise ValueError(f'Existing archive has a duplicate announcement: {key}')
+        existing[key] = e
     if args.rebuild_since:
-        start=date.fromisoformat(args.rebuild_since)
+        start = date.fromisoformat(args.rebuild_since)
         if start > today or (today-start).days > 85:
-            raise ValueError('Rebuild start must be in the last 85 days')
+            raise ValueError('Historical rebuild start must be in the last 85 days')
     else:
-        if not 3 <= args.lookback_days <= 30:
-            raise ValueError('lookback-days must be 3..30')
-        start=today-timedelta(days=args.lookback_days)
+        if not 2 <= args.lookback_days <= 14:
+            raise ValueError('lookback-days must be between 2 and 14')
+        start = today - timedelta(days=args.lookback_days)
         if previous:
-            # A missed scheduled run can exceed the normal 8-day lookback.
-            # Catch up from the last archived announcement automatically.
             last=max(date.fromisoformat(e['pubDate'][:10]) for e in previous)
-            start=min(start, last-timedelta(days=2))
+            # Allow for missed GitHub schedules, with overlapping coverage.
+            start=min(start,last - timedelta(days=2))
             if (today-start).days > 85:
-                raise RuntimeError('Archive is over 85 days behind; automatic dated recovery no longer guaranteed')
-    print(f'Checking math.RA announcements {start} through {today}.', flush=True)
-    rss={}
-    try:
-        rss=parse_rss(download(RSS))
-        print(f'RSS: {len(rss)} verified announcements', flush=True)
-    except (RuntimeError,ValueError,ET.ParseError) as exc:
-        print(f'::warning::Today RSS unavailable; using dated historical listings: {exc}', flush=True)
+                raise RuntimeError('Archive >85 days behind: unable to guarantee backfill')
+    print(f'Checking math.RA announcement days {start} through {today}', flush=True)
+    raw=download(RSS)  # Invalid/unavailable RSS is an error: never silently publish.
+    rss=parse_rss(raw)
+    # Keep source data for dates >= requested window, not a stale old batch.
+    rss={key:e for key,e in rss.items() if key[0] >= start.isoformat()}
+    print(f'Official RSS contains {len(rss)} entries in the processing window.', flush=True)
     days=[start+timedelta(days=i) for i in range((today-start).days+1)]
-    rss = {key:value for key,value in rss.items() if key[0] >= start.isoformat()}
-    events=collect_days(days,rss)
-    if not events:
-        raise RuntimeError('No announcements retrieved; archive left untouched')
+    new=collect_days(days,rss,existing if not args.rebuild_since else {})
+    # On working weekdays after the daily publication time, a missing batch
+    # should be a visible failure, not silently treated as a zero-paper day.
+    if (today.weekday() < 5 and not is_holiday(today)
+            and datetime.now(timezone.utc).hour >= 10
+            and not any(k[0] == today.isoformat() for k in rss)):
+        raise RuntimeError('Expected an arXiv announcement today but RSS is empty. '
+                           'This could be a holiday, late feed, or outage. '
+                           'Archive unchanged; automatic retry will run later.')
+    if not new:
+        # No announcements on holidays/weekends is legitimate. Never destroy old archive.
+        print('No new announcements; existing archive unchanged.', flush=True)
+        return
     if args.rebuild_since:
-        # Rebuild excludes any events earlier than the requested date.
-        archive=events
+        merged={k:e for k,e in new.items() if k[0] >= start.isoformat()}
     else:
-        # Recheck the recent period; replace it with verified dated events.
-        archive={}
-        previous_by_key={event_key(e): e for e in previous}
-        for e in previous:
-            key=event_key(e)
-            if key[0] < start.isoformat():
-                archive[key]=e
-        for key, fresh in events.items():
-            # Rechecked historical catch-up listings provide the event/date,
-            # but their Atom metadata may be from a LATER version. Do not
-            # replace an existing event's historical metadata with that.
-            # The authentic daily RSS, when available, takes precedence.
-            if key in previous_by_key and fresh.get('__source') != RSS:
-                archive[key]=previous_by_key[key]
-            else:
-                archive[key]=fresh
-    ordered=sorted(archive.values(), key=lambda n:(n['pubDate'],n['link']), reverse=True)
+        # Strictly additive: only an authentic daily RSS item may update an
+        # existing event. Catch-up API metadata may never replace archived data.
+        merged=dict(existing)
+        for key,e in new.items():
+            if key not in merged or e.get('__source') == RSS:
+                merged[key]=e
+        missing_keys=set(existing)-set(merged)
+        if missing_keys:
+            raise AssertionError(f'Incremental update attempted deletion: {len(missing_keys)}')
+    ordered=sorted(merged.values(), key=lambda x:(x['pubDate'],x['link']), reverse=True)
+    if len(ordered) != len(merged):
+        raise AssertionError('Duplicate items in output')
+    print(f'VALIDATED: {len(ordered)} archived announcements across '
+          f'{len(set(e["pubDate"][:10] for e in ordered))} days.',flush=True)
     counts=Counter(e['pubDate'][:10] for e in ordered)
-    print(f'ARCHIVE VALIDATED: {len(ordered)} records; {len(counts)} distinct announcement days.', flush=True)
-    for day in sorted(counts):
-        if day >= start.isoformat():
-            print(f'  {day}: {counts[day]} articles', flush=True)
+    for d in sorted(counts):
+        if d>=start.isoformat(): print(f'  {d}: {counts[d]}',flush=True)
     if args.preview:
-        print('PREVIEW ONLY: archive.json was not modified.', flush=True)
+        print('PREVIEW: no files modified.',flush=True)
     else:
-        safe_write(ordered)
-        print(f'WROTE archive.json safely ({len(ordered)} records).', flush=True)
+        if ordered == previous:
+            print('No archive changes.',flush=True)
+        else:
+            safe_write(ordered)
+            print(f'WROTE validated archive safely: {len(ordered)} records.',flush=True)
 
 
 if __name__ == '__main__':
     try:
         main()
     except Exception as exc:
-        print(f'::error::Archive NOT replaced: {exc}', file=sys.stderr, flush=True)
+        print(f'::error::Archive NOT replaced: {exc}',file=sys.stderr,flush=True)
         raise SystemExit(1)
