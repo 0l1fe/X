@@ -2,19 +2,23 @@ name: Update RSS Archive
 
 on:
   schedule:
-    - cron: '0 8 * * *' # After arXiv's midnight Eastern update, even during US standard time
+    - cron: '0 8,16 * * *' # Two opportunities per day to collect daily RSS
   workflow_dispatch:
     inputs:
-      backfill_days:
-        description: 'Normal historical lookback in days (default 14)'
-        required: false
-        default: '14'
-      rebuild_since:
-        description: 'OPTIONAL: replace the entire archive with submissions from YYYY-MM-DD onward (e.g. 2026-09-23)'
+      audit_since:
+        description: 'OPTIONAL: compare archive with all arXiv dated announcements since YYYY-MM-DD; no data edits'
         required: false
         default: ''
+      rebuild_since:
+        description: 'OPTIONAL: start date YYYY-MM-DD (up to 90 days ago). Keep blank for ordinary RSS update.'
+        required: false
+        default: ''
+      preview_only:
+        description: 'Preview/validate only; set to false to replace archive after successful preview'
+        required: true
+        type: boolean
+        default: true
 
-# Commit archive.json and request a rebuild of the existing branch-based Pages site.
 permissions:
   contents: write
   pages: write
@@ -29,21 +33,37 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
-
-      - name: Update archive directly from arXiv
+      - name: Back up existing archive as job artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: archive-backup-${{ github.run_id }}
+          path: archive.json
+          if-no-files-found: warn
+          retention-days: 14
+      - name: Validate and update directly from arXiv
         env:
-          BACKFILL_DAYS: ${{ inputs.backfill_days || '14' }}
-          MANUAL_RUN: ${{ github.event_name == 'workflow_dispatch' }}
+          AUDIT_SINCE: ${{ inputs.audit_since || '' }}
           REBUILD_SINCE: ${{ inputs.rebuild_since || '' }}
+          PREVIEW_ONLY: ${{ inputs.preview_only }}
         run: |
-          if [ -n "$REBUILD_SINCE" ]; then
-            python3 update-archive.py --rebuild-since "$REBUILD_SINCE"
-          elif [ "$MANUAL_RUN" = "true" ]; then
-            python3 update-archive.py --backfill-days "$BACKFILL_DAYS" --require-backfill
+          if [ -n "$AUDIT_SINCE" ]; then
+            python3 update-archive.py --audit-since "$AUDIT_SINCE"
+          elif [ -n "$REBUILD_SINCE" ]; then
+            if [ "$PREVIEW_ONLY" != 'false' ]; then
+              python3 update-archive.py --rebuild-since "$REBUILD_SINCE" --preview
+            else
+              python3 update-archive.py --rebuild-since "$REBUILD_SINCE"
+            fi
           else
-            python3 update-archive.py --backfill-days "$BACKFILL_DAYS"
+            python3 update-archive.py
           fi
-
+      - name: Upload comparison report (audit runs only)
+        if: ${{ inputs.audit_since != '' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: arxiv-date-comparison-${{ github.run_id }}
+          path: archive-audit-report.json
+          retention-days: 14
       - name: Commit archive changes only
         id: commit
         run: |
@@ -51,19 +71,23 @@ jobs:
           git config --local user.name "GitHub Action"
           git add archive.json
           if git diff --cached --quiet; then
-            echo 'Archive is unchanged.'
+            echo 'Archive unchanged; nothing to commit.'
             echo 'changed=false' >> "$GITHUB_OUTPUT"
           else
             git commit -m "Automated archive update"
             git push
             echo 'changed=true' >> "$GITHUB_OUTPUT"
           fi
-
-      # A GITHUB_TOKEN push doesn't automatically trigger GitHub Pages.
-      # This asks GitHub to rebuild the existing main/(root) Pages source,
-      # *not* upload a redesigned site or change any Pages settings.
-      - name: Request Pages rebuild from existing branch
+      - name: Request existing branch-based GitHub Pages build
         if: steps.commit.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh api --method POST "repos/${GITHUB_REPOSITORY}/pages/builds"
+      - name: Fail visibly if rolling reconciliation was degraded
+        if: always() && steps.commit.outcome == 'success'
+        run: |
+          if [ -f .arxiv-reconciliation-warning ]; then
+            echo '::error::RSS was archived, but the 14-day completeness check failed. Review the log.'
+            cat .arxiv-reconciliation-warning
+            exit 1
+          fi
