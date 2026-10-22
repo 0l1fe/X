@@ -47,7 +47,7 @@ _holiday_cache = None
 # Unknown weekday gaps are never silently treated as holidays.
 HOLIDAYS_2026 = {date.fromisoformat(s) for s in (
     '2026-01-01', '2026-01-19', '2026-06-19', '2026-07-03',
-    '2026-09-07', '2026-10-12', '2026-10-13', '2026-11-26', '2026-12-25', '2026-12-29',
+    '2026-09-07', '2026-10-13', '2026-11-26', '2026-12-25', '2026-12-29',
     '2026-12-31')}
 
 _last_request = 0.0
@@ -404,7 +404,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument('--rebuild-since', metavar='YYYY-MM-DD',
                     help='Explicit full replacement ONLY after every requested day validates')
-    ap.add_argument('--lookback-days', type=int, default=5)
+    ap.add_argument('--lookback-days', type=int, default=14)
     ap.add_argument('--preview', action='store_true')
     args = ap.parse_args()
     today = datetime.now(timezone.utc).date()
