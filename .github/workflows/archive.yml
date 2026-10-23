@@ -4,7 +4,7 @@ on:
   schedule:
     # Two attempts after arXiv's midnight America/New_York RSS update.
     # Second run catches delayed feeds or a missed first GitHub schedule.
-    - cron: '30 10,18 * * *'
+    - cron: '0 5,8 * * *'
   workflow_dispatch:
     inputs:
       rebuild_since:
