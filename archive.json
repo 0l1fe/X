@@ -1,5 +1,676 @@
 [
   {
+    "title": "The counts of parity-odd vs even late-growing permutations in the group $\\mathbb{S}_{2p-1}$ differ by $(-1)^p$",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.35779",
+    "guid": "oai:arXiv.org:2610.35779v1",
+    "author": "Kian C. Shah, Arthemy V. Kiselev",
+    "thumbnail": "",
+    "description": "arXiv:2610.35779v1 Announce Type: cross \nAbstract: A permutation $\\sigma\\in\\mathbb{S}_n$ of objects $\\{1,\\ldots,n\\}$ is called \\emph{late-growing} if its partial sums never exceed the respective partial sums of the `average' permutation (with the arithmetic mean $n^{-1}\\cdot\\sum_{i=1}^n i = (n+1)/2$ of $1,\\ldots,n$ on average at each entry $\\sigma(i)$): $\\sum_{i=1}^k \\sigma(i) \\leqslant k\\cdot (n+1)/2$ for all positive $k\\leqslant n$. We prove that for $n=2p-1$ odd, the set $\\Phi_p\\subseteq \\mathbb{S}_{2p-1}$ of late-growing permutations is partitioned into parity-even vs odd elements, $\\Phi_p = \\Phi_p^{+} \\sqcup \\Phi_p^{-}$, in an almost symmetric way: $| \\Phi_p^{+} | - | \\Phi_p^{-} | = (-1)^{p+1}$. The proof is constructive: by viewing the permutations $\\sigma\\in\\Phi_p$ as constrained walks on the integral lattice $\\mathbb{Z}$, we describe two filters that pair all but one element in $\\Phi_p^{+}$ versus $\\Phi_p^{-}$; the remaining walk $\\sigma^*$ with monotonically growing step amplitudes determines the dominant parity subset.",
+    "content": "arXiv:2610.35779v1 Announce Type: cross \nAbstract: A permutation $\\sigma\\in\\mathbb{S}_n$ of objects $\\{1,\\ldots,n\\}$ is called \\emph{late-growing} if its partial sums never exceed the respective partial sums of the `average' permutation (with the arithmetic mean $n^{-1}\\cdot\\sum_{i=1}^n i = (n+1)/2$ of $1,\\ldots,n$ on average at each entry $\\sigma(i)$): $\\sum_{i=1}^k \\sigma(i) \\leqslant k\\cdot (n+1)/2$ for all positive $k\\leqslant n$. We prove that for $n=2p-1$ odd, the set $\\Phi_p\\subseteq \\mathbb{S}_{2p-1}$ of late-growing permutations is partitioned into parity-even vs odd elements, $\\Phi_p = \\Phi_p^{+} \\sqcup \\Phi_p^{-}$, in an almost symmetric way: $| \\Phi_p^{+} | - | \\Phi_p^{-} | = (-1)^{p+1}$. The proof is constructive: by viewing the permutations $\\sigma\\in\\Phi_p$ as constrained walks on the integral lattice $\\mathbb{Z}$, we describe two filters that pair all but one element in $\\Phi_p^{+}$ versus $\\Phi_p^{-}$; the remaining walk $\\sigma^*$ with monotonically growing step amplitudes determines the dominant parity subset.",
+    "enclosure": {},
+    "categories": [
+      "math.CO",
+      "math-ph",
+      "math.MP",
+      "math.QA",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Proofs of strong forms of the Bovdi--Geche universality conjecture and a complex analogue",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.35645",
+    "guid": "oai:arXiv.org:2610.35645v1",
+    "author": "Victor Bovdi, Ambrus Pal",
+    "thumbnail": "",
+    "description": "arXiv:2610.35645v1 Announce Type: cross \nAbstract: We prove two universality theorems for neural networks consisting of a single neuron. First we prove a strong form of the Bovdi--Geche universality conjecture on neurons over finite fields, where the activation function is a certain modification of the discrete logarithm, using the Weil bound on multiplicative character sums over finite fields. Then we show a generalisation of Aizenberg's universality theorem for complex binary neurons with a weight vector independent of the target function, positively answering another question in the literature. The proof of the latter uses an equidistribution theorem for the dilates of certain maps into tori.",
+    "content": "arXiv:2610.35645v1 Announce Type: cross \nAbstract: We prove two universality theorems for neural networks consisting of a single neuron. First we prove a strong form of the Bovdi--Geche universality conjecture on neurons over finite fields, where the activation function is a certain modification of the discrete logarithm, using the Weil bound on multiplicative character sums over finite fields. Then we show a generalisation of Aizenberg's universality theorem for complex binary neurons with a weight vector independent of the target function, positively answering another question in the literature. The proof of the latter uses an equidistribution theorem for the dilates of certain maps into tori.",
+    "enclosure": {},
+    "categories": [
+      "cs.LG",
+      "math.NT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "On Tam's star-shapedness conjecture for numerical ranges of compact adjoint orbits",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.35612",
+    "guid": "oai:arXiv.org:2610.35612v1",
+    "author": "Yongzhi Luan, Tin-Yau Tam",
+    "thumbnail": "",
+    "description": "arXiv:2610.35612v1 Announce Type: cross \nAbstract: We settle Tam's star-shapedness conjecture for numerical ranges associated with compact adjoint orbits of complex reductive Lie algebras, including its original formulation in terms of the inner product $B_\\theta$. Let $\\mathfrak{g}$ be a complex semisimple Lie algebra, and let $K$ be a connected compact Lie group whose Lie algebra is a compact real form of $\\mathfrak{g}$. For any $x\\in\\mathfrak{g}$ and any complex linear functional $f\\in\\mathfrak{g}^*$, we prove that $\\{ f( \\operatorname{Ad} (k) x): k \\in K \\}$ is star-shaped about zero. In the reductive case, the star center is given by the value of $f$ on the central component of $x$, which coincides with the $B_\\theta$-pairing of the central components in Tam's original formulation. Our proof is uniform for all complex semisimple Lie algebras. Indeed, using the adjoint Casimir operator, we show that all coordinate functions of the orbit map share a common Laplace eigenvalue; we then use a nodal-hypersurface argument to prove star-shapedness for complex-valued functions in a single eigenspace. The geometric argument relies on a two-sided hypersurface-separation property, which holds whenever the first real cohomology group vanishes. In particular, we do not need simple connectivity or real analyticity. More generally, for finite-dimensional representations of compact connected semisimple Lie groups, we establish star-shapedness whenever the nonfixed component of the orbit vector belongs to a single positive Casimir eigenspace.",
+    "content": "arXiv:2610.35612v1 Announce Type: cross \nAbstract: We settle Tam's star-shapedness conjecture for numerical ranges associated with compact adjoint orbits of complex reductive Lie algebras, including its original formulation in terms of the inner product $B_\\theta$. Let $\\mathfrak{g}$ be a complex semisimple Lie algebra, and let $K$ be a connected compact Lie group whose Lie algebra is a compact real form of $\\mathfrak{g}$. For any $x\\in\\mathfrak{g}$ and any complex linear functional $f\\in\\mathfrak{g}^*$, we prove that $\\{ f( \\operatorname{Ad} (k) x): k \\in K \\}$ is star-shaped about zero. In the reductive case, the star center is given by the value of $f$ on the central component of $x$, which coincides with the $B_\\theta$-pairing of the central components in Tam's original formulation. Our proof is uniform for all complex semisimple Lie algebras. Indeed, using the adjoint Casimir operator, we show that all coordinate functions of the orbit map share a common Laplace eigenvalue; we then use a nodal-hypersurface argument to prove star-shapedness for complex-valued functions in a single eigenspace. The geometric argument relies on a two-sided hypersurface-separation property, which holds whenever the first real cohomology group vanishes. In particular, we do not need simple connectivity or real analyticity. More generally, for finite-dimensional representations of compact connected semisimple Lie groups, we establish star-shapedness whenever the nonfixed component of the orbit vector belongs to a single positive Casimir eigenspace.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "2-generation of Chevalley Lie algebras over finite fields",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.35537",
+    "guid": "oai:arXiv.org:2610.35537v1",
+    "author": "Ram Karan Choudhary, Harish Kishnani, Anupam Singh",
+    "thumbnail": "",
+    "description": "arXiv:2610.35537v1 Announce Type: new \nAbstract: In this article, we prove that every split simple Chevalley Lie algebra over a finite field of characteristic $p\\neq 2$ of classical types $B_n$, $C_n$, and $D_n$, and exceptional types $G_2$, $F_4$, $E_6$, $E_7$, and $E_8$, is $2$-generated. Combined with the result of Cantor, Jezernik, and Zozaya for the classical type $A_n$ [Two-generation of traceless matrices over finite fields, Linear Algebra Appl. (2025)], this establishes $2$-generation for all split simple Chevalley Lie algebras over finite fields of characteristic $p\\neq 2$.",
+    "content": "arXiv:2610.35537v1 Announce Type: new \nAbstract: In this article, we prove that every split simple Chevalley Lie algebra over a finite field of characteristic $p\\neq 2$ of classical types $B_n$, $C_n$, and $D_n$, and exceptional types $G_2$, $F_4$, $E_6$, $E_7$, and $E_8$, is $2$-generated. Combined with the result of Cantor, Jezernik, and Zozaya for the classical type $A_n$ [Two-generation of traceless matrices over finite fields, Linear Algebra Appl. (2025)], this establishes $2$-generation for all split simple Chevalley Lie algebras over finite fields of characteristic $p\\neq 2$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GR"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Finite determinacy and rigidity of quiver potentials",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.35466",
+    "guid": "oai:arXiv.org:2610.35466v1",
+    "author": "Zheng Hua, Guisong Zhou",
+    "thumbnail": "",
+    "description": "arXiv:2610.35466v1 Announce Type: new \nAbstract: We prove that a quiver potential over a field of characteristic zero is finitely determined if and only if the trace space of its Jacobian algebra is finite dimensional. In particular, Jacobi-finite potentials are finitely determined. We further prove that rigid potentials are finitely determined and, over an algebraically closed field, unique up to right equivalence on a fixed quiver. For finitely determined weighted-homogeneous potentials, we give an explicit bound on the jet order sufficient for finite determinacy in terms of the arrow weights, the weight of the potential, and the highest nonzero weight of the trace space of its Jacobian algebra. We also establish new invariance results for weighted-homogeneous potentials under right equivalence.",
+    "content": "arXiv:2610.35466v1 Announce Type: new \nAbstract: We prove that a quiver potential over a field of characteristic zero is finitely determined if and only if the trace space of its Jacobian algebra is finite dimensional. In particular, Jacobi-finite potentials are finitely determined. We further prove that rigid potentials are finitely determined and, over an algebraically closed field, unique up to right equivalence on a fixed quiver. For finitely determined weighted-homogeneous potentials, we give an explicit bound on the jet order sufficient for finite determinacy in terms of the arrow weights, the weight of the potential, and the highest nonzero weight of the trace space of its Jacobian algebra. We also establish new invariance results for weighted-homogeneous potentials under right equivalence.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Poisson closures and Poisson $A$-algebras",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.35463",
+    "guid": "oai:arXiv.org:2610.35463v1",
+    "author": "Amir Fern\\'andez Ouaridi, Salvatore Siciliano, David A. Towers",
+    "thumbnail": "",
+    "description": "arXiv:2610.35463v1 Announce Type: new \nAbstract: We study the interaction between the Lie and Poisson subalgebras of a Poisson algebra. Given a Lie subalgebra $U$ of the underlying Lie algebra $\\mathcal P_L$, we consider the Poisson subalgebra generated by $U$, called its {Poisson closure}, and investigate when Lie-theoretic properties such as nilpotency and solvability are preserved under this construction. We also study the stability under Poisson closure of several distinguished Lie subalgebras, including maximal nilpotent and solvable subalgebras, Engel and Cartan subalgebras and the derived algebra. As an application, we investigate Poisson $A$-algebras, defined by the condition that every nilpotent subalgebra is a zero algebra. In the finite-dimensional case, we obtain structural results relating Poisson $A$-algebras to Lie $A$-algebras and to the associative structure of the algebra.",
+    "content": "arXiv:2610.35463v1 Announce Type: new \nAbstract: We study the interaction between the Lie and Poisson subalgebras of a Poisson algebra. Given a Lie subalgebra $U$ of the underlying Lie algebra $\\mathcal P_L$, we consider the Poisson subalgebra generated by $U$, called its {Poisson closure}, and investigate when Lie-theoretic properties such as nilpotency and solvability are preserved under this construction. We also study the stability under Poisson closure of several distinguished Lie subalgebras, including maximal nilpotent and solvable subalgebras, Engel and Cartan subalgebras and the derived algebra. As an application, we investigate Poisson $A$-algebras, defined by the condition that every nilpotent subalgebra is a zero algebra. In the finite-dimensional case, we obtain structural results relating Poisson $A$-algebras to Lie $A$-algebras and to the associative structure of the algebra.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "An eight-dimensional nilpotent Leibniz algebra without outer derivations",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.35015",
+    "guid": "oai:arXiv.org:2610.35015v1",
+    "author": "Kobiljon Abdurasulov, Jobir Adashev",
+    "thumbnail": "",
+    "description": "arXiv:2610.35015v1 Announce Type: new \nAbstract: Jacobson's classical theorem asserts that every nilpotent Lie algebra admits a non-inner derivation. This result, however, does not extend to Leibniz algebras: there exists an eight-dimensional complex nilpotent Leibniz algebra whose every derivation is inner. In this paper, we present a systematic investigation of this algebra, with particular emphasis on the absence of outer derivations and its structural properties. We describe its lower central series, annihilators, center, and Leibniz kernel, and prove that its derivation algebra is a six-dimensional nilpotent Lie algebra isomorphic to the quotient of the algebra by its Leibniz kernel. We further show that its automorphism group is a connected six-dimensional unipotent group obtained by exponentiating inner derivations; in particular, it contains no nontrivial elements of finite order. In addition, we provide a complete classification of the quasiderivation, generalized derivation, and $\\sigma$-derivation of the algebra. Finally, we show that, among the four linearly independent infinitesimal deformations, exactly one is integrable, giving rise to a one-parameter family of pairwise non-isomorphic algebras which, with a single exception, also admit only inner derivations.",
+    "content": "arXiv:2610.35015v1 Announce Type: new \nAbstract: Jacobson's classical theorem asserts that every nilpotent Lie algebra admits a non-inner derivation. This result, however, does not extend to Leibniz algebras: there exists an eight-dimensional complex nilpotent Leibniz algebra whose every derivation is inner. In this paper, we present a systematic investigation of this algebra, with particular emphasis on the absence of outer derivations and its structural properties. We describe its lower central series, annihilators, center, and Leibniz kernel, and prove that its derivation algebra is a six-dimensional nilpotent Lie algebra isomorphic to the quotient of the algebra by its Leibniz kernel. We further show that its automorphism group is a connected six-dimensional unipotent group obtained by exponentiating inner derivations; in particular, it contains no nontrivial elements of finite order. In addition, we provide a complete classification of the quasiderivation, generalized derivation, and $\\sigma$-derivation of the algebra. Finally, we show that, among the four linearly independent infinitesimal deformations, exactly one is integrable, giving rise to a one-parameter family of pairwise non-isomorphic algebras which, with a single exception, also admit only inner derivations.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Idempotent radicals and factorization systems",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.34969",
+    "guid": "oai:arXiv.org:2610.34969v1",
+    "author": "Dali Zangurashvili",
+    "thumbnail": "",
+    "description": "arXiv:2610.34969v1 Announce Type: new \nAbstract: Idempotent (hereditary/cohereditary) (pre)radicals on the category of left modules over an associative ring with unity are described in terms of factorization systems. For radicals of the aforementioned kind, this is done in two different ways.",
+    "content": "arXiv:2610.34969v1 Announce Type: new \nAbstract: Idempotent (hereditary/cohereditary) (pre)radicals on the category of left modules over an associative ring with unity are described in terms of factorization systems. For radicals of the aforementioned kind, this is done in two different ways.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Cross work induced by transformations on the symmetric group and related transformation semigroups",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.34902",
+    "guid": "oai:arXiv.org:2610.34902v1",
+    "author": "Nsibiet E. Udo, Victor A. Owai, Moses O. Francis",
+    "thumbnail": "",
+    "description": "arXiv:2610.34902v1 Announce Type: cross \nAbstract: We introduce a new permutation statistic, called the \\emph{cross work}, on four important subsemigroups of the partial transformation semigroup $\\mathcal{PT}_n$: the symmetric group $\\mathcal{S}_n$, the semigroup of singular transformations $\\mathrm{Sing}_n$, the symmetric inverse semigroup $\\mathcal{I}_n$, and the semigroup $\\mathcal{POI}_n$ of partial order-preserving injective transformations. The cross work is defined via local distance interactions between adjacent positions and their images. Fundamental invariance properties are established, including inversion invariance under a natural symmetry condition and a characterization of conjugations preserving the statistic. Using elementary combinatorial methods, we derive closed formulas for the total and average cross work on $\\mathcal{S}_n$. We also determine the exact minimum and maximum values of the cross work, showing that the maximal value grows quadratically with $n$.",
+    "content": "arXiv:2610.34902v1 Announce Type: cross \nAbstract: We introduce a new permutation statistic, called the \\emph{cross work}, on four important subsemigroups of the partial transformation semigroup $\\mathcal{PT}_n$: the symmetric group $\\mathcal{S}_n$, the semigroup of singular transformations $\\mathrm{Sing}_n$, the symmetric inverse semigroup $\\mathcal{I}_n$, and the semigroup $\\mathcal{POI}_n$ of partial order-preserving injective transformations. The cross work is defined via local distance interactions between adjacent positions and their images. Fundamental invariance properties are established, including inversion invariance under a natural symmetry condition and a characterization of conjugations preserving the statistic. Using elementary combinatorial methods, we derive closed formulas for the total and average cross work on $\\mathcal{S}_n$. We also determine the exact minimum and maximum values of the cross work, showing that the maximal value grows quadratically with $n$.",
+    "enclosure": {},
+    "categories": [
+      "math.CO",
+      "math.GR",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Classification of Finite-Dimensional Simple Novikov Algebras and Their Irreducible Bimodules in Positive Characteristic",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.34896",
+    "guid": "oai:arXiv.org:2610.34896v1",
+    "author": "Dong Liu, Yufeng Pei, Limeng Xia",
+    "thumbnail": "",
+    "description": "arXiv:2610.34896v1 Announce Type: new \nAbstract: We give a complete classification of finite-dimensional simple Novikov algebras over an algebraically closed field of characteristic $p>2$, including families missing from earlier classifications in \\cite{Osborn1992, Xu1996}. We determine explicit normal forms and all isomorphisms between them, and classify all nontrivial irreducible bimodules over these algebras.",
+    "content": "arXiv:2610.34896v1 Announce Type: new \nAbstract: We give a complete classification of finite-dimensional simple Novikov algebras over an algebraically closed field of characteristic $p>2$, including families missing from earlier classifications in \\cite{Osborn1992, Xu1996}. We determine explicit normal forms and all isomorphisms between them, and classify all nontrivial irreducible bimodules over these algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math-ph",
+      "math.MP"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Resolution quivers and the QF-1 property of higher Auslander Nakayama algebras",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.34716",
+    "guid": "oai:arXiv.org:2610.34716v1",
+    "author": "Zhe Han, Dawei Shen, Jiawei Zhou",
+    "thumbnail": "",
+    "description": "arXiv:2610.34716v1 Announce Type: cross \nAbstract: We give a resolution-quiver-theoretic proof of the QF-1 conjecture of Cruz and Marczinzik for higher Auslander Nakayama algebras of positive even global dimension. The proof combines syzygy calculations in Kupisch coordinates, which show that the projective dimensions of quotients of a fixed projective module with cyclic top strictly decrease as their lengths increase, with a torsion-pair argument and Morita's criterion.",
+    "content": "arXiv:2610.34716v1 Announce Type: cross \nAbstract: We give a resolution-quiver-theoretic proof of the QF-1 conjecture of Cruz and Marczinzik for higher Auslander Nakayama algebras of positive even global dimension. The proof combines syzygy calculations in Kupisch coordinates, which show that the projective dimensions of quotients of a fixed projective module with cyclic top strictly decrease as their lengths increase, with a torsion-pair argument and Morita's criterion.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Homological and homotopical epimorphisms in monoidal $\\infty$-categories",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.34592",
+    "guid": "oai:arXiv.org:2610.34592v1",
+    "author": "Federico Bambozzi",
+    "thumbnail": "",
+    "description": "arXiv:2610.34592v1 Announce Type: cross \nAbstract: We compare homological and homotopical epimorphisms of associative algebras in monoidal $\\infty$-categories. Assume that geometric realizations and pushouts of associative algebras exist and that tensoring preserves geometric realizations. Then every homological epimorphism is homotopical. If, in addition, the ambient category is additive and tensoring preserves finite coproducts, the converse holds. This extends the result of Chuang and Lazarev for dg-algebras. In the symmetric monoidal setting, we discuss consequences for centers and commutative refinements, as well as applications to derived analytic geometry.",
+    "content": "arXiv:2610.34592v1 Announce Type: cross \nAbstract: We compare homological and homotopical epimorphisms of associative algebras in monoidal $\\infty$-categories. Assume that geometric realizations and pushouts of associative algebras exist and that tensoring preserves geometric realizations. Then every homological epimorphism is homotopical. If, in addition, the ambient category is additive and tensoring preserves finite coproducts, the converse holds. This extends the result of Chuang and Lazarev for dg-algebras. In the symmetric monoidal setting, we discuss consequences for centers and commutative refinements, as well as applications to derived analytic geometry.",
+    "enclosure": {},
+    "categories": [
+      "math.CT",
+      "math.AG",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "New results on nil rings",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.34463",
+    "guid": "oai:arXiv.org:2610.34463v1",
+    "author": "Vsevolod Gubarev",
+    "thumbnail": "",
+    "description": "arXiv:2610.34463v1 Announce Type: new \nAbstract: For every field~$\\Bbbk$, we construct a non-nilpotent nil algebra~$A$ whose Lie algebra $A^{(-)}$ is generated by ten elements. For $\\Bbbk = \\mathbb Z_p$, its adjoint group can also be generated by ten elements. Moreover, for every field $\\Bbbk$ algebraic over its prime subfield, we construct a finitely presented algebra $B$ over $\\Bbbk$ whose Jacobson radical is not nil. These results were found with the assistance of Aristotle (Harmonic).",
+    "content": "arXiv:2610.34463v1 Announce Type: new \nAbstract: For every field~$\\Bbbk$, we construct a non-nilpotent nil algebra~$A$ whose Lie algebra $A^{(-)}$ is generated by ten elements. For $\\Bbbk = \\mathbb Z_p$, its adjoint group can also be generated by ten elements. Moreover, for every field $\\Bbbk$ algebraic over its prime subfield, we construct a finitely presented algebra $B$ over $\\Bbbk$ whose Jacobson radical is not nil. These results were found with the assistance of Aristotle (Harmonic).",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "The silp--spli equality for group rings",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.34406",
+    "guid": "oai:arXiv.org:2610.34406v1",
+    "author": "Xiaolei Zhang, Guocheng Dai",
+    "thumbnail": "",
+    "description": "arXiv:2610.34406v1 Announce Type: new \nAbstract: Let $R$ be an arbitrary associative ring with an identity. In this paper, we show that the equality $\\silp(R)=\\spli(R)$ implies $\\silp(RG)=\\spli(RG)$ for any group $G$.",
+    "content": "arXiv:2610.34406v1 Announce Type: new \nAbstract: Let $R$ be an arbitrary associative ring with an identity. In this paper, we show that the equality $\\silp(R)=\\spli(R)$ implies $\\silp(RG)=\\spli(RG)$ for any group $G$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "The ascending chain condition for radical well-mixed difference ideals",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.34389",
+    "guid": "oai:arXiv.org:2610.34389v1",
+    "author": "Wei Li, Jie Wang",
+    "thumbnail": "",
+    "description": "arXiv:2610.34389v1 Announce Type: cross \nAbstract: We establish a finite-basis theorem for radical well-mixed difference ideals in a difference polynomial ring with one endomorphism over an arbitrary difference field. The result extends to every finitely difference-generated difference algebra over such a field and is equivalent to the ascending chain condition for radical well-mixed difference ideals, hence resolving a long-standing open problem in difference algebra. The proof proceeds in two stages. Over an inversive difference coefficient field, we establish a uniform inverse-transform bound relating the perfect closure of a finite system to its radical well-mixed closure. This uses Noetherian induction in a fixed truncated polynomial ring, together with generic freeness and going-down for flat ring homomorphisms. We then prove that the radical well-mixed closure of a system over a difference field $K$ is the contraction of its radical well-mixed closure over the inversive closure of $K$. This contraction result follows from successive prime lifting along flat extensions and removes the inversiveness assumption without requiring the coefficient-field extension to be finitely generated.",
+    "content": "arXiv:2610.34389v1 Announce Type: cross \nAbstract: We establish a finite-basis theorem for radical well-mixed difference ideals in a difference polynomial ring with one endomorphism over an arbitrary difference field. The result extends to every finitely difference-generated difference algebra over such a field and is equivalent to the ascending chain condition for radical well-mixed difference ideals, hence resolving a long-standing open problem in difference algebra. The proof proceeds in two stages. Over an inversive difference coefficient field, we establish a uniform inverse-transform bound relating the perfect closure of a finite system to its radical well-mixed closure. This uses Noetherian induction in a fixed truncated polynomial ring, together with generic freeness and going-down for flat ring homomorphisms. We then prove that the radical well-mixed closure of a system over a difference field $K$ is the contraction of its radical well-mixed closure over the inversive closure of $K$. This contraction result follows from successive prime lifting along flat extensions and removes the inversiveness assumption without requiring the coefficient-field extension to be finitely generated.",
+    "enclosure": {},
+    "categories": [
+      "math.AC",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Automatic cocommutativity for the quantum-group comonad",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.34332",
+    "guid": "oai:arXiv.org:2610.34332v1",
+    "author": "Alexandru Chirvasitu",
+    "thumbnail": "",
+    "description": "arXiv:2610.34332v1 Announce Type: cross \nAbstract: We prove that the cofree Hopf algebra on a cocommutative bialgebra is again cocommutative, and in fact coincides with the latter's largest Hopf subalgebra. This answers a question of Ardizzoni-Menini-Saracco and provides a proof for a statement to the same effect in the literature, whose original justification contains an apparent gap. The result relies on (and is in fact equivalent to) the observation that cocommutative bialgebra quotients of arbitrary Hopf algebras are automatically Hopf. This latter statement strengthens the analogue due to Newman, which assumes cocommutativity for the Hopf domain.\n  One application of the above is the following quantum-rigidity result for Hopf algebras acted upon by a covariant quantum group: an action by one Hopf algebra on another which preserves the unital-algebra structure and the comultiplication factors through an action by a cocommutative Hopf algebra which moreover preserves the entire Hopf structure.",
+    "content": "arXiv:2610.34332v1 Announce Type: cross \nAbstract: We prove that the cofree Hopf algebra on a cocommutative bialgebra is again cocommutative, and in fact coincides with the latter's largest Hopf subalgebra. This answers a question of Ardizzoni-Menini-Saracco and provides a proof for a statement to the same effect in the literature, whose original justification contains an apparent gap. The result relies on (and is in fact equivalent to) the observation that cocommutative bialgebra quotients of arbitrary Hopf algebras are automatically Hopf. This latter statement strengthens the analogue due to Newman, which assumes cocommutativity for the Hopf domain.\n  One application of the above is the following quantum-rigidity result for Hopf algebras acted upon by a covariant quantum group: an action by one Hopf algebra on another which preserves the unital-algebra structure and the comultiplication factors through an action by a cocommutative Hopf algebra which moreover preserves the entire Hopf structure.",
+    "enclosure": {},
+    "categories": [
+      "math.QA",
+      "math.CT",
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "A Five-Dimensional Nonassociative Algebra: elliptic integrability and bracketing-dependent dynamics",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.34202",
+    "guid": "oai:arXiv.org:2610.34202v1",
+    "author": "Alireza Poshtkohi, Susanne Pumpluen",
+    "thumbnail": "",
+    "description": "arXiv:2610.34202v1 Announce Type: cross \nAbstract: We introduce a five-dimensional nonassociative real algebra $\\mathbb{P}$ whose one-generated subalgebras are complex while its left, middle, and right nuclei are all $\\mathbb{R}$. This contrast permits an unambiguous one-element functional calculus but makes polynomial ordinary differential equations sensitive to bracketing. We classify the homogeneous quadratic words containing one fixed coefficient $B$ and two copies of $p$ that preserve $\\operatorname{span}_{\\mathbb{R}}\\{1,B,p\\}$. For a fixed-coefficient family of Pentarnion ODEs interpolating between $B(pp)$ and $(Bp)p$, changing only the bracketing preserves the linearisation but changes the observed global dynamics. Exact balance identities isolate the associator contribution, while numerical diagnostics support bounded chaos at one endpoint and an attracting periodic orbit at the other. The flexibility defect $p(Bp)-(pB)p=-[p,B,p]$ also produces a rank jump: after polarisation, one-generated subalgebras have dimension three on a nonempty Zariski-open set, rather than at most two. On a canonical invariant three-dimensional space the resulting flow has two first integrals and an explicit periodic orbit on an elliptic curve. We also construct a dense five-dimensional quadratic flow with a full-affine-span Jacobi-elliptic solution. Its projective closure is an elliptic normal sextic, and representation by two ordered products selects the modulus $m=1/2$.",
+    "content": "arXiv:2610.34202v1 Announce Type: cross \nAbstract: We introduce a five-dimensional nonassociative real algebra $\\mathbb{P}$ whose one-generated subalgebras are complex while its left, middle, and right nuclei are all $\\mathbb{R}$. This contrast permits an unambiguous one-element functional calculus but makes polynomial ordinary differential equations sensitive to bracketing. We classify the homogeneous quadratic words containing one fixed coefficient $B$ and two copies of $p$ that preserve $\\operatorname{span}_{\\mathbb{R}}\\{1,B,p\\}$. For a fixed-coefficient family of Pentarnion ODEs interpolating between $B(pp)$ and $(Bp)p$, changing only the bracketing preserves the linearisation but changes the observed global dynamics. Exact balance identities isolate the associator contribution, while numerical diagnostics support bounded chaos at one endpoint and an attracting periodic orbit at the other. The flexibility defect $p(Bp)-(pB)p=-[p,B,p]$ also produces a rank jump: after polarisation, one-generated subalgebras have dimension three on a nonempty Zariski-open set, rather than at most two. On a canonical invariant three-dimensional space the resulting flow has two first integrals and an explicit periodic orbit on an elliptic curve. We also construct a dense five-dimensional quadratic flow with a full-affine-span Jacobi-elliptic solution. Its projective closure is an elliptic normal sextic, and representation by two ordered products selects the modulus $m=1/2$.",
+    "enclosure": {},
+    "categories": [
+      "math.DS",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "From Quaternions to Pentarnions II: quadratic differential equations",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.34201",
+    "guid": "oai:arXiv.org:2610.34201v1",
+    "author": "Alireza Poshtkohi, Susanne Pumpluen",
+    "thumbnail": "",
+    "description": "arXiv:2610.34201v1 Announce Type: cross \nAbstract: We investigate differential equations defined through elements of a nonassociative five-dimensional real algebra $\\mathcal A_\\gamma$, and show that every system of quadratic differential equations $\\dot p=F(p)$ on $\\mathbb R^5$ can be written as a differential equation over such a non-flexible quadratic algebra. We then study quadratic differential equations and their solutions over the whole family $\\{\\mathcal A_\\gamma\\}_{0\\leq\\gamma\\leq1}$ of algebras while varying $\\gamma$ across the parameter interval $[0,1]$, exploiting the fact that by definition, $\\mathcal A_0$ contains Hamilton's quaternion algebra and that $\\mathcal A_1=\\mathbb{P}$ is the real Pentarnion algebra.\n  We construct explicit Jacobi elliptic solutions that deform a quaternion-valued solution at $\\gamma=0$ into a Pentarnion-valued one at $\\gamma=1$, and an algebra-valued Riccati equation whose equilibrium $p=0$ loses stability at a critical value of $\\gamma$. Numerical experiments indicate period doubling, coexisting stable periodic orbits and irregular dynamics.",
+    "content": "arXiv:2610.34201v1 Announce Type: cross \nAbstract: We investigate differential equations defined through elements of a nonassociative five-dimensional real algebra $\\mathcal A_\\gamma$, and show that every system of quadratic differential equations $\\dot p=F(p)$ on $\\mathbb R^5$ can be written as a differential equation over such a non-flexible quadratic algebra. We then study quadratic differential equations and their solutions over the whole family $\\{\\mathcal A_\\gamma\\}_{0\\leq\\gamma\\leq1}$ of algebras while varying $\\gamma$ across the parameter interval $[0,1]$, exploiting the fact that by definition, $\\mathcal A_0$ contains Hamilton's quaternion algebra and that $\\mathcal A_1=\\mathbb{P}$ is the real Pentarnion algebra.\n  We construct explicit Jacobi elliptic solutions that deform a quaternion-valued solution at $\\gamma=0$ into a Pentarnion-valued one at $\\gamma=1$, and an algebra-valued Riccati equation whose equilibrium $p=0$ loses stability at a critical value of $\\gamma$. Numerical experiments indicate period doubling, coexisting stable periodic orbits and irregular dynamics.",
+    "enclosure": {},
+    "categories": [
+      "math.DS",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "A nonstandard selfinjective algebra of Euclidean type",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.34119",
+    "guid": "oai:arXiv.org:2610.34119v1",
+    "author": "Hideto Asashiba",
+    "thumbnail": "",
+    "description": "arXiv:2610.34119v1 Announce Type: cross \nAbstract: Let $\\Bbbk$ be an algebraically closed field of characteristic different from $2$. We realize the four-dimensional selfinjective algebra $\\Omega(1)$ as an admissible infinite cyclic orbit algebra of the repetitive Kronecker category. Thus an algebra long stated to be nonstandard is of Euclidean type in the orbit-algebra sense. We also identify a gap in an earlier proof of its nonstandardness and give an independent proof by determining all connected Galois covering sources of $\\Omega(1)$. Together, these results disprove the implication from Euclidean type to standardness in the equivalence explicitly stated by Bocian--Holm--Skowro\\'nski (2004) and Bocian--Skowro\\'nski (2005). They also contradict the standardness conclusion of the Proposition in \\S2.1 of Skowro\\'nski (1989); its main theorem in \\S1.5 assumes standardness and is not contradicted by this example.",
+    "content": "arXiv:2610.34119v1 Announce Type: cross \nAbstract: Let $\\Bbbk$ be an algebraically closed field of characteristic different from $2$. We realize the four-dimensional selfinjective algebra $\\Omega(1)$ as an admissible infinite cyclic orbit algebra of the repetitive Kronecker category. Thus an algebra long stated to be nonstandard is of Euclidean type in the orbit-algebra sense. We also identify a gap in an earlier proof of its nonstandardness and give an independent proof by determining all connected Galois covering sources of $\\Omega(1)$. Together, these results disprove the implication from Euclidean type to standardness in the equivalence explicitly stated by Bocian--Holm--Skowro\\'nski (2004) and Bocian--Skowro\\'nski (2005). They also contradict the standardness conclusion of the Proposition in \\S2.1 of Skowro\\'nski (1989); its main theorem in \\S1.5 assumes standardness and is not contradicted by this example.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.CT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Reconstruction of the Torsion Free Nilpotent Group from Its Division Ring of the Rational Group Algebra",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.34116",
+    "guid": "oai:arXiv.org:2610.34116v1",
+    "author": "Jinyu Lin, Xiaodong Wang",
+    "thumbnail": "",
+    "description": "arXiv:2610.34116v1 Announce Type: new \nAbstract: Let $G$ and $H$ be torsion-free nilpotent groups of arbitrary cardinality, without any uniform upper bound imposed on their cardinality, torsion-free rank, number of generators, or nilpotency class. We prove that if the classical Ore division rings of fractions of their rational group algebras are isomorphic as rings, namely \\[ D_{\\mathbb{Q}}(G) := \\operatorname{Frac}_{\\mathrm{Ore}} \\mathbb{Q}[G] \\cong \\operatorname{Frac}_{\\mathrm{Ore}} \\mathbb{Q}[H] =: D_{\\mathbb{Q}}(H), \\] then $G$ and $H$ are isomorphic as groups ($G \\cong H$). This result extends directly to $k$-algebra isomorphisms $D_k(G) \\cong_k D_k(H)$ over any base field $k$ of characteristic zero, as well as to arbitrary torsion-free hypercentral groups (and, more generally, to torsion-free groups satisfying bi-orderability, the Ore condition, and nontrivial intersection of normal subgroups with the center). A key tool in our proof is a weight-preserving isomorphism theorem for rational function fields of free abelian groups: let $P$ and $Q$ be free abelian groups of arbitrary rank equipped with surjective homomorphisms onto a common abelian group $B$; if their rational function fields over a field $k$ containing an algebraically closed subfield of characteristic zero admit a $B$-weight-preserving field isomorphism $k(P) \\cong_B k(Q)$, then there exists a weight-preserving group isomorphism $P \\cong_B Q$. By combining the Malcev--Neumann power series division ring, lowest-degree coset extraction over central localizations, the lowest-term rational coefficient homomorphism, and an embedding into a torsion-free abelianized auxiliary function field, we reduce the division ring isomorphism to a weight-preserving rational function field isomorphism between the quotients $G/L$ and $H/L$, and explicitly construct a group isomorphism $G \\cong H$ via a central modification.",
+    "content": "arXiv:2610.34116v1 Announce Type: new \nAbstract: Let $G$ and $H$ be torsion-free nilpotent groups of arbitrary cardinality, without any uniform upper bound imposed on their cardinality, torsion-free rank, number of generators, or nilpotency class. We prove that if the classical Ore division rings of fractions of their rational group algebras are isomorphic as rings, namely \\[ D_{\\mathbb{Q}}(G) := \\operatorname{Frac}_{\\mathrm{Ore}} \\mathbb{Q}[G] \\cong \\operatorname{Frac}_{\\mathrm{Ore}} \\mathbb{Q}[H] =: D_{\\mathbb{Q}}(H), \\] then $G$ and $H$ are isomorphic as groups ($G \\cong H$). This result extends directly to $k$-algebra isomorphisms $D_k(G) \\cong_k D_k(H)$ over any base field $k$ of characteristic zero, as well as to arbitrary torsion-free hypercentral groups (and, more generally, to torsion-free groups satisfying bi-orderability, the Ore condition, and nontrivial intersection of normal subgroups with the center). A key tool in our proof is a weight-preserving isomorphism theorem for rational function fields of free abelian groups: let $P$ and $Q$ be free abelian groups of arbitrary rank equipped with surjective homomorphisms onto a common abelian group $B$; if their rational function fields over a field $k$ containing an algebraically closed subfield of characteristic zero admit a $B$-weight-preserving field isomorphism $k(P) \\cong_B k(Q)$, then there exists a weight-preserving group isomorphism $P \\cong_B Q$. By combining the Malcev--Neumann power series division ring, lowest-degree coset extraction over central localizations, the lowest-term rational coefficient homomorphism, and an embedding into a torsion-free abelianized auxiliary function field, we reduce the division ring isomorphism to a weight-preserving rational function field isomorphism between the quotients $G/L$ and $H/L$, and explicitly construct a group isomorphism $G \\cong H$ via a central modification.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Non-Vanishing Determinant Space-Time Codes from Abelian Crossed Product Algebras",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.34110",
+    "guid": "oai:arXiv.org:2610.34110v1",
+    "author": "Farhad Barzegar, Dariush Kiani, Hassan Khodaiemehr",
+    "thumbnail": "",
+    "description": "arXiv:2610.34110v1 Announce Type: cross \nAbstract: Every explicit non-cyclic crossed product space--time code for more than four antennas has relied on transcendental structure constants, and its coding gain is therefore not bounded away from zero. We explain this phenomenon and show how to avoid it. Over a number field, the commuting-generator (tensor product) construction yields a division algebra only in the cyclic case, and a division crossed product of prime-power degree requires two places with full decomposition group; in particular, no $(\\Z/2)^r$, $r\\ge3$, crossed product division algebra exists over $\\Q(i)$. We then introduce Abelian crossed products with a commutator twist, give the general parametric form of their codewords as a $2\\times2$ block matrix of cyclic-algebra codewords, and prove the division property with a centralizer argument and a tame norm-residue symbol. This yields algebraic codes over $\\Q(i)$ with non-vanishing determinants and closed-form minimum determinants: an information-lossless $4\\times4$ $(\\Z/2)^2$ code with $\\delta_{\\min}=1/2000$, and an infinite family of DMT-optimal $8\\times8$ $\\Z/4\\times\\Z/2$ codes indexed by primes $p\\equiv5\\pmod8$, whose commutator and cyclic constants are roots of unity. The member $p=5$, defined over $\\Q(\\zeta_{40})$, has minimum determinant exactly $1/5$ before normalization, at least $34.7$ times that of the $8\\times8$ perfect code at equal energy, and its rate-2 subcode for $8\\times2$ systems has at least $5$ times the minimum determinant of the punctured perfect code. A determinant-spectrum analysis shows that at practical error rates the multiplicity of small determinants, rather than their minimum, governs performance, and it explains all simulated results.",
+    "content": "arXiv:2610.34110v1 Announce Type: cross \nAbstract: Every explicit non-cyclic crossed product space--time code for more than four antennas has relied on transcendental structure constants, and its coding gain is therefore not bounded away from zero. We explain this phenomenon and show how to avoid it. Over a number field, the commuting-generator (tensor product) construction yields a division algebra only in the cyclic case, and a division crossed product of prime-power degree requires two places with full decomposition group; in particular, no $(\\Z/2)^r$, $r\\ge3$, crossed product division algebra exists over $\\Q(i)$. We then introduce Abelian crossed products with a commutator twist, give the general parametric form of their codewords as a $2\\times2$ block matrix of cyclic-algebra codewords, and prove the division property with a centralizer argument and a tame norm-residue symbol. This yields algebraic codes over $\\Q(i)$ with non-vanishing determinants and closed-form minimum determinants: an information-lossless $4\\times4$ $(\\Z/2)^2$ code with $\\delta_{\\min}=1/2000$, and an infinite family of DMT-optimal $8\\times8$ $\\Z/4\\times\\Z/2$ codes indexed by primes $p\\equiv5\\pmod8$, whose commutator and cyclic constants are roots of unity. The member $p=5$, defined over $\\Q(\\zeta_{40})$, has minimum determinant exactly $1/5$ before normalization, at least $34.7$ times that of the $8\\times8$ perfect code at equal energy, and its rate-2 subcode for $8\\times2$ systems has at least $5$ times the minimum determinant of the punctured perfect code. A determinant-spectrum analysis shows that at practical error rates the multiplicity of small determinants, rather than their minimum, governs performance, and it explains all simulated results.",
+    "enclosure": {},
+    "categories": [
+      "cs.IT",
+      "math.IT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "The generalized Dixmier conjecture and the two-dimensional Jacobian conjecture",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.33919",
+    "guid": "oai:arXiv.org:2610.33919v1",
+    "author": "Alexey Kanel-Belov, Timofey Fedorov",
+    "thumbnail": "",
+    "description": "arXiv:2610.33919v1 Announce Type: cross \nAbstract: We prove that the two-dimensional Jacobian conjecture $\\mathrm{JC}_2$ implies the generalized Dixmier conjecture $\\mathrm{DC}'_1$ for the first Weyl algebra $A_1$, which states, in one of several equivalent formulations, that every endomorphism of the two-by-two matrix ring $\\operatorname{Mat}_2(A_1)$ is invertible. For the converse, an endomorphism of $\\mathbb A^2_{\\mathbb C}$ with Jacobian one gives rise to a family of holonomic $A_2$-modules over finite fields. One needs to lift this family to an $A_2$-module in characteristic zero with the prescribed arithmetic support. The existence of such a lift is a special case of Kontsevich's conjecture on holonomic $\\mathcal D$-modules with prescribed arithmetic support. We prove that in this special situation such a lift is unique whenever it exists. If these lifts exists for every endomorphism with Jacobian one, then $\\mathrm{DC}'_1$ implies $\\mathrm{JC}_2$. For every $n\\ge 3$, we construct a Lagrangian subvariety of $T^*\\mathbb{A}^n$ that provides a counterexample to Kontsevich's conjecture. The counterexamples arise from the graph of a noninvertible symplectic endomorphism of $\\mathbb A^4$ constructed by Long. We also present a different strategy for lifting $\\mathcal D$-modules associated with a Jacobian-one endomorphism of $\\mathbb A^2_{\\mathbb C}$ to characteristic zero via ultraproducts and show that the existence of a characteristic-zero lift in this setting is equivalent to the uniform boundedness of the Berest--Wilson invariants of these $A_2$-modules, regarded as left $A_1$-modules. Finally, we study two other conjectures of Kontsevich on arithmetic support, giving a counterexample to one and partial results on the other.",
+    "content": "arXiv:2610.33919v1 Announce Type: cross \nAbstract: We prove that the two-dimensional Jacobian conjecture $\\mathrm{JC}_2$ implies the generalized Dixmier conjecture $\\mathrm{DC}'_1$ for the first Weyl algebra $A_1$, which states, in one of several equivalent formulations, that every endomorphism of the two-by-two matrix ring $\\operatorname{Mat}_2(A_1)$ is invertible. For the converse, an endomorphism of $\\mathbb A^2_{\\mathbb C}$ with Jacobian one gives rise to a family of holonomic $A_2$-modules over finite fields. One needs to lift this family to an $A_2$-module in characteristic zero with the prescribed arithmetic support. The existence of such a lift is a special case of Kontsevich's conjecture on holonomic $\\mathcal D$-modules with prescribed arithmetic support. We prove that in this special situation such a lift is unique whenever it exists. If these lifts exists for every endomorphism with Jacobian one, then $\\mathrm{DC}'_1$ implies $\\mathrm{JC}_2$. For every $n\\ge 3$, we construct a Lagrangian subvariety of $T^*\\mathbb{A}^n$ that provides a counterexample to Kontsevich's conjecture. The counterexamples arise from the graph of a noninvertible symplectic endomorphism of $\\mathbb A^4$ constructed by Long. We also present a different strategy for lifting $\\mathcal D$-modules associated with a Jacobian-one endomorphism of $\\mathbb A^2_{\\mathbb C}$ to characteristic zero via ultraproducts and show that the existence of a characteristic-zero lift in this setting is equivalent to the uniform boundedness of the Berest--Wilson invariants of these $A_2$-modules, regarded as left $A_1$-modules. Finally, we study two other conjectures of Kontsevich on arithmetic support, giving a counterexample to one and partial results on the other.",
+    "enclosure": {},
+    "categories": [
+      "math.AG",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Weakly Unitary Zeon Matrices",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.33891",
+    "guid": "oai:arXiv.org:2610.33891v1",
+    "author": "G. Stacey Staples",
+    "thumbnail": "",
+    "description": "arXiv:2610.33891v1 Announce Type: new \nAbstract: In this paper, zeon matrix groups are discussed for the first time. Extending the concept of unitary complex matrices (i.e., matrices $A$ such that $A^\\dagger A=\\mI$) to matrices having entries in the complex zeon algebra $\\CZ$, a ``zeon dagger'' operator $\\zdag$ is defined and used to declare a zeon matrix $\\Xi$ to be {\\em unitary} if $\\Xi^\\zdag\\Xi=\\mI$. The unitary zeon matrices of order $n$ form a subgroup $\\U_n$ of all invertible order-$n$ zeon matrices. A more interesting notion is that of ``weak unitarity'' of a zeon matrix. In particular, a zeon matrix $\\Xi$ will be said to be {\\em weakly unitary} if $\\Xi^\\zdag\\Xi=\\mI+\\Gamma$, where $\\Gamma$ is a diagonal nilpotent zeon matrix. The weakly unitary matrices of order $n$ form a group $\\W_n$, of which $\\U_n$ is a subgroup. It is further shown that the exponential of a graph's nilpotent adjacency matrix has a natural orthogonal decomposition into the sum of a weakly unitary zeon matrix and a nilpotent zeon matrix. Eigenvalues of the weakly unitary zeon matrix reveal information about the graph's cycles and paths.",
+    "content": "arXiv:2610.33891v1 Announce Type: new \nAbstract: In this paper, zeon matrix groups are discussed for the first time. Extending the concept of unitary complex matrices (i.e., matrices $A$ such that $A^\\dagger A=\\mI$) to matrices having entries in the complex zeon algebra $\\CZ$, a ``zeon dagger'' operator $\\zdag$ is defined and used to declare a zeon matrix $\\Xi$ to be {\\em unitary} if $\\Xi^\\zdag\\Xi=\\mI$. The unitary zeon matrices of order $n$ form a subgroup $\\U_n$ of all invertible order-$n$ zeon matrices. A more interesting notion is that of ``weak unitarity'' of a zeon matrix. In particular, a zeon matrix $\\Xi$ will be said to be {\\em weakly unitary} if $\\Xi^\\zdag\\Xi=\\mI+\\Gamma$, where $\\Gamma$ is a diagonal nilpotent zeon matrix. The weakly unitary matrices of order $n$ form a group $\\W_n$, of which $\\U_n$ is a subgroup. It is further shown that the exponential of a graph's nilpotent adjacency matrix has a natural orthogonal decomposition into the sum of a weakly unitary zeon matrix and a nilpotent zeon matrix. Eigenvalues of the weakly unitary zeon matrix reveal information about the graph's cycles and paths.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.OA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Omni-representations of Leibniz conformal algebras",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.33856",
+    "guid": "oai:arXiv.org:2610.33856v1",
+    "author": "Sami Benabdelhafidh",
+    "thumbnail": "",
+    "description": "arXiv:2610.33856v1 Announce Type: new \nAbstract: In this paper, we introduce the notion of an omni-representation of a Leibniz conformal algebra $\\mathfrak{g}$ on a $\\mathbb{C}[\\partial]$-module $M$ as a Leibniz conformal algebra homomorphism from $\\mathfrak{g}$ to the conformal omni-Lie algebra $\\mathfrak{gc}(M)\\oplus M$. We show that the right $\\lambda$-action of a representation induces a Maurer--Cartan element. When $M$ is a free $\\mathbb{C}[\\partial]$-module of finite rank, it also defines, via the conformal dual $M_c^*$, a $1$-cocycle with values in $M_c^*\\otimes M\\cong\\mathfrak{gc}(M)$. Consequently, every such representation gives rise to an omni-representation on $M_c^*\\otimes M$. We characterize omni-representations with values in the graph of a conformal embedding tensor. Finally, we introduce the omni-cohomology theory of Leibniz conformal algebras and establish the relation between omni-cohomology groups and the usual cohomology groups.",
+    "content": "arXiv:2610.33856v1 Announce Type: new \nAbstract: In this paper, we introduce the notion of an omni-representation of a Leibniz conformal algebra $\\mathfrak{g}$ on a $\\mathbb{C}[\\partial]$-module $M$ as a Leibniz conformal algebra homomorphism from $\\mathfrak{g}$ to the conformal omni-Lie algebra $\\mathfrak{gc}(M)\\oplus M$. We show that the right $\\lambda$-action of a representation induces a Maurer--Cartan element. When $M$ is a free $\\mathbb{C}[\\partial]$-module of finite rank, it also defines, via the conformal dual $M_c^*$, a $1$-cocycle with values in $M_c^*\\otimes M\\cong\\mathfrak{gc}(M)$. Consequently, every such representation gives rise to an omni-representation on $M_c^*\\otimes M$. We characterize omni-representations with values in the graph of a conformal embedding tensor. Finally, we introduce the omni-cohomology theory of Leibniz conformal algebras and establish the relation between omni-cohomology groups and the usual cohomology groups.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "A note on Rota-Baxter affgebras",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.33573",
+    "guid": "oai:arXiv.org:2610.33573v1",
+    "author": "Tomasz Brzezi\\'nski",
+    "thumbnail": "",
+    "description": "arXiv:2610.33573v1 Announce Type: new \nAbstract: An affinization of a concept of a Rota-Baxter operator or Rota-Baxter affgebras are discussed. Rota-Baxter Lie affgebras and their relation to Rota-Baxter Lie algebras are treated in more detail. In particular it is shown that every Rota-Baxter Lie affgebra is isomorphic to a Rota-Baxter Lie affgebra with a Lie algebra fibre over which the affine Rota-Baxter operator is linear.",
+    "content": "arXiv:2610.33573v1 Announce Type: new \nAbstract: An affinization of a concept of a Rota-Baxter operator or Rota-Baxter affgebras are discussed. Rota-Baxter Lie affgebras and their relation to Rota-Baxter Lie algebras are treated in more detail. In particular it is shown that every Rota-Baxter Lie affgebra is isomorphic to a Rota-Baxter Lie affgebra with a Lie algebra fibre over which the affine Rota-Baxter operator is linear.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.QA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Congruence lattices of $2$-valued unary algebras",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.33305",
+    "guid": "oai:arXiv.org:2610.33305v1",
+    "author": "Mikl\\'os Dorm\\'an, Kamilla K\\'atai-Urb\\'an, Eszter K. Horv\\'ath, Tam\\'as Waldhauser",
+    "thumbnail": "",
+    "description": "arXiv:2610.33305v1 Announce Type: new \nAbstract: We study congruence lattices of finite algebras whose basic operations are unary and have exactly two values. We prove that the class of finite lattices representable in this way is closed under taking filters, glued sums and ordinal sums, and direct products with finite distributive lattices, but it is not closed under taking ideals or arbitrary direct products. A classification of lattices with at most seven elements with respect to representability is also presented.",
+    "content": "arXiv:2610.33305v1 Announce Type: new \nAbstract: We study congruence lattices of finite algebras whose basic operations are unary and have exactly two values. We prove that the class of finite lattices representable in this way is closed under taking filters, glued sums and ordinal sums, and direct products with finite distributive lattices, but it is not closed under taking ideals or arbitrary direct products. A classification of lattices with at most seven elements with respect to representability is also presented.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Derived equivalence classification of twisted and generalized multifold extensions of affine type",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.25312",
+    "guid": "oai:arXiv.org:2610.25312v2",
+    "author": "Hideto Asashiba",
+    "thumbnail": "",
+    "description": "arXiv:2610.25312v2 Announce Type: replace-cross \nAbstract: Let $B$ be a piecewise hereditary algebra of affine type over an algebraically closed field. In this paper we give a derived and stable equivalence classification of twisted multifold extensions of $B$. The types $\\widetilde D$ and $\\widetilde E$ are already covered by the classification for tree type. We therefore consider the remaining types $\\widetilde{A}_{p,q}$. We show that the $n$th power of the Nakayama functor on the full subcategory of a transjective component determines the twist, including its action on morphisms, up to conjugacy in the derived Picard group of a hereditary algebra. Together with the hereditary derived type and the folding number, this gives a complete invariant for derived equivalence, and also for stable triangle equivalence. We then compute these conjugacy classes in the unbalanced, balanced, bypass, and Kronecker cases, keeping the finite rotation data. Finally, by the normalization theorem of Asashiba--Kimura--Nakashima--Yoshiwaki, we obtain the same classification for generalized multifold extensions with nonzero integer jump.",
+    "content": "arXiv:2610.25312v2 Announce Type: replace-cross \nAbstract: Let $B$ be a piecewise hereditary algebra of affine type over an algebraically closed field. In this paper we give a derived and stable equivalence classification of twisted multifold extensions of $B$. The types $\\widetilde D$ and $\\widetilde E$ are already covered by the classification for tree type. We therefore consider the remaining types $\\widetilde{A}_{p,q}$. We show that the $n$th power of the Nakayama functor on the full subcategory of a transjective component determines the twist, including its action on morphisms, up to conjugacy in the derived Picard group of a hereditary algebra. Together with the hereditary derived type and the folding number, this gives a complete invariant for derived equivalence, and also for stable triangle equivalence. We then compute these conjugacy classes in the unbalanced, balanced, bypass, and Kronecker cases, keeping the finite rotation data. Finally, by the normalization theorem of Asashiba--Kimura--Nakashima--Yoshiwaki, we obtain the same classification for generalized multifold extensions with nonzero integer jump.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.CT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Skew fields of non-commutative meromorphic functions affiliated to finite operator algebras",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.21004",
+    "guid": "oai:arXiv.org:2610.21004v2",
+    "author": "M\\'eric L. Augat, Robert T. W. Martin, Maximilian Tornes, Eli Shamovich",
+    "thumbnail": "",
+    "description": "arXiv:2610.21004v2 Announce Type: cross \nAbstract: We embed skew fields of meromorphic functions in several non-commuting variables into the topological $*-$algebra of closed linear operators affiliated to a finite von Neumann algebra, $\\mathfrak{M}$, with faithful, normal tracial state, $\\tau$. Namely, let $\\mathscr{O} _d (r)$, $r \\in (0, +\\infty]$, denote the rings of formal power series in $d \\in \\mathbb{N}$ non-commuting variables with \"radius of convergence\" at least $r$ and let $\\Xi \\in \\mathfrak{M} ^{1\\times d}$ be a tuple of row-norm $<r$ with the property that there exist no non-zero trace-class operators $T_1, \\cdots, T_d \\in \\mathscr{B} (L^2 (\\mathfrak{M}, \\tau))$ obeying $\\sum _j [T_j , \\Xi _j] =0$. Then the unital homomorphism $\\mathscr{O} _d (r) \\rightarrow \\mathfrak{M}$ defined by the evaluation, $\\mathfrak{z} _j \\mapsto \\Xi _j$, extends to an embedding of the universal skew field of fractions of $\\mathscr{O} _d (r)$ into the $*-$algebra of closed operators affiliated to $\\mathfrak{M}$.\n  In their $L^2-$homology theory of von Neumann algebras, Connes and Shlyakhtenko defined a certain quantity, $0 \\leq \\Delta (\\Xi) \\leq d$, as the Murray-von Neumann co-dimension of the Hilbert module generated by all $d-$tuples of finite rank operators obeying the above commutator condition with $\\Xi \\in \\mathfrak{M} ^{1\\times d}$. As demonstrated by Mai, Speicher and Yin, this $\\Delta$ measures, in a certain precise sense, the algebraic independence of the components of $\\Xi$. Connes-Shlyakhtenko proved that $\\Delta$ is an upper bound for Voiculescu's non-microstates free entropy dimension, $\\delta ^* (\\Xi)$, and remark that it is of interest to determine whether these two quantities are equal. Using non-commutative function theory, we show that this is generally not the case, by constructing a triple of self-adjoint operators, $\\Xi = (\\Xi_1,\\Xi_2,\\Xi_3)$, for which this inequality is strict, $\\delta^*(\\Xi) < \\Delta(\\Xi)$.",
+    "content": "arXiv:2610.21004v2 Announce Type: cross \nAbstract: We embed skew fields of meromorphic functions in several non-commuting variables into the topological $*-$algebra of closed linear operators affiliated to a finite von Neumann algebra, $\\mathfrak{M}$, with faithful, normal tracial state, $\\tau$. Namely, let $\\mathscr{O} _d (r)$, $r \\in (0, +\\infty]$, denote the rings of formal power series in $d \\in \\mathbb{N}$ non-commuting variables with \"radius of convergence\" at least $r$ and let $\\Xi \\in \\mathfrak{M} ^{1\\times d}$ be a tuple of row-norm $<r$ with the property that there exist no non-zero trace-class operators $T_1, \\cdots, T_d \\in \\mathscr{B} (L^2 (\\mathfrak{M}, \\tau))$ obeying $\\sum _j [T_j , \\Xi _j] =0$. Then the unital homomorphism $\\mathscr{O} _d (r) \\rightarrow \\mathfrak{M}$ defined by the evaluation, $\\mathfrak{z} _j \\mapsto \\Xi _j$, extends to an embedding of the universal skew field of fractions of $\\mathscr{O} _d (r)$ into the $*-$algebra of closed operators affiliated to $\\mathfrak{M}$.\n  In their $L^2-$homology theory of von Neumann algebras, Connes and Shlyakhtenko defined a certain quantity, $0 \\leq \\Delta (\\Xi) \\leq d$, as the Murray-von Neumann co-dimension of the Hilbert module generated by all $d-$tuples of finite rank operators obeying the above commutator condition with $\\Xi \\in \\mathfrak{M} ^{1\\times d}$. As demonstrated by Mai, Speicher and Yin, this $\\Delta$ measures, in a certain precise sense, the algebraic independence of the components of $\\Xi$. Connes-Shlyakhtenko proved that $\\Delta$ is an upper bound for Voiculescu's non-microstates free entropy dimension, $\\delta ^* (\\Xi)$, and remark that it is of interest to determine whether these two quantities are equal. Using non-commutative function theory, we show that this is generally not the case, by constructing a triple of self-adjoint operators, $\\Xi = (\\Xi_1,\\Xi_2,\\Xi_3)$, for which this inequality is strict, $\\delta^*(\\Xi) < \\Delta(\\Xi)$.",
+    "enclosure": {},
+    "categories": [
+      "math.OA",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Formal Matrix Rings with the Involution Property",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2610.04709",
+    "guid": "oai:arXiv.org:2610.04709v2",
+    "author": "Valeriya Kirova",
+    "thumbnail": "",
+    "description": "arXiv:2610.04709v2 Announce Type: replace \nAbstract: We study formal matrix rings with the involution property, that is, rings in which every element can be represented as the sum of an invertible element and an involution. After recalling the construction of formal matrix rings via Morita contexts, we describe involutions in triangular formal matrix rings and establish a criterion for upper triangular rings of order two. We then prove that a formal matrix ring of arbitrary finite order has the involution property whenever all of its diagonal rings have this property. Several examples and counterexamples are included to illustrate the obtained results.",
+    "content": "arXiv:2610.04709v2 Announce Type: replace \nAbstract: We study formal matrix rings with the involution property, that is, rings in which every element can be represented as the sum of an invertible element and an involution. After recalling the construction of formal matrix rings via Morita contexts, we describe involutions in triangular formal matrix rings and establish a criterion for upper triangular rings of order two. We then prove that a formal matrix ring of arbitrary finite order has the involution property whenever all of its diagonal rings have this property. Several examples and counterexamples are included to illustrate the obtained results.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Generating pairs in $\\mathfrak g_2$ related by an involution",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2609.15497",
+    "guid": "oai:arXiv.org:2609.15497v2",
+    "author": "Santiago Pineda Montoya, Johan H. R\\'ua Mu\\~noz, Borut Jur\\v{c}i\\v{c} Zlobec",
+    "thumbnail": "",
+    "description": "arXiv:2609.15497v2 Announce Type: replace \nAbstract: Let $\\mathbb O$ be the real octonion division algebra, let $\\mathfrak g_2=\\operatorname{Der}(\\mathbb O)$, and fix a quaternionic subalgebra $H\\subset\\mathbb O$. We ask when an element $Z$ preserving $H$ and its conjugate $TZT^{-1}$ generate $\\mathfrak g_2$, where $T$ is a prescribed involutive octonion automorphism. We prove that such a $Z$ exists if and only if $T(H)\\ne H$. Moreover, a fixed set of six derivations preserving $H$ contains a generating choice for every such $T$. For an arbitrary $Z\\in\\mathfrak g_2$, we construct a polynomial criterion with two factors: one detects reducibility on the imaginary octonions, and the other detects generated algebras of dimension at most three. An irreducible proper generated algebra must be a principal $\\mathfrak{su}(2)$. We characterize the elements admitting this case by their rotation frequencies and parametrize all corresponding involutions. For one specified involution and quaternionic subalgebra $H$, we describe the nongenerating set by four geometric families and six irredundant systems of scalar equations, and prove that it has real dimension four.",
+    "content": "arXiv:2609.15497v2 Announce Type: replace \nAbstract: Let $\\mathbb O$ be the real octonion division algebra, let $\\mathfrak g_2=\\operatorname{Der}(\\mathbb O)$, and fix a quaternionic subalgebra $H\\subset\\mathbb O$. We ask when an element $Z$ preserving $H$ and its conjugate $TZT^{-1}$ generate $\\mathfrak g_2$, where $T$ is a prescribed involutive octonion automorphism. We prove that such a $Z$ exists if and only if $T(H)\\ne H$. Moreover, a fixed set of six derivations preserving $H$ contains a generating choice for every such $T$. For an arbitrary $Z\\in\\mathfrak g_2$, we construct a polynomial criterion with two factors: one detects reducibility on the imaginary octonions, and the other detects generated algebras of dimension at most three. An irreducible proper generated algebra must be a principal $\\mathfrak{su}(2)$. We characterize the elements admitting this case by their rotation frequencies and parametrize all corresponding involutions. For one specified involution and quaternionic subalgebra $H$, we describe the nongenerating set by four geometric families and six irredundant systems of scalar equations, and prove that it has real dimension four.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GR"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Two-sided coherent algebras over any field with $\\mathcal{PGF}(R)\\subsetneq\\mathcal{GP}(R)$",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2608.18722",
+    "guid": "oai:arXiv.org:2608.18722v3",
+    "author": "Chencheng Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2608.18722v3 Announce Type: replace \nAbstract: For a ring $R$, let $\\mathcal{GP}(R)$, $\\mathcal{GF}(R)$, and $\\mathcal{PGF}(R)$ denote the classes of Gorenstein projective, Gorenstein flat, and projectively coresolved Gorenstein flat left $R$-modules, respectively. We answer negatively the question whether $\\mathcal{GP}(R)=\\mathcal{PGF}(R)$ for every ring. More precisely, over every field $k$ we construct a left and right coherent central $k$-algebra $T$ and a strongly Gorenstein projective left $T$-module which is not Gorenstein flat; hence $\\mathcal{PGF}(T)\\subsetneq\\mathcal{GP}(T)$.",
+    "content": "arXiv:2608.18722v3 Announce Type: replace \nAbstract: For a ring $R$, let $\\mathcal{GP}(R)$, $\\mathcal{GF}(R)$, and $\\mathcal{PGF}(R)$ denote the classes of Gorenstein projective, Gorenstein flat, and projectively coresolved Gorenstein flat left $R$-modules, respectively. We answer negatively the question whether $\\mathcal{GP}(R)=\\mathcal{PGF}(R)$ for every ring. More precisely, over every field $k$ we construct a left and right coherent central $k$-algebra $T$ and a strongly Gorenstein projective left $T$-module which is not Gorenstein flat; hence $\\mathcal{PGF}(T)\\subsetneq\\mathcal{GP}(T)$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Nilpotency and Engel-Type Theorems for Lie Affgebras",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2608.15190",
+    "guid": "oai:arXiv.org:2608.15190v2",
+    "author": "Tarik Anowar, Ripan Saha, Sayan Thokdar",
+    "thumbnail": "",
+    "description": "arXiv:2608.15190v2 Announce Type: replace \nAbstract: We investigate structural properties of Lie affgebras, viewed as affine analogues of Lie algebras. We introduce the notion of an ideaf, the affine counterpart of an ideal, and establish characterizations of left and right ideafs. We further study centers, quotient structures, and product ideafs, proving, under suitable conditions, that the center of a Lie affgebra is an ideaf. We then develop the notion of affine nilpotency and establish connections between the nilpotency of Lie affgebras and that of their retracted Lie algebras. As an application, we prove an Engel-type theorem for Lie affgebras of the form $\\mathfrak{a}(\\mathfrak{g};\\kappa=2\\lambda,\\lambda,s)$.",
+    "content": "arXiv:2608.15190v2 Announce Type: replace \nAbstract: We investigate structural properties of Lie affgebras, viewed as affine analogues of Lie algebras. We introduce the notion of an ideaf, the affine counterpart of an ideal, and establish characterizations of left and right ideafs. We further study centers, quotient structures, and product ideafs, proving, under suitable conditions, that the center of a Lie affgebra is an ideaf. We then develop the notion of affine nilpotency and establish connections between the nilpotency of Lie affgebras and that of their retracted Lie algebras. As an application, we prove an Engel-type theorem for Lie affgebras of the form $\\mathfrak{a}(\\mathfrak{g};\\kappa=2\\lambda,\\lambda,s)$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Hochschild theory of multiplicative sequences of algebras and coalgebra measurings",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2607.17470",
+    "guid": "oai:arXiv.org:2607.17470v2",
+    "author": "Abhishek Banerjee, Surjeet Kour, Dipti Paik",
+    "thumbnail": "",
+    "description": "arXiv:2607.17470v2 Announce Type: replace \nAbstract: We study coalgebra measurings between multiplicative sequences of algebras and the maps induced by them on Hochschild homology. The Hochschild theory of multiplicative sequences is introduced as a functor taking values in graded algebras in the symmetric monoidal category of chain complexes, constructed with the help of the shuffle product. We develop the universal measuring coalgebra, or Sweedler Hom for multiplicative sequences, as well as study several other Sweedler operations in this context. In particular, we obtain an enrichment of multiplicative sequences over cocommutative coalgebras. Using an appropriate theory of bimodules over multiplicative sequences, we study maps induced by comodule measurings on the Hochschild theory with coefficients, as well as the corresponding enriched categories. Finally, we consider measurings and generalized Sweedler operations between multiplicative sequences induced by comultiplicative sequences of coalgebras, and also the maps in Hochschild theory obtained from them.",
+    "content": "arXiv:2607.17470v2 Announce Type: replace \nAbstract: We study coalgebra measurings between multiplicative sequences of algebras and the maps induced by them on Hochschild homology. The Hochschild theory of multiplicative sequences is introduced as a functor taking values in graded algebras in the symmetric monoidal category of chain complexes, constructed with the help of the shuffle product. We develop the universal measuring coalgebra, or Sweedler Hom for multiplicative sequences, as well as study several other Sweedler operations in this context. In particular, we obtain an enrichment of multiplicative sequences over cocommutative coalgebras. Using an appropriate theory of bimodules over multiplicative sequences, we study maps induced by comodule measurings on the Hochschild theory with coefficients, as well as the corresponding enriched categories. Finally, we consider measurings and generalized Sweedler operations between multiplicative sequences induced by comultiplicative sequences of coalgebras, and also the maps in Hochschild theory obtained from them.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CT"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "The Dirac equation in (split-)octonions: origins, variants, and modern context",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2607.09703",
+    "guid": "oai:arXiv.org:2607.09703v4",
+    "author": "J. K\\\"oplinger",
+    "thumbnail": "",
+    "description": "arXiv:2607.09703v4 Announce Type: replace-cross \nAbstract: Octonions and split-octonions have been used to express the Dirac equation in physics in several conceptually distinct ways. This review organizes them into four groups: the 2-factor, 3-factor, and projection representations, which use (split-)octonion basis elements natively to model a spacetime basis, and the conventional use of octonions to carry Dirac algebra acting on spinors. For each group we identify the originating construction, relate later variants to it, and point to modern applications and to recent methods for native split-octonionic analysis. Because the multiplication table of the (split-)octonions is not unique, forms that look different in print can coincide after a norm-preserving linear isometry and a multiplication-preserving change of basis; we make such relations explicit and tabulate the basis conventions used across select sources. The 2-factor representation is treated in most detail: we document its origin and show that a recently proposed split-octonionic Dirac equation coincides with it after such an isometry and change of basis, while crediting the independent contributions of that work.",
+    "content": "arXiv:2607.09703v4 Announce Type: replace-cross \nAbstract: Octonions and split-octonions have been used to express the Dirac equation in physics in several conceptually distinct ways. This review organizes them into four groups: the 2-factor, 3-factor, and projection representations, which use (split-)octonion basis elements natively to model a spacetime basis, and the conventional use of octonions to carry Dirac algebra acting on spinors. For each group we identify the originating construction, relate later variants to it, and point to modern applications and to recent methods for native split-octonionic analysis. Because the multiplication table of the (split-)octonions is not unique, forms that look different in print can coincide after a norm-preserving linear isometry and a multiplication-preserving change of basis; we make such relations explicit and tabulate the basis conventions used across select sources. The 2-factor representation is treated in most detail: we document its origin and show that a recently proposed split-octonionic Dirac equation coincides with it after such an isometry and change of basis, while crediting the independent contributions of that work.",
+    "enclosure": {},
+    "categories": [
+      "math-ph",
+      "math.MP",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Universal optimality of the double-centred matrix under unitarily invariant norms for dissimilarity data",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2607.09670",
+    "guid": "oai:arXiv.org:2607.09670v2",
+    "author": "M. Nuria de las Heras Santos, Antonio Falc\\'o, Francisco Javier Mu\\~noz Almaraz",
+    "thumbnail": "",
+    "description": "arXiv:2607.09670v2 Announce Type: replace \nAbstract: The classical identity relating squared distances to inner products determines every off-diagonal entry of a symmetric matrix associated with a set of pairwise dissimilarities, while leaving its diagonal free. This paper studies the resulting affine family of symmetric matrices and asks which representative is selected by minimising a matrix norm. We prove that the same representative, namely the double-centred matrix used in classical multidimensional scaling and principal coordinate analysis, minimises every unitarily invariant norm on the family. The result includes the Frobenius, spectral, nuclear, Schatten, and Ky Fan norms, and requires no assumption that the dissimilarities are Euclidean distances. The proof rests on a compression-reduction principle: the centring projection maps the entire compatible set to a single element of the family, and orthogonal compression is contractive for unitarily invariant norms; the conclusion follows without solving a separate minimisation problem for each norm. We then determine how many minimisers there are: the minimiser is unique for the Frobenius norm, for the nuclear norm and for every strictly convex unitarily invariant norm, while for the spectral norm we describe the whole minimising set, a compact convex set that reduces to a single point precisely when the double-centred matrix vanishes.",
+    "content": "arXiv:2607.09670v2 Announce Type: replace \nAbstract: The classical identity relating squared distances to inner products determines every off-diagonal entry of a symmetric matrix associated with a set of pairwise dissimilarities, while leaving its diagonal free. This paper studies the resulting affine family of symmetric matrices and asks which representative is selected by minimising a matrix norm. We prove that the same representative, namely the double-centred matrix used in classical multidimensional scaling and principal coordinate analysis, minimises every unitarily invariant norm on the family. The result includes the Frobenius, spectral, nuclear, Schatten, and Ky Fan norms, and requires no assumption that the dissimilarities are Euclidean distances. The proof rests on a compression-reduction principle: the centring projection maps the entire compatible set to a single element of the family, and orthogonal compression is contractive for unitarily invariant norms; the conclusion follows without solving a separate minimisation problem for each norm. We then determine how many minimisers there are: the minimiser is unique for the Frobenius norm, for the nuclear norm and for every strictly convex unitarily invariant norm, while for the spectral norm we describe the whole minimising set, a compact convex set that reduces to a single point precisely when the double-centred matrix vanishes.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Roots of polynomials over semirings and hyperfields",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2606.13330",
+    "guid": "oai:arXiv.org:2606.13330v5",
+    "author": "Louis Halle Rowen",
+    "thumbnail": "",
+    "description": "arXiv:2606.13330v5 Announce Type: replace \nAbstract: We lay the groundwork for the theory of roots of polynomials over semirings and hyperfields, employing a property of a ``surpassing relation'' $\\preceq$ on semirings and hyperfields that we call strong $\\preceq$-reversibility. There are three kinds of roots generalizing roots in classical algebraic theory --- ``null roots,'' ``$\\preceq$-roots,'' and ``factor-roots.'' The theory works best when all null roots are also factor-roots. The ensuing results include the fundamental theorem of algebra for pairs, asserting that tangible polynomials with enough roots ``$\\preceq$-split,'' sometimes uniquely, into linear factors. We also examine to what extent polynomials are determined by their null roots.\n  Next, we obtain $\\preceq$-roots over extension systems, and construct integrally closed systems over various base systems, including hyperfield systems over a group. The point is that whereas hyper-polynomials behave poorly, polynomial systems remain strongly $\\preceq$-reversible, so one can compose chains of $\\preceq$-finitely spanned extensions.\n  Next, we introduce real pairs, focusing on square roots and quadratic closure.\n  In the appendix we recast the theory by considering equivalence classes of tangible polynomials which agree on almost all substitutions.",
+    "content": "arXiv:2606.13330v5 Announce Type: replace \nAbstract: We lay the groundwork for the theory of roots of polynomials over semirings and hyperfields, employing a property of a ``surpassing relation'' $\\preceq$ on semirings and hyperfields that we call strong $\\preceq$-reversibility. There are three kinds of roots generalizing roots in classical algebraic theory --- ``null roots,'' ``$\\preceq$-roots,'' and ``factor-roots.'' The theory works best when all null roots are also factor-roots. The ensuing results include the fundamental theorem of algebra for pairs, asserting that tangible polynomials with enough roots ``$\\preceq$-split,'' sometimes uniquely, into linear factors. We also examine to what extent polynomials are determined by their null roots.\n  Next, we obtain $\\preceq$-roots over extension systems, and construct integrally closed systems over various base systems, including hyperfield systems over a group. The point is that whereas hyper-polynomials behave poorly, polynomial systems remain strongly $\\preceq$-reversible, so one can compose chains of $\\preceq$-finitely spanned extensions.\n  Next, we introduce real pairs, focusing on square roots and quadratic closure.\n  In the appendix we recast the theory by considering equivalence classes of tangible polynomials which agree on almost all substitutions.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Representation theory of the real Gelfand order and real Harish-Chandra modules for $\\mathsf{SL}_2(\\mathbbm{R})$",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2605.18000",
+    "guid": "oai:arXiv.org:2605.18000v2",
+    "author": "Igor Burban, Yuriy Drozd",
+    "thumbnail": "",
+    "description": "arXiv:2605.18000v2 Announce Type: replace-cross \nAbstract: In this article we study the principal block of the category of real Harish-Chandra modules for the group $\\mathsf{SL}_2(\\RR)$ and relate it to the category of finite dimensional modules over the so-called real Gelfand order. We describe several distinguished classes of the corresponding indecomposable representations.",
+    "content": "arXiv:2605.18000v2 Announce Type: replace-cross \nAbstract: In this article we study the principal block of the category of real Harish-Chandra modules for the group $\\mathsf{SL}_2(\\RR)$ and relate it to the category of finite dimensional modules over the so-called real Gelfand order. We describe several distinguished classes of the corresponding indecomposable representations.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Hyper-dual group inverse: existence, characterizations, and applications",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2504.05264",
+    "guid": "oai:arXiv.org:2504.05264v3",
+    "author": "Tikesh Verma, Amit Kumar, Vaibhav Shekhar, Nestor Thome",
+    "thumbnail": "",
+    "description": "arXiv:2504.05264v3 Announce Type: replace \nAbstract: Motivated by the recent work of Xiao and Zhong [AIMS Math. 9 (2024), 35125--35150: MR4840882], we propose a generalized inverse for a hyper-dual matrix called hyper-dual group generalized inverse (HDGGI). Firstly, we characterize the existence of the HDGGI of a hyper-dual matrix and we show that it is unique, whenever exists. The HDGGI is then used to solve a linear hyper-dual system. We discuss the minimal $P$-norm least-squares properties of hyper-dual group inverse. We also exploit some sufficient conditions under which the reverse and forward-order laws for a particular form of the HDGGI and hyper-dual Moore-Penrose generalized inverse (HDMPGI) hold. Using the definition of dual matrix of order $n$, we finally establish necessary and sufficient condition for the existence of the group inverse of a dual matrix of order $n$.",
+    "content": "arXiv:2504.05264v3 Announce Type: replace \nAbstract: Motivated by the recent work of Xiao and Zhong [AIMS Math. 9 (2024), 35125--35150: MR4840882], we propose a generalized inverse for a hyper-dual matrix called hyper-dual group generalized inverse (HDGGI). Firstly, we characterize the existence of the HDGGI of a hyper-dual matrix and we show that it is unique, whenever exists. The HDGGI is then used to solve a linear hyper-dual system. We discuss the minimal $P$-norm least-squares properties of hyper-dual group inverse. We also exploit some sufficient conditions under which the reverse and forward-order laws for a particular form of the HDGGI and hyper-dual Moore-Penrose generalized inverse (HDMPGI) hold. Using the definition of dual matrix of order $n$, we finally establish necessary and sufficient condition for the existence of the group inverse of a dual matrix of order $n$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AC",
+      "math.FA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "On group rings of the simple group of order 168, 504 or 360 and their modules",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2502.20800",
+    "guid": "oai:arXiv.org:2502.20800v2",
+    "author": "Yutaka Konomi",
+    "thumbnail": "",
+    "description": "arXiv:2502.20800v2 Announce Type: replace-cross \nAbstract: Let $p$ be a prime and $\\mathbb{Z}_p$ the ring of $p$-adic integers. Let $G$ denote the simple group of order 168, 504 or 360. In this paper, we study the structure of the $\\chi$-part of a $\\mathbb{Z}_p[\\mathrm{Im}(\\chi)][G]$-module come from ideal class groups, Artin $L$-functions and Iwasawa theory. After this manuscript was posted, it was pointed out to the author that the main theorem holds for an arbitrary finite group and follows directly from the structure theorem for group rings; see the note added after Theorem 1.1.",
+    "content": "arXiv:2502.20800v2 Announce Type: replace-cross \nAbstract: Let $p$ be a prime and $\\mathbb{Z}_p$ the ring of $p$-adic integers. Let $G$ denote the simple group of order 168, 504 or 360. In this paper, we study the structure of the $\\chi$-part of a $\\mathbb{Z}_p[\\mathrm{Im}(\\chi)][G]$-module come from ideal class groups, Artin $L$-functions and Iwasawa theory. After this manuscript was posted, it was pointed out to the author that the main theorem holds for an arbitrary finite group and follows directly from the structure theorem for group rings; see the note added after Theorem 1.1.",
+    "enclosure": {},
+    "categories": [
+      "math.NT",
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Wakamatsu tilting modules and Frobenius extensions",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/2409.11892",
+    "guid": "oai:arXiv.org:2409.11892v2",
+    "author": "Yanhong Bao, Jiafeng L\\\"u, Zhibing Zhao",
+    "thumbnail": "",
+    "description": "arXiv:2409.11892v2 Announce Type: replace \nAbstract: Let $S/R$ be a Frobenius extension with $_RS_R$ centrally projective over $R$. We show that if $_R\\omega$ is a Wakamatsu tilting module then so is $_SS\\otimes_R\\omega$, and the natural ring homomorphism from the endomorphism ring of $_R\\omega$ to the endomorphism ring of $_SS\\otimes_R\\omega$ is a Frobenius extension provided that pd$(\\omega_T)$ is finite, where $T$ is the endomorphism ring of $_R\\omega$. We also show that the relative $n$-torsionfreeness of modules is preserved under Frobenius extensions. Furthermore, we give an application, which shows that the generalized G-dimension with respect to a Wakamatsu tilting module is invariant under Frobenius extensions.",
+    "content": "arXiv:2409.11892v2 Announce Type: replace \nAbstract: Let $S/R$ be a Frobenius extension with $_RS_R$ centrally projective over $R$. We show that if $_R\\omega$ is a Wakamatsu tilting module then so is $_SS\\otimes_R\\omega$, and the natural ring homomorphism from the endomorphism ring of $_R\\omega$ to the endomorphism ring of $_SS\\otimes_R\\omega$ is a Frobenius extension provided that pd$(\\omega_T)$ is finite, where $T$ is the endomorphism ring of $_R\\omega$. We also show that the relative $n$-torsionfreeness of modules is preserved under Frobenius extensions. Furthermore, we give an application, which shows that the generalized G-dimension with respect to a Wakamatsu tilting module is invariant under Frobenius extensions.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "$\\delta$-derivations of semisimple finite-dimensional structurable algebras",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/1212.0618",
+    "guid": "oai:arXiv.org:1212.0618v3",
+    "author": "Ivan Kaygorodov, Elizaveta Okhapkina",
+    "thumbnail": "",
+    "description": "arXiv:1212.0618v3 Announce Type: replace \nAbstract: In this paper, we show the absence of nontrivial $\\delta$-derivations of semisimple finite-dimensional structurable algebras over an algebraically closed field of characteristic not equal to $2,3,5$.",
+    "content": "arXiv:1212.0618v3 Announce Type: replace \nAbstract: In this paper, we show the absence of nontrivial $\\delta$-derivations of semisimple finite-dimensional structurable algebras over an algebraically closed field of characteristic not equal to $2,3,5$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "$\\delta$-derivations of n-ary algebras",
+    "pubDate": "2026-10-27 04:00:00",
+    "link": "https://arxiv.org/abs/1107.4427",
+    "guid": "oai:arXiv.org:1107.4427v2",
+    "author": "Ivan Kaygorodov",
+    "thumbnail": "",
+    "description": "arXiv:1107.4427v2 Announce Type: replace \nAbstract: We give a description of $\\delta$-derivations of $(n+1)$-dimensional $n$-ary Filippov algebras and, as a consequence, of simple finite-dimensional Filippov algebras over an algebraically closed field of characteristic zero. We also give new examples of non-trivial $\\delta$-derivations of Filippov algebras and show that there are no non-trivial $\\delta$-derivations of the simple ternary Malcev algebra $M_8$.",
+    "content": "arXiv:1107.4427v2 Announce Type: replace \nAbstract: We give a description of $\\delta$-derivations of $(n+1)$-dimensional $n$-ary Filippov algebras and, as a consequence, of simple finite-dimensional Filippov algebras over an algebraically closed field of characteristic zero. We also give new examples of non-trivial $\\delta$-derivations of Filippov algebras and show that there are no non-trivial $\\delta$-derivations of the simple ternary Malcev algebra $M_8$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.QA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
     "title": "Linear transformations of tropical matrices preserving individual values of the cyclicity index",
     "pubDate": "2026-10-26 04:00:00",
     "link": "https://arxiv.org/abs/2610.32897",
@@ -1290,6 +1961,22 @@
     "__source": "https://arxiv.org/catchup/math.RA/2026-10-20"
   },
   {
+    "title": "Skew fields of non-commutative meromorphic functions affiliated to finite operator algebras",
+    "pubDate": "2026-10-20 04:00:00",
+    "link": "https://arxiv.org/abs/2610.21004",
+    "guid": "oai:arXiv.org:2610.21004",
+    "author": "Méric L. Augat, Robert T. W. Martin, Maximilian Tornes, Eli Shamovich",
+    "thumbnail": "",
+    "description": "arXiv:2610.21004 Announce Type: replace \nAbstract: We embed skew fields of meromorphic functions in several non-commuting variables into the topological $*-$algebra of closed linear operators affiliated to a finite von Neumann algebra, $\\mathfrak{M}$, with faithful, normal tracial state, $τ$. Namely, let $\\mathscr{O} _d (r)$, $r \\in (0, +\\infty]$, denote the rings of formal power series in $d \\in \\mathbb{N}$ non-commuting variables with \"radius of convergence\" at least $r$ and let $Ξ\\in \\mathfrak{M} ^{1\\times d}$ be a tuple of row-norm $<r$ with the property that there exist no non-zero trace-class operators $T_1, \\cdots, T_d \\in \\mathscr{B} (L^2 (\\mathfrak{M}, τ))$ obeying $\\sum _j [T_j , Ξ_j] =0$. Then the unital homomorphism $\\mathscr{O} _d (r) \\rightarrow \\mathfrak{M}$ defined by the evaluation, $\\mathfrak{z} _j \\mapsto Ξ_j$, extends to an embedding of the universal skew field of fractions of $\\mathscr{O} _d (r)$ into the $*-$algebra of closed operators affiliated to $\\mathfrak{M}$. In their $L^2-$homology theory of von Neumann algebras, Connes and Shlyakhtenko defined a certain quantity, $0 \\leq Δ(Ξ) \\leq d$, as the Murray-von Neumann co-dimension of the Hilbert module generated by all $d-$tuples of finite rank operators obeying the above commutator condition with $Ξ\\in \\mathfrak{M} ^{1\\times d}$. As demonstrated by Mai, Speicher and Yin, this $Δ$ measures, in a certain precise sense, the algebraic independence of the components of $Ξ$. Connes-Shlyakhtenko proved that $Δ$ is an upper bound for Voiculescu's non-microstates free entropy dimension, $δ^* (Ξ)$, and remark that it is of interest to determine whether these two quantities are equal. Using non-commutative function theory, we show that this is generally not the case, by constructing a triple of self-adjoint operators, $Ξ= (Ξ_1,Ξ_2,Ξ_3)$, for which this inequality is strict, $δ^*(Ξ) < Δ(Ξ)$.",
+    "content": "arXiv:2610.21004 Announce Type: replace \nAbstract: We embed skew fields of meromorphic functions in several non-commuting variables into the topological $*-$algebra of closed linear operators affiliated to a finite von Neumann algebra, $\\mathfrak{M}$, with faithful, normal tracial state, $τ$. Namely, let $\\mathscr{O} _d (r)$, $r \\in (0, +\\infty]$, denote the rings of formal power series in $d \\in \\mathbb{N}$ non-commuting variables with \"radius of convergence\" at least $r$ and let $Ξ\\in \\mathfrak{M} ^{1\\times d}$ be a tuple of row-norm $<r$ with the property that there exist no non-zero trace-class operators $T_1, \\cdots, T_d \\in \\mathscr{B} (L^2 (\\mathfrak{M}, τ))$ obeying $\\sum _j [T_j , Ξ_j] =0$. Then the unital homomorphism $\\mathscr{O} _d (r) \\rightarrow \\mathfrak{M}$ defined by the evaluation, $\\mathfrak{z} _j \\mapsto Ξ_j$, extends to an embedding of the universal skew field of fractions of $\\mathscr{O} _d (r)$ into the $*-$algebra of closed operators affiliated to $\\mathfrak{M}$. In their $L^2-$homology theory of von Neumann algebras, Connes and Shlyakhtenko defined a certain quantity, $0 \\leq Δ(Ξ) \\leq d$, as the Murray-von Neumann co-dimension of the Hilbert module generated by all $d-$tuples of finite rank operators obeying the above commutator condition with $Ξ\\in \\mathfrak{M} ^{1\\times d}$. As demonstrated by Mai, Speicher and Yin, this $Δ$ measures, in a certain precise sense, the algebraic independence of the components of $Ξ$. Connes-Shlyakhtenko proved that $Δ$ is an upper bound for Voiculescu's non-microstates free entropy dimension, $δ^* (Ξ)$, and remark that it is of interest to determine whether these two quantities are equal. Using non-commutative function theory, we show that this is generally not the case, by constructing a triple of self-adjoint operators, $Ξ= (Ξ_1,Ξ_2,Ξ_3)$, for which this inequality is strict, $δ^*(Ξ) < Δ(Ξ)$.",
+    "enclosure": {},
+    "categories": [
+      "math.OA",
+      "math.RA"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-10-20"
+  },
+  {
     "title": "Rota-Baxter operators and factorization of Lie affgebras",
     "pubDate": "2026-10-20 04:00:00",
     "link": "https://arxiv.org/abs/2610.14838",
@@ -1899,6 +2586,22 @@
     "content": "arXiv:2610.21005v1 Announce Type: new \nAbstract: Zhang twists provide a powerful mechanism for deforming graded algebras, while preserving their graded module categories. We extend this theory by introducing Zhang twists for graded semigroups and graded ample groupoids. We show that the twisting construction preserves a broad class of semigroup structures, and that two graded monoids are twists of each other if and only if their categories of graded sets are pointedly equivalent. We show that Zhang twists are compatible with noncommutative Stone duality: twists on graded-Boolean inverse semigroups are in correspondence with those on the associated graded ample groupoids. Moreover, in the setting of Steinberg algebras we prove that twisting the groupoid gives the same result as twisting the corresponding algebra. These results provide a unified framework linking graded semigroups, inverse semigroup duality, ample groupoids, and graded algebras, while extending the scope of Zhang twists to settings arising from symbolic dynamics, graph algebras, and Steinberg algebras.",
     "enclosure": {},
     "categories": [
+      "math.RA"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-10-16"
+  },
+  {
+    "title": "Skew fields of non-commutative meromorphic functions affiliated to finite operator algebras",
+    "pubDate": "2026-10-16 04:00:00",
+    "link": "https://arxiv.org/abs/2610.21004",
+    "guid": "oai:arXiv.org:2610.21004",
+    "author": "Méric L. Augat, Robert T. W. Martin, Maximilian Tornes, Eli Shamovich",
+    "thumbnail": "",
+    "description": "arXiv:2610.21004 Announce Type: cross \nAbstract: We embed skew fields of meromorphic functions in several non-commuting variables into the topological $*-$algebra of closed linear operators affiliated to a finite von Neumann algebra, $\\mathfrak{M}$, with faithful, normal tracial state, $τ$. Namely, let $\\mathscr{O} _d (r)$, $r \\in (0, +\\infty]$, denote the rings of formal power series in $d \\in \\mathbb{N}$ non-commuting variables with \"radius of convergence\" at least $r$ and let $Ξ\\in \\mathfrak{M} ^{1\\times d}$ be a tuple of row-norm $<r$ with the property that there exist no non-zero trace-class operators $T_1, \\cdots, T_d \\in \\mathscr{B} (L^2 (\\mathfrak{M}, τ))$ obeying $\\sum _j [T_j , Ξ_j] =0$. Then the unital homomorphism $\\mathscr{O} _d (r) \\rightarrow \\mathfrak{M}$ defined by the evaluation, $\\mathfrak{z} _j \\mapsto Ξ_j$, extends to an embedding of the universal skew field of fractions of $\\mathscr{O} _d (r)$ into the $*-$algebra of closed operators affiliated to $\\mathfrak{M}$. In their $L^2-$homology theory of von Neumann algebras, Connes and Shlyakhtenko defined a certain quantity, $0 \\leq Δ(Ξ) \\leq d$, as the Murray-von Neumann co-dimension of the Hilbert module generated by all $d-$tuples of finite rank operators obeying the above commutator condition with $Ξ\\in \\mathfrak{M} ^{1\\times d}$. As demonstrated by Mai, Speicher and Yin, this $Δ$ measures, in a certain precise sense, the algebraic independence of the components of $Ξ$. Connes-Shlyakhtenko proved that $Δ$ is an upper bound for Voiculescu's non-microstates free entropy dimension, $δ^* (Ξ)$, and remark that it is of interest to determine whether these two quantities are equal. Using non-commutative function theory, we show that this is generally not the case, by constructing a triple of self-adjoint operators, $Ξ= (Ξ_1,Ξ_2,Ξ_3)$, for which this inequality is strict, $δ^*(Ξ) < Δ(Ξ)$.",
+    "content": "arXiv:2610.21004 Announce Type: cross \nAbstract: We embed skew fields of meromorphic functions in several non-commuting variables into the topological $*-$algebra of closed linear operators affiliated to a finite von Neumann algebra, $\\mathfrak{M}$, with faithful, normal tracial state, $τ$. Namely, let $\\mathscr{O} _d (r)$, $r \\in (0, +\\infty]$, denote the rings of formal power series in $d \\in \\mathbb{N}$ non-commuting variables with \"radius of convergence\" at least $r$ and let $Ξ\\in \\mathfrak{M} ^{1\\times d}$ be a tuple of row-norm $<r$ with the property that there exist no non-zero trace-class operators $T_1, \\cdots, T_d \\in \\mathscr{B} (L^2 (\\mathfrak{M}, τ))$ obeying $\\sum _j [T_j , Ξ_j] =0$. Then the unital homomorphism $\\mathscr{O} _d (r) \\rightarrow \\mathfrak{M}$ defined by the evaluation, $\\mathfrak{z} _j \\mapsto Ξ_j$, extends to an embedding of the universal skew field of fractions of $\\mathscr{O} _d (r)$ into the $*-$algebra of closed operators affiliated to $\\mathfrak{M}$. In their $L^2-$homology theory of von Neumann algebras, Connes and Shlyakhtenko defined a certain quantity, $0 \\leq Δ(Ξ) \\leq d$, as the Murray-von Neumann co-dimension of the Hilbert module generated by all $d-$tuples of finite rank operators obeying the above commutator condition with $Ξ\\in \\mathfrak{M} ^{1\\times d}$. As demonstrated by Mai, Speicher and Yin, this $Δ$ measures, in a certain precise sense, the algebraic independence of the components of $Ξ$. Connes-Shlyakhtenko proved that $Δ$ is an upper bound for Voiculescu's non-microstates free entropy dimension, $δ^* (Ξ)$, and remark that it is of interest to determine whether these two quantities are equal. Using non-commutative function theory, we show that this is generally not the case, by constructing a triple of self-adjoint operators, $Ξ= (Ξ_1,Ξ_2,Ξ_3)$, for which this inequality is strict, $δ^*(Ξ) < Δ(Ξ)$.",
+    "enclosure": {},
+    "categories": [
+      "math.OA",
       "math.RA"
     ],
     "__source": "https://arxiv.org/catchup/math.RA/2026-10-16"
