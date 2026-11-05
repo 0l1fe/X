@@ -1,5 +1,441 @@
 [
   {
+    "title": "On Jordan nilpotency of index n in group rings",
+    "pubDate": "2026-11-05 05:00:00",
+    "link": "https://arxiv.org/abs/2611.06587",
+    "guid": "oai:arXiv.org:2611.06587v1",
+    "author": "Osnel B. Cristo, Mariana G. Cornelissen, Rodrigo L. Rodrigues",
+    "thumbnail": "",
+    "description": "arXiv:2611.06587v1 Announce Type: new \nAbstract: Let $RG$ be the group ring of an arbitrary group $G$ over an associative and commutative ring $R$ with identity. In this paper, we provide necessary and sufficient conditions for $RG$ to be Jordan nilpotent of index $n \\geq 2$. In particular, we establish a connection between the study of Jordan nilpotency in group rings and the study of Lie nilpotency in these algebras. We also classify the Jordan nilpotency of $RG$, over rings of arbitrary characteristic, up to the index $6$.",
+    "content": "arXiv:2611.06587v1 Announce Type: new \nAbstract: Let $RG$ be the group ring of an arbitrary group $G$ over an associative and commutative ring $R$ with identity. In this paper, we provide necessary and sufficient conditions for $RG$ to be Jordan nilpotent of index $n \\geq 2$. In particular, we establish a connection between the study of Jordan nilpotency in group rings and the study of Lie nilpotency in these algebras. We also classify the Jordan nilpotency of $RG$, over rings of arbitrary characteristic, up to the index $6$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "The group of strong automorphisms of the differential field of transseries",
+    "pubDate": "2026-11-05 05:00:00",
+    "link": "https://arxiv.org/abs/2611.06520",
+    "guid": "oai:arXiv.org:2611.06520v1",
+    "author": "Matthias Aschenbrenner, Lou van den Dries, Joris van der Hoeven",
+    "thumbnail": "",
+    "description": "arXiv:2611.06520v1 Announce Type: cross \nAbstract: We describe the group of strongly additive automorphisms of the differential field $\\mathbb T$ of transseries as a non-trivial semidirect product. We show that this group is torsion-free and has trivial center, and that many naturally arising differential subfields of $\\mathbb T$ are definably closed in $\\mathbb T$.",
+    "content": "arXiv:2611.06520v1 Announce Type: cross \nAbstract: We describe the group of strongly additive automorphisms of the differential field $\\mathbb T$ of transseries as a non-trivial semidirect product. We show that this group is torsion-free and has trivial center, and that many naturally arising differential subfields of $\\mathbb T$ are definably closed in $\\mathbb T$.",
+    "enclosure": {},
+    "categories": [
+      "math.LO",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "High-Degree Restricted Cohomology for $K(3;1)^{(1)}$ in Characteristics Five and Seven",
+    "pubDate": "2026-11-05 05:00:00",
+    "link": "https://arxiv.org/abs/2611.06396",
+    "guid": "oai:arXiv.org:2611.06396v1",
+    "author": "Chao Ma",
+    "thumbnail": "",
+    "description": "arXiv:2611.06396v1 Announce Type: new \nAbstract: We determine the high-degree restricted first cohomology of the positive subalgebra of the rank-one contact algebra in characteristics five and seven, with parabolically induced coefficients. In degrees from twice the characteristic through four times the characteristic minus three, each characteristic has six nonzero homogeneous components, of total dimension thirteen. The constituents include Frobenius twists of the natural horizontal module, represented by Cartier cocycles. PBW duality converts the calculation into bounded-degree homology, where the coefficient action couples the natural and cubic relation coordinates. The resulting modules determine the high-degree part of the coefficient cohomology used in the Lyndon-Hochschild-Serre term $E_2^{0,1}$ for extensions of induced contact modules. In particular, extensions from the Steinberg induced modules vanish in these degrees.",
+    "content": "arXiv:2611.06396v1 Announce Type: new \nAbstract: We determine the high-degree restricted first cohomology of the positive subalgebra of the rank-one contact algebra in characteristics five and seven, with parabolically induced coefficients. In degrees from twice the characteristic through four times the characteristic minus three, each characteristic has six nonzero homogeneous components, of total dimension thirteen. The constituents include Frobenius twists of the natural horizontal module, represented by Cartier cocycles. PBW duality converts the calculation into bounded-degree homology, where the coefficient action couples the natural and cubic relation coordinates. The resulting modules determine the high-degree part of the coefficient cohomology used in the Lyndon-Hochschild-Serre term $E_2^{0,1}$ for extensions of induced contact modules. In particular, extensions from the Steinberg induced modules vanish in these degrees.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Representation embeddings and the third Brauer--Thrall conjecture",
+    "pubDate": "2026-11-05 05:00:00",
+    "link": "https://arxiv.org/abs/2611.06325",
+    "guid": "oai:arXiv.org:2611.06325v1",
+    "author": "Haruhisa Enomoto",
+    "thumbnail": "",
+    "description": "arXiv:2611.06325v1 Announce Type: cross \nAbstract: Let $A$ be a representation-infinite finite-dimensional algebra over an algebraically closed field $k$. We prove that for every infinite cardinal $\\kappa$ there is an indecomposable $A$-module $M$ with $\\dim_k M=\\kappa$. Over algebraically closed fields, this settles Simson's conjecture, also called the third Brauer--Thrall conjecture, that every representation-infinite finite-dimensional algebra has indecomposable modules of arbitrarily large cardinality. To construct these modules, we extend Bongartz's representation embedding from finite-dimensional Kronecker modules without a simple injective summand to such modules of arbitrary dimension. The extended functor commutes with direct sums and filtered colimits and preserves the dimension of infinite-dimensional modules. Applying it to the indecomposable Kronecker modules of every infinite dimension constructed by G\\\"obel and Simson yields the required $A$-modules.",
+    "content": "arXiv:2611.06325v1 Announce Type: cross \nAbstract: Let $A$ be a representation-infinite finite-dimensional algebra over an algebraically closed field $k$. We prove that for every infinite cardinal $\\kappa$ there is an indecomposable $A$-module $M$ with $\\dim_k M=\\kappa$. Over algebraically closed fields, this settles Simson's conjecture, also called the third Brauer--Thrall conjecture, that every representation-infinite finite-dimensional algebra has indecomposable modules of arbitrarily large cardinality. To construct these modules, we extend Bongartz's representation embedding from finite-dimensional Kronecker modules without a simple injective summand to such modules of arbitrary dimension. The extended functor commutes with direct sums and filtered colimits and preserves the dimension of infinite-dimensional modules. Applying it to the indecomposable Kronecker modules of every infinite dimension constructed by G\\\"obel and Simson yields the required $A$-modules.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Identities of Representation of Lie subalgebras of the first Weyl algebra",
+    "pubDate": "2026-11-05 05:00:00",
+    "link": "https://arxiv.org/abs/2611.06305",
+    "guid": "oai:arXiv.org:2611.06305v1",
+    "author": "Vyacheslav Futorny, Plamen Koshlukov, Jo\\~ao Fernando Schwarz",
+    "thumbnail": "",
+    "description": "arXiv:2611.06305v1 Announce Type: new \nAbstract: Let $F$ be a field. We study weak polynomial identities for pairs $(A,V)$ where $A$ is the first Weyl algebra over $F$ and $V$ is either a Lie subalgebra (under the usual Lie bracket) of $A$, or simply a vector subspace of $A$. Sometimes the weak identities of $(A,V)$, when $V$ is a Lie algebra, are called identities of representations of Lie algebras. Our starting point is the description of finite dimensional Lie algebras $L$ that can be embedded into the first Weyl algebra; this description was given by Rausch de Traubenberg, Slupinski and Tanas\\u{a} in 2006. First we assume that $F$ is algebraically closed field of characteristic 0, and describe a finite basis of the weak identities of the pair $(A,L)$ where $L=\\mathfrak{sl}_2$. In order to obtain such a basis we invoke theorems by Razmyslov and by Trishin concerning the identities of infinite dimensional irreducible representations of $\\mathfrak{sl}_2$.\n  Afterwards we consider $L$ as a filiform Lie algebra together with its concrete realisation inside the first Weyl algebra. We produce a finite basis of weak identities of the pair $(A,L)$, assuming $F$ to be infinite. Finally we study the weakest form of identities for $(A,V)$ where $A$ is the $n$-th Weyl algebra and $V$ is just a vector space - its canonical generating vector subspace. We deduce a basis of the weak identities in this case as well, once again assuming $F$ to be an infinite field, with no restriction on its characteristic. The same result was recently obtained by Dotsenko and Lopatin in characteristic $0$ by different methods. Our methods are combinatorial, we also use the theory developed by Razmyslov, and the representations of the symmetric and the general linear groups and their duality. We employ the characteristic-free description of the invariants of the symplectic group given by De Concini and Procesi.",
+    "content": "arXiv:2611.06305v1 Announce Type: new \nAbstract: Let $F$ be a field. We study weak polynomial identities for pairs $(A,V)$ where $A$ is the first Weyl algebra over $F$ and $V$ is either a Lie subalgebra (under the usual Lie bracket) of $A$, or simply a vector subspace of $A$. Sometimes the weak identities of $(A,V)$, when $V$ is a Lie algebra, are called identities of representations of Lie algebras. Our starting point is the description of finite dimensional Lie algebras $L$ that can be embedded into the first Weyl algebra; this description was given by Rausch de Traubenberg, Slupinski and Tanas\\u{a} in 2006. First we assume that $F$ is algebraically closed field of characteristic 0, and describe a finite basis of the weak identities of the pair $(A,L)$ where $L=\\mathfrak{sl}_2$. In order to obtain such a basis we invoke theorems by Razmyslov and by Trishin concerning the identities of infinite dimensional irreducible representations of $\\mathfrak{sl}_2$.\n  Afterwards we consider $L$ as a filiform Lie algebra together with its concrete realisation inside the first Weyl algebra. We produce a finite basis of weak identities of the pair $(A,L)$, assuming $F$ to be infinite. Finally we study the weakest form of identities for $(A,V)$ where $A$ is the $n$-th Weyl algebra and $V$ is just a vector space - its canonical generating vector subspace. We deduce a basis of the weak identities in this case as well, once again assuming $F$ to be an infinite field, with no restriction on its characteristic. The same result was recently obtained by Dotsenko and Lopatin in characteristic $0$ by different methods. Our methods are combinatorial, we also use the theory developed by Razmyslov, and the representations of the symmetric and the general linear groups and their duality. We employ the characteristic-free description of the invariants of the symplectic group given by De Concini and Procesi.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Homology and Topology of Partially Ordered Fields",
+    "pubDate": "2026-11-05 05:00:00",
+    "link": "https://arxiv.org/abs/2611.06261",
+    "guid": "oai:arXiv.org:2611.06261v1",
+    "author": "Hanzhen Bao",
+    "thumbnail": "",
+    "description": "arXiv:2611.06261v1 Announce Type: new \nAbstract: We develop a unified homology theory for directed partial orders (DPOs) and lattice-ordered positive cones on fields of characteristic zero. With the underlying field and its operations fixed, we define order?carrying spaces independently by topological conditions, establish a bijection with DPO positive cones, and characterize lattice orders by intersections of minimal open neighborhoods. A unified comparison theorem identifies graded Ext for region ideals with sheaf cohomology and multiplicative Tor with the reduced singular homology of truncated regions, giving a topological interpretation of the existence and preservation of reduced decompositions. We obtain canonical cohomological obstructions to lattice ordering, prove that a coefficient module for positive multiplication is flat if and only if the multiplier has a positive inverse, and show that every strict extension of positive cones on the same field produces a nonzero first Tor obstruction. Finally, we place the concrete lattice recently constructed by Bao-Zhang within this framework.",
+    "content": "arXiv:2611.06261v1 Announce Type: new \nAbstract: We develop a unified homology theory for directed partial orders (DPOs) and lattice-ordered positive cones on fields of characteristic zero. With the underlying field and its operations fixed, we define order?carrying spaces independently by topological conditions, establish a bijection with DPO positive cones, and characterize lattice orders by intersections of minimal open neighborhoods. A unified comparison theorem identifies graded Ext for region ideals with sheaf cohomology and multiplicative Tor with the reduced singular homology of truncated regions, giving a topological interpretation of the existence and preservation of reduced decompositions. We obtain canonical cohomological obstructions to lattice ordering, prove that a coefficient module for positive multiplication is flat if and only if the multiplier has a positive inverse, and show that every strict extension of positive cones on the same field produces a nonzero first Tor obstruction. Finally, we place the concrete lattice recently constructed by Bao-Zhang within this framework.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AC",
+      "math.AT"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "A topological Mundici representation theorem",
+    "pubDate": "2026-11-05 05:00:00",
+    "link": "https://arxiv.org/abs/2611.05786",
+    "guid": "oai:arXiv.org:2611.05786v1",
+    "author": "Yifan Meng, Lili Shen, Dexue Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2611.05786v1 Announce Type: cross \nAbstract: We lift Mundici's equivalence between MV-algebras and abelian $\\ell$-groups with a strong unit to the topological setting. To this end, we prove that, for every topological MV-algebra, the associated Mundici group can be endowed with a topology that extends the topology of the MV-algebra and makes it into an abelian topological $\\ell$-group. Among such topologies there is a finest one; we identify this topology as the topological-group reflection of the bounded-stage final topology, and construct an explicit zero-neighbourhood base in terms of the original MV-algebra topology. Using this topology, we establish a topological Mundici adjunction that restricts to an equivalence between topological MV-algebras and Mundici-fine abelian topological $\\ell$-groups with a strong unit. Here, Mundici-fine means that the group topology is the finest $\\ell$-group extension of its unit-interval topology. We also identify extremal $\\ell$-group extensions under additional hypotheses, and establish a quasitopological correspondence clarifying the distinction between separate and joint continuity.",
+    "content": "arXiv:2611.05786v1 Announce Type: cross \nAbstract: We lift Mundici's equivalence between MV-algebras and abelian $\\ell$-groups with a strong unit to the topological setting. To this end, we prove that, for every topological MV-algebra, the associated Mundici group can be endowed with a topology that extends the topology of the MV-algebra and makes it into an abelian topological $\\ell$-group. Among such topologies there is a finest one; we identify this topology as the topological-group reflection of the bounded-stage final topology, and construct an explicit zero-neighbourhood base in terms of the original MV-algebra topology. Using this topology, we establish a topological Mundici adjunction that restricts to an equivalence between topological MV-algebras and Mundici-fine abelian topological $\\ell$-groups with a strong unit. Here, Mundici-fine means that the group topology is the finest $\\ell$-group extension of its unit-interval topology. We also identify extremal $\\ell$-group extensions under additional hypotheses, and establish a quasitopological correspondence clarifying the distinction between separate and joint continuity.",
+    "enclosure": {},
+    "categories": [
+      "math.CT",
+      "math.GN",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Exponent Profiles of Oscillatory Matrices under Matrix and Inverse Sparsity",
+    "pubDate": "2026-11-05 05:00:00",
+    "link": "https://arxiv.org/abs/2609.35846",
+    "guid": "oai:arXiv.org:2609.35846v2",
+    "author": "Wei Xie",
+    "thumbnail": "",
+    "description": "arXiv:2609.35846v2 Announce Type: replace \nAbstract: We classify the simultaneous half-bandwidths $p,q$ of a symmetric oscillatory matrix $A$ and its inverse. At order $n\\ge2$, the possible pairs are $(1,n-1)$, $(n-1,1)$, and all pairs with $2\\le p,q\\le n-1$. Let $e_k(A)$ be the least positive integer $m$ for which all minors of order $k$ of $A^m$ are positive, and let $e(A)=\\max_{1\\le k<n}e_k(A)$. Put $a=\\min\\{p,q\\}$ and $b=\\max\\{p,q\\}$. At every feasible pair of actual half-bandwidths, \\[ \\max_A e(A)= \\max\\left\\{\\left\\lfloor\\frac n2\\right\\rfloor, n-a-\\left\\lfloor\\frac{\\max\\{n-p-q,0\\}}{b}\\right\\rfloor\\right\\}. \\] We also determine the maximum of $\\sum_{k=1}^{n-1}e_k(A)$ for every pair. When $p+q\\ge n$, one realization maximizes all $e_k$ simultaneously. Write $A=U^T\\Delta U$, with $U$ unit upper triangular and totally nonnegative, and $\\Delta$ positive diagonal. Let $\\ell(U)$ be the least number of elementary upper bidiagonal factors with positive parameters whose product is $U$. At fixed $(p,q)$, its minimum is $\\max\\{n-1,p+q-1\\}$. One symmetric integer matrix of determinant one simultaneously attains this minimum, the maximum exponent, and the maximum exponent sum. We prove $\\ell(U^{r+1})-\\ell(U^r)=\\#\\{k:1\\le k<n,\\ e_k(A)>r\\}$ for every integer $r\\ge\\lfloor(n-1)/2\\rfloor$, with the starting point optimal. With $\\delta=\\ell(U)-n+1$, the exponent sum satisfies $\\delta\\le n(n-1)/2-\\sum_{k=1}^{n-1}e_k(A) \\le\\lfloor(n-1)/2\\rfloor\\delta$, with both constants sharp. The lower deficit bound is attained at every admissible factor count. Within the symmetric class, a total sum of $n(n-1)/2$ characterizes basic matrices. In the basic oscillatory class, without a symmetry assumption, a positive integer vector $(f_1,\\ldots,f_{n-1})$ is realizable if and only if $f_k\\le\\max\\{k,n-k\\}$ and $f_k+f_{n-k}\\ge n$ for $1\\le k<n$, and $\\lvert f_{k+1}-f_k\\rvert\\le1$ for $1\\le k<n-1$. Explicit factor orders realize every such vector.",
+    "content": "arXiv:2609.35846v2 Announce Type: replace \nAbstract: We classify the simultaneous half-bandwidths $p,q$ of a symmetric oscillatory matrix $A$ and its inverse. At order $n\\ge2$, the possible pairs are $(1,n-1)$, $(n-1,1)$, and all pairs with $2\\le p,q\\le n-1$. Let $e_k(A)$ be the least positive integer $m$ for which all minors of order $k$ of $A^m$ are positive, and let $e(A)=\\max_{1\\le k<n}e_k(A)$. Put $a=\\min\\{p,q\\}$ and $b=\\max\\{p,q\\}$. At every feasible pair of actual half-bandwidths, \\[ \\max_A e(A)= \\max\\left\\{\\left\\lfloor\\frac n2\\right\\rfloor, n-a-\\left\\lfloor\\frac{\\max\\{n-p-q,0\\}}{b}\\right\\rfloor\\right\\}. \\] We also determine the maximum of $\\sum_{k=1}^{n-1}e_k(A)$ for every pair. When $p+q\\ge n$, one realization maximizes all $e_k$ simultaneously. Write $A=U^T\\Delta U$, with $U$ unit upper triangular and totally nonnegative, and $\\Delta$ positive diagonal. Let $\\ell(U)$ be the least number of elementary upper bidiagonal factors with positive parameters whose product is $U$. At fixed $(p,q)$, its minimum is $\\max\\{n-1,p+q-1\\}$. One symmetric integer matrix of determinant one simultaneously attains this minimum, the maximum exponent, and the maximum exponent sum. We prove $\\ell(U^{r+1})-\\ell(U^r)=\\#\\{k:1\\le k<n,\\ e_k(A)>r\\}$ for every integer $r\\ge\\lfloor(n-1)/2\\rfloor$, with the starting point optimal. With $\\delta=\\ell(U)-n+1$, the exponent sum satisfies $\\delta\\le n(n-1)/2-\\sum_{k=1}^{n-1}e_k(A) \\le\\lfloor(n-1)/2\\rfloor\\delta$, with both constants sharp. The lower deficit bound is attained at every admissible factor count. Within the symmetric class, a total sum of $n(n-1)/2$ characterizes basic matrices. In the basic oscillatory class, without a symmetry assumption, a positive integer vector $(f_1,\\ldots,f_{n-1})$ is realizable if and only if $f_k\\le\\max\\{k,n-k\\}$ and $f_k+f_{n-k}\\ge n$ for $1\\le k<n$, and $\\lvert f_{k+1}-f_k\\rvert\\le1$ for $1\\le k<n-1$. Explicit factor orders realize every such vector.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Quantum regularity of finite dimensional semisimple algebras",
+    "pubDate": "2026-11-05 05:00:00",
+    "link": "https://arxiv.org/abs/2608.21936",
+    "guid": "oai:arXiv.org:2608.21936v2",
+    "author": "Yuri Bahturin, Lucio Centrone, Kau\\^e Pereira",
+    "thumbnail": "",
+    "description": "arXiv:2608.21936v2 Announce Type: replace \nAbstract: In this paper, we establish a necessary and sufficient criterion for a finite-dimensional semisimple algebra over an algebraically closed field of characteristic $0$ to admit a regular quantum commutative decomposition. We apply this characterization to group algebras and show that a finite group algebra admits such a decomposition if and only if the underlying group is a peak group, that is, a finite group whose irreducible character degrees have a greatest element with respect to divisibility. We investigate the structure of peak groups and establish several criteria for their solvability in terms of the prime divisors of their largest irreducible character degree. In particular, we show that several important classes of groups are peak groups, while supersolvability alone does not imply the peak property. Finally, we show how to construct a peak group from any finite group.",
+    "content": "arXiv:2608.21936v2 Announce Type: replace \nAbstract: In this paper, we establish a necessary and sufficient criterion for a finite-dimensional semisimple algebra over an algebraically closed field of characteristic $0$ to admit a regular quantum commutative decomposition. We apply this characterization to group algebras and show that a finite group algebra admits such a decomposition if and only if the underlying group is a peak group, that is, a finite group whose irreducible character degrees have a greatest element with respect to divisibility. We investigate the structure of peak groups and establish several criteria for their solvability in terms of the prime divisors of their largest irreducible character degree. In particular, we show that several important classes of groups are peak groups, while supersolvability alone does not imply the peak property. Finally, we show how to construct a peak group from any finite group.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Almost Symmetric Linear Arc Monadic Datalog and Transitive Tournaments",
+    "pubDate": "2026-11-05 05:00:00",
+    "link": "https://arxiv.org/abs/2606.24711",
+    "guid": "oai:arXiv.org:2606.24711v2",
+    "author": "Sebastian Meyer, Florian Starke",
+    "thumbnail": "",
+    "description": "arXiv:2606.24711v2 Announce Type: replace-cross \nAbstract: We introduce $n$-almost symmetric Datalog and study $n$-almost symmetric linear arc monadic Datalog. We characterize the finite relational structures whose constraint satisfaction problem is solved by this Datalog fragment as those that can be primitive positively constructed from the transitive tournament on $n+2$ vertices. We also give characterizations in terms of a certain homomorphism duality (which we call $n$-fixed unfolded caterpillar duality) and in universal-algebraic terms (the existence of $k$-absorptive operations and of operations forming an elevator chain of length $n+1$). This article generalizes the results from Bodirsky and Starke about symmetric linear arc monadic Datalog.",
+    "content": "arXiv:2606.24711v2 Announce Type: replace-cross \nAbstract: We introduce $n$-almost symmetric Datalog and study $n$-almost symmetric linear arc monadic Datalog. We characterize the finite relational structures whose constraint satisfaction problem is solved by this Datalog fragment as those that can be primitive positively constructed from the transitive tournament on $n+2$ vertices. We also give characterizations in terms of a certain homomorphism duality (which we call $n$-fixed unfolded caterpillar duality) and in universal-algebraic terms (the existence of $k$-absorptive operations and of operations forming an elevator chain of length $n+1$). This article generalizes the results from Bodirsky and Starke about symmetric linear arc monadic Datalog.",
+    "enclosure": {},
+    "categories": [
+      "cs.LO",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Balanced subsets in root systems",
+    "pubDate": "2026-11-05 05:00:00",
+    "link": "https://arxiv.org/abs/2605.11219",
+    "guid": "oai:arXiv.org:2605.11219v2",
+    "author": "Andrei Moroianu, Paul Schwahn",
+    "thumbnail": "",
+    "description": "arXiv:2605.11219v2 Announce Type: replace-cross \nAbstract: Balanced and well-balanced subsets of the set of positive roots of compact Lie algebras arise naturally in problems related to Hermitian and spin geometry. In this paper we compute the maximal and minimal size of well-balanced subsets in all simple root systems.",
+    "content": "arXiv:2605.11219v2 Announce Type: replace-cross \nAbstract: Balanced and well-balanced subsets of the set of positive roots of compact Lie algebras arise naturally in problems related to Hermitian and spin geometry. In this paper we compute the maximal and minimal size of well-balanced subsets in all simple root systems.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Hopf algebra polynomial identities in the Sweedler algebra",
+    "pubDate": "2026-11-04 05:00:00",
+    "link": "https://arxiv.org/abs/2611.05187",
+    "guid": "oai:arXiv.org:2611.05187v1",
+    "author": "Alexey Gordienko, Maria Morozova",
+    "thumbnail": "",
+    "description": "arXiv:2611.05187v1 Announce Type: new \nAbstract: Using Mac Lane's PROPs, one can introduce multilinear polynomial identities that involve all the operations of a Hopf algebra: the (co)multiplication, the (co)unit and the antipode. We find bases for polynomial identities and calculate their codimensions for the Sweedler algebra, treating it first as an ordinary associative algebra over a field and second as a Hopf algebra.",
+    "content": "arXiv:2611.05187v1 Announce Type: new \nAbstract: Using Mac Lane's PROPs, one can introduce multilinear polynomial identities that involve all the operations of a Hopf algebra: the (co)multiplication, the (co)unit and the antipode. We find bases for polynomial identities and calculate their codimensions for the Sweedler algebra, treating it first as an ordinary associative algebra over a field and second as a Hopf algebra.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CT",
+      "math.QA"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-04"
+  },
+  {
+    "title": "A Relative Telescope-Type Conjecture: Support and Generation in Half-Bounded Derived Categories",
+    "pubDate": "2026-11-04 05:00:00",
+    "link": "https://arxiv.org/abs/2611.04690",
+    "guid": "oai:arXiv.org:2611.04690",
+    "author": "Liangyu Zhu",
+    "thumbnail": "",
+    "description": "arXiv:2611.04690 Announce Type: cross \nAbstract: Let $R$ be a commutative noetherian ring. We ask whether complexes with finitely generated cohomology and a fixed support can be generated by relatively compact objects, using coproducts which exist in the half-bounded derived category. We prove that $\\mathbf D^+_{\\mathrm{fg},W}(R)=\\operatorname{Loc}_{\\mathrm{ex}}(\\mathbf D^b_{\\mathrm{fg},W}(R))$ whenever $W\\subseteq\\operatorname{Spec} R$ is specialization closed and has finite dimension. The same equality holds for every specialization-closed subset of $\\operatorname{Spec} B$ when $B$ is a finite-type algebra over a noetherian domain $A$ of finite character and either $A$ or $B$ is regular. These equalities classify the thick Hom-submodules closed under existing coproducts. We also prove the corresponding bounded-above statement from the support results of Matsui--Takahashi. For an arbitrary noetherian ring, the bounded-below generation conjecture reduces to torsion complexes over quotient domains, with their support unchanged. Finally, over a regular noetherian domain of infinite dimension, we give a bounded-below object which is generated by bounded objects with the same support but has no bounded-below representative by finitely generated modules. The comparison functor from the bounded-below derived category of finite modules is therefore neither full nor essentially surjective.",
+    "content": "arXiv:2611.04690 Announce Type: cross \nAbstract: Let $R$ be a commutative noetherian ring. We ask whether complexes with finitely generated cohomology and a fixed support can be generated by relatively compact objects, using coproducts which exist in the half-bounded derived category. We prove that $\\mathbf D^+_{\\mathrm{fg},W}(R)=\\operatorname{Loc}_{\\mathrm{ex}}(\\mathbf D^b_{\\mathrm{fg},W}(R))$ whenever $W\\subseteq\\operatorname{Spec} R$ is specialization closed and has finite dimension. The same equality holds for every specialization-closed subset of $\\operatorname{Spec} B$ when $B$ is a finite-type algebra over a noetherian domain $A$ of finite character and either $A$ or $B$ is regular. These equalities classify the thick Hom-submodules closed under existing coproducts. We also prove the corresponding bounded-above statement from the support results of Matsui--Takahashi. For an arbitrary noetherian ring, the bounded-below generation conjecture reduces to torsion complexes over quotient domains, with their support unchanged. Finally, over a regular noetherian domain of infinite dimension, we give a bounded-below object which is generated by bounded objects with the same support but has no bounded-below representative by finitely generated modules. The comparison functor from the bounded-below derived category of finite modules is therefore neither full nor essentially surjective.",
+    "enclosure": {},
+    "categories": [
+      "math.AC",
+      "math.CT",
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-04"
+  },
+  {
+    "title": "Resolvent comparison for Hermitian block matrices and Kelmans transformations",
+    "pubDate": "2026-11-04 05:00:00",
+    "link": "https://arxiv.org/abs/2611.04688",
+    "guid": "oai:arXiv.org:2611.04688v1",
+    "author": "Xianhao Meng, Zhijun Xu, Zhiyuan Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2611.04688v1 Announce Type: new \nAbstract: A Kelmans transformation increases or preserves the largest eigenvalue of a symmetric nonnegative matrix. We determine when this comparison holds for Hermitian block extensions with a fixed coupling and an arbitrary common complementary block. An orthogonal change of basis and Schur complementation give an exact formula for the compressed resolvent difference as a difference of two rank-one matrices. This formula characterizes admissible coupling subspaces by proportionality of projected resolvent vectors. Polynomial coefficient kernels describe all such subspaces, and cyclic subspaces give dimension bounds and a maximum-dimension result for a two-block family. We also prove a general block comparison theorem and give monotonicity and equality criteria for nonnegative rank-one couplings. Applications concern graph joins, complex attachments, and Hermitian adjacency matrices.",
+    "content": "arXiv:2611.04688v1 Announce Type: new \nAbstract: A Kelmans transformation increases or preserves the largest eigenvalue of a symmetric nonnegative matrix. We determine when this comparison holds for Hermitian block extensions with a fixed coupling and an arbitrary common complementary block. An orthogonal change of basis and Schur complementation give an exact formula for the compressed resolvent difference as a difference of two rank-one matrices. This formula characterizes admissible coupling subspaces by proportionality of projected resolvent vectors. Polynomial coefficient kernels describe all such subspaces, and cyclic subspaces give dimension bounds and a maximum-dimension result for a two-block family. We also prove a general block comparison theorem and give monotonicity and equality criteria for nonnegative rank-one couplings. Applications concern graph joins, complex attachments, and Hermitian adjacency matrices.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CO"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-04"
+  },
+  {
+    "title": "Kaplansky's conjectures fail for torsion-free hyperbolic groups in positive characteristic",
+    "pubDate": "2026-11-04 05:00:00",
+    "link": "https://arxiv.org/abs/2611.04599",
+    "guid": "oai:arXiv.org:2611.04599",
+    "author": "Nidhal Mghirbi, Seth Douglas",
+    "thumbnail": "",
+    "description": "arXiv:2611.04599 Announce Type: cross \nAbstract: Do Kaplansky's group-ring conjectures hold for torsion-free word-hyperbolic groups? We show that all four fail in positive characteristic. For every prime $p$ there is a finitely presented, torsion-free, word-hyperbolic group $G$ with a finite two-dimensional classifying space and $a,b\\in\\mathbb{F}_p[G]$ with $ab=1\\neq ba$. So, over every field of characteristic $p$, the group algebra of $G$ is not directly finite and has a non-trivial idempotent, zero divisor and unit, and $G$ is neither sofic nor surjunctive. For $p=2$, $G$, $a$ and $b$ come from OpenAI's random construction, and we add that $G$ is hyperbolic with probability $1-o(1)$, as are OpenAI's zero-divisor groups. For odd $p$ the groups are new: they adapt OpenAI's direct-finiteness construction with a signed cancellation, found first by S. V. Ivanov and independently by us, via an exact solution of a colour-balance problem and a Perron certificate. As far as we know, they are the first torsion-free counterexamples to direct finiteness and to the idempotent conjecture in odd characteristic. Hyperbolicity comes from one deterministic criterion: if a labelled graph is pattern-free, the group obtained by coning off its components is aspherical and has a linear isoperimetric inequality. We prove it by running OpenAI's exclusion of reduced spheres on van Kampen discs, an accounting OpenAI used for another complex. For every prime $p$, the existence of $G$, $a$ and $b$ and the failure of all four conjectures are formalized in Lean 4, including existence forms of the random-graph estimates used. In characteristic zero, where the idempotent and direct-finiteness conjectures hold for torsion-free hyperbolic groups, we show that no cancellation built into the vertex types survives the decay estimate that makes the groups torsion-free. OpenAI's characteristic-two counterexample with torsion is a CAT(0) group.",
+    "content": "arXiv:2611.04599 Announce Type: cross \nAbstract: Do Kaplansky's group-ring conjectures hold for torsion-free word-hyperbolic groups? We show that all four fail in positive characteristic. For every prime $p$ there is a finitely presented, torsion-free, word-hyperbolic group $G$ with a finite two-dimensional classifying space and $a,b\\in\\mathbb{F}_p[G]$ with $ab=1\\neq ba$. So, over every field of characteristic $p$, the group algebra of $G$ is not directly finite and has a non-trivial idempotent, zero divisor and unit, and $G$ is neither sofic nor surjunctive. For $p=2$, $G$, $a$ and $b$ come from OpenAI's random construction, and we add that $G$ is hyperbolic with probability $1-o(1)$, as are OpenAI's zero-divisor groups. For odd $p$ the groups are new: they adapt OpenAI's direct-finiteness construction with a signed cancellation, found first by S. V. Ivanov and independently by us, via an exact solution of a colour-balance problem and a Perron certificate. As far as we know, they are the first torsion-free counterexamples to direct finiteness and to the idempotent conjecture in odd characteristic. Hyperbolicity comes from one deterministic criterion: if a labelled graph is pattern-free, the group obtained by coning off its components is aspherical and has a linear isoperimetric inequality. We prove it by running OpenAI's exclusion of reduced spheres on van Kampen discs, an accounting OpenAI used for another complex. For every prime $p$, the existence of $G$, $a$ and $b$ and the failure of all four conjectures are formalized in Lean 4, including existence forms of the random-graph estimates used. In characteristic zero, where the idempotent and direct-finiteness conjectures hold for torsion-free hyperbolic groups, we show that no cancellation built into the vertex types survives the decay estimate that makes the groups torsion-free. OpenAI's characteristic-two counterexample with torsion is a CAT(0) group.",
+    "enclosure": {},
+    "categories": [
+      "math.GR",
+      "math.RA"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-04"
+  },
+  {
+    "title": "Upper Bounds on the Strassen CP Rank Gap and Symmetric Rank Gap of Third-Order Tensors",
+    "pubDate": "2026-11-04 05:00:00",
+    "link": "https://arxiv.org/abs/2611.04502",
+    "guid": "oai:arXiv.org:2611.04502v1",
+    "author": "Jianze Li",
+    "thumbnail": "",
+    "description": "arXiv:2611.04502v1 Announce Type: new \nAbstract: For two third-order tensors over $\\mathbb{R}$ or $\\mathbb{C}$, we define the Strassen CP rank gap as the sum of their CP ranks minus the CP rank of their direct sum. For arbitrary third-order tensors, we derive explicit upper bounds on this gap in terms of CP rank excess and dimension. For symmetric third-order tensors, we similarly define the Strassen symmetric rank gap using symmetric rank and establish explicit upper bounds in terms of symmetric rank excess, CP rank excess, and dimension. These bounds also yield sufficient conditions for the respective gaps to vanish, ensuring additivity of CP rank or symmetric rank under direct sums.",
+    "content": "arXiv:2611.04502v1 Announce Type: new \nAbstract: For two third-order tensors over $\\mathbb{R}$ or $\\mathbb{C}$, we define the Strassen CP rank gap as the sum of their CP ranks minus the CP rank of their direct sum. For arbitrary third-order tensors, we derive explicit upper bounds on this gap in terms of CP rank excess and dimension. For symmetric third-order tensors, we similarly define the Strassen symmetric rank gap using symmetric rank and establish explicit upper bounds in terms of symmetric rank excess, CP rank excess, and dimension. These bounds also yield sufficient conditions for the respective gaps to vanish, ensuring additivity of CP rank or symmetric rank under direct sums.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AG"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-04"
+  },
+  {
+    "title": "Remarks on the Farthing--Muhly--Yeend inverse semigroup of a finitely aligned higher-rank graph",
+    "pubDate": "2026-11-04 05:00:00",
+    "link": "https://arxiv.org/abs/2611.04398",
+    "guid": "oai:arXiv.org:2611.04398v1",
+    "author": "Promit Mukherjee",
+    "thumbnail": "",
+    "description": "arXiv:2611.04398v1 Announce Type: new \nAbstract: Given a finitely aligned higher-rank $k$-graph $Λ$, Farthing, Muhly and Yeend (Semigroup Forum 2005) constructed an inverse semigroup $S_Λ$ to provide a groupoid model for the $C^*$-algebra of $Λ$. In this paper, we extend some of the existing results related to the semigroup structure of a graph inverse semigroup to the more general setting of the inverse semigroup $S_Λ$. We obtain geometric descriptions of the Green's relations on $S_Λ$, which effectively generalize the existing characterization of Green's relations on a graph inverse semigroup. We provide a simple and useful description of the Cuntz-Krieger ideal of the Booleanization of $S_Λ$ and, based on this, identify a certain $X$-to-join Booleanization of $S_Λ$, where the abstract and concrete Cuntz-Krieger relations agree. Besides the natural partial order, $S_Λ$ is also ordered by set-inclusion. This helps us to realize $S_Λ$ as a semigroup \\emph{graded-ordered} by $\\mathbb{Z}^k$ and, subsequently, gives rise to a full inverse subsemigroup $S_Λ^h$ of $S_Λ$, which is graded by $\\mathbb{Z}^k$ in the usual sense. We show that the Kumjian-Pask algebra of $Λ$ is graded isomorphic to the quotient of the contracted semigroup algebra of $S_Λ^h$ by the tight ideal. In the final part of the paper, we show that a $k$-graph morphism $p:Λ_1\\longrightarrow Λ_2$ that is injective and satisfies a certain path lifting property induces, in a natural way, an injective $0$-preserving semigroup homomorphism from $S_{Λ_1}$ to $S_{Λ_2}$. In view of this, we build a suitable categorical setup to conclude that the isomorphism established between the Kumjian-Pask algebra of $Λ$ and the tight ideal quotient of the semigroup algebra of $S_Λ^h$ is natural.",
+    "content": "arXiv:2611.04398v1 Announce Type: new \nAbstract: Given a finitely aligned higher-rank $k$-graph $Λ$, Farthing, Muhly and Yeend (Semigroup Forum 2005) constructed an inverse semigroup $S_Λ$ to provide a groupoid model for the $C^*$-algebra of $Λ$. In this paper, we extend some of the existing results related to the semigroup structure of a graph inverse semigroup to the more general setting of the inverse semigroup $S_Λ$. We obtain geometric descriptions of the Green's relations on $S_Λ$, which effectively generalize the existing characterization of Green's relations on a graph inverse semigroup. We provide a simple and useful description of the Cuntz-Krieger ideal of the Booleanization of $S_Λ$ and, based on this, identify a certain $X$-to-join Booleanization of $S_Λ$, where the abstract and concrete Cuntz-Krieger relations agree. Besides the natural partial order, $S_Λ$ is also ordered by set-inclusion. This helps us to realize $S_Λ$ as a semigroup \\emph{graded-ordered} by $\\mathbb{Z}^k$ and, subsequently, gives rise to a full inverse subsemigroup $S_Λ^h$ of $S_Λ$, which is graded by $\\mathbb{Z}^k$ in the usual sense. We show that the Kumjian-Pask algebra of $Λ$ is graded isomorphic to the quotient of the contracted semigroup algebra of $S_Λ^h$ by the tight ideal. In the final part of the paper, we show that a $k$-graph morphism $p:Λ_1\\longrightarrow Λ_2$ that is injective and satisfies a certain path lifting property induces, in a natural way, an injective $0$-preserving semigroup homomorphism from $S_{Λ_1}$ to $S_{Λ_2}$. In view of this, we build a suitable categorical setup to conclude that the isomorphism established between the Kumjian-Pask algebra of $Λ$ and the tight ideal quotient of the semigroup algebra of $S_Λ^h$ is natural.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CO",
+      "math.CT",
+      "math.GR"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-04"
+  },
+  {
+    "title": "Singular solutions from simple Euclidean Jordan algebras",
+    "pubDate": "2026-11-04 05:00:00",
+    "link": "https://arxiv.org/abs/2611.04378",
+    "guid": "oai:arXiv.org:2611.04378",
+    "author": "BaoZhi Chu",
+    "thumbnail": "",
+    "description": "arXiv:2611.04378 Announce Type: cross \nAbstract: For every finite-dimensional simple Euclidean Jordan algebra $V$ of rank at least three, we realize the function $\\operatorname{tr}(x^3)/|x|$ on its traceless subspace $V_0$ as a $C^{1,1}\\setminus C^2$ viscosity solution of a uniformly elliptic equation $F(D^2 u)=0$ in $\\mathbb{R}^{\\operatorname{dim}V_0}$. This unifies and extends earlier constructions from Cartan isoparametric cubics, Hsiang minimal cubics, and traceless real symmetric matrices.",
+    "content": "arXiv:2611.04378 Announce Type: cross \nAbstract: For every finite-dimensional simple Euclidean Jordan algebra $V$ of rank at least three, we realize the function $\\operatorname{tr}(x^3)/|x|$ on its traceless subspace $V_0$ as a $C^{1,1}\\setminus C^2$ viscosity solution of a uniformly elliptic equation $F(D^2 u)=0$ in $\\mathbb{R}^{\\operatorname{dim}V_0}$. This unifies and extends earlier constructions from Cartan isoparametric cubics, Hsiang minimal cubics, and traceless real symmetric matrices.",
+    "enclosure": {},
+    "categories": [
+      "math.AP",
+      "math.RA"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-04"
+  },
+  {
+    "title": "Algorithmic Non-dimensionalisation of Polynomial Dynamical Systems with CRNNondim",
+    "pubDate": "2026-11-04 05:00:00",
+    "link": "https://arxiv.org/abs/2611.04127",
+    "guid": "oai:arXiv.org:2611.04127",
+    "author": "Georgio Hawi, Martin Wechselberger",
+    "thumbnail": "",
+    "description": "arXiv:2611.04127 Announce Type: cross \nAbstract: Although non-dimensionalisation is a fundamental step in modelling, it is rarely obvious, especially for large dynamical systems, how to systematically construct optimal non-dimensionalisations. In this work, we develop a general mathematical framework for non-dimensionalising polynomial ODEs by interpreting them as chemical reaction networks (CRNs) and characterise the space of admissible scalings. Within this viewpoint, admissible scalings of time and species are encoded by Laurent monomials, and we derive exact formulae for the minimal number of multiplicative dimensionless parameters required by the reaction-channel coefficients and by the full initial value problem, together with characterisations of the scale assignments that attain structural lower bounds. These counts are expressed in terms of structural properties of the underlying CRN, and we show that the full initial value problem requires no more parameters than the corresponding Buckingham count. These results lead to constructive algorithms which we analyse rigorously and implement in the open-source Python package CRNNondim, available at https://github.com/georgio-hawi/crnnondim . Given a polynomial system or CRN, CRNNondim determines species and time scalings that bring variables as close to unity as possible while minimising the number of free parameters, and among the admissible scalings it chooses free parameters that result in the corresponding dimensionless system being sparse and simple. We apply CRNNondim to numerous well-known biological and biochemical models, yielding simpler dimensionless systems with fewer free parameters, and interpreting the parameters that govern their dynamics.",
+    "content": "arXiv:2611.04127 Announce Type: cross \nAbstract: Although non-dimensionalisation is a fundamental step in modelling, it is rarely obvious, especially for large dynamical systems, how to systematically construct optimal non-dimensionalisations. In this work, we develop a general mathematical framework for non-dimensionalising polynomial ODEs by interpreting them as chemical reaction networks (CRNs) and characterise the space of admissible scalings. Within this viewpoint, admissible scalings of time and species are encoded by Laurent monomials, and we derive exact formulae for the minimal number of multiplicative dimensionless parameters required by the reaction-channel coefficients and by the full initial value problem, together with characterisations of the scale assignments that attain structural lower bounds. These counts are expressed in terms of structural properties of the underlying CRN, and we show that the full initial value problem requires no more parameters than the corresponding Buckingham count. These results lead to constructive algorithms which we analyse rigorously and implement in the open-source Python package CRNNondim, available at https://github.com/georgio-hawi/crnnondim . Given a polynomial system or CRN, CRNNondim determines species and time scalings that bring variables as close to unity as possible while minimising the number of free parameters, and among the admissible scalings it chooses free parameters that result in the corresponding dimensionless system being sparse and simple. We apply CRNNondim to numerous well-known biological and biochemical models, yielding simpler dimensionless systems with fewer free parameters, and interpreting the parameters that govern their dynamics.",
+    "enclosure": {},
+    "categories": [
+      "math.DS",
+      "math.RA"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-04"
+  },
+  {
+    "title": "Hochschild cohomology of Temperley--Lieb algebras: a Kauffman diagram perspective",
+    "pubDate": "2026-11-04 05:00:00",
+    "link": "https://arxiv.org/abs/2611.04022",
+    "guid": "oai:arXiv.org:2611.04022v1",
+    "author": "Viktor Lopatkin",
+    "thumbnail": "",
+    "description": "arXiv:2611.04022v1 Announce Type: new \nAbstract: We describe Hochschild cohomology of Temperley--Lieb algebras by explicit minimal-resolution coordinates and multilinear operations on Kauffman diagrams. For each doubled-line basic algebra, a finite four-term bimodule complex is verified by a signed-shuffle comparison and an augmented contracting homotopy. We compute cocycles and coboundaries and recover the known cup product and Gerstenhaber bracket in explicit representatives. Over $\\mathbb C$, at nonzero root-of-unity loop parameters, we construct a tower-compatible derivation and the marked-circle two-cocycle. Their classes are nonzero on every nonsemisimple block; their cup products therefore represent all positive classes over the centre. Relative full twists give a compact expression for the derivation. Worked planar diagrams distinguish the cup product from insertion and strict cochain equalities from equalities of classes. A finite-lattice section interprets the marked-circle operation as loop-weight response, derives its planar Potts normalization, and exhibits a six-vertex realization. It also shows why passing to a deformable spin representation may annihilate the class with different coefficients. No thermodynamic conclusion is claimed, and the even-strand zero-parameter family remains separate.",
+    "content": "arXiv:2611.04022v1 Announce Type: new \nAbstract: We describe Hochschild cohomology of Temperley--Lieb algebras by explicit minimal-resolution coordinates and multilinear operations on Kauffman diagrams. For each doubled-line basic algebra, a finite four-term bimodule complex is verified by a signed-shuffle comparison and an augmented contracting homotopy. We compute cocycles and coboundaries and recover the known cup product and Gerstenhaber bracket in explicit representatives. Over $\\mathbb C$, at nonzero root-of-unity loop parameters, we construct a tower-compatible derivation and the marked-circle two-cocycle. Their classes are nonzero on every nonsemisimple block; their cup products therefore represent all positive classes over the centre. Relative full twists give a compact expression for the derivation. Worked planar diagrams distinguish the cup product from insertion and strict cochain equalities from equalities of classes. A finite-lattice section interprets the marked-circle operation as loop-weight response, derives its planar Potts normalization, and exhibits a six-vertex realization. It also shows why passing to a deformable spin representation may annihilate the class with different coefficients. No thermodynamic conclusion is claimed, and the even-strand zero-parameter family remains separate.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-04"
+  },
+  {
+    "title": "Binomial Artin-Schelter Regular Algebras and Twisted Monoid Algebras",
+    "pubDate": "2026-11-04 05:00:00",
+    "link": "https://arxiv.org/abs/2611.03989",
+    "guid": "oai:arXiv.org:2611.03989v1",
+    "author": "Vishal Bhatoy",
+    "thumbnail": "",
+    "description": "arXiv:2611.03989v1 Announce Type: new \nAbstract: We study four-dimensional binomial Artin-Schelter regular algebras and their connection with twisted monoid algebras. Starting with $23$ examples up to permutation of generators, we investigate the associated monoids of I-type and the structure of their groups of fractions. We determine the corresponding finite permutation groups and compute the second group cohomology $H^2(G(M),k^\\times)$. These computations allow us to construct explicit families of four-dimensional Koszul Artin-Schelter regular algebras through cocycle twists. We illustrate this construction for some of these algebras.",
+    "content": "arXiv:2611.03989v1 Announce Type: new \nAbstract: We study four-dimensional binomial Artin-Schelter regular algebras and their connection with twisted monoid algebras. Starting with $23$ examples up to permutation of generators, we investigate the associated monoids of I-type and the structure of their groups of fractions. We determine the corresponding finite permutation groups and compute the second group cohomology $H^2(G(M),k^\\times)$. These computations allow us to construct explicit families of four-dimensional Koszul Artin-Schelter regular algebras through cocycle twists. We illustrate this construction for some of these algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AG"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-04"
+  },
+  {
+    "title": "Rings in which every semiprime left ideal is an intersection of prime left ideals",
+    "pubDate": "2026-11-04 05:00:00",
+    "link": "https://arxiv.org/abs/2611.03967",
+    "guid": "oai:arXiv.org:2611.03967v1",
+    "author": "Jakob Cimprič",
+    "thumbnail": "",
+    "description": "arXiv:2611.03967v1 Announce Type: new \nAbstract: We study rings over which every semiprime submodule of every module is an intersection of prime submodules. This holds if semiprime two-sided ideals satisfy ACC, if principal two-sided ideals are finitely generated as left ideals, or if the ring is PI. Over Jacobson PI rings, every finitely generated module is Jacobson: its prime submodules are intersections of maximal submodules. For affine PI algebras this extends the Amitsur-Procesi theorem to modules. In every ring with involution, real two-sided ideals are intersections of real prime two-sided ideals. The same holds for real submodules of modules over PI rings and hereditary Noetherian prime rings, but can fail for real left ideals in Noetherian domains. Formally real affine PI algebras need not be real Jacobson: their real prime two-sided ideals need not be intersections of real primitive ideals. We give a sufficient positivity criterion. Over real Jacobson PI rings, finitely generated modules are real Jacobson: their real prime submodules are intersections of real maximal submodules. Over finitely generated free associative algebras, every finitely generated semiprime submodule of a finite free module is a finite intersection of finitely generated prime submodules and an intersection of maximal submodules of finite codimension. Semiprime hulls of finitely generated submodules are finitely generated. Evaluation at finite-dimensional irreducible representations and nonzero vector tuples gives a Hilbert Nullstellensatz over arbitrary fields. For free algebras with involution, the corresponding real results are known over the real or complex numbers when the involution permutes the generators. We extend real prime decomposition to arbitrary fields and involutions, and give new algebraic proofs of the real Nullstellensatz and finite generation of real radicals, without the GNS construction or Groebner bases.",
+    "content": "arXiv:2611.03967v1 Announce Type: new \nAbstract: We study rings over which every semiprime submodule of every module is an intersection of prime submodules. This holds if semiprime two-sided ideals satisfy ACC, if principal two-sided ideals are finitely generated as left ideals, or if the ring is PI. Over Jacobson PI rings, every finitely generated module is Jacobson: its prime submodules are intersections of maximal submodules. For affine PI algebras this extends the Amitsur-Procesi theorem to modules. In every ring with involution, real two-sided ideals are intersections of real prime two-sided ideals. The same holds for real submodules of modules over PI rings and hereditary Noetherian prime rings, but can fail for real left ideals in Noetherian domains. Formally real affine PI algebras need not be real Jacobson: their real prime two-sided ideals need not be intersections of real primitive ideals. We give a sufficient positivity criterion. Over real Jacobson PI rings, finitely generated modules are real Jacobson: their real prime submodules are intersections of real maximal submodules. Over finitely generated free associative algebras, every finitely generated semiprime submodule of a finite free module is a finite intersection of finitely generated prime submodules and an intersection of maximal submodules of finite codimension. Semiprime hulls of finitely generated submodules are finitely generated. Evaluation at finite-dimensional irreducible representations and nonzero vector tuples gives a Hilbert Nullstellensatz over arbitrary fields. For free algebras with involution, the corresponding real results are known over the real or complex numbers when the involution permutes the generators. We extend real prime decomposition to arbitrary fields and involutions, and give new algebraic proofs of the real Nullstellensatz and finite generation of real radicals, without the GNS construction or Groebner bases.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-04"
+  },
+  {
+    "title": "The finite basis problem for varieties modulo x^3=0",
+    "pubDate": "2026-11-04 05:00:00",
+    "link": "https://arxiv.org/abs/2611.03923",
+    "guid": "oai:arXiv.org:2611.03923v1",
+    "author": "Elena Kireeva, Alexei Krasilnikov, Vladimir Shchigolev",
+    "thumbnail": "",
+    "description": "arXiv:2611.03923v1 Announce Type: new \nAbstract: We prove that any variety of associative algebras over a Noetherian commutative ring with unity satisfying the identity x^3=0 is finitely based. This property has been known for the varieties satisfying the identity x^2=0. On the other hand, there are varieties satisfying the identity x^6=0 that are not finitely based.",
+    "content": "arXiv:2611.03923v1 Announce Type: new \nAbstract: We prove that any variety of associative algebras over a Noetherian commutative ring with unity satisfying the identity x^3=0 is finitely based. This property has been known for the varieties satisfying the identity x^2=0. On the other hand, there are varieties satisfying the identity x^6=0 that are not finitely based.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-04"
+  },
+  {
+    "title": "A sharp weighted commutator inequality for rank-one matrices",
+    "pubDate": "2026-11-04 05:00:00",
+    "link": "https://arxiv.org/abs/2610.29240",
+    "guid": "oai:arXiv.org:2610.29240",
+    "author": "Zhekai Pang",
+    "thumbnail": "",
+    "description": "arXiv:2610.29240 Announce Type: replace \nAbstract: Let $A\\in\\mathbb{C}^{n\\times n}$ be positive definite Hermitian, where $n\\ge 2$, and define $\\|X\\|_A^2=\\mathrm{tr}(AX^*X)$ for all $X\\in\\mathbb{C}^{n\\times n}$. We determine the smallest constant $C_A$ for which $$ \\|XY-YX\\|_{\\mathrm{F}}^2 \\le C_A\\|X\\|_A^2\\|Y\\|_A^2 $$ holds for all rank-one $X,Y\\in\\mathbb{C}^{n\\times n}$, where $\\|\\cdot\\|_{\\mathrm{F}}$ denotes the Frobenius norm. The constant depends only on the two smallest eigenvalues of $A$ and is determined by a strictly monotone scalar equation. This answers the sharp-constant question for rank-one matrices formulated by Fang and Cheng. We characterize all equality pairs. Also, we present an application to density matrices in quantum physics.",
+    "content": "arXiv:2610.29240 Announce Type: replace \nAbstract: Let $A\\in\\mathbb{C}^{n\\times n}$ be positive definite Hermitian, where $n\\ge 2$, and define $\\|X\\|_A^2=\\mathrm{tr}(AX^*X)$ for all $X\\in\\mathbb{C}^{n\\times n}$. We determine the smallest constant $C_A$ for which $$ \\|XY-YX\\|_{\\mathrm{F}}^2 \\le C_A\\|X\\|_A^2\\|Y\\|_A^2 $$ holds for all rank-one $X,Y\\in\\mathbb{C}^{n\\times n}$, where $\\|\\cdot\\|_{\\mathrm{F}}$ denotes the Frobenius norm. The constant depends only on the two smallest eigenvalues of $A$ and is determined by a strictly monotone scalar equation. This answers the sharp-constant question for rank-one matrices formulated by Fang and Cheng. We characterize all equality pairs. Also, we present an application to density matrices in quantum physics.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-04"
+  },
+  {
+    "title": "An infinitesimal deformation of the post-Lie and post-Hopf algebra correspondence",
+    "pubDate": "2026-11-04 05:00:00",
+    "link": "https://arxiv.org/abs/2607.28009",
+    "guid": "oai:arXiv.org:2607.28009",
+    "author": "Andrea Rivezzi, Andrea Sciandra, Thomas Weber",
+    "thumbnail": "",
+    "description": "arXiv:2607.28009 Announce Type: replace \nAbstract: We describe infinitesimal deformations of post-Lie algebras and post-Hopf algebras and prove that the universal enveloping algebra and primitive elements adjunction is compatible with the infinitesimal structure. In characteristic zero, this restricts to an equivalence for connected cocommutative infinitesimal post-Hopf algebras, extending the Cartier--Milnor--Moore theorem. We parametrize all infinitesimal post-Lie structures on $\\mathfrak{sl}(2)$ and exhibit a second-order obstruction. From a geometric point of view, infinitesimal post-Lie algebras emerge from flat connections with covariantly constant torsion and an additional compatible symmetric $(1,2)$-tensor. This leads to explicit examples of infinitesimal post-Lie structures based on Heisenberg Lie algebras. On the Hopf side, we classify infinitesimal structures above the trivial action, prove rigidity for group algebras, and describe the structures on Sweedler's Hopf algebra. The subadjacent construction induces a Hopf algebra deformation with fixed coproduct. Finally, we prove that the quadratic operad of infinitesimal post-Lie algebras is Koszul, using a filtered distributive law between the operads of Lie algebras and bi-magmas.",
+    "content": "arXiv:2607.28009 Announce Type: replace \nAbstract: We describe infinitesimal deformations of post-Lie algebras and post-Hopf algebras and prove that the universal enveloping algebra and primitive elements adjunction is compatible with the infinitesimal structure. In characteristic zero, this restricts to an equivalence for connected cocommutative infinitesimal post-Hopf algebras, extending the Cartier--Milnor--Moore theorem. We parametrize all infinitesimal post-Lie structures on $\\mathfrak{sl}(2)$ and exhibit a second-order obstruction. From a geometric point of view, infinitesimal post-Lie algebras emerge from flat connections with covariantly constant torsion and an additional compatible symmetric $(1,2)$-tensor. This leads to explicit examples of infinitesimal post-Lie structures based on Heisenberg Lie algebras. On the Hopf side, we classify infinitesimal structures above the trivial action, prove rigidity for group algebras, and describe the structures on Sweedler's Hopf algebra. The subadjacent construction induces a Hopf algebra deformation with fixed coproduct. Finally, we prove that the quadratic operad of infinitesimal post-Lie algebras is Koszul, using a filtered distributive law between the operads of Lie algebras and bi-magmas.",
+    "enclosure": {},
+    "categories": [
+      "math.QA",
+      "math.CT",
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-04"
+  },
+  {
+    "title": "On the Orthogonal Projections",
+    "pubDate": "2026-11-04 05:00:00",
+    "link": "https://arxiv.org/abs/2510.01615",
+    "guid": "oai:arXiv.org:2510.01615",
+    "author": "Jiarui Fei",
+    "thumbnail": "",
+    "description": "arXiv:2510.01615 Announce Type: replace \nAbstract: Let $A$ be a finite-dimensional algebra and $e$ a rigid presentation. We give an explicit formula for the left adjoint to the inclusion $\\operatorname{rep}(e^\\perp)\\hookrightarrow \\operatorname{rep}(A)$ and construct a bijection between presentations in $\\operatorname{rep}(e^\\perp)$ and presentations compatible with $e$. The induced bijection on weights preserves generic $\\operatorname{E}$-invariants and canonical decompositions. If $A$ is Jacobian, the reduction algebra is Jacobian for every rigid $e$. We prove mutation formulas for the signed completions and for the dimension vectors of the simple objects of $\\operatorname{rep}(e^\\perp)$, enabling an algorithm to find the projected quiver with potential when $e$ is extended-reachable. Additionally, we introduce a modified projection for quivers with potentials that preserves general presentations. For applications to cluster algebras, we establish a connection to the stabilization functors.",
+    "content": "arXiv:2510.01615 Announce Type: replace \nAbstract: Let $A$ be a finite-dimensional algebra and $e$ a rigid presentation. We give an explicit formula for the left adjoint to the inclusion $\\operatorname{rep}(e^\\perp)\\hookrightarrow \\operatorname{rep}(A)$ and construct a bijection between presentations in $\\operatorname{rep}(e^\\perp)$ and presentations compatible with $e$. The induced bijection on weights preserves generic $\\operatorname{E}$-invariants and canonical decompositions. If $A$ is Jacobian, the reduction algebra is Jacobian for every rigid $e$. We prove mutation formulas for the signed completions and for the dimension vectors of the simple objects of $\\operatorname{rep}(e^\\perp)$, enabling an algorithm to find the projected quiver with potential when $e$ is extended-reachable. Additionally, we introduce a modified projection for quivers with potentials that preserves general presentations. For applications to cluster algebras, we establish a connection to the stabilization functors.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-04"
+  },
+  {
+    "title": "On the representability of actions of unital algebras",
+    "pubDate": "2026-11-04 05:00:00",
+    "link": "https://arxiv.org/abs/2503.04488",
+    "guid": "oai:arXiv.org:2503.04488",
+    "author": "Manuel Mancini, Federica Piazza, Corentin Vienne",
+    "thumbnail": "",
+    "description": "arXiv:2503.04488 Announce Type: replace \nAbstract: Working in the setting of ideally exact categories, we investigate the representability of actions of unital non-associative algebras over a field. We show that, in general, such categories fail to be action representable: for instance, the category of all unital algebras is not even action accessible. We then consider this problem in the context of operadic, action accessible, unit-closed varieties. Using the construction of the external weak actor, we prove that for any algebra $X$ in such a variety $\\mathcal{V}$, the canonical map into its external weak actor is an isomorphism if and only if $X$ is unital. Consequently, the ideally exact category $\\mathcal{V}_1$ of unital algebras in $\\mathcal{V}$ is action representable, and the actor of a unital algebra $X$ is $X$ itself. The action accessibility of $\\mathcal{V}$ is not necessary for this conclusion: in characteristic zero, unital Jordan algebras form an action representable category, although the variety of all Jordan algebras is not action accessible. Finally, we prove action representability for the categories of unital Poisson algebras and unital commutative Poisson algebras.",
+    "content": "arXiv:2503.04488 Announce Type: replace \nAbstract: Working in the setting of ideally exact categories, we investigate the representability of actions of unital non-associative algebras over a field. We show that, in general, such categories fail to be action representable: for instance, the category of all unital algebras is not even action accessible. We then consider this problem in the context of operadic, action accessible, unit-closed varieties. Using the construction of the external weak actor, we prove that for any algebra $X$ in such a variety $\\mathcal{V}$, the canonical map into its external weak actor is an isomorphism if and only if $X$ is unital. Consequently, the ideally exact category $\\mathcal{V}_1$ of unital algebras in $\\mathcal{V}$ is action representable, and the actor of a unital algebra $X$ is $X$ itself. The action accessibility of $\\mathcal{V}$ is not necessary for this conclusion: in characteristic zero, unital Jordan algebras form an action representable category, although the variety of all Jordan algebras is not action accessible. Finally, we prove action representability for the categories of unital Poisson algebras and unital commutative Poisson algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.CT",
+      "math.RA"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-04"
+  },
+  {
     "title": "Centralizers of maps as automorphism groups of Yang--Baxter solutions",
     "pubDate": "2026-11-03 05:00:00",
     "link": "https://arxiv.org/abs/2611.03380",
