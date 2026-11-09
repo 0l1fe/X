@@ -1,5 +1,455 @@
 [
   {
+    "title": "Deformations and Local Geometry of Lie Triple System Morphisms",
+    "pubDate": "2026-11-09 05:00:00",
+    "link": "https://arxiv.org/abs/2611.09849",
+    "guid": "oai:arXiv.org:2611.09849v1",
+    "author": "Wen Teng, Ripan Saha",
+    "thumbnail": "",
+    "description": "arXiv:2611.09849v1 Announce Type: new \nAbstract: In this paper, first we study the deformations, stability and rigidity of Lie triple system morphisms by means of higher derived brackets and augmented Yamaguti cohomology. The vanishing of the first cohomology gives formal and local inner rigidity. The vanishing of the second cohomology removes the formal extension obstructions and, in finite dimension over $\\mathbb{R}$, gives local smoothness and stability under simultaneous perturbations of the two products. Next, we establish the relationship with Lie algebra homomorphisms in each part of the theory. The universal enveloping Lie algebra identifies a Lie triple morphism with a grading-preserving Lie homomorphism. We obtain the corresponding first cohomology isomorphism, the equivalence of formal and smooth deformations, and a stability result for graded Lie bracket perturbations. For Lie triple products induced by binary Lie brackets, we construct a comparison of differentials and obstruction classes. Under perfectness and a zero-centralizer condition, the local morphism spaces coincide. Finally, we relate triple subsystem graphs to graded Lie subalgebra graphs and compare their normal differentials.",
+    "content": "arXiv:2611.09849v1 Announce Type: new \nAbstract: In this paper, first we study the deformations, stability and rigidity of Lie triple system morphisms by means of higher derived brackets and augmented Yamaguti cohomology. The vanishing of the first cohomology gives formal and local inner rigidity. The vanishing of the second cohomology removes the formal extension obstructions and, in finite dimension over $\\mathbb{R}$, gives local smoothness and stability under simultaneous perturbations of the two products. Next, we establish the relationship with Lie algebra homomorphisms in each part of the theory. The universal enveloping Lie algebra identifies a Lie triple morphism with a grading-preserving Lie homomorphism. We obtain the corresponding first cohomology isomorphism, the equivalence of formal and smooth deformations, and a stability result for graded Lie bracket perturbations. For Lie triple products induced by binary Lie brackets, we construct a comparison of differentials and obstruction classes. Under perfectness and a zero-centralizer condition, the local morphism spaces coincide. Finally, we relate triple subsystem graphs to graded Lie subalgebra graphs and compare their normal differentials.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Division ring extensions and a counterexample to the pure semisimplicity conjecture",
+    "pubDate": "2026-11-09 05:00:00",
+    "link": "https://arxiv.org/abs/2611.09749",
+    "guid": "oai:arXiv.org:2611.09749v1",
+    "author": "A. I. Generalov, A. Tursunbaev",
+    "thumbnail": "",
+    "description": "arXiv:2611.09749v1 Announce Type: new \nAbstract: We construct a family of division ring extensions and compute their left and right dimensions. In characteristic zero, we obtain a counterexample to the pure semisimplicity conjecture: a hereditary right pure semisimple ring of infinite representation type. For each prime $p\\ge3$, we construct in characteristic $p$ a hereditary artinian ring of finite representation type with Coxeter diagram $I_2(p+2)$.",
+    "content": "arXiv:2611.09749v1 Announce Type: new \nAbstract: We construct a family of division ring extensions and compute their left and right dimensions. In characteristic zero, we obtain a counterexample to the pure semisimplicity conjecture: a hereditary right pure semisimple ring of infinite representation type. For each prime $p\\ge3$, we construct in characteristic $p$ a hereditary artinian ring of finite representation type with Coxeter diagram $I_2(p+2)$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Topological Mundici Adjunction and Its Applications",
+    "pubDate": "2026-11-09 05:00:00",
+    "link": "https://arxiv.org/abs/2611.09608",
+    "guid": "oai:arXiv.org:2611.09608v1",
+    "author": "Yanqiao Jia, Xueting Zhao, Yichuan Yang",
+    "thumbnail": "",
+    "description": "arXiv:2611.09608v1 Announce Type: new \nAbstract: We establish a canonical topological lifting of Mundici equivalence, representing every topological MV-algebra as the unit interval of a topological $\\ell$-group and extending the correspondence to a categorical adjunction. As applications, we give a direct group-theoretic proof of the equivalence of $T_0$ and $T_{3\\frac12}$ and show that every topological MV-algebra is a retral space. We further extend the lifting to topological Riesz MV-algebras and identify the canonical topology with Wiweger's mixed topology under suitable assumptions, recovering the strict topology as a special case. Finally, we obtain a unit-interval formulation of Koopman representations for continuous-time dynamical systems.",
+    "content": "arXiv:2611.09608v1 Announce Type: new \nAbstract: We establish a canonical topological lifting of Mundici equivalence, representing every topological MV-algebra as the unit interval of a topological $\\ell$-group and extending the correspondence to a categorical adjunction. As applications, we give a direct group-theoretic proof of the equivalence of $T_0$ and $T_{3\\frac12}$ and show that every topological MV-algebra is a retral space. We further extend the lifting to topological Riesz MV-algebras and identify the canonical topology with Wiweger's mixed topology under suitable assumptions, recovering the strict topology as a special case. Finally, we obtain a unit-interval formulation of Koopman representations for continuous-time dynamical systems.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.DS",
+      "math.GN",
+      "math.LO"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "An extension of the notion of algebraic entropy",
+    "pubDate": "2026-11-09 05:00:00",
+    "link": "https://arxiv.org/abs/2611.09602",
+    "guid": "oai:arXiv.org:2611.09602v1",
+    "author": "Dolores Mart\\'in Barquero, C\\'andido Mart\\'in Gonz\\'alez, Iv\\'an Ruiz Campos",
+    "thumbnail": "",
+    "description": "arXiv:2611.09602v1 Announce Type: new \nAbstract: The definition of algebraic entropy presents a difficulty in the general setting of filtered algebras, which makes it necessary to distinguish between filtered algebras and finitely filtered algebras. While algebraic entropy is well defined in the finitely filtered case, extending this notion to arbitrary filtered algebras is not immediate. To address this issue, we realize a filtered algebra as the limit of a strict direct system of finitely filtered algebras and define its entropy as the supremum of the entropies of the algebras in the system. This extension is consistent with the original definition, when the algebra is finitely filtered, the extended entropy agrees with its algebraic entropy. This new setting allows us to extend the definition of the algebraic entropy to path and Leavitt path algebras of infinite graphs.",
+    "content": "arXiv:2611.09602v1 Announce Type: new \nAbstract: The definition of algebraic entropy presents a difficulty in the general setting of filtered algebras, which makes it necessary to distinguish between filtered algebras and finitely filtered algebras. While algebraic entropy is well defined in the finitely filtered case, extending this notion to arbitrary filtered algebras is not immediate. To address this issue, we realize a filtered algebra as the limit of a strict direct system of finitely filtered algebras and define its entropy as the supremum of the entropies of the algebras in the system. This extension is consistent with the original definition, when the algebra is finitely filtered, the extended entropy agrees with its algebraic entropy. This new setting allows us to extend the definition of the algebraic entropy to path and Leavitt path algebras of infinite graphs.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Two-step nilpotent varieties as categories of modules over a square ring",
+    "pubDate": "2026-11-09 05:00:00",
+    "link": "https://arxiv.org/abs/2611.09465",
+    "guid": "oai:arXiv.org:2611.09465v1",
+    "author": "Logan Geenis, Manfred Hartl, Tim Van der Linden",
+    "thumbnail": "",
+    "description": "arXiv:2611.09465v1 Announce Type: cross \nAbstract: We characterise the two-step nilpotent varieties of algebras: the semi-abelian varieties in which all ternary cosmash products vanish. Just as abelian varieties are the categories of modules over a ring, two-step nilpotent varieties are exactly the categories of modules over a square ring in the sense of Baues, Hartl and Pirashvili. We construct the square ring explicitly from the full subcategory on the free algebras on one and two generators, and give complete proofs. As consequences we obtain a description of any two-step nilpotent variety by generators and relations, an intrinsic characterisation in terms of quadratic term operations, and an account of its abelian core and of the lower central series of its objects in terms of the square ring. Along the way, we associate with any commutative ring $R$ a square ring whose modules, the two-step nilpotent $R$-groups, extend Hall's nilpotent $R$-groups of class two from $2$-binomial rings to arbitrary rings of coefficients.",
+    "content": "arXiv:2611.09465v1 Announce Type: cross \nAbstract: We characterise the two-step nilpotent varieties of algebras: the semi-abelian varieties in which all ternary cosmash products vanish. Just as abelian varieties are the categories of modules over a ring, two-step nilpotent varieties are exactly the categories of modules over a square ring in the sense of Baues, Hartl and Pirashvili. We construct the square ring explicitly from the full subcategory on the free algebras on one and two generators, and give complete proofs. As consequences we obtain a description of any two-step nilpotent variety by generators and relations, an intrinsic characterisation in terms of quadratic term operations, and an account of its abelian core and of the lower central series of its objects in terms of the square ring. Along the way, we associate with any commutative ring $R$ a square ring whose modules, the two-step nilpotent $R$-groups, extend Hall's nilpotent $R$-groups of class two from $2$-binomial rings to arbitrary rings of coefficients.",
+    "enclosure": {},
+    "categories": [
+      "math.CT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Weighted \\texorpdfstring{$\\mathcal{O}$}-operators on pre-Leibniz algebras and post-pre-Leibniz structures",
+    "pubDate": "2026-11-09 05:00:00",
+    "link": "https://arxiv.org/abs/2611.09460",
+    "guid": "oai:arXiv.org:2611.09460v1",
+    "author": "Sami Benabdelhafidh",
+    "thumbnail": "",
+    "description": "arXiv:2611.09460v1 Announce Type: new \nAbstract: In this paper, we introduce weighted $\\mathcal{O}$-operators (also called weighted relative Rota-Baxter operators) on pre-Leibniz algebras. We construct a differential graded Lie algebra whose Maurer-Cartan elements are exactly these operators. This allows us to define their cohomology as that of the induced pre-Leibniz algebra with coefficients in a suitable representation. As an application, we study formal and finite order deformations of these operators. We show that this theory splits the corresponding theory for weighted $\\mathcal{O}$-operators on Leibniz algebras. Finally, we introduce post-pre-Leibniz algebras as the algebraic structures underlying weighted $\\mathcal{O}$-operators on pre-Leibniz algebras.",
+    "content": "arXiv:2611.09460v1 Announce Type: new \nAbstract: In this paper, we introduce weighted $\\mathcal{O}$-operators (also called weighted relative Rota-Baxter operators) on pre-Leibniz algebras. We construct a differential graded Lie algebra whose Maurer-Cartan elements are exactly these operators. This allows us to define their cohomology as that of the induced pre-Leibniz algebra with coefficients in a suitable representation. As an application, we study formal and finite order deformations of these operators. We show that this theory splits the corresponding theory for weighted $\\mathcal{O}$-operators on Leibniz algebras. Finally, we introduce post-pre-Leibniz algebras as the algebraic structures underlying weighted $\\mathcal{O}$-operators on pre-Leibniz algebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Inclusions and intersections of products of verbally prime $T$-ideals",
+    "pubDate": "2026-11-09 05:00:00",
+    "link": "https://arxiv.org/abs/2611.09415",
+    "guid": "oai:arXiv.org:2611.09415v1",
+    "author": "Yihao Zheng, Shenglin Zhu",
+    "thumbnail": "",
+    "description": "arXiv:2611.09415v1 Announce Type: new \nAbstract: We study inclusions and intersections of products of verbally prime $T$-ideals over a field of characteristic zero. Our main tool is a Vandermonde-type construction of graded polynomials with a uniformly bounded number of variables. Together with a reduction to finite exterior algebras, this construction yields separating polynomials that work uniformly under bounds on Grassmann envelope representations. We prove that, under these bounds, an intersection of $T$-ideals is contained in such a product only if one member is. This proves Berele's Conjecture~3 and, consequently, his Conjecture~1 \\cite{Berele2012}. We also characterize inclusions between ordered products by an explicit combinatorial criterion, proving his Conjecture~2 and answering his Question~2 \\cite{Berele2012}. These results characterize inclusions between arbitrary intersections of products of nonzero proper verbally prime $T$-ideals and show that every nonzero such intersection has a unique finite irredundant representation. As an application, we characterize finite quivers whose path algebras have the same polynomial identities as some, equivalently every, positive power of their arrow ideals.",
+    "content": "arXiv:2611.09415v1 Announce Type: new \nAbstract: We study inclusions and intersections of products of verbally prime $T$-ideals over a field of characteristic zero. Our main tool is a Vandermonde-type construction of graded polynomials with a uniformly bounded number of variables. Together with a reduction to finite exterior algebras, this construction yields separating polynomials that work uniformly under bounds on Grassmann envelope representations. We prove that, under these bounds, an intersection of $T$-ideals is contained in such a product only if one member is. This proves Berele's Conjecture~3 and, consequently, his Conjecture~1 \\cite{Berele2012}. We also characterize inclusions between ordered products by an explicit combinatorial criterion, proving his Conjecture~2 and answering his Question~2 \\cite{Berele2012}. These results characterize inclusions between arbitrary intersections of products of nonzero proper verbally prime $T$-ideals and show that every nonzero such intersection has a unique finite irredundant representation. As an application, we characterize finite quivers whose path algebras have the same polynomial identities as some, equivalently every, positive power of their arrow ideals.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AC",
+      "math.CO"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Isomorphic classification of the coordinate algebras of the two-parameter braided quantum groups $\\mathrm{SL}_2$",
+    "pubDate": "2026-11-09 05:00:00",
+    "link": "https://arxiv.org/abs/2611.09369",
+    "guid": "oai:arXiv.org:2611.09369v1",
+    "author": "Julien Bichon (LMBP), Thi Hoa Emilie Nguyen (LMBP)",
+    "thumbnail": "",
+    "description": "arXiv:2611.09369v1 Announce Type: cross \nAbstract: We classify, up to isomorphism, the coordinate algebras of the two-parameter braided quantum groups SL 2 .",
+    "content": "arXiv:2611.09369v1 Announce Type: cross \nAbstract: We classify, up to isomorphism, the coordinate algebras of the two-parameter braided quantum groups SL 2 .",
+    "enclosure": {},
+    "categories": [
+      "math.QA",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "The center of an associative crossed module",
+    "pubDate": "2026-11-09 05:00:00",
+    "link": "https://arxiv.org/abs/2611.09360",
+    "guid": "oai:arXiv.org:2611.09360v1",
+    "author": "Emzar Khmaladze, Manuel Ladra, David Quiroga, Brais Ramos P\\'erez",
+    "thumbnail": "",
+    "description": "arXiv:2611.09360v1 Announce Type: new \nAbstract: In this paper, we define a Drinfeld-type center for an associative crossed module and prove that it is canonically the internal category of an explicit crossed module constructed from Mac Lane's bimultiplications. The resulting center carries a canonical multiplicative lifting, which induces a natural strict braiding, establishing its correspondence to a braided crossed module. We also examine the relationship between this center and Huq's categorical center. Finally, we obtain a canonical comparison morphism with Pirashvili's center of Lie crossed modules via the (braided) Liezation functors, which preserves braidings under an injectivity condition.",
+    "content": "arXiv:2611.09360v1 Announce Type: new \nAbstract: In this paper, we define a Drinfeld-type center for an associative crossed module and prove that it is canonically the internal category of an explicit crossed module constructed from Mac Lane's bimultiplications. The resulting center carries a canonical multiplicative lifting, which induces a natural strict braiding, establishing its correspondence to a braided crossed module. We also examine the relationship between this center and Huq's categorical center. Finally, we obtain a canonical comparison morphism with Pirashvili's center of Lie crossed modules via the (braided) Liezation functors, which preserves braidings under an injectivity condition.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CT"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Centres and semisimple deformations of contraction algebras",
+    "pubDate": "2026-11-09 05:00:00",
+    "link": "https://arxiv.org/abs/2611.09220",
+    "guid": "oai:arXiv.org:2611.09220v1",
+    "author": "Joseph Karmazyn, Shengyong Pan",
+    "thumbnail": "",
+    "description": "arXiv:2611.09220v1 Announce Type: cross \nAbstract: Let $A_{\\rm{con}}$ be the contraction algebra of a $3$-fold flop of an irreducible curve, with genus-zero Gopakumar-Vafa invariants $n_1, \\dots, n_l$. We show that $\\prod_j M_j(\\mathbb{C})^{n_j}$ is the only semisimple algebra to which $A_{\\rm{con}}$ deforms. Hence $A_{\\rm{con}}$ encodes its Gopakumar-Vafa invariants intrinsically, answering a question of Wemyss. Hua and Toda showed that this deformation exists, and Jelisiejew and Smoktunowicz proved its uniqueness in types A and D. The key step in our proof is that the centre of $A_{\\rm{con}}$ has dimension $n_1 + \\dots + n_l$. To prove this, we lift the contraction algebra of the universal flop to the Cartan subalgebra, where it becomes a corner of a deformed preprojective algebra. We show that the universal contraction algebra and its zeroth Hochschild homology are free over a polynomial ring, with presentations whose determinants are products of roots. Pulling these presentations back along the arc that classifies the flop gives the count, and recovers Toda's formula for $\\dim A_{\\rm{con}}$. We also prove Hua and Toda's flatness conjecture, and determine which Gopakumar-Vafa invariants occur in lengths 3 to 6.",
+    "content": "arXiv:2611.09220v1 Announce Type: cross \nAbstract: Let $A_{\\rm{con}}$ be the contraction algebra of a $3$-fold flop of an irreducible curve, with genus-zero Gopakumar-Vafa invariants $n_1, \\dots, n_l$. We show that $\\prod_j M_j(\\mathbb{C})^{n_j}$ is the only semisimple algebra to which $A_{\\rm{con}}$ deforms. Hence $A_{\\rm{con}}$ encodes its Gopakumar-Vafa invariants intrinsically, answering a question of Wemyss. Hua and Toda showed that this deformation exists, and Jelisiejew and Smoktunowicz proved its uniqueness in types A and D. The key step in our proof is that the centre of $A_{\\rm{con}}$ has dimension $n_1 + \\dots + n_l$. To prove this, we lift the contraction algebra of the universal flop to the Cartan subalgebra, where it becomes a corner of a deformed preprojective algebra. We show that the universal contraction algebra and its zeroth Hochschild homology are free over a polynomial ring, with presentations whose determinants are products of roots. Pulling these presentations back along the arc that classifies the flop gives the count, and recovers Toda's formula for $\\dim A_{\\rm{con}}$. We also prove Hua and Toda's flatness conjecture, and determine which Gopakumar-Vafa invariants occur in lengths 3 to 6.",
+    "enclosure": {},
+    "categories": [
+      "math.AG",
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "The quaternionic reflection groups with imprimitive complexifications and the finite subgroups of GL(2,C)",
+    "pubDate": "2026-11-09 05:00:00",
+    "link": "https://arxiv.org/abs/2611.08691",
+    "guid": "oai:arXiv.org:2611.08691v1",
+    "author": "Shayne Waldron",
+    "thumbnail": "",
+    "description": "arXiv:2611.08691v1 Announce Type: cross \nAbstract: We give a transparent development of the quaternionic reflection groups which have imprimitive complexifications, including a description of their reflections and the corresponding normal reflection subgroups. They are seen to be of rank one or rank two, and are obtained from minimal complex reflection groups by the addition of one quaternionic reflection and a complex scalar matrix of finite order. In the case of the rank two groups, we use our techniques to consider the broader question of what are the minimal irreducible subgroups of GL(2,C) with a given collineation group. This leads to a complete classification of the finite irreducible subgroups of GL(2,C) in terms of the minimal groups, with the groups giving rise to quaternionic reflection groups located within it.",
+    "content": "arXiv:2611.08691v1 Announce Type: cross \nAbstract: We give a transparent development of the quaternionic reflection groups which have imprimitive complexifications, including a description of their reflections and the corresponding normal reflection subgroups. They are seen to be of rank one or rank two, and are obtained from minimal complex reflection groups by the addition of one quaternionic reflection and a complex scalar matrix of finite order. In the case of the rank two groups, we use our techniques to consider the broader question of what are the minimal irreducible subgroups of GL(2,C) with a given collineation group. This leads to a complete classification of the finite irreducible subgroups of GL(2,C) in terms of the minimal groups, with the groups giving rise to quaternionic reflection groups located within it.",
+    "enclosure": {},
+    "categories": [
+      "math.GR",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Weakly Unitary Zeon Matrices",
+    "pubDate": "2026-11-09 05:00:00",
+    "link": "https://arxiv.org/abs/2610.33891",
+    "guid": "oai:arXiv.org:2610.33891v2",
+    "author": "G. Stacey Staples",
+    "thumbnail": "",
+    "description": "arXiv:2610.33891v2 Announce Type: replace \nAbstract: In this paper, zeon matrix groups are discussed for the first time. Extending the concept of unitary complex matrices (i.e., matrices $A$ such that $A^\\dagger A=\\mI$) to matrices having entries in the complex zeon algebra $\\CZ$, a ``zeon dagger'' operator $\\zdag$ is defined and used to declare a zeon matrix $\\Xi$ to be {\\em unitary} if $\\Xi^\\zdag\\Xi=\\mI$. The unitary zeon matrices of order $n$ form a subgroup $\\U_n$ of all invertible order-$n$ zeon matrices. A more interesting notion is that of ``weak unitarity'' of a zeon matrix. In particular, a zeon matrix $\\Xi$ will be said to be {\\em weakly unitary} if $\\Xi^\\zdag\\Xi=\\mI+\\Gamma$, where $\\Gamma$ is a diagonal nilpotent zeon matrix. The weakly unitary matrices of order $n$ form a group $\\W_n$, of which $\\U_n$ is a subgroup. It is further shown that the exponential of a graph's nilpotent adjacency matrix has a natural orthogonal decomposition into the sum of a weakly unitary zeon matrix and a nilpotent zeon matrix. Eigenvalues of the weakly unitary zeon matrix reveal information about the graph's cycles and paths.",
+    "content": "arXiv:2610.33891v2 Announce Type: replace \nAbstract: In this paper, zeon matrix groups are discussed for the first time. Extending the concept of unitary complex matrices (i.e., matrices $A$ such that $A^\\dagger A=\\mI$) to matrices having entries in the complex zeon algebra $\\CZ$, a ``zeon dagger'' operator $\\zdag$ is defined and used to declare a zeon matrix $\\Xi$ to be {\\em unitary} if $\\Xi^\\zdag\\Xi=\\mI$. The unitary zeon matrices of order $n$ form a subgroup $\\U_n$ of all invertible order-$n$ zeon matrices. A more interesting notion is that of ``weak unitarity'' of a zeon matrix. In particular, a zeon matrix $\\Xi$ will be said to be {\\em weakly unitary} if $\\Xi^\\zdag\\Xi=\\mI+\\Gamma$, where $\\Gamma$ is a diagonal nilpotent zeon matrix. The weakly unitary matrices of order $n$ form a group $\\W_n$, of which $\\U_n$ is a subgroup. It is further shown that the exponential of a graph's nilpotent adjacency matrix has a natural orthogonal decomposition into the sum of a weakly unitary zeon matrix and a nilpotent zeon matrix. Eigenvalues of the weakly unitary zeon matrix reveal information about the graph's cycles and paths.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.OA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "All totally real abelian number fields of class number one are Euclidean",
+    "pubDate": "2026-11-09 05:00:00",
+    "link": "https://arxiv.org/abs/2610.24900",
+    "guid": "oai:arXiv.org:2610.24900v2",
+    "author": "Harald Grobner",
+    "thumbnail": "",
+    "description": "arXiv:2610.24900v2 Announce Type: replace-cross \nAbstract: It is a famous result of Narkiewicz that there are at most two real quadratic and at most one totally real cubic Galois extensions $K/\\mathbb Q$, whose ring of integers $\\mathcal O_K$ is a unique factorization domain (UFD), but not Euclidean. As predicted by another famous result due to Weinberger, these exceptions should in fact not exist, as their existence would contradict a generalized version of the Riemann hypothesis. Building on recent spectacular progress on the Quasi-Riemann hypothesis for Hecke characters, in this short note we close the above final gap provided by Narkiewicz's result, and show, more generally, that the ring of integers $\\mathcal O_K$ of any totally real abelian number field $K$ is a UFD, if and only if it is Euclidean. By referring to an additional announced uniform zero-free half-plane for general Dedekind zeta functions, we also establish the corresponding result for certain explicit new families of non-Galois cubic, quartic and quintic fields of unit rank one or two.",
+    "content": "arXiv:2610.24900v2 Announce Type: replace-cross \nAbstract: It is a famous result of Narkiewicz that there are at most two real quadratic and at most one totally real cubic Galois extensions $K/\\mathbb Q$, whose ring of integers $\\mathcal O_K$ is a unique factorization domain (UFD), but not Euclidean. As predicted by another famous result due to Weinberger, these exceptions should in fact not exist, as their existence would contradict a generalized version of the Riemann hypothesis. Building on recent spectacular progress on the Quasi-Riemann hypothesis for Hecke characters, in this short note we close the above final gap provided by Narkiewicz's result, and show, more generally, that the ring of integers $\\mathcal O_K$ of any totally real abelian number field $K$ is a UFD, if and only if it is Euclidean. By referring to an additional announced uniform zero-free half-plane for general Dedekind zeta functions, we also establish the corresponding result for certain explicit new families of non-Galois cubic, quartic and quintic fields of unit rank one or two.",
+    "enclosure": {},
+    "categories": [
+      "math.NT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Actions in varieties of non-associative algebras: a survey",
+    "pubDate": "2026-11-09 05:00:00",
+    "link": "https://arxiv.org/abs/2610.18302",
+    "guid": "oai:arXiv.org:2610.18302v2",
+    "author": "Manuel Mancini",
+    "thumbnail": "",
+    "description": "arXiv:2610.18302v2 Announce Type: replace-cross \nAbstract: This article surveys the main results on the representability of internal actions in varieties of non-associative algebras over a field. We begin by recalling the general framework of internal actions and split extensions in semi-abelian categories, before specialising to Orzech categories of interest and varieties of non-associative algebras. We discuss action representability, weak action representability, and action accessibility, with emphasis on the relationship between the latter two notions. We then describe the constructions of the universal strict general actor in Orzech categories of interest and the external weak actor in action accessible, operadic varieties of non-associative algebras over a field, as well as their role in the study of weak action representability. We also give a tensor-domain formulation of partial algebras and adapt the construction of the external weak actor to this setting. These notions are illustrated by examples arising from associative, Lie, Leibniz, Jacobi-Jordan, anti-commutative anti-associative, alternative, and $2$-nilpotent algebras. We conclude with a summary of the known results and some open questions for future research.",
+    "content": "arXiv:2610.18302v2 Announce Type: replace-cross \nAbstract: This article surveys the main results on the representability of internal actions in varieties of non-associative algebras over a field. We begin by recalling the general framework of internal actions and split extensions in semi-abelian categories, before specialising to Orzech categories of interest and varieties of non-associative algebras. We discuss action representability, weak action representability, and action accessibility, with emphasis on the relationship between the latter two notions. We then describe the constructions of the universal strict general actor in Orzech categories of interest and the external weak actor in action accessible, operadic varieties of non-associative algebras over a field, as well as their role in the study of weak action representability. We also give a tensor-domain formulation of partial algebras and adapt the construction of the external weak actor to this setting. These notions are illustrated by examples arising from associative, Lie, Leibniz, Jacobi-Jordan, anti-commutative anti-associative, alternative, and $2$-nilpotent algebras. We conclude with a summary of the known results and some open questions for future research.",
+    "enclosure": {},
+    "categories": [
+      "math.CT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Semibricks and wide subcategories in extended module categories",
+    "pubDate": "2026-11-09 05:00:00",
+    "link": "https://arxiv.org/abs/2511.08157",
+    "guid": "oai:arXiv.org:2511.08157v2",
+    "author": "Esha Gupta, Yu Zhou",
+    "thumbnail": "",
+    "description": "arXiv:2511.08157v2 Announce Type: replace-cross \nAbstract: For $d\\geq 1$, we define semibricks and wide subcategories in the $d$-extended hearts of bounded $t$-structures on a triangulated category. We show that these semibricks are in bijection with finite-length wide subcategories. When the $d$-extended heart is the $d$-extended module category $d\\mbox{-}\\mathrm{mod}\\Lambda$ of a finite-dimensional algebra $\\Lambda$ over a field, we define left/right-finite semibricks and left/right-finite wide subcategories in $d\\mbox{-}\\mathrm{mod}\\Lambda$ and show bijections with $(d+1)$-term simple-minded collections, generalising the bijections between $2$-term simple-minded collections, left/right-finite wide subcategories and left/right-finite semibricks in $\\mathrm{mod}\\Lambda$. We use a relation between semibricks and silting complexes to characterise which mutations of $(d+1)$-term silting complexes are again $(d+1)$-term.",
+    "content": "arXiv:2511.08157v2 Announce Type: replace-cross \nAbstract: For $d\\geq 1$, we define semibricks and wide subcategories in the $d$-extended hearts of bounded $t$-structures on a triangulated category. We show that these semibricks are in bijection with finite-length wide subcategories. When the $d$-extended heart is the $d$-extended module category $d\\mbox{-}\\mathrm{mod}\\Lambda$ of a finite-dimensional algebra $\\Lambda$ over a field, we define left/right-finite semibricks and left/right-finite wide subcategories in $d\\mbox{-}\\mathrm{mod}\\Lambda$ and show bijections with $(d+1)$-term simple-minded collections, generalising the bijections between $2$-term simple-minded collections, left/right-finite wide subcategories and left/right-finite semibricks in $\\mathrm{mod}\\Lambda$. We use a relation between semibricks and silting complexes to characterise which mutations of $(d+1)$-term silting complexes are again $(d+1)$-term.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Simple Modules over Leavitt Path Algebras Generated by Indicator Functions on Paths",
+    "pubDate": "2026-11-06 05:00:00",
+    "link": "https://arxiv.org/abs/2611.08344",
+    "guid": "oai:arXiv.org:2611.08344v1",
+    "author": "Elizabeth Pacheco, Kulumani M. Rangaswamy",
+    "thumbnail": "",
+    "description": "arXiv:2611.08344v1 Announce Type: new \nAbstract: Let E be an arbitrary graph, K a field, and D the set of boundary paths of E consisting of both infinite paths and finite paths ending at singular vertices. The space KD of K-valued functions on D is a right module over the Leavitt path algebra LK(E). For a non- empty set S ? D that is strongly connected and closed under adding and deleting initial segments, we study the submodule N_S = 1_S.LK(E) generated by the indicator function of S. Let S_0 be the set of vertices lying on the paths in S. We show that N_S is simple if and only if S contains no breaking vertex of the hereditary saturated set H = E0 nS0. In particular, when S contains only infinite paths or when E is a row- finite graph, NS is a simple module. Up to isomorphism, the simple module NS depends only on S_0. When S is an infinite set of paths, the simple module NS is neither graded nor projective. The left module LK(E)1_S, obtained by twisting the action through the involution of LK(E), is simple exactly when NS is, and, when S is infinite, it is not isomorphic to any of the Chen simple modules. For the rose graph R_n with n ? 2 petals, we show that LK(R_n)1_S is isomorphic to one of the twisted Chen modules constructed by Nam, Srivastava and Vien, and to none of the other simple modules in their list. Moreover, when S is not a single vertex, the simple module NS is finitely presented if and only if only finitely many edges of E have both source and range in S_0; in particular, every simple module N_S is finitely presented when E is a finite graph. Finally, we determine when the analogous module generated by an indicator function over the Cohn path algebra CK(E) is simple. 1.",
+    "content": "arXiv:2611.08344v1 Announce Type: new \nAbstract: Let E be an arbitrary graph, K a field, and D the set of boundary paths of E consisting of both infinite paths and finite paths ending at singular vertices. The space KD of K-valued functions on D is a right module over the Leavitt path algebra LK(E). For a non- empty set S ? D that is strongly connected and closed under adding and deleting initial segments, we study the submodule N_S = 1_S.LK(E) generated by the indicator function of S. Let S_0 be the set of vertices lying on the paths in S. We show that N_S is simple if and only if S contains no breaking vertex of the hereditary saturated set H = E0 nS0. In particular, when S contains only infinite paths or when E is a row- finite graph, NS is a simple module. Up to isomorphism, the simple module NS depends only on S_0. When S is an infinite set of paths, the simple module NS is neither graded nor projective. The left module LK(E)1_S, obtained by twisting the action through the involution of LK(E), is simple exactly when NS is, and, when S is infinite, it is not isomorphic to any of the Chen simple modules. For the rose graph R_n with n ? 2 petals, we show that LK(R_n)1_S is isomorphic to one of the twisted Chen modules constructed by Nam, Srivastava and Vien, and to none of the other simple modules in their list. Moreover, when S is not a single vertex, the simple module NS is finitely presented if and only if only finitely many edges of E have both source and range in S_0; in particular, every simple module N_S is finitely presented when E is a finite graph. Finally, we determine when the analogous module generated by an indicator function over the Cohn path algebra CK(E) is simple. 1.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-06"
+  },
+  {
+    "title": "A Note on the OpenAI Construction of Counterexamples to the Kaplansky Direct-Finiteness Conjecture",
+    "pubDate": "2026-11-06 05:00:00",
+    "link": "https://arxiv.org/abs/2611.08268",
+    "guid": "oai:arXiv.org:2611.08268",
+    "author": "Andrei Jaikin-Zapirain",
+    "thumbnail": "",
+    "description": "arXiv:2611.08268 Announce Type: cross \nAbstract: We give a human-readable exposition of OpenAI's construction of a group algebra in characteristic two that is not directly finite. We then adapt the argument to show that, for every prime $p$, there exists a hyperbolic group $G_p$ such that $\\mathbb{F}_p[G_p]$ is not directly finite.",
+    "content": "arXiv:2611.08268 Announce Type: cross \nAbstract: We give a human-readable exposition of OpenAI's construction of a group algebra in characteristic two that is not directly finite. We then adapt the argument to show that, for every prime $p$, there exists a hyperbolic group $G_p$ such that $\\mathbb{F}_p[G_p]$ is not directly finite.",
+    "enclosure": {},
+    "categories": [
+      "math.GR",
+      "math.RA"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-06"
+  },
+  {
+    "title": "Open Problems on the Null Space and Image Space of the Adjacency Matrix",
+    "pubDate": "2026-11-06 05:00:00",
+    "link": "https://arxiv.org/abs/2611.08244",
+    "guid": "oai:arXiv.org:2611.08244",
+    "author": "K Kranthi Priya, K C Sivakumar",
+    "thumbnail": "",
+    "description": "arXiv:2611.08244 Announce Type: cross \nAbstract: Akbari, Cameron, and Khosrovshahi proposed two questions concerning the null space and the image space of graphs. Although these problems have been studied in several cases, they have not yet been fully resolved. In this work, we present constructions of graphs that satisfy both the problems.",
+    "content": "arXiv:2611.08244 Announce Type: cross \nAbstract: Akbari, Cameron, and Khosrovshahi proposed two questions concerning the null space and the image space of graphs. Although these problems have been studied in several cases, they have not yet been fully resolved. In this work, we present constructions of graphs that satisfy both the problems.",
+    "enclosure": {},
+    "categories": [
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-06"
+  },
+  {
+    "title": "Linear bounds and sharp exponential growth for commuting matrix algebra",
+    "pubDate": "2026-11-06 05:00:00",
+    "link": "https://arxiv.org/abs/2611.08135",
+    "guid": "oai:arXiv.org:2611.08135v1",
+    "author": "Jiamei Li, Caihua Luo, Xu Song, Yilin Zeng",
+    "thumbnail": "",
+    "description": "arXiv:2611.08135v1 Announce Type: new \nAbstract: For any $m$ pairwise commuting matrices $\\{A_i\\}_{i=1}^{m}\\subset \\M_n(\\F)$, we prove $\\dim_\\F \\F[A_1,\\cdots, A_m]\\leq (2^m-1)(n-1)+1$, answering Bergman's question on the existence of a linear bound for a fixed number $m$.",
+    "content": "arXiv:2611.08135v1 Announce Type: new \nAbstract: For any $m$ pairwise commuting matrices $\\{A_i\\}_{i=1}^{m}\\subset \\M_n(\\F)$, we prove $\\dim_\\F \\F[A_1,\\cdots, A_m]\\leq (2^m-1)(n-1)+1$, answering Bergman's question on the existence of a linear bound for a fixed number $m$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-06"
+  },
+  {
+    "title": "Tilting bundles and modifying modules in relative dimension one",
+    "pubDate": "2026-11-06 05:00:00",
+    "link": "https://arxiv.org/abs/2611.07987",
+    "guid": "oai:arXiv.org:2611.07987",
+    "author": "Ryu Tomonaga",
+    "thumbnail": "",
+    "description": "arXiv:2611.07987 Announce Type: cross \nAbstract: For projective morphisms $π:Y\\to X=\\operatorname{Spec}R$ over noetherian complete local rings, with fibres of dimension at most one and $\\mathbf{R}π_*\\mathcal{O}_Y\\cong\\mathcal{O}_X$, we construct a tilting fan from cones of pretilting bundles. Maximal cones parametrize tilting bundles, and facet adjacency encodes irreducible mutation. Completeness in positive rank is equivalent to finiteness of tilting bundles modulo line-bundle twists. For closed fibres that are split ADE highest-root cycles or their Stein contractions, we identify tilting bundles with chambers of restricted affine Tits cones and determine the fan. Over normal Gorenstein complete local domains, reflexive pushforward takes pretilting bundles on normal projective birational models with fibres of dimension at most one and $π^!\\mathcal{O}_X\\cong\\mathcal{O}_Y$ to modifying modules. Pushforwards of canonical tilting bundles recover models as module blowups and detect contractions by additive containment, yielding an Auslander--McKay embedding. The hypersurfaces $R=S[[u,v]]/(uv-f)$, with $S$ a regular complete local ring and $f\\in S$ a nonzero nonunit, generalize type $A$ Du Val surfaces and $cA_n$ threefolds to arbitrary dimension. We classify modifying modules by divisor flags and rank-one reflexive twists; flag blowups turn the embedding into an equivalence. If $f$ has $r\\ge2$ prime factors counted with multiplicity, reflexive pushforward on any maximal-flag model gives a mutation-preserving surjection from tilting bundles, parametrized by chambers of affine type $\\widetilde{A}_{r-1}$, to maximal modifying modules. Its fibres are affine Weyl group orbits determined by repeated factors. All maximal-flag models and maximal modification algebras are derived equivalent. These algebras are noncommutative crepant resolutions exactly when $S/(p)$ is regular for every prime factor $p$ of $f$.",
+    "content": "arXiv:2611.07987 Announce Type: cross \nAbstract: For projective morphisms $π:Y\\to X=\\operatorname{Spec}R$ over noetherian complete local rings, with fibres of dimension at most one and $\\mathbf{R}π_*\\mathcal{O}_Y\\cong\\mathcal{O}_X$, we construct a tilting fan from cones of pretilting bundles. Maximal cones parametrize tilting bundles, and facet adjacency encodes irreducible mutation. Completeness in positive rank is equivalent to finiteness of tilting bundles modulo line-bundle twists. For closed fibres that are split ADE highest-root cycles or their Stein contractions, we identify tilting bundles with chambers of restricted affine Tits cones and determine the fan. Over normal Gorenstein complete local domains, reflexive pushforward takes pretilting bundles on normal projective birational models with fibres of dimension at most one and $π^!\\mathcal{O}_X\\cong\\mathcal{O}_Y$ to modifying modules. Pushforwards of canonical tilting bundles recover models as module blowups and detect contractions by additive containment, yielding an Auslander--McKay embedding. The hypersurfaces $R=S[[u,v]]/(uv-f)$, with $S$ a regular complete local ring and $f\\in S$ a nonzero nonunit, generalize type $A$ Du Val surfaces and $cA_n$ threefolds to arbitrary dimension. We classify modifying modules by divisor flags and rank-one reflexive twists; flag blowups turn the embedding into an equivalence. If $f$ has $r\\ge2$ prime factors counted with multiplicity, reflexive pushforward on any maximal-flag model gives a mutation-preserving surjection from tilting bundles, parametrized by chambers of affine type $\\widetilde{A}_{r-1}$, to maximal modifying modules. Its fibres are affine Weyl group orbits determined by repeated factors. All maximal-flag models and maximal modification algebras are derived equivalent. These algebras are noncommutative crepant resolutions exactly when $S/(p)$ is regular for every prime factor $p$ of $f$.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.AC",
+      "math.AG",
+      "math.RA"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-06"
+  },
+  {
+    "title": "Local and 2-Local Derivations of Finite-Dimensional Zinbiel Algebras",
+    "pubDate": "2026-11-06 05:00:00",
+    "link": "https://arxiv.org/abs/2611.07863",
+    "guid": "oai:arXiv.org:2611.07863v1",
+    "author": "Arislanbay Abdireymov, Aloberdi Sattarov, Bakhtiyor Yusupov",
+    "thumbnail": "",
+    "description": "arXiv:2611.07863v1 Announce Type: new \nAbstract: We study local and $2$-local derivations of finite-dimensional Zinbiel algebras. Over any field of characteristic zero, every Zinbiel algebra $A$ with $A^2 \\neq 0$ and $\\dim A \\leq 4$ admits a proper local derivation. The proof uses a filtration argument. We exhibit two five-dimensional Zinbiel algebras with nonzero multiplication whose derivations are all central. Every local derivation on either algebra is therefore a derivation, so the minimum dimension for local rigidity with nonzero multiplication is five. Annihilator-valued interpolation gives a general construction of proper local derivations. When $A^3 = 0$, the multiplication tensor describes all derivations and local derivations. For a finite-dimensional nilpotent algebra $A$ over any field, we show that every $2$-local derivation is a derivation if and only if $\\dim(A/A^2) \\leq 1$. The proof combines the annihilator interpolation of Sh. Ayupov, K. Kudaybergenov and B. Omirov with a one-generator argument. When all derivations are central, every $2$-local derivation is obtained by composing a homogeneous map $A/A^2 \\to \\text{Ann}(A)$ with the quotient map, and every such composition is a $2$-local derivation. The five-dimensional examples extend to locally rigid Zinbiel algebras with nonlinear $2$-local derivations in every dimension at least five. We also show that derivations given by left multiplication form a Lie ideal of nilpotency class at most two and give sufficient conditions for the existence of left outer derivations. This ideal is zero in our locally rigid examples.",
+    "content": "arXiv:2611.07863v1 Announce Type: new \nAbstract: We study local and $2$-local derivations of finite-dimensional Zinbiel algebras. Over any field of characteristic zero, every Zinbiel algebra $A$ with $A^2 \\neq 0$ and $\\dim A \\leq 4$ admits a proper local derivation. The proof uses a filtration argument. We exhibit two five-dimensional Zinbiel algebras with nonzero multiplication whose derivations are all central. Every local derivation on either algebra is therefore a derivation, so the minimum dimension for local rigidity with nonzero multiplication is five. Annihilator-valued interpolation gives a general construction of proper local derivations. When $A^3 = 0$, the multiplication tensor describes all derivations and local derivations. For a finite-dimensional nilpotent algebra $A$ over any field, we show that every $2$-local derivation is a derivation if and only if $\\dim(A/A^2) \\leq 1$. The proof combines the annihilator interpolation of Sh. Ayupov, K. Kudaybergenov and B. Omirov with a one-generator argument. When all derivations are central, every $2$-local derivation is obtained by composing a homogeneous map $A/A^2 \\to \\text{Ann}(A)$ with the quotient map, and every such composition is a $2$-local derivation. The five-dimensional examples extend to locally rigid Zinbiel algebras with nonlinear $2$-local derivations in every dimension at least five. We also show that derivations given by left multiplication form a Lie ideal of nilpotency class at most two and give sufficient conditions for the existence of left outer derivations. This ideal is zero in our locally rigid examples.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-06"
+  },
+  {
+    "title": "Arithmetic Kac Theory for Ramified Species",
+    "pubDate": "2026-11-06 05:00:00",
+    "link": "https://arxiv.org/abs/2611.07549",
+    "guid": "oai:arXiv.org:2611.07549",
+    "author": "Jiarui Fei",
+    "thumbnail": "",
+    "description": "arXiv:2611.07549 Announce Type: cross \nAbstract: Let $K=k((t))$, where $k$ is algebraically closed of characteristic zero, and let $Λ$ be an acyclic ramified species over $K$. An indecomposable $Λ$-module can split after extending $K$. The number of its distinct geometric indecomposable summands is the degree of its residue endomorphism field $\\operatorname{End}_Λ(M)/\\operatorname{rad}\\operatorname{End}_Λ(M)$. We use the positive roots and cyclic automorphism of the unfolded quiver to determine the number of isomorphism classes at every nonzero rank and residue degree $e\\ge1$: it is zero, an explicitly computable finite number, or $|K|$. For every invariant imaginary root of the unfolding, including at nonprimitive ranks, we construct a smooth invariant family of absolutely indecomposable representations whose rational quotient by the change-of-bases group has dimension $1-q_d(β)$. We characterize ranks admitting absolutely Schur representations by the Schur roots of the unfolded quiver. For the associated species over finite fields, we realize the polynomials counting absolutely indecomposable representations as graded traces of the unfolding automorphism on preprojective BPS cohomology. Galois-orbit formulas and Möbius inversion then recover the counts at each residue degree. Finally, we prove an all-rank symmetrizable analogue of Kac's constant-term conjecture: the constant term of the polynomial counting all indecomposables, rather than only absolutely indecomposable ones, equals the corresponding Kac--Moody root multiplicity. This constant is independent of the symmetrizer and modulation.",
+    "content": "arXiv:2611.07549 Announce Type: cross \nAbstract: Let $K=k((t))$, where $k$ is algebraically closed of characteristic zero, and let $Λ$ be an acyclic ramified species over $K$. An indecomposable $Λ$-module can split after extending $K$. The number of its distinct geometric indecomposable summands is the degree of its residue endomorphism field $\\operatorname{End}_Λ(M)/\\operatorname{rad}\\operatorname{End}_Λ(M)$. We use the positive roots and cyclic automorphism of the unfolded quiver to determine the number of isomorphism classes at every nonzero rank and residue degree $e\\ge1$: it is zero, an explicitly computable finite number, or $|K|$. For every invariant imaginary root of the unfolding, including at nonprimitive ranks, we construct a smooth invariant family of absolutely indecomposable representations whose rational quotient by the change-of-bases group has dimension $1-q_d(β)$. We characterize ranks admitting absolutely Schur representations by the Schur roots of the unfolded quiver. For the associated species over finite fields, we realize the polynomials counting absolutely indecomposable representations as graded traces of the unfolding automorphism on preprojective BPS cohomology. Galois-orbit formulas and Möbius inversion then recover the counts at each residue degree. Finally, we prove an all-rank symmetrizable analogue of Kac's constant-term conjecture: the constant term of the polynomial counting all indecomposables, rather than only absolutely indecomposable ones, equals the corresponding Kac--Moody root multiplicity. This constant is independent of the symmetrizer and modulation.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.AG",
+      "math.RA"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-06"
+  },
+  {
+    "title": "On the Connected Components of Structure Graphs of Associative Rings",
+    "pubDate": "2026-11-06 05:00:00",
+    "link": "https://arxiv.org/abs/2611.07521",
+    "guid": "oai:arXiv.org:2611.07521v1",
+    "author": "Andrey M. Chernev, Nikolay A. Chernev",
+    "thumbnail": "",
+    "description": "arXiv:2611.07521v1 Announce Type: new \nAbstract: The article studies the notion of the structure graph of an associative ring with unity. It is known that the structural graph of a ring with $n$ elements has at least $n$ connected components. The article investigates when this lower bound is attained. A hypothesis is stated that the only rings of order $n$ having exactly $n$ connected components are the rings $\\mathbb{Z}_2$, $\\mathbb{Z}_3$, $\\mathbb{Z}_7$, $GF(4)$, and their direct sums. The hypothesis is proved for all rings except residue rings modulo a prime of the form $7+12k$, $k\\geq181$, and Galois fields of characteristic~2 with extension degree $\\geq17$.",
+    "content": "arXiv:2611.07521v1 Announce Type: new \nAbstract: The article studies the notion of the structure graph of an associative ring with unity. It is known that the structural graph of a ring with $n$ elements has at least $n$ connected components. The article investigates when this lower bound is attained. A hypothesis is stated that the only rings of order $n$ having exactly $n$ connected components are the rings $\\mathbb{Z}_2$, $\\mathbb{Z}_3$, $\\mathbb{Z}_7$, $GF(4)$, and their direct sums. The hypothesis is proved for all rings except residue rings modulo a prime of the form $7+12k$, $k\\geq181$, and Galois fields of characteristic~2 with extension degree $\\geq17$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-06"
+  },
+  {
+    "title": "Hopf algebra polynomial identities in the Sweedler algebra",
+    "pubDate": "2026-11-06 05:00:00",
+    "link": "https://arxiv.org/abs/2611.05187",
+    "guid": "oai:arXiv.org:2611.05187",
+    "author": "Alexey Gordienko, Maria Morozova",
+    "thumbnail": "",
+    "description": "arXiv:2611.05187 Announce Type: replace \nAbstract: Using Mac Lane's PROPs, one can introduce multilinear polynomial identities that involve all the operations of a Hopf algebra: the (co)multiplication, the (co)unit and the antipode. We find bases for polynomial identities and calculate their codimensions for the Sweedler algebra, treating it first as an ordinary associative algebra over a field and second as a Hopf algebra.",
+    "content": "arXiv:2611.05187 Announce Type: replace \nAbstract: Using Mac Lane's PROPs, one can introduce multilinear polynomial identities that involve all the operations of a Hopf algebra: the (co)multiplication, the (co)unit and the antipode. We find bases for polynomial identities and calculate their codimensions for the Sweedler algebra, treating it first as an ordinary associative algebra over a field and second as a Hopf algebra.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CT",
+      "math.QA"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-06"
+  },
+  {
+    "title": "Anti-successors and anti-replicators, Manin products and Koszul duality",
+    "pubDate": "2026-11-06 05:00:00",
+    "link": "https://arxiv.org/abs/2610.21365",
+    "guid": "oai:arXiv.org:2610.21365",
+    "author": "Chengming Bai, Li Guo, Yunhe Sheng, You Wang",
+    "thumbnail": "",
+    "description": "arXiv:2610.21365 Announce Type: replace \nAbstract: We develop an operadic theory of anti-splitting and anti-replicating for binary operads. For a binary operad $\\opd$, we define its anti-bisuccessor $\\ABSu(\\opd)$ and anti-trisuccessor $\\ATSu(\\opd)$. Each generating operation is recovered as the negative sum of two or three split operations, yielding canonical operad morphisms $\\opd\\to\\ABSu(\\opd)$ and $\\opd\\to\\ATSu(\\opd)$. For binary quadratic operads, these constructions are described by Manin black products: \\[ \\ABSu(\\opd)\\cong\\antiprelie\\bullet\\opd, \\qquad \\ATSu(\\opd)\\cong\\antipostlie\\bullet\\opd. \\] Dually, we also introduce the canonical quadratic anti-duplicator and anti-triplicator, together with their combinatorial counterparts defined by labeled planar binary trees. We show that they coincide precisely under a full-support condition. As applications, we obtain anti-dupli-com and anti-dupli-Lie algebras. We also display an example in which the two constructions differ. Furthermore, we establish the Koszul duality relations \\[ \\widehat{\\ADup}(\\opd^!) \\cong\\ABSu(\\opd)^!, \\qquad \\widehat{\\ATrip}(\\opd^!) \\cong\\ATSu(\\opd)^!, \\] providing an effective description of the canonical quadratic anti-duplicator in terms of the Manin white product. The framework recovers known constructions, including anti-dendriform, anti-pre-Lie and anti-pre-Poisson algebras, and produces further examples and Koszul dual pairs.",
+    "content": "arXiv:2610.21365 Announce Type: replace \nAbstract: We develop an operadic theory of anti-splitting and anti-replicating for binary operads. For a binary operad $\\opd$, we define its anti-bisuccessor $\\ABSu(\\opd)$ and anti-trisuccessor $\\ATSu(\\opd)$. Each generating operation is recovered as the negative sum of two or three split operations, yielding canonical operad morphisms $\\opd\\to\\ABSu(\\opd)$ and $\\opd\\to\\ATSu(\\opd)$. For binary quadratic operads, these constructions are described by Manin black products: \\[ \\ABSu(\\opd)\\cong\\antiprelie\\bullet\\opd, \\qquad \\ATSu(\\opd)\\cong\\antipostlie\\bullet\\opd. \\] Dually, we also introduce the canonical quadratic anti-duplicator and anti-triplicator, together with their combinatorial counterparts defined by labeled planar binary trees. We show that they coincide precisely under a full-support condition. As applications, we obtain anti-dupli-com and anti-dupli-Lie algebras. We also display an example in which the two constructions differ. Furthermore, we establish the Koszul duality relations \\[ \\widehat{\\ADup}(\\opd^!) \\cong\\ABSu(\\opd)^!, \\qquad \\widehat{\\ATrip}(\\opd^!) \\cong\\ATSu(\\opd)^!, \\] providing an effective description of the canonical quadratic anti-duplicator in terms of the Manin white product. The framework recovers known constructions, including anti-dendriform, anti-pre-Lie and anti-pre-Poisson algebras, and produces further examples and Koszul dual pairs.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math-ph",
+      "math.AT"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-06"
+  },
+  {
+    "title": "Directed partial orders on the complex number field",
+    "pubDate": "2026-11-06 05:00:00",
+    "link": "https://arxiv.org/abs/2609.20494",
+    "guid": "oai:arXiv.org:2609.20494",
+    "author": "Wenyi Wang, Ruisong Yuan, Yuehui Zhang, Yuhang Zhu",
+    "thumbnail": "",
+    "description": "arXiv:2609.20494 Announce Type: replace \nAbstract: We construct a class of positive cones that make $\\mathbb{C}$ into a directed partially ordered ring. The positive cones are defined using integral closures of local rings, associated with a transcendence basis and a chosen real generator. A localization criterion also yields such orders on every transcendental extension of $\\mathbb{Q}$. For a fixed coefficient field, we prove that two real generators define the same cone if and only if they differ by an affine map with positive real-algebraic slope and translation algebraic over that field. The nonzero positive elements are closed under inversion.",
+    "content": "arXiv:2609.20494 Announce Type: replace \nAbstract: We construct a class of positive cones that make $\\mathbb{C}$ into a directed partially ordered ring. The positive cones are defined using integral closures of local rings, associated with a transcendence basis and a chosen real generator. A localization criterion also yields such orders on every transcendental extension of $\\mathbb{Q}$. For a fixed coefficient field, we prove that two real generators define the same cone if and only if they differ by an affine map with positive real-algebraic slope and translation algebraic over that field. The nonzero positive elements are closed under inversion.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-06"
+  },
+  {
+    "title": "Central simple algebras, Milnor $K$-theory and homogeneous spaces over complete discretely valued fields of dimension 2",
+    "pubDate": "2026-11-06 05:00:00",
+    "link": "https://arxiv.org/abs/2501.01403",
+    "guid": "oai:arXiv.org:2501.01403",
+    "author": "Philippe Gille, Diego Izquierdo, Giancarlo Lucchini Arteche",
+    "thumbnail": "",
+    "description": "arXiv:2501.01403 Announce Type: replace \nAbstract: Let $K$ be a complete discretely valued field of dimension $2$. We prove the following statements on the arithmetic of $K$. - The ``period equals index'' property holds for central simple $K$-algebras. - If $K$ has characteristic $0$, for every prime $p$, every class in the Milnor $\\mathrm{K}$-theory modulo $p$ is represented by a symbol. - Serre's Conjecture II holds for the field $K$. That is, for every semisimple and simply connected $K$-group $G$, the set $H^1(K,G)$ is trivial.",
+    "content": "arXiv:2501.01403 Announce Type: replace \nAbstract: Let $K$ be a complete discretely valued field of dimension $2$. We prove the following statements on the arithmetic of $K$. - The ``period equals index'' property holds for central simple $K$-algebras. - If $K$ has characteristic $0$, for every prime $p$, every class in the Milnor $\\mathrm{K}$-theory modulo $p$ is represented by a symbol. - Serre's Conjecture II holds for the field $K$. That is, for every semisimple and simply connected $K$-group $G$, the set $H^1(K,G)$ is trivial.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AG",
+      "math.KT"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-06"
+  },
+  {
+    "title": "Weak representability of actions of non-associative algebras",
+    "pubDate": "2026-11-06 05:00:00",
+    "link": "https://arxiv.org/abs/2306.02812",
+    "guid": "oai:arXiv.org:2306.02812",
+    "author": "Jose Brox, Xabier García-Martínez, Manuel Mancini, Tim Van der Linden, Corentin Vienne",
+    "thumbnail": "",
+    "description": "arXiv:2306.02812 Announce Type: replace \nAbstract: We study the categorical-algebraic condition that internal actions are weakly representable (WRA) in the context of varieties of (non-associative) algebras over a field. Our first aim is to give a complete characterization of action accessible, operadic quadratic varieties of non-associative algebras which satisfy an identity of degree two and to study the representability of actions for them. Here we prove that the varieties of two-step nilpotent (anti-)commutative algebras are weakly action representable, and we explain that the condition (WRA) is closely connected to the existence of a so-called strong amalgam. Our second aim is to work towards the construction, still within the context of algebras over a field, of a weakly representing object $\\mathcal{E}(X)$ for the actions on (or split extensions of) an object $X$. We actually obtain a partial algebra $\\mathcal{E}(X)$, which we call external weak actor of $X$, together with a monomorphism of functors ${\\mathrm{SplExt}(-,X) \\rightarrowtail \\mathrm{Hom}(U(-),\\mathcal{E}(X))}$, which we study in detail in the case of quadratic varieties. Furthermore, the relations between the construction of the universal strict general actor $USGA(X)$ and that of $\\mathcal{E}(X)$ are described in detail. We end with some open questions. This version is preceded by a corrigendum. Theorem 2.11 of the published article, which states that the variety of commutative associative algebras is weakly action representable, is false: we exhibit a $16$-dimensional algebra $X$ with zero multiplication for which the functor $\\mathrm{SplExt}(-,X)$ admits no weak representation. Hence this variety is action accessible but not weakly action representable. The corrigendum amends the statements affected by this error, corrects Proposition 2.8, whose \"if\" part needs a strong amalgam, updates the definition of partial algebra, and lists some further minor corrections.",
+    "content": "arXiv:2306.02812 Announce Type: replace \nAbstract: We study the categorical-algebraic condition that internal actions are weakly representable (WRA) in the context of varieties of (non-associative) algebras over a field. Our first aim is to give a complete characterization of action accessible, operadic quadratic varieties of non-associative algebras which satisfy an identity of degree two and to study the representability of actions for them. Here we prove that the varieties of two-step nilpotent (anti-)commutative algebras are weakly action representable, and we explain that the condition (WRA) is closely connected to the existence of a so-called strong amalgam. Our second aim is to work towards the construction, still within the context of algebras over a field, of a weakly representing object $\\mathcal{E}(X)$ for the actions on (or split extensions of) an object $X$. We actually obtain a partial algebra $\\mathcal{E}(X)$, which we call external weak actor of $X$, together with a monomorphism of functors ${\\mathrm{SplExt}(-,X) \\rightarrowtail \\mathrm{Hom}(U(-),\\mathcal{E}(X))}$, which we study in detail in the case of quadratic varieties. Furthermore, the relations between the construction of the universal strict general actor $USGA(X)$ and that of $\\mathcal{E}(X)$ are described in detail. We end with some open questions. This version is preceded by a corrigendum. Theorem 2.11 of the published article, which states that the variety of commutative associative algebras is weakly action representable, is false: we exhibit a $16$-dimensional algebra $X$ with zero multiplication for which the functor $\\mathrm{SplExt}(-,X)$ admits no weak representation. Hence this variety is action accessible but not weakly action representable. The corrigendum amends the statements affected by this error, corrects Proposition 2.8, whose \"if\" part needs a strong amalgam, updates the definition of partial algebra, and lists some further minor corrections.",
+    "enclosure": {},
+    "categories": [
+      "math.CT",
+      "math.RA"
+    ],
+    "__source": "https://arxiv.org/catchup/math.RA/2026-11-06"
+  },
+  {
     "title": "On Jordan nilpotency of index n in group rings",
     "pubDate": "2026-11-05 05:00:00",
     "link": "https://arxiv.org/abs/2611.06587",
