@@ -1,5 +1,311 @@
 [
   {
+    "title": "No free lattice contains an infinite ascending chain of copies of FL(3)",
+    "pubDate": "2026-11-16 05:00:00",
+    "link": "https://arxiv.org/abs/2611.18541",
+    "guid": "oai:arXiv.org:2611.18541v1",
+    "author": "William DeMeo, Ralph Freese",
+    "thumbnail": "",
+    "description": "arXiv:2611.18541v1 Announce Type: new \nAbstract: No free lattice contains an infinite strictly ascending chain of sublattices isomorphic to FL(3), the free lattice on three generators; this answers a question that R. A. Dean asked and the second author's 1997 notes on the problem left open. Every such chain would yield, inside FL(3), a coherent chain of proper self-embeddings $\\Theta_0, \\Theta_1, \\Theta_2, \\dots$ with $\\Theta_k \\circ \\Theta_j = \\Theta_j$ for $j < k$, so that each later embedding fixes the image of each earlier one pointwise. Every proper self-embedding of FL(3) whose fixed sublattice contains a free generating triple fixes one of the three generators, say $z$, because a power of it or of its dual lies above the identity, and a self-embedding that moves every generator and lies above the identity fixes at most eleven elements. Up to duality, a proper self-embedding fixing the image of such a $\\Theta_1$ pointwise fixes only elements above $z \\wedge (x \\vee y)$, where no free generating triple containing $z$ can lie. We also verify the one-step example of the 1997 notes, prove that no step toward such a chain is self-similar, and show that the configuration the argument rules out at length three does occur at length two.\n  Without freeness the answer reverses: FL(3) contains an infinite strictly ascending chain of 3-generated sublattices, so the lattice analogue of Takahasi's chain condition for free groups fails. The theorem itself is checked by the Agda proof assistant under its safe flags, for free lattices over generators with decidable equality, and its formal proof uses no classical principle: finite searches and an induction on a finite set replace the infinite pigeonhole principle by which a chain yields a coherent chain.",
+    "content": "arXiv:2611.18541v1 Announce Type: new \nAbstract: No free lattice contains an infinite strictly ascending chain of sublattices isomorphic to FL(3), the free lattice on three generators; this answers a question that R. A. Dean asked and the second author's 1997 notes on the problem left open. Every such chain would yield, inside FL(3), a coherent chain of proper self-embeddings $\\Theta_0, \\Theta_1, \\Theta_2, \\dots$ with $\\Theta_k \\circ \\Theta_j = \\Theta_j$ for $j < k$, so that each later embedding fixes the image of each earlier one pointwise. Every proper self-embedding of FL(3) whose fixed sublattice contains a free generating triple fixes one of the three generators, say $z$, because a power of it or of its dual lies above the identity, and a self-embedding that moves every generator and lies above the identity fixes at most eleven elements. Up to duality, a proper self-embedding fixing the image of such a $\\Theta_1$ pointwise fixes only elements above $z \\wedge (x \\vee y)$, where no free generating triple containing $z$ can lie. We also verify the one-step example of the 1997 notes, prove that no step toward such a chain is self-similar, and show that the configuration the argument rules out at length three does occur at length two.\n  Without freeness the answer reverses: FL(3) contains an infinite strictly ascending chain of 3-generated sublattices, so the lattice analogue of Takahasi's chain condition for free groups fails. The theorem itself is checked by the Agda proof assistant under its safe flags, for free lattices over generators with decidable equality, and its formal proof uses no classical principle: finite searches and an induction on a finite set replace the infinite pigeonhole principle by which a chain yields a coherent chain.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "cs.LO",
+      "math.GR",
+      "math.LO"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Dimensionalities on monoids",
+    "pubDate": "2026-11-16 05:00:00",
+    "link": "https://arxiv.org/abs/2611.18000",
+    "guid": "oai:arXiv.org:2611.18000v1",
+    "author": "Gejza Jen\\v{c}a",
+    "thumbnail": "",
+    "description": "arXiv:2611.18000v1 Announce Type: new \nAbstract: We study equivalence relations on monoids in $\\Rel$ that are lax morphisms. We call them \\emph{dimensionalities}. We prove that the quotient of a monoid in $\\Rel$ by a dimensionality is again a monoid. We prove that polygroupoids (and hence hypergroups) are exactly the symmetric $\\dag$-Frobenius structures in $\\Rel$. We use this characterization to prove that the quotient of a polygroupoid by a dimensionality that preserves the inverse is a polygroupoid.",
+    "content": "arXiv:2611.18000v1 Announce Type: new \nAbstract: We study equivalence relations on monoids in $\\Rel$ that are lax morphisms. We call them \\emph{dimensionalities}. We prove that the quotient of a monoid in $\\Rel$ by a dimensionality is again a monoid. We prove that polygroupoids (and hence hypergroups) are exactly the symmetric $\\dag$-Frobenius structures in $\\Rel$. We use this characterization to prove that the quotient of a polygroupoid by a dimensionality that preserves the inverse is a polygroupoid.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Admissible Yang--Baxter equation for Nijenhuis perm superalgebras",
+    "pubDate": "2026-11-16 05:00:00",
+    "link": "https://arxiv.org/abs/2611.17694",
+    "guid": "oai:arXiv.org:2611.17694v1",
+    "author": "Imed Basdouri, Bouzid Mosbahi, Yuanyuan Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2611.17694v1 Announce Type: new \nAbstract: We develop a superization of the theory of admissible Yang--Baxter equations for Nijenhuis perm algebras initiated by Ma and Song. We introduce Nijenhuis perm superalgebras, their representations, and the dual representation, with Koszul signs chosen so that the contraction of the Yang--Baxter tensor matches the $\\mathcal O$-operator equation exactly. We define Nijenhuis perm superbialgebras and characterise them by matched pairs. In the coboundary case, we show that every even supersymmetric solution of the $S$-admissible perm Yang--Baxter equation gives rise to a Nijenhuis perm superbialgebra, and we give sufficient conditions for a perm superalgebra to admit a Nijenhuis operator constructed from such a solution. Examples with purely odd components illustrate the role of the grading.",
+    "content": "arXiv:2611.17694v1 Announce Type: new \nAbstract: We develop a superization of the theory of admissible Yang--Baxter equations for Nijenhuis perm algebras initiated by Ma and Song. We introduce Nijenhuis perm superalgebras, their representations, and the dual representation, with Koszul signs chosen so that the contraction of the Yang--Baxter tensor matches the $\\mathcal O$-operator equation exactly. We define Nijenhuis perm superbialgebras and characterise them by matched pairs. In the coboundary case, we show that every even supersymmetric solution of the $S$-admissible perm Yang--Baxter equation gives rise to a Nijenhuis perm superbialgebra, and we give sufficient conditions for a perm superalgebra to admit a Nijenhuis operator constructed from such a solution. Examples with purely odd components illustrate the role of the grading.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "delta-Derivations of Finite-Dimensional Simple Lie Algebras with Values in Arbitrary Modules",
+    "pubDate": "2026-11-16 05:00:00",
+    "link": "https://arxiv.org/abs/2611.17683",
+    "guid": "oai:arXiv.org:2611.17683v1",
+    "author": "Lulu Jiang, Dong Liu, Yufeng Pei",
+    "thumbnail": "",
+    "description": "arXiv:2611.17683v1 Announce Type: new \nAbstract: We determine the spaces of \\(\\delta\\)-derivations of finite-dimensional complex simple Lie algebras with values in arbitrary modules for \\(\\delta\\ne0,1\\). In rank at least two, these derivations vanish unless \\(\\delta=\\frac{1}{2}\\), in which case they are precisely the module homomorphisms from the adjoint module. For \\(\\mathfrak{sl}_2\\), we characterize the derivation spaces in terms of Casimir eigenspaces and determine when they are nonzero. When the coefficient module is simple, every nonzero derivation module is simple except possibly at \\(\\delta=2\\), where it has a simple essential socle with a finite-dimensional semisimple quotient. We describe these modules via translation functors and give explicit formulas for the derivations.",
+    "content": "arXiv:2611.17683v1 Announce Type: new \nAbstract: We determine the spaces of \\(\\delta\\)-derivations of finite-dimensional complex simple Lie algebras with values in arbitrary modules for \\(\\delta\\ne0,1\\). In rank at least two, these derivations vanish unless \\(\\delta=\\frac{1}{2}\\), in which case they are precisely the module homomorphisms from the adjoint module. For \\(\\mathfrak{sl}_2\\), we characterize the derivation spaces in terms of Casimir eigenspaces and determine when they are nonzero. When the coefficient module is simple, every nonzero derivation module is simple except possibly at \\(\\delta=2\\), where it has a simple essential socle with a finite-dimensional semisimple quotient. We describe these modules via translation functors and give explicit formulas for the derivations.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math-ph",
+      "math.MP",
+      "math.RT"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Weak Generators in Stable Module Categories",
+    "pubDate": "2026-11-16 05:00:00",
+    "link": "https://arxiv.org/abs/2611.17546",
+    "guid": "oai:arXiv.org:2611.17546v1",
+    "author": "Christian Lomp",
+    "thumbnail": "",
+    "description": "arXiv:2611.17546v1 Announce Type: new \nAbstract: The aim of this note is to show that the existence of weak generators in the stable module category of a ring, or equivalently, of $p$-indigent modules in the terminology of Holston et al., depends on the underlying model of set theory.",
+    "content": "arXiv:2611.17546v1 Announce Type: new \nAbstract: The aim of this note is to show that the existence of weak generators in the stable module category of a ring, or equivalently, of $p$-indigent modules in the terminology of Holston et al., depends on the underlying model of set theory.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.LO"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Noncommutative Rational Positivstellens\\\"atze with Operator Coefficients",
+    "pubDate": "2026-11-16 05:00:00",
+    "link": "https://arxiv.org/abs/2611.17493",
+    "guid": "oai:arXiv.org:2611.17493v1",
+    "author": "Abhay Jindal, Igor Klep, Jurij Vol\\v{c}i\\v{c}",
+    "thumbnail": "",
+    "description": "arXiv:2611.17493v1 Announce Type: cross \nAbstract: We establish a convex Positivstellensatz for noncommutative rational functions with bounded operator coefficients. A hermitian operator-valued rational function that is positive semidefinite on a matrix convex set described by a linear pencil admits a positivity certificate consisting of rational hermitian squares and a completely positive term involving the defining linear pencil. The certificate comes with an explicit complexity bound independent of the dimension of the coefficient Hilbert space. As a consequence, we solve the operator-valued noncommutative rational analog of Hilbert's 17th problem: every positive semidefinite operator-valued noncommutative rational function is a sum of hermitian squares, and even a single hermitian square when the coefficient Hilbert space is infinite-dimensional. In contrast, the corresponding commutative statement fails for infinite-dimensional operator coefficients.",
+    "content": "arXiv:2611.17493v1 Announce Type: cross \nAbstract: We establish a convex Positivstellensatz for noncommutative rational functions with bounded operator coefficients. A hermitian operator-valued rational function that is positive semidefinite on a matrix convex set described by a linear pencil admits a positivity certificate consisting of rational hermitian squares and a completely positive term involving the defining linear pencil. The certificate comes with an explicit complexity bound independent of the dimension of the coefficient Hilbert space. As a consequence, we solve the operator-valued noncommutative rational analog of Hilbert's 17th problem: every positive semidefinite operator-valued noncommutative rational function is a sum of hermitian squares, and even a single hermitian square when the coefficient Hilbert space is infinite-dimensional. In contrast, the corresponding commutative statement fails for infinite-dimensional operator coefficients.",
+    "enclosure": {},
+    "categories": [
+      "math.FA",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Algebra-Valued Yang-Mills-Type Theories: Polynomial Obstructions and Holonomy Reductions",
+    "pubDate": "2026-11-16 05:00:00",
+    "link": "https://arxiv.org/abs/2611.17370",
+    "guid": "oai:arXiv.org:2611.17370v1",
+    "author": "Yuri Ximenes Lecca, Willian Goulart Gomes Velasco",
+    "thumbnail": "",
+    "description": "arXiv:2611.17370v1 Announce Type: cross \nAbstract: We study algebra-valued Yang-Mills-type ($A$-YMT) theories on a smooth $n$-manifold $M$, where connections take values in an $\\mathfrak{m}$-graded algebra $(A, *)$ and descend to an associated bundle $E_A = P \\times_\\rho A \\to M$. We derive the field equations, gauge transformations, and generalized Bianchi identities, showing that affine Ehresmann compatibility forces the vertical image of $\\mathfrak{g}$ into the Lie nucleus $\\mathcal{N}_{\\mathrm{Lie}}(A)$ of $[x,y]_* = x*y - y*x$, and that gauge covariance and the Bianchi identity are obstructed precisely by the Jacobiator $\\mathrm{Jac}_{[\\cdot,\\cdot]_*}$ (leaving principal $G$-gauge symmetries anomaly-free). We then prove obstructions in three settings. First, internal-product Chern-Weil and self-dual $A$-YMT functionals vanish in weak $(2,s)$-solvable algebras, invariant under $(Q,S)$-splitting extensions. Second, in reductive Cartan-Yang-Mills theories on $A = \\mathbb{R}^k \\oplus \\mathfrak{h}$, quartic-block parenthesization yields a strict cutoff at $n \\ge 8$, while binary-tree halving yields an exact Jacobsthal-number cutoff ($n - 4 \\notin \\bigcup_{r \\ge 3}\\{2 J_r, J_{r+1}\\}$, plus rank vanishing for $n \\ge k + 5$). We catalog Berger holonomy reductions for $4 \\le n \\le 7$, proving an on-shell vanishing (torsion-free) vs. off-shell survival (torsionful) dichotomy in 4D for $U(2)$ and $SU(2)$ connections---via $e \\curlywedge_\\rtimes (e \\curlywedge_\\rtimes \\Omega_\\omega) = \\frac{1}{2}(e \\curlywedge_\\rtimes e) \\curlywedge_\\rtimes \\Omega_\\omega$---and in 7D for $G_2$-connections. Third, we prove an associator-quotient collapse and Jacobiator vertex dichotomy for odd-dimensional internal $A$-Chern-Simons theories, with applications to $A$-$BF$ theories, octonionic and reductive Higgs Proca mass spectra, and reductive dualities.",
+    "content": "arXiv:2611.17370v1 Announce Type: cross \nAbstract: We study algebra-valued Yang-Mills-type ($A$-YMT) theories on a smooth $n$-manifold $M$, where connections take values in an $\\mathfrak{m}$-graded algebra $(A, *)$ and descend to an associated bundle $E_A = P \\times_\\rho A \\to M$. We derive the field equations, gauge transformations, and generalized Bianchi identities, showing that affine Ehresmann compatibility forces the vertical image of $\\mathfrak{g}$ into the Lie nucleus $\\mathcal{N}_{\\mathrm{Lie}}(A)$ of $[x,y]_* = x*y - y*x$, and that gauge covariance and the Bianchi identity are obstructed precisely by the Jacobiator $\\mathrm{Jac}_{[\\cdot,\\cdot]_*}$ (leaving principal $G$-gauge symmetries anomaly-free). We then prove obstructions in three settings. First, internal-product Chern-Weil and self-dual $A$-YMT functionals vanish in weak $(2,s)$-solvable algebras, invariant under $(Q,S)$-splitting extensions. Second, in reductive Cartan-Yang-Mills theories on $A = \\mathbb{R}^k \\oplus \\mathfrak{h}$, quartic-block parenthesization yields a strict cutoff at $n \\ge 8$, while binary-tree halving yields an exact Jacobsthal-number cutoff ($n - 4 \\notin \\bigcup_{r \\ge 3}\\{2 J_r, J_{r+1}\\}$, plus rank vanishing for $n \\ge k + 5$). We catalog Berger holonomy reductions for $4 \\le n \\le 7$, proving an on-shell vanishing (torsion-free) vs. off-shell survival (torsionful) dichotomy in 4D for $U(2)$ and $SU(2)$ connections---via $e \\curlywedge_\\rtimes (e \\curlywedge_\\rtimes \\Omega_\\omega) = \\frac{1}{2}(e \\curlywedge_\\rtimes e) \\curlywedge_\\rtimes \\Omega_\\omega$---and in 7D for $G_2$-connections. Third, we prove an associator-quotient collapse and Jacobiator vertex dichotomy for odd-dimensional internal $A$-Chern-Simons theories, with applications to $A$-$BF$ theories, octonionic and reductive Higgs Proca mass spectra, and reductive dualities.",
+    "enclosure": {},
+    "categories": [
+      "math-ph",
+      "hep-th",
+      "math.DG",
+      "math.MP",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Rings with unequal $\\operatorname{silp-spli}$",
+    "pubDate": "2026-11-16 05:00:00",
+    "link": "https://arxiv.org/abs/2611.17132",
+    "guid": "oai:arXiv.org:2611.17132v2",
+    "author": "Xuyang Chen, Honghui Ding",
+    "thumbnail": "",
+    "description": "arXiv:2611.17132v2 Announce Type: replace \nAbstract: For a unital associative ring $R$, let $\\operatorname{silp}(R)$ be the supremum of the injective dimensions of all projective right $R$-modules, and let $\\operatorname{spli}(R)$ be the supremum of the projective dimensions of all injective right $R$-modules. We construct an explicit non-Noetherian unital algebra \\[R=k1\\oplus \\frac{k(0\\longrightarrow1\\longrightarrow2\\longrightarrow\\cdots)} {\\langle\\text{all paths of length }2\\rangle}\\] over any field and prove that $\\operatorname{silp}(R)=1$ and $\\operatorname{spli}(R)=\\infty. $ The algebra is the unitization of the non-unital path algebra of the one-sided infinite ray modulo paths of length two. The example answers the question whether $\\operatorname{silp=spli}$ raised by Gedrich and Gruenberg.",
+    "content": "arXiv:2611.17132v2 Announce Type: replace \nAbstract: For a unital associative ring $R$, let $\\operatorname{silp}(R)$ be the supremum of the injective dimensions of all projective right $R$-modules, and let $\\operatorname{spli}(R)$ be the supremum of the projective dimensions of all injective right $R$-modules. We construct an explicit non-Noetherian unital algebra \\[R=k1\\oplus \\frac{k(0\\longrightarrow1\\longrightarrow2\\longrightarrow\\cdots)} {\\langle\\text{all paths of length }2\\rangle}\\] over any field and prove that $\\operatorname{silp}(R)=1$ and $\\operatorname{spli}(R)=\\infty. $ The algebra is the unitization of the non-unital path algebra of the one-sided infinite ray modulo paths of length two. The example answers the question whether $\\operatorname{silp=spli}$ raised by Gedrich and Gruenberg.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Superdecomposable Incidence and Complete Path Algebras",
+    "pubDate": "2026-11-16 05:00:00",
+    "link": "https://arxiv.org/abs/2610.16746",
+    "guid": "oai:arXiv.org:2610.16746v2",
+    "author": "Can Hatipo\\u{g}lu, Christian Lomp",
+    "thumbnail": "",
+    "description": "arXiv:2610.16746v2 Announce Type: replace \nAbstract: Generalizing the setting of the second author's work from 2007, we characterize quivers $Q$ for which the dual algebra $R$ of the path coalgebra of $Q$, equivalently the complete path algebra, has no nonzero uniform right ideals: this happens exactly when every vertex of $Q$ can reach a vertex emitting at least two distinct arrows. Equivalently, the injective hull $E(R)$ of the right regular module is superdecomposable. These conditions are also equivalent to the path coalgebra having no nonzero hollow factor modules as a left module over its dual algebra. We also characterize nonempty locally finite posets whose incidence algebras have superdecomposable injective hulls of their right regular modules: this happens exactly when no principal up-set is upward directed.",
+    "content": "arXiv:2610.16746v2 Announce Type: replace \nAbstract: Generalizing the setting of the second author's work from 2007, we characterize quivers $Q$ for which the dual algebra $R$ of the path coalgebra of $Q$, equivalently the complete path algebra, has no nonzero uniform right ideals: this happens exactly when every vertex of $Q$ can reach a vertex emitting at least two distinct arrows. Equivalently, the injective hull $E(R)$ of the right regular module is superdecomposable. These conditions are also equivalent to the path coalgebra having no nonzero hollow factor modules as a left module over its dual algebra. We also characterize nonempty locally finite posets whose incidence algebras have superdecomposable injective hulls of their right regular modules: this happens exactly when no principal up-set is upward directed.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Eigenvalues of locally positive semidefinite matrices: Non-convexity and Geometry",
+    "pubDate": "2026-11-16 05:00:00",
+    "link": "https://arxiv.org/abs/2608.15444",
+    "guid": "oai:arXiv.org:2608.15444v3",
+    "author": "Jose Acevedo, Grigoriy Blekherman, Sebastian Debus, Seokbin Lee, Cordian Riener",
+    "thumbnail": "",
+    "description": "arXiv:2608.15444v3 Announce Type: replace \nAbstract: A real symmetric matrix is called $d$-locally positive semidefinite if all of its $d \\times d$ principal submatrices are positive semidefinite. We investigate the spectral geometry of $d$-locally positive semidefinite matrices. The set of vectors of eigenvalues of $d$-locally positive semidefinite matrices of size $n \\times n$ is fully understood and known to be convex when $d \\in \\{1,n-1,n\\}$ \\cite{blekherman2022hyperbolic}. In the smallest remaining case $n=4, d=2$, non-convexity of the set of vectors of eigenvalues was proved in \\cite{kozhasov2023eigenvalues}, but even in this case the full description was unknown. We provide a basic semialgebraic description of the set of vectors of eigenvalues for $n=4, d=2$ by establishing a Fischer-type inequality for $2$-locally positive semidefinite matrices of size $4 \\times 4$. We prove non-convexity for all $n \\geq 4$ and $2 \\leq d \\leq n - 2$. For $d=2$ we prove a natural linear inequality on a linear slice of eigenvalues of locally positive semidefinite matrices which is tight at exactly two points. This gives a stronger proof of non-convexity in this case. For $d \\in \\{2, n - 2\\}$, analyzing this slice involves solving certain non-smooth and non-convex min-max point configuration problems in the complex plane, which could be of independent interest. Similar problems were considered in \\cite{nesterenko2024submatrices,sengupta2026submatrices} in the context of matrix decomposition and approximation.",
+    "content": "arXiv:2608.15444v3 Announce Type: replace \nAbstract: A real symmetric matrix is called $d$-locally positive semidefinite if all of its $d \\times d$ principal submatrices are positive semidefinite. We investigate the spectral geometry of $d$-locally positive semidefinite matrices. The set of vectors of eigenvalues of $d$-locally positive semidefinite matrices of size $n \\times n$ is fully understood and known to be convex when $d \\in \\{1,n-1,n\\}$ \\cite{blekherman2022hyperbolic}. In the smallest remaining case $n=4, d=2$, non-convexity of the set of vectors of eigenvalues was proved in \\cite{kozhasov2023eigenvalues}, but even in this case the full description was unknown. We provide a basic semialgebraic description of the set of vectors of eigenvalues for $n=4, d=2$ by establishing a Fischer-type inequality for $2$-locally positive semidefinite matrices of size $4 \\times 4$. We prove non-convexity for all $n \\geq 4$ and $2 \\leq d \\leq n - 2$. For $d=2$ we prove a natural linear inequality on a linear slice of eigenvalues of locally positive semidefinite matrices which is tight at exactly two points. This gives a stronger proof of non-convexity in this case. For $d \\in \\{2, n - 2\\}$, analyzing this slice involves solving certain non-smooth and non-convex min-max point configuration problems in the complex plane, which could be of independent interest. Similar problems were considered in \\cite{nesterenko2024submatrices,sengupta2026submatrices} in the context of matrix decomposition and approximation.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.AG",
+      "math.OC"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "$F$-congruences on $F$-inverse monoids",
+    "pubDate": "2026-11-16 05:00:00",
+    "link": "https://arxiv.org/abs/2608.15114",
+    "guid": "oai:arXiv.org:2608.15114v2",
+    "author": "Ajda Lemut Furlani",
+    "thumbnail": "",
+    "description": "arXiv:2608.15114v2 Announce Type: replace \nAbstract: We study the class of congruences on $F$-inverse monoids that respect the unary operation $a\\mapsto\\mx{a}$, assigning to each element the maximum element of its $\\sigma$-class, which we refer to as $F$-congruences. We characterize kernel normal systems and congruence pairs on $F$-inverse monoids which give rise to such congruences and establish a number of further related results including a classification of $F$-congruence-free $F$-inverse monoids.",
+    "content": "arXiv:2608.15114v2 Announce Type: replace \nAbstract: We study the class of congruences on $F$-inverse monoids that respect the unary operation $a\\mapsto\\mx{a}$, assigning to each element the maximum element of its $\\sigma$-class, which we refer to as $F$-congruences. We characterize kernel normal systems and congruence pairs on $F$-inverse monoids which give rise to such congruences and establish a number of further related results including a classification of $F$-congruence-free $F$-inverse monoids.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GR"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "On $q$-pre-Lie algebras",
+    "pubDate": "2026-11-16 05:00:00",
+    "link": "https://arxiv.org/abs/2607.08389",
+    "guid": "oai:arXiv.org:2607.08389v3",
+    "author": "Chengyang Lu, Yanyong Hong",
+    "thumbnail": "",
+    "description": "arXiv:2607.08389v3 Announce Type: replace \nAbstract: In this paper, we introduce the notion of $q$-pre-Lie algebras from the perspective of representations of Lie algebras, providing a parametrized generalization that unifies pre-Lie algebras and anti-pre-Lie algebras. For a $q$-pre-Lie algebra $(A,\\circ)$, the commutator of $\\circ$ is a Lie bracket and the left multiplication operator scaled by $q$ gives a representation of the associated commutator Lie algebra. We also introduce the notions of $q$-$\\mathcal{O}$-operators and $q$-Novikov algebras, and investigate their relationships with $q$-pre-Lie algebras. Several explicit constructions of $q$-pre-Lie algebras are provided. Moreover, we give a complete classification of graded $q$-pre-Lie algebra structures on the Witt algebra and investigate a class of compatible $q$-pre-Lie algebra structures on the Virasoro algebra. Finally, we classify all compatible $q$-pre-Lie algebra structures on finite-dimensional complex simple Lie algebras. We show that every finite-dimensional complex simple Lie algebra admits a compatible $q$-pre-Lie algebra structure precisely when $q=2$, except for $\\mathfrak{sl}_2(\\mathbb{C})$, which also admits such a structure when $q=-1$. In particular, the compatible anti-pre-Lie algebra structures on $\\mathfrak{sl}_2(\\mathbb{C})$ are parametrized by invertible anti-derivations.",
+    "content": "arXiv:2607.08389v3 Announce Type: replace \nAbstract: In this paper, we introduce the notion of $q$-pre-Lie algebras from the perspective of representations of Lie algebras, providing a parametrized generalization that unifies pre-Lie algebras and anti-pre-Lie algebras. For a $q$-pre-Lie algebra $(A,\\circ)$, the commutator of $\\circ$ is a Lie bracket and the left multiplication operator scaled by $q$ gives a representation of the associated commutator Lie algebra. We also introduce the notions of $q$-$\\mathcal{O}$-operators and $q$-Novikov algebras, and investigate their relationships with $q$-pre-Lie algebras. Several explicit constructions of $q$-pre-Lie algebras are provided. Moreover, we give a complete classification of graded $q$-pre-Lie algebra structures on the Witt algebra and investigate a class of compatible $q$-pre-Lie algebra structures on the Virasoro algebra. Finally, we classify all compatible $q$-pre-Lie algebra structures on finite-dimensional complex simple Lie algebras. We show that every finite-dimensional complex simple Lie algebra admits a compatible $q$-pre-Lie algebra structure precisely when $q=2$, except for $\\mathfrak{sl}_2(\\mathbb{C})$, which also admits such a structure when $q=-1$. In particular, the compatible anti-pre-Lie algebra structures on $\\mathfrak{sl}_2(\\mathbb{C})$ are parametrized by invertible anti-derivations.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Equivariant Cleft Extensions and Singular Equivalences",
+    "pubDate": "2026-11-16 05:00:00",
+    "link": "https://arxiv.org/abs/2606.25560",
+    "guid": "oai:arXiv.org:2606.25560v3",
+    "author": "Miltiadis Karakikes",
+    "thumbnail": "",
+    "description": "arXiv:2606.25560v3 Announce Type: replace-cross \nAbstract: We study the equivariant lifting of cleft extensions of abelian categories and its impact on singularity categories. Specifically, we establish the framework for lifting a cleft extension to a G-equivariant cleft extension. Furthermore, we prove that a restriction functor associated to a cleft extension induces a singular equivalence if and only if its equivariant counterpart does. As a concrete application, we demonstrate that the skew group ring of a $G$-equivariant $\\theta$-extension is isomorphic to a $\\widehat{\\theta}$-extension of the base skew group ring, allowing us to lift singular equivalences for these structures.",
+    "content": "arXiv:2606.25560v3 Announce Type: replace-cross \nAbstract: We study the equivariant lifting of cleft extensions of abelian categories and its impact on singularity categories. Specifically, we establish the framework for lifting a cleft extension to a G-equivariant cleft extension. Furthermore, we prove that a restriction functor associated to a cleft extension induces a singular equivalence if and only if its equivariant counterpart does. As a concrete application, we demonstrate that the skew group ring of a $G$-equivariant $\\theta$-extension is isomorphic to a $\\widehat{\\theta}$-extension of the base skew group ring, allowing us to lift singular equivalences for these structures.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.CT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Proof of Dittert's conjecture for dimensions $n\\ge 17$",
+    "pubDate": "2026-11-16 05:00:00",
+    "link": "https://arxiv.org/abs/2606.01531",
+    "guid": "oai:arXiv.org:2606.01531v2",
+    "author": "Zhekai Pang",
+    "thumbnail": "",
+    "description": "arXiv:2606.01531v2 Announce Type: replace \nAbstract: Dittert's conjecture gives a sharp upper bound for the Dittert functional on nonnegative matrices whose entries sum to $n$. It extends the van der Waerden permanent problem from the doubly stochastic polytope to a larger simplex in which row and column sums are allowed to vary. We prove the conjecture for every dimension $n\\ge 17$. The proof combines the Knopp--Sinkhorn lower bound for boundary points of the doubly stochastic polytope with a refined scaling step in the Cheon--Wanless method. The main improvement is a subset-sum estimate for the row and column sums of a near maximizer that is sharper for subset sizes in the central range and reduces the scaling factor needed to obtain a doubly superstochastic matrix. This strengthened comparison is sufficient to exclude boundary maximizers in all dimensions $n\\ge 17$, and the known positive-support characterization then identifies the unique maximizer as $n^{-1}J_n$.",
+    "content": "arXiv:2606.01531v2 Announce Type: replace \nAbstract: Dittert's conjecture gives a sharp upper bound for the Dittert functional on nonnegative matrices whose entries sum to $n$. It extends the van der Waerden permanent problem from the doubly stochastic polytope to a larger simplex in which row and column sums are allowed to vary. We prove the conjecture for every dimension $n\\ge 17$. The proof combines the Knopp--Sinkhorn lower bound for boundary points of the doubly stochastic polytope with a refined scaling step in the Cheon--Wanless method. The main improvement is a subset-sum estimate for the row and column sums of a near maximizer that is sharper for subset sizes in the central range and reduces the scaling factor needed to obtain a doubly superstochastic matrix. This strengthened comparison is sufficient to exclude boundary maximizers in all dimensions $n\\ge 17$, and the known positive-support characterization then identifies the unique maximizer as $n^{-1}J_n$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "A rational model for the fiberwise THH transfer I: Sullivan algebras",
+    "pubDate": "2026-11-16 05:00:00",
+    "link": "https://arxiv.org/abs/2604.02516",
+    "guid": "oai:arXiv.org:2604.02516v3",
+    "author": "Florian Naef, Robin Stoll",
+    "thumbnail": "",
+    "description": "arXiv:2604.02516v3 Announce Type: replace-cross \nAbstract: Given a map $f$ of fibrations over a space $B$ such that the fiber of $f$ is simply connected and finitely dominated, we prove that its fiberwise THH transfer, considered as a map of parametrized spectra over $B$, is rationally modeled by the Hochschild homology transfer of a Sullivan model of $f$. The proof goes in two steps. Firstly, we use the machinery of higher categorical traces to show that the fiberwise THH transfer can be computed internally to parametrized spectra. Secondly, we model the resulting description rationally using work of Braunack-Mayer, who proved that parametrized spectra can be modeled by modules over Sullivan algebras. In Part II, we will use our result to obtain a rational model of the Becker-Gottlieb transfer, and for applications to manifold topology.",
+    "content": "arXiv:2604.02516v3 Announce Type: replace-cross \nAbstract: Given a map $f$ of fibrations over a space $B$ such that the fiber of $f$ is simply connected and finitely dominated, we prove that its fiberwise THH transfer, considered as a map of parametrized spectra over $B$, is rationally modeled by the Hochschild homology transfer of a Sullivan model of $f$. The proof goes in two steps. Firstly, we use the machinery of higher categorical traces to show that the fiberwise THH transfer can be computed internally to parametrized spectra. Secondly, we model the resulting description rationally using work of Braunack-Mayer, who proved that parametrized spectra can be modeled by modules over Sullivan algebras. In Part II, we will use our result to obtain a rational model of the Becker-Gottlieb transfer, and for applications to manifold topology.",
+    "enclosure": {},
+    "categories": [
+      "math.AT",
+      "math.KT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Degenerations of nilalgebras",
+    "pubDate": "2026-11-16 05:00:00",
+    "link": "https://arxiv.org/abs/2408.07574",
+    "guid": "oai:arXiv.org:2408.07574v2",
+    "author": "Ivan Kaygorodov, Oleg Shashkov",
+    "thumbnail": "",
+    "description": "arXiv:2408.07574v2 Announce Type: replace \nAbstract: All complex $3$-dimensional nilalgebras were described. As a corollary, all degenerations in the variety of complex $3$-dimensional nilalgebras were obtained.",
+    "content": "arXiv:2408.07574v2 Announce Type: replace \nAbstract: All complex $3$-dimensional nilalgebras were described. As a corollary, all degenerations in the variety of complex $3$-dimensional nilalgebras were obtained.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Cohomology and Deformation of Leibniz Superalgebras",
+    "pubDate": "2026-11-16 05:00:00",
+    "link": "https://arxiv.org/abs/2101.07652",
+    "guid": "oai:arXiv.org:2101.07652v2",
+    "author": "RB Yadav, Arpan Sharma",
+    "thumbnail": "",
+    "description": "arXiv:2101.07652v2 Announce Type: replace \nAbstract: In this article, we give a characterization of Leibniz superalgebras. We study cohomology theory of Leibniz superalgebras. Using the cohomology we study the formal deformation theory of Leibniz superalgebras. We do some cohomology computation in lower dimensions. We establish a one to one correspondence between extensions of a Leibniz superalgebra and its cohomology group in dimension 2.",
+    "content": "arXiv:2101.07652v2 Announce Type: replace \nAbstract: In this article, we give a characterization of Leibniz superalgebras. We study cohomology theory of Leibniz superalgebras. Using the cohomology we study the formal deformation theory of Leibniz superalgebras. We do some cohomology computation in lower dimensions. We establish a one to one correspondence between extensions of a Leibniz superalgebra and its cohomology group in dimension 2.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "The algebraic and geometric classification of nilpotent binary Lie algebras",
+    "pubDate": "2026-11-16 05:00:00",
+    "link": "https://arxiv.org/abs/1902.01706",
+    "guid": "oai:arXiv.org:1902.01706v3",
+    "author": "Hani Abdelwahab, Antonio Jes\\'us Calder\\'on, Ivan Kaygorodov",
+    "thumbnail": "",
+    "description": "arXiv:1902.01706v3 Announce Type: replace \nAbstract: The paper is devoted to give the complete algebraic classification of nilpotent binary Lie algebras of dimension $\\leq 6$ over an arbitrary base field ${\\mathbb{F}}$ of characteristic not $2$ and the complete geometric classification of nilpotent binary Lie algebras of dimension $6$ over $\\mathbb C.$ As an application, we have the algebraic and geometric classification of nilpotent anticommutative $\\mathfrak{CD}$-algebras of dimension $\\leq 6.$",
+    "content": "arXiv:1902.01706v3 Announce Type: replace \nAbstract: The paper is devoted to give the complete algebraic classification of nilpotent binary Lie algebras of dimension $\\leq 6$ over an arbitrary base field ${\\mathbb{F}}$ of characteristic not $2$ and the complete geometric classification of nilpotent binary Lie algebras of dimension $6$ over $\\mathbb C.$ As an application, we have the algebraic and geometric classification of nilpotent anticommutative $\\mathfrak{CD}$-algebras of dimension $\\leq 6.$",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "The variety of $2$-dimensional algebras over an algebraically closed field",
+    "pubDate": "2026-11-16 05:00:00",
+    "link": "https://arxiv.org/abs/1701.08233",
+    "guid": "oai:arXiv.org:1701.08233v3",
+    "author": "Ivan Kaygorodov, Yury Volkov",
+    "thumbnail": "",
+    "description": "arXiv:1701.08233v3 Announce Type: replace \nAbstract: The work is devoted to the variety of $2$-dimensional algebras over an algebraically closed field. Firstly, we classify such algebras modulo isomorphism. Then we describe the degenerations and the closures of principal algebra series in the variety under consideration. Finally, we apply our results to obtain analogous descriptions for the subvarieties of flexible and bicommutative algebras. In particular, we describe rigid algebras and irreducible components for these subvarieties.",
+    "content": "arXiv:1701.08233v3 Announce Type: replace \nAbstract: The work is devoted to the variety of $2$-dimensional algebras over an algebraically closed field. Firstly, we classify such algebras modulo isomorphism. Then we describe the degenerations and the closures of principal algebra series in the variety under consideration. Finally, we apply our results to obtain analogous descriptions for the subvarieties of flexible and bicommutative algebras. In particular, we describe rigid algebras and irreducible components for these subvarieties.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
     "title": "Rings with unequal $\\operatorname{slip-spli}$",
     "pubDate": "2026-11-13 05:00:00",
     "link": "https://arxiv.org/abs/2611.17132",
