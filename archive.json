@@ -1,5 +1,652 @@
 [
   {
+    "title": "Exceptional cubics on 7-manifolds",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.21589",
+    "guid": "oai:arXiv.org:2611.21589v1",
+    "author": "Sergey Grigorian",
+    "thumbnail": "",
+    "description": "arXiv:2611.21589v1 Announce Type: cross \nAbstract: A $G_2$-structure $\\varphi$ on a $7$-manifold $\\mathcal M$ determines a two-dimensional space of invariant totally symmetric cubic forms on each fiber of the rank-$27$ bundle $S^2_0T^*\\mathcal M$ of traceless symmetric $2$-tensors. This space is spanned by the trace cubic $C_0$ and a cubic $C_\\varphi$ that, up to a constant factor, is the pointwise integrand of the Yukawa coupling on the $G_2$ moduli space. We determine the exact infinitesimal stabilizers over $\\mathbb C$ of all nonzero cubics in this family. For $C_0+\\lambda C_\\varphi$, the stabilizer has dimension $78$ precisely at the two non-real values $\\lambda_\\pm=(1\\pm i\\sqrt7)/8$. Its dimension is $21$ for $C_0$ and $14$ in all other cases. At $\\lambda_\\pm$, the stabilizer is simple of type $E_6$, and the corresponding cubic is linearly equivalent to the complex Albert algebra cubic norm.\n  The two cubics at $\\lambda_\\pm$, which we call critical, define complex-conjugate $E_6$-reductions of the complexified bundle. At any element with nonzero critical norm, the corresponding cubic determines a complex Albert algebra with basepoint stabilizer $F_4$; a line subbundle of the tangent bundle selects a smooth bundle of these algebras with tensorial operations and a Euclidean real form. The induced Levi-Civita connection preserves either critical cubic exactly when the $G_2$-structure is torsion-free. Its orthogonal projections onto the two exceptional reductions coincide with the connection induced by the minimal $G_2$-connection.",
+    "content": "arXiv:2611.21589v1 Announce Type: cross \nAbstract: A $G_2$-structure $\\varphi$ on a $7$-manifold $\\mathcal M$ determines a two-dimensional space of invariant totally symmetric cubic forms on each fiber of the rank-$27$ bundle $S^2_0T^*\\mathcal M$ of traceless symmetric $2$-tensors. This space is spanned by the trace cubic $C_0$ and a cubic $C_\\varphi$ that, up to a constant factor, is the pointwise integrand of the Yukawa coupling on the $G_2$ moduli space. We determine the exact infinitesimal stabilizers over $\\mathbb C$ of all nonzero cubics in this family. For $C_0+\\lambda C_\\varphi$, the stabilizer has dimension $78$ precisely at the two non-real values $\\lambda_\\pm=(1\\pm i\\sqrt7)/8$. Its dimension is $21$ for $C_0$ and $14$ in all other cases. At $\\lambda_\\pm$, the stabilizer is simple of type $E_6$, and the corresponding cubic is linearly equivalent to the complex Albert algebra cubic norm.\n  The two cubics at $\\lambda_\\pm$, which we call critical, define complex-conjugate $E_6$-reductions of the complexified bundle. At any element with nonzero critical norm, the corresponding cubic determines a complex Albert algebra with basepoint stabilizer $F_4$; a line subbundle of the tangent bundle selects a smooth bundle of these algebras with tensorial operations and a Euclidean real form. The induced Levi-Civita connection preserves either critical cubic exactly when the $G_2$-structure is torsion-free. Its orthogonal projections onto the two exceptional reductions coincide with the connection induced by the minimal $G_2$-connection.",
+    "enclosure": {},
+    "categories": [
+      "math.DG",
+      "hep-th",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Belavin--Drinfeld bivectors and Poisson deformations",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.21263",
+    "guid": "oai:arXiv.org:2611.21263v1",
+    "author": "Zihang Liu, Dmitriy Voloshyn",
+    "thumbnail": "",
+    "description": "arXiv:2611.21263v1 Announce Type: cross \nAbstract: We study Belavin--Drinfeld Poisson bivectors $\\pi_{(\\bar{\\mathbf{\\Gamma}}^r,\\bar{\\mathbf{\\Gamma}}^c)}$ on $\\operatorname{Mat}_{n\\times m}(\\mathbb{C})$ from the perspective of Poisson deformation theory. We prove that the log-canonical part $\\pi_0$ of $\\pi_{(\\bar{\\mathbf{\\Gamma}}^r,\\bar{\\mathbf{\\Gamma}}^c)}$ is $\\mathbb{T}_{(\\mathbf{\\Gamma}^r,\\mathbf{\\Gamma}^c)}$-log-symplectic if and only if the pair $(\\mathbf{\\Gamma}^r,\\mathbf{\\Gamma}^c)$ of Belavin--Drinfeld triples is aperiodic. In this case, we show that $\\pi_{(\\bar{\\mathbf{\\Gamma}}^r,\\bar{\\mathbf{\\Gamma}}^c)}$ is a maximal $\\mathbb{T}_{(\\mathbf{\\Gamma}^r,\\mathbf{\\Gamma}^c)}$-invariant Poisson deformation of $\\pi_0$, and we construct a $\\mathbb{T}_{(\\mathbf{\\Gamma}^r,\\mathbf{\\Gamma}^c)}$-equivariant Poisson birational map between $(\\operatorname{Mat}_{n\\times m},\\pi_0)$ and $(\\operatorname{Mat}_{n\\times m},\\pi_{(\\bar{\\mathbf{\\Gamma}}^r,\\bar{\\mathbf{\\Gamma}}^c)})$.",
+    "content": "arXiv:2611.21263v1 Announce Type: cross \nAbstract: We study Belavin--Drinfeld Poisson bivectors $\\pi_{(\\bar{\\mathbf{\\Gamma}}^r,\\bar{\\mathbf{\\Gamma}}^c)}$ on $\\operatorname{Mat}_{n\\times m}(\\mathbb{C})$ from the perspective of Poisson deformation theory. We prove that the log-canonical part $\\pi_0$ of $\\pi_{(\\bar{\\mathbf{\\Gamma}}^r,\\bar{\\mathbf{\\Gamma}}^c)}$ is $\\mathbb{T}_{(\\mathbf{\\Gamma}^r,\\mathbf{\\Gamma}^c)}$-log-symplectic if and only if the pair $(\\mathbf{\\Gamma}^r,\\mathbf{\\Gamma}^c)$ of Belavin--Drinfeld triples is aperiodic. In this case, we show that $\\pi_{(\\bar{\\mathbf{\\Gamma}}^r,\\bar{\\mathbf{\\Gamma}}^c)}$ is a maximal $\\mathbb{T}_{(\\mathbf{\\Gamma}^r,\\mathbf{\\Gamma}^c)}$-invariant Poisson deformation of $\\pi_0$, and we construct a $\\mathbb{T}_{(\\mathbf{\\Gamma}^r,\\mathbf{\\Gamma}^c)}$-equivariant Poisson birational map between $(\\operatorname{Mat}_{n\\times m},\\pi_0)$ and $(\\operatorname{Mat}_{n\\times m},\\pi_{(\\bar{\\mathbf{\\Gamma}}^r,\\bar{\\mathbf{\\Gamma}}^c)})$.",
+    "enclosure": {},
+    "categories": [
+      "math.SG",
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Finite presentations for Thompson monoids",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.21237",
+    "guid": "oai:arXiv.org:2611.21237v1",
+    "author": "Reinis Cirpons, Luna Elliott, Alex Levine, James D. Mitchell",
+    "thumbnail": "",
+    "description": "arXiv:2611.21237v1 Announce Type: cross \nAbstract: Thompson's group $V$ was introduced in 1965 as one of the first examples of an infinite finitely presented simple group. The Higman-Thompson groups $V_{k, r}$ naturally generalize $V$; they exhibit many of the same interesting properties and have been extensively studied in the literature. Monoid theoretic analogues $TV_{k, r}$, $PTV_{k, r}$, and $IV_{k, r}$ of the Higman-Thompson groups were first considered by Thompson, and published many years later in work of Birget. The monoid theoretic analogue of the symmetric group is the full transformation monoid, in that every monoid is isomorphic to a submonoid of some full transformation monoid. The analogous role for inverse monoids is played by the symmetric inverse monoid. Birget's three monoids $TV_{k, r}$, $PTV_{k, r}$, and $IV_{k, r}$ are to $V_{n, r}$ what the full, and partial transformation monoids, and the symmetric inverse monoid are to the symmetric group. The second author and De Witt recently showed that $TV_{k, r}$ is finitely presented. In this paper we show that the remaining two monoids $PTV_{k, r}$ and $IV_{k, r}$ are also finitely presented.",
+    "content": "arXiv:2611.21237v1 Announce Type: cross \nAbstract: Thompson's group $V$ was introduced in 1965 as one of the first examples of an infinite finitely presented simple group. The Higman-Thompson groups $V_{k, r}$ naturally generalize $V$; they exhibit many of the same interesting properties and have been extensively studied in the literature. Monoid theoretic analogues $TV_{k, r}$, $PTV_{k, r}$, and $IV_{k, r}$ of the Higman-Thompson groups were first considered by Thompson, and published many years later in work of Birget. The monoid theoretic analogue of the symmetric group is the full transformation monoid, in that every monoid is isomorphic to a submonoid of some full transformation monoid. The analogous role for inverse monoids is played by the symmetric inverse monoid. Birget's three monoids $TV_{k, r}$, $PTV_{k, r}$, and $IV_{k, r}$ are to $V_{n, r}$ what the full, and partial transformation monoids, and the symmetric inverse monoid are to the symmetric group. The second author and De Witt recently showed that $TV_{k, r}$ is finitely presented. In this paper we show that the remaining two monoids $PTV_{k, r}$ and $IV_{k, r}$ are also finitely presented.",
+    "enclosure": {},
+    "categories": [
+      "math.GR",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "A new class of Manin triples of compatible Lie algebras",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.20604",
+    "guid": "oai:arXiv.org:2611.20604v1",
+    "author": "Guilai Liu",
+    "thumbnail": "",
+    "description": "arXiv:2611.20604v1 Announce Type: new \nAbstract: This paper introduces a new class of Manin triples of compatible Lie algebras and investigates the corresponding bialgebra structures. To this end, we first study an invariant-c$2$c form on a compatible Lie algebra, namely a nondegenerate symmetric bilinear form that is invariant with respect to one Lie bracket and is a commutative $2$-cocycle with respect to the other, which naturally arises from a quadratic differential Novikov algebra. Then we introduce the notion of compatible Lie-anti-pre-Lie algebras (compatible LAPL algebras in short), which serve as the underlying algebra structures of compatible Lie algebras endowed with invariant-c$2$c forms. Furthermore, we introduce the notion of a compatible LAPL bialgebra, which is shown to be equivalent to a Manin triple of compatible Lie algebras with respect to the invariant-c$2$c form. We investigate triangular compatible LAPL bialgebras, which are obtained from antisymmetric solutions of the compatible LAPL Yang-Baxter equation. We also use $\\mathcal{O}$-operators of compatible LAPL algebras to construct such solutions. Finally, we show that every differential Novikov bialgebra gives rise to a compatible LAPL bialgebra and that this construction preserves triangularity.",
+    "content": "arXiv:2611.20604v1 Announce Type: new \nAbstract: This paper introduces a new class of Manin triples of compatible Lie algebras and investigates the corresponding bialgebra structures. To this end, we first study an invariant-c$2$c form on a compatible Lie algebra, namely a nondegenerate symmetric bilinear form that is invariant with respect to one Lie bracket and is a commutative $2$-cocycle with respect to the other, which naturally arises from a quadratic differential Novikov algebra. Then we introduce the notion of compatible Lie-anti-pre-Lie algebras (compatible LAPL algebras in short), which serve as the underlying algebra structures of compatible Lie algebras endowed with invariant-c$2$c forms. Furthermore, we introduce the notion of a compatible LAPL bialgebra, which is shown to be equivalent to a Manin triple of compatible Lie algebras with respect to the invariant-c$2$c form. We investigate triangular compatible LAPL bialgebras, which are obtained from antisymmetric solutions of the compatible LAPL Yang-Baxter equation. We also use $\\mathcal{O}$-operators of compatible LAPL algebras to construct such solutions. Finally, we show that every differential Novikov bialgebra gives rise to a compatible LAPL bialgebra and that this construction preserves triangularity.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Full $t$-Linkage, Cancellation, and Almost Krull Domains",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.20599",
+    "guid": "oai:arXiv.org:2611.20599v1",
+    "author": "Hwankoo Kim",
+    "thumbnail": "",
+    "description": "arXiv:2611.20599v1 Announce Type: cross \nAbstract: Motivated by open questions of Kabbaj and Mimouni, we determine the position of full $t$-linkage among the standard classes of integral domains and its relationship with almost Krullness. Full linkage for a star operation is equivalent to cancellation in the monoid of all nonzero fractional star ideals. For the $t$-operation, this full cancellation law, denoted by $\\mathrm{TCL}$, lies strictly between the $t$-almost Dedekind and completely integrally closed classes; on the $\\mathrm{PvMD}$ locus, we recover the known $t$-almost Dedekind characterization. We prove that $\\mathrm{TCL}$ and almost Krullness are incomparable. A monoid algebra arising from Reinhart's example satisfies $\\mathrm{TCL}$ but is neither almost Krull nor a $\\mathrm{PvMD}$. In the opposite direction, we construct a locally factorial almost Krull domain with a maximal ideal $0\\ne M=M_t=(M^2)_t\\subsetneq D$. For this domain the canonical locally divisorial operation $\\kappa$ is cancellative and $\\kappa_f=t$, but cancellation does not descend to $t$. In contrast, finite valuation patching proves that the Heinzer--Ohm and Arnold--Matsuda almost Krull non-$\\mathrm{PvMD}$s satisfy $\\mathrm{TCL}$ with $t<\\kappa$; in the latter example $\\kappa=v$. Class-monoid, residual, and support criteria identify the obstruction to descent. Thus the missing $t$-linkage node is governed by cancellation in the entire fractional $t$-ideal monoid, rather than by local Krullness alone.",
+    "content": "arXiv:2611.20599v1 Announce Type: cross \nAbstract: Motivated by open questions of Kabbaj and Mimouni, we determine the position of full $t$-linkage among the standard classes of integral domains and its relationship with almost Krullness. Full linkage for a star operation is equivalent to cancellation in the monoid of all nonzero fractional star ideals. For the $t$-operation, this full cancellation law, denoted by $\\mathrm{TCL}$, lies strictly between the $t$-almost Dedekind and completely integrally closed classes; on the $\\mathrm{PvMD}$ locus, we recover the known $t$-almost Dedekind characterization. We prove that $\\mathrm{TCL}$ and almost Krullness are incomparable. A monoid algebra arising from Reinhart's example satisfies $\\mathrm{TCL}$ but is neither almost Krull nor a $\\mathrm{PvMD}$. In the opposite direction, we construct a locally factorial almost Krull domain with a maximal ideal $0\\ne M=M_t=(M^2)_t\\subsetneq D$. For this domain the canonical locally divisorial operation $\\kappa$ is cancellative and $\\kappa_f=t$, but cancellation does not descend to $t$. In contrast, finite valuation patching proves that the Heinzer--Ohm and Arnold--Matsuda almost Krull non-$\\mathrm{PvMD}$s satisfy $\\mathrm{TCL}$ with $t<\\kappa$; in the latter example $\\kappa=v$. Class-monoid, residual, and support criteria identify the obstruction to descent. Thus the missing $t$-linkage node is governed by cancellation in the entire fractional $t$-ideal monoid, rather than by local Krullness alone.",
+    "enclosure": {},
+    "categories": [
+      "math.AC",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Block Generalized Inverses in Skew Corner Pairs",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.20370",
+    "guid": "oai:arXiv.org:2611.20370v1",
+    "author": "Feroz Siddique",
+    "thumbnail": "",
+    "description": "arXiv:2611.20370v1 Announce Type: new \nAbstract: We view generalized inverses from another perspective, through invertibility in the skew corner bimodules $eRf$ attached to a pair of distinct idempotents $e, f$ of a ring $R$. Many generalized inverses are defined by a system of equations together with conditions on ranges and kernels, which makes them harder to visualize as inverses in the traditional sense. In the language of invertible blocks, however, they become genuine one or two-sided inverses of a suitable compression of the element. We will systematically show how block invertibility in a skew corner $eRf$ can be used to visualize Drazin's $(b,c)$-inverse, which contains the Moore--Penrose, Bott-Duffin $(e,f)$ inverses amongst others. On this foundation we develop a way to produce units of the corner ring from complementary blocks, and transport stable range one across two-sided Peirce decompositions for distinct idempotents.",
+    "content": "arXiv:2611.20370v1 Announce Type: new \nAbstract: We view generalized inverses from another perspective, through invertibility in the skew corner bimodules $eRf$ attached to a pair of distinct idempotents $e, f$ of a ring $R$. Many generalized inverses are defined by a system of equations together with conditions on ranges and kernels, which makes them harder to visualize as inverses in the traditional sense. In the language of invertible blocks, however, they become genuine one or two-sided inverses of a suitable compression of the element. We will systematically show how block invertibility in a skew corner $eRf$ can be used to visualize Drazin's $(b,c)$-inverse, which contains the Moore--Penrose, Bott-Duffin $(e,f)$ inverses amongst others. On this foundation we develop a way to produce units of the corner ring from complementary blocks, and transport stable range one across two-sided Peirce decompositions for distinct idempotents.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Hochschild Cocycle and Universality of Merge",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.20305",
+    "guid": "oai:arXiv.org:2611.20305v1",
+    "author": "Matilde Marcolli, Elizabeth Xiao",
+    "thumbnail": "",
+    "description": "arXiv:2611.20305v1 Announce Type: cross \nAbstract: The Hopf algebra Markov chain dynamical system, on the Hopf algebra of non-planar binary forests, that models the action of Merge on workspaces in Chomsky's Minimalist Model of syntax, satisfies a universal property, determined by the fact that the Merge operation is a Hochschild 1-cocycle. This universal property has an interpretation in terms of models of the syntax-semantics interface, as it shows that, if the side of semantics possesses a sufficiently rich compositional structure, then that structure is uniquely induced by the syntactic Merge, once the semantic values of lexical items and syntactic features are assigned. We illustrate how this universality works by showing, in particular, full compatibility of this Hopf algebraic formulation with Heim-Kratzer semantics.",
+    "content": "arXiv:2611.20305v1 Announce Type: cross \nAbstract: The Hopf algebra Markov chain dynamical system, on the Hopf algebra of non-planar binary forests, that models the action of Merge on workspaces in Chomsky's Minimalist Model of syntax, satisfies a universal property, determined by the fact that the Merge operation is a Hochschild 1-cocycle. This universal property has an interpretation in terms of models of the syntax-semantics interface, as it shows that, if the side of semantics possesses a sufficiently rich compositional structure, then that structure is uniquely induced by the syntactic Merge, once the semantic values of lexical items and syntactic features are assigned. We illustrate how this universality works by showing, in particular, full compatibility of this Hopf algebraic formulation with Heim-Kratzer semantics.",
+    "enclosure": {},
+    "categories": [
+      "cs.CL",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "A characterisation of almost gentle algebras",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.20135",
+    "guid": "oai:arXiv.org:2611.20135v1",
+    "author": "Pengyun Chen, Bohan Xing",
+    "thumbnail": "",
+    "description": "arXiv:2611.20135v1 Announce Type: cross \nAbstract: A finite-dimensional algebra over an algebraically closed field is gentle if and only if its trivial extension is special biserial. We prove the corresponding characterisation for almost gentle algebras, that is, an algebra over such a field is almost gentle if and only if its trivial extension is special multiserial, which answers a question of Green and Schroll. As a consequence, the property of having a special multiserial trivial extension is invariant under stable equivalence.",
+    "content": "arXiv:2611.20135v1 Announce Type: cross \nAbstract: A finite-dimensional algebra over an algebraically closed field is gentle if and only if its trivial extension is special biserial. We prove the corresponding characterisation for almost gentle algebras, that is, an algebra over such a field is almost gentle if and only if its trivial extension is special multiserial, which answers a question of Green and Schroll. As a consequence, the property of having a special multiserial trivial extension is invariant under stable equivalence.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Embedding of Barnes-Wall lattices into Cayley-Dickson algebras",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.20105",
+    "guid": "oai:arXiv.org:2611.20105v1",
+    "author": "Svetlana Zhilina",
+    "thumbnail": "",
+    "description": "arXiv:2611.20105v1 Announce Type: new \nAbstract: The family of Barnes-Wall lattices includes the balanced Barnes-Wall lattice $M_n$ over $\\mathbb{Z}[\\sqrt{2}]$ and two ordinary Barnes-Wall lattices $L_n$ and $L'_n$ over $\\mathbb{Z}$, which are geometrically equivalent to each other. Embedding of these lattices into the Cayley-Dickson algebras of an appropriate dimension is considered. It is shown that for all $n \\geq 2$ the lattices $M_n$ and $L_n$ are closed under multiplication and are generated by the sets of pairwise products of their elements. The lattices $L_n \\cdot L'_n$, $L'_n \\cdot L_n$, and $L'_n \\cdot L'_n$, generated by pairwise products of elements of the lattices $L_n$ and $L'_n$, also are studied.",
+    "content": "arXiv:2611.20105v1 Announce Type: new \nAbstract: The family of Barnes-Wall lattices includes the balanced Barnes-Wall lattice $M_n$ over $\\mathbb{Z}[\\sqrt{2}]$ and two ordinary Barnes-Wall lattices $L_n$ and $L'_n$ over $\\mathbb{Z}$, which are geometrically equivalent to each other. Embedding of these lattices into the Cayley-Dickson algebras of an appropriate dimension is considered. It is shown that for all $n \\geq 2$ the lattices $M_n$ and $L_n$ are closed under multiplication and are generated by the sets of pairwise products of their elements. The lattices $L_n \\cdot L'_n$, $L'_n \\cdot L_n$, and $L'_n \\cdot L'_n$, generated by pairwise products of elements of the lattices $L_n$ and $L'_n$, also are studied.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.CO"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Iso-Multiplication Modules over Noncommutative Rings: Triangular Classification and Rational Rigidity",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.20073",
+    "guid": "oai:arXiv.org:2611.20073v1",
+    "author": "Askar Tuganbaeva, Unsal Tekir, Suat Koc, Gulsen Ulucak",
+    "thumbnail": "",
+    "description": "arXiv:2611.20073v1 Announce Type: new \nAbstract: A right A-module M is called iso-multiplication if for every submodule N of M there is a two-sided ideal B of A such that N ?A MB. We construct noncommutative examples of isomultiplication modules which are not multiplication modules, including triangular algebras of arbitrary dimension. We classify all iso-multiplication modules over T_2(k) without a finitegeneration assumption. For a semiprime right Goldie ring we prove that the classical localization of an iso-multiplication module is multiplicity-free. Further consequences address composition length and local rings; we distinguish these from standard Morita, Ore-localization, and chaincondition results.",
+    "content": "arXiv:2611.20073v1 Announce Type: new \nAbstract: A right A-module M is called iso-multiplication if for every submodule N of M there is a two-sided ideal B of A such that N ?A MB. We construct noncommutative examples of isomultiplication modules which are not multiplication modules, including triangular algebras of arbitrary dimension. We classify all iso-multiplication modules over T_2(k) without a finitegeneration assumption. For a semiprime right Goldie ring we prove that the classical localization of an iso-multiplication module is multiplicity-free. Further consequences address composition length and local rings; we distinguish these from standard Morita, Ore-localization, and chaincondition results.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "A DGLA approach to global extensions and deformations of Lie algebras",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.20072",
+    "guid": "oai:arXiv.org:2611.20072v1",
+    "author": "Jun Jiang, Chuijia Wang, Kanghe Xu",
+    "thumbnail": "",
+    "description": "arXiv:2611.20072v1 Announce Type: new \nAbstract: In this paper, we study the global extension problem of Lie algebras from the perspective of dgLas and the Maurer--Cartan formulism. We propose a new equivalence relation of global extensions, generalizing the early work of Agore and Militaru. This new concept can be better adopted in the study of classical contraction and deformation problems for Lie algebras. Meanwhile, we construct dgLas that control based formal deformations of global extension structures under these equivalences. As byproducts, we obtain the classification of infinitesimal deformations in terms of the cohomology of the controlling dgLas and the corresponding obstruction theory. We relate the dgLa controlling deformation of global extensions under framed equivalence to that of non-abelian extensions constructed by Fr\\'egier, obtaining a geometric interpretation of the decomposition of global cohomology into as a disjoint union of non-abelian cohomology. As an application, we study a particular family of an In\\\"on\\\"u--Wigner contraction from $\\g\\rtimes_{\\mathrm{ad}}\\g$ to $V_{\\mathrm{ab}}\\rtimes_{\\mathrm{ad}}\\g$ in the framework of global extension, deformation, and the dgLa approach.",
+    "content": "arXiv:2611.20072v1 Announce Type: new \nAbstract: In this paper, we study the global extension problem of Lie algebras from the perspective of dgLas and the Maurer--Cartan formulism. We propose a new equivalence relation of global extensions, generalizing the early work of Agore and Militaru. This new concept can be better adopted in the study of classical contraction and deformation problems for Lie algebras. Meanwhile, we construct dgLas that control based formal deformations of global extension structures under these equivalences. As byproducts, we obtain the classification of infinitesimal deformations in terms of the cohomology of the controlling dgLas and the corresponding obstruction theory. We relate the dgLa controlling deformation of global extensions under framed equivalence to that of non-abelian extensions constructed by Fr\\'egier, obtaining a geometric interpretation of the decomposition of global cohomology into as a disjoint union of non-abelian cohomology. As an application, we study a particular family of an In\\\"on\\\"u--Wigner contraction from $\\g\\rtimes_{\\mathrm{ad}}\\g$ to $V_{\\mathrm{ab}}\\rtimes_{\\mathrm{ad}}\\g$ in the framework of global extension, deformation, and the dgLa approach.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Matrix Star-Triangle Relations",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.20056",
+    "guid": "oai:arXiv.org:2611.20056v1",
+    "author": "Rinat Kashaev",
+    "thumbnail": "",
+    "description": "arXiv:2611.20056v1 Announce Type: cross \nAbstract: We propose a matrix generalization of the star--triangle relations and identify solutions underlying the $\\mathfrak{sl}_n$ chiral Potts models.",
+    "content": "arXiv:2611.20056v1 Announce Type: cross \nAbstract: We propose a matrix generalization of the star--triangle relations and identify solutions underlying the $\\mathfrak{sl}_n$ chiral Potts models.",
+    "enclosure": {},
+    "categories": [
+      "math-ph",
+      "math.MP",
+      "math.QA",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "All unital reversible nonsymmetric rings of order 256",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.19962",
+    "guid": "oai:arXiv.org:2611.19962v1",
+    "author": "Jos\\'e Mar\\'ia Grau Ribas, Antonio M. Oller-Marc\\'en",
+    "thumbnail": "",
+    "description": "arXiv:2611.19962v1 Announce Type: new \nAbstract: A ring is reversible if $ab=0$ implies $ba=0$, and symmetric if $abc=0$ implies $acb=0$. Szabo proved that the smallest order of a unital reversible nonsymmetric ring is $256$. We classify all such minimal rings: up to isomorphism there are exactly $186$ of them, $19$ of characteristic $2$ and $167$ of characteristic $4$, and there are none of characteristic $8$ or higher. All of them are local with residue field $\\mathbb{F}_2$, the nilpotency index of the Jacobson radical is $4$ or $5$, and $120$ of them form $60$ pairs $R$, $R^{op}$ of non-isomorphic rings. The classification is obtained by a general method of deformation of graded algebras over $\\mathbb{Z}/2^e\\mathbb{Z}$, whose completeness is proved, and it is checked against the known examples: $\\mathbb{F}_2Q_8$, Szabo's example and the ten rings in the family of generalized quaternion rings studied by Grau, Oller-Marc\\'en and Szabo. The presentations of the $186$ rings and the code are provided as ancillary files.",
+    "content": "arXiv:2611.19962v1 Announce Type: new \nAbstract: A ring is reversible if $ab=0$ implies $ba=0$, and symmetric if $abc=0$ implies $acb=0$. Szabo proved that the smallest order of a unital reversible nonsymmetric ring is $256$. We classify all such minimal rings: up to isomorphism there are exactly $186$ of them, $19$ of characteristic $2$ and $167$ of characteristic $4$, and there are none of characteristic $8$ or higher. All of them are local with residue field $\\mathbb{F}_2$, the nilpotency index of the Jacobson radical is $4$ or $5$, and $120$ of them form $60$ pairs $R$, $R^{op}$ of non-isomorphic rings. The classification is obtained by a general method of deformation of graded algebras over $\\mathbb{Z}/2^e\\mathbb{Z}$, whose completeness is proved, and it is checked against the known examples: $\\mathbb{F}_2Q_8$, Szabo's example and the ten rings in the family of generalized quaternion rings studied by Grau, Oller-Marc\\'en and Szabo. The presentations of the $186$ rings and the code are provided as ancillary files.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "The automorphism group of the super Jordan plane",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.19704",
+    "guid": "oai:arXiv.org:2611.19704v1",
+    "author": "W. de Araujo, D. Bagio, R. Baltazar, A. Santana, R. Vinciguerra",
+    "thumbnail": "",
+    "description": "arXiv:2611.19704v1 Announce Type: new \nAbstract: We complete the description of the automorphism group of the super Jordan plane $\\mathcal B$ over a field of characteristic zero, extending the classification of super-automorphisms obtained by N. Andruskiewitsch and F. Dumas in \\cite{AD}. We characterize a subgroup $\\mathbb L$ stabilizing two one-dimensional vector spaces and obtain two semidirect product decompositions of it. This subgroup contains all super-automorphisms and its structure motivates our main result. Precisely, we prove that $\\operatorname{Aut}\\mathcal B=\\operatorname{Inn}\\mathcal B\\rtimes\\operatorname{Aut}_{\\mathrm{super}}\\mathcal B$, where $\\operatorname{Inn}\\mathcal B$ and $\\operatorname{Aut}_{\\mathrm{super}}\\mathcal B$ denote, respectively, the groups of inner automorphisms and super-automorphisms of $\\mathcal B$. We also characterize the nilpotent elements of $\\mathcal B$ and prove that every nonzero nilpotent has nilpotency index two. Furthermore, we give a geometric interpretation of three distinguished families of nilpotent elements. After degree truncation and projectivization, two of these families yield projective linear subspaces, while the third yields quadratic Veronese varieties of arbitrary dimension.",
+    "content": "arXiv:2611.19704v1 Announce Type: new \nAbstract: We complete the description of the automorphism group of the super Jordan plane $\\mathcal B$ over a field of characteristic zero, extending the classification of super-automorphisms obtained by N. Andruskiewitsch and F. Dumas in \\cite{AD}. We characterize a subgroup $\\mathbb L$ stabilizing two one-dimensional vector spaces and obtain two semidirect product decompositions of it. This subgroup contains all super-automorphisms and its structure motivates our main result. Precisely, we prove that $\\operatorname{Aut}\\mathcal B=\\operatorname{Inn}\\mathcal B\\rtimes\\operatorname{Aut}_{\\mathrm{super}}\\mathcal B$, where $\\operatorname{Inn}\\mathcal B$ and $\\operatorname{Aut}_{\\mathrm{super}}\\mathcal B$ denote, respectively, the groups of inner automorphisms and super-automorphisms of $\\mathcal B$. We also characterize the nilpotent elements of $\\mathcal B$ and prove that every nonzero nilpotent has nilpotency index two. Furthermore, we give a geometric interpretation of three distinguished families of nilpotent elements. After degree truncation and projectivization, two of these families yield projective linear subspaces, while the third yields quadratic Veronese varieties of arbitrary dimension.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.QA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Enumerating Solutions to Type (2,3) Composition Identities of Finite Endofunctions",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.19668",
+    "guid": "oai:arXiv.org:2611.19668v1",
+    "author": "Max A. Alekseyev",
+    "thumbnail": "",
+    "description": "arXiv:2611.19668v1 Announce Type: cross \nAbstract: We enumerate ordered pairs $(f,g)$ of endofunctions on a finite labeled set $X$ satisfying a composition identity of type $(2,3)$, with two factors on one side and three on the other. For all sixteen forms up to exchanging $f$ and $g$, we derive formulas involving finite sums and generating functions. The arguments use images and fibers, homomorphisms between functional digraphs, and isomorphism types of iterates. A common construction decomposes weighted allocations of fibers into trees and cycles, yielding determinant expressions for several generating functions. Colored functional digraphs provide further formulas. As a by-product, for arbitrary prescribed endofunctions $A,B$ on $X$, we derive an inclusion--exclusion formula over subsets of $X$ for the number of endofunctions $g$ on $X$ satisfying $B=gAg$.",
+    "content": "arXiv:2611.19668v1 Announce Type: cross \nAbstract: We enumerate ordered pairs $(f,g)$ of endofunctions on a finite labeled set $X$ satisfying a composition identity of type $(2,3)$, with two factors on one side and three on the other. For all sixteen forms up to exchanging $f$ and $g$, we derive formulas involving finite sums and generating functions. The arguments use images and fibers, homomorphisms between functional digraphs, and isomorphism types of iterates. A common construction decomposes weighted allocations of fibers into trees and cycles, yielding determinant expressions for several generating functions. Colored functional digraphs provide further formulas. As a by-product, for arbitrary prescribed endofunctions $A,B$ on $X$, we derive an inclusion--exclusion formula over subsets of $X$ for the number of endofunctions $g$ on $X$ satisfying $B=gAg$.",
+    "enclosure": {},
+    "categories": [
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Spectral coincidence and generalized Hua inversion in rings and Banach algebras",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.19664",
+    "guid": "oai:arXiv.org:2611.19664v1",
+    "author": "Yaashaa Golovanov",
+    "thumbnail": "",
+    "description": "arXiv:2611.19664v1 Announce Type: new \nAbstract: For additively coupled elements with invertible sum and selected commuting outer inverses, we study coincidence of the core idempotents and inversion of the Hua element. Intertwining forces coincidence for finite-Drazin data in unital rings and for generalized-Drazin data in complex unital Banach algebras. Under coincidence, the output splits into an invertible core and a complementary parallel sum, called the residue, yielding exact criteria for inverse existence and success of the prescribed candidate. Explicit ring examples show that strict generalized-Drazin input inverses need not force coincidence under intertwining, and that a common core with a Harte-quasinilpotent residue need not give a strict output inverse. For rings finite as modules over a commutative central subring with the same identity, we prove intertwining transfer and automatic bicommutation for commuting outer inverses with Harte-quasinilpotent remainders, without Noetherianity. This gives input-core coincidence under intertwining. If the central subring is Noetherian, every Harte-quasinilpotent element also has separated left and right powers. For common-core data in the finite-central class, the candidate is a strict output inverse exactly when the residual parallel sum is Harte-quasinilpotent. In the Banach setting, uniform input spectral gaps characterize continuity of the core and candidate along convergent input pairs, with intertwining and quasinilpotent input remainders at every term and at the limit. The output gap is equivalent when the residues of the sequence and limit are also quasinilpotent. Exact defect identities give local estimates on augmented inverse data. At an exactly intertwined base with invertible coefficient operators, we determine the feasible first-order defect space and its sharp norm constant, with a norm-specific matrix calibration.",
+    "content": "arXiv:2611.19664v1 Announce Type: new \nAbstract: For additively coupled elements with invertible sum and selected commuting outer inverses, we study coincidence of the core idempotents and inversion of the Hua element. Intertwining forces coincidence for finite-Drazin data in unital rings and for generalized-Drazin data in complex unital Banach algebras. Under coincidence, the output splits into an invertible core and a complementary parallel sum, called the residue, yielding exact criteria for inverse existence and success of the prescribed candidate. Explicit ring examples show that strict generalized-Drazin input inverses need not force coincidence under intertwining, and that a common core with a Harte-quasinilpotent residue need not give a strict output inverse. For rings finite as modules over a commutative central subring with the same identity, we prove intertwining transfer and automatic bicommutation for commuting outer inverses with Harte-quasinilpotent remainders, without Noetherianity. This gives input-core coincidence under intertwining. If the central subring is Noetherian, every Harte-quasinilpotent element also has separated left and right powers. For common-core data in the finite-central class, the candidate is a strict output inverse exactly when the residual parallel sum is Harte-quasinilpotent. In the Banach setting, uniform input spectral gaps characterize continuity of the core and candidate along convergent input pairs, with intertwining and quasinilpotent input remainders at every term and at the limit. The output gap is equivalent when the residues of the sequence and limit are also quasinilpotent. Exact defect identities give local estimates on augmented inverse data. At an exactly intertwined base with invertible coefficient operators, we determine the feasible first-order defect space and its sharp norm constant, with a norm-specific matrix calibration.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.FA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "The Dedekind-MacNeille Completion as a Functor",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.19599",
+    "guid": "oai:arXiv.org:2611.19599v1",
+    "author": "Frank Murphy-Hernandez",
+    "thumbnail": "",
+    "description": "arXiv:2611.19599v1 Announce Type: cross \nAbstract: We study the Dedekind-MacNeille completion through representable functors on the wide subcategory $\\mathbf{Pos}_{\\mathrm{cl}}$ of posets and lower cut-continuous (closed) maps. On this category the completion is contravariantly functorial and naturally isomorphic to $\\mathrm{Hom}_{\\mathbf{Pos}_{\\mathrm{cl}}}(-,[1])^{\\mathrm{op}}$, via $A\\mapsto\\chi_A$ and its inverse $f\\mapsto f^{-1}(\\{0\\})$. The naturality of this identification makes the Yoneda lemma applicable: uniqueness of the representing object and the endomorphism monoid of the completion follow formally. We also show that $\\mathbf{CLat}_\\vee$ is full in $\\mathbf{Pos}_{\\mathrm{cl}}$, that $\\mathbf{CLat}_\\wedge$ is equivalent to a full subcategory of $\\mathbf{Pos}_{\\mathrm{cl}}^{\\mathrm{op}}$, and that the covariant adjunction refines to a $2$-adjunction whose idempotent monad has Eilenberg--Moore algebras equivalent to $\\mathbf{CLat}_\\vee$.",
+    "content": "arXiv:2611.19599v1 Announce Type: cross \nAbstract: We study the Dedekind-MacNeille completion through representable functors on the wide subcategory $\\mathbf{Pos}_{\\mathrm{cl}}$ of posets and lower cut-continuous (closed) maps. On this category the completion is contravariantly functorial and naturally isomorphic to $\\mathrm{Hom}_{\\mathbf{Pos}_{\\mathrm{cl}}}(-,[1])^{\\mathrm{op}}$, via $A\\mapsto\\chi_A$ and its inverse $f\\mapsto f^{-1}(\\{0\\})$. The naturality of this identification makes the Yoneda lemma applicable: uniqueness of the representing object and the endomorphism monoid of the completion follow formally. We also show that $\\mathbf{CLat}_\\vee$ is full in $\\mathbf{Pos}_{\\mathrm{cl}}$, that $\\mathbf{CLat}_\\wedge$ is equivalent to a full subcategory of $\\mathbf{Pos}_{\\mathrm{cl}}^{\\mathrm{op}}$, and that the covariant adjunction refines to a $2$-adjunction whose idempotent monad has Eilenberg--Moore algebras equivalent to $\\mathbf{CLat}_\\vee$.",
+    "enclosure": {},
+    "categories": [
+      "math.CT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Quaternion Matrix Tuples with Common Invariant Subspaces: Dimension and Nonuniqueness",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.19492",
+    "guid": "oai:arXiv.org:2611.19492v1",
+    "author": "Cailing Yao, Bingzhe Hou, Yang Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2611.19492v1 Announce Type: new \nAbstract: Let $M_n(\\mathbb{H})$ denote the algebra of $n\\times n$ quaternion matrices. We study common invariant right subspaces of tuples in $M_n(\\mathbb{H})^r$ and determine exact real semialgebraic dimensions for two associated sets. If $n_1,\\ldots,n_s$ are positive integers, $n=n_1+\\cdots+n_s$, and $q=\\sum_{1\\leq a<b\\leq s}n_an_b$, the set of tuples preserving at least one nested chain with successive increments $n_1,\\ldots,n_s$ has dimension $4rn^2-4(r-1)q$. For $r\\geq2$ and $1\\leq k<n$, the set of tuples with at least two distinct common $k$-dimensional right invariant subspaces has dimension $4rn^2-4(r-1)(k(n-k)+n-1)$. The proofs use finite right-module coordinates and a common local-rank argument.",
+    "content": "arXiv:2611.19492v1 Announce Type: new \nAbstract: Let $M_n(\\mathbb{H})$ denote the algebra of $n\\times n$ quaternion matrices. We study common invariant right subspaces of tuples in $M_n(\\mathbb{H})^r$ and determine exact real semialgebraic dimensions for two associated sets. If $n_1,\\ldots,n_s$ are positive integers, $n=n_1+\\cdots+n_s$, and $q=\\sum_{1\\leq a<b\\leq s}n_an_b$, the set of tuples preserving at least one nested chain with successive increments $n_1,\\ldots,n_s$ has dimension $4rn^2-4(r-1)q$. For $r\\geq2$ and $1\\leq k<n$, the set of tuples with at least two distinct common $k$-dimensional right invariant subspaces has dimension $4rn^2-4(r-1)(k(n-k)+n-1)$. The proofs use finite right-module coordinates and a common local-rank argument.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Cotorsion pairs in $\\eta$-extensions with applications to $\\theta$-extension rings and tensor rings",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.19449",
+    "guid": "oai:arXiv.org:2611.19449v1",
+    "author": "Pan Chen, Yongyun Qin, Jinrui Yang",
+    "thumbnail": "",
+    "description": "arXiv:2611.19449v1 Announce Type: cross \nAbstract: Let $\\mathcal B$ be an abelian category with enough projective and injective objects, and let $\\mathcal B\\ltimes_\\eta F$ be an $\\eta$-extension of $\\mathcal B$ with $\\eta$ associative. Given a cotorsion pair $(\\mathcal X, \\mathcal Y)$ in $\\mathcal B$, we show that the cotorsion pair $(\\Delta(\\mathcal X),\\Delta(\\mathcal X)^\\perp)$ exists for arbitrary associative $\\eta$, removing the square-zero assumption $F^2=0$ from Hu's construction. When $(\\mathcal X, \\mathcal Y)$ is hereditary, the heredity of $(\\Delta(\\mathcal X),\\Delta(\\mathcal X)^\\perp)$ is characterized by the first left derived functor of a canonical defect functor $\\delta$. We also remark that Hu's construction and hereditary result for the cotorsion pair $({}^\\perp U^{-1}(\\mathcal Y), U^{-1}(\\mathcal Y))$ remain valid without the nilpotence assumption on $\\eta$. Under nilpotence hypotheses, we establish a completeness criterion for $(\\Delta(\\mathcal X),\\Delta(\\mathcal X)^\\perp)$ using the Beligiannis radical functor $\\mathfrak r$. And we also provide a completeness criterion for $({}^\\perp U^{-1}(\\mathcal Y), U^{-1}(\\mathcal Y))$ if $\\mathcal B\\ltimes_\\eta F$ has enough injective objects. We give sufficient conditions for their coincidence. Dual results are obtained for $\\zeta$-coextensions. Finally, we specialize the theory to $\\theta$-extension rings and tensor rings, where the abstract conditions admit explicit module-theoretic descriptions.",
+    "content": "arXiv:2611.19449v1 Announce Type: cross \nAbstract: Let $\\mathcal B$ be an abelian category with enough projective and injective objects, and let $\\mathcal B\\ltimes_\\eta F$ be an $\\eta$-extension of $\\mathcal B$ with $\\eta$ associative. Given a cotorsion pair $(\\mathcal X, \\mathcal Y)$ in $\\mathcal B$, we show that the cotorsion pair $(\\Delta(\\mathcal X),\\Delta(\\mathcal X)^\\perp)$ exists for arbitrary associative $\\eta$, removing the square-zero assumption $F^2=0$ from Hu's construction. When $(\\mathcal X, \\mathcal Y)$ is hereditary, the heredity of $(\\Delta(\\mathcal X),\\Delta(\\mathcal X)^\\perp)$ is characterized by the first left derived functor of a canonical defect functor $\\delta$. We also remark that Hu's construction and hereditary result for the cotorsion pair $({}^\\perp U^{-1}(\\mathcal Y), U^{-1}(\\mathcal Y))$ remain valid without the nilpotence assumption on $\\eta$. Under nilpotence hypotheses, we establish a completeness criterion for $(\\Delta(\\mathcal X),\\Delta(\\mathcal X)^\\perp)$ using the Beligiannis radical functor $\\mathfrak r$. And we also provide a completeness criterion for $({}^\\perp U^{-1}(\\mathcal Y), U^{-1}(\\mathcal Y))$ if $\\mathcal B\\ltimes_\\eta F$ has enough injective objects. We give sufficient conditions for their coincidence. Dual results are obtained for $\\zeta$-coextensions. Finally, we specialize the theory to $\\theta$-extension rings and tensor rings, where the abstract conditions admit explicit module-theoretic descriptions.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Classification problems for diassociative and dendriform algebras: a survey",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.19249",
+    "guid": "oai:arXiv.org:2611.19249v1",
+    "author": "Ikrom M. Rikhsiboev",
+    "thumbnail": "",
+    "description": "arXiv:2611.19249v1 Announce Type: new \nAbstract: Diassociative algebras (associative dialgebras) and dendriform algebras are vector spaces with two binary operations, introduced by J.-L. Loday in the study of Leibniz algebras; their operads are Koszul dual to each other. We survey the classification problem for these two classes, including the Zinbiel algebras, the commutative dendriform algebras, which are Koszul dual to Leibniz algebras. We recall the definitions, the main examples and the Loday diagram with its extension by left-symmetric algebras and dialgebras, and describe the methods used to classify algebras of small dimension: direct computation from lists of associative algebras, annihilator (central) extensions and geometric classification by degenerations. We then collect, by dimension, the known algebraic classifications of diassociative algebras, dendriform algebras and their commutative case, the Zinbiel algebras, point out lists that later work corrected, and summarise the cohomological results that the methods rely on. We close with a list of open problems.",
+    "content": "arXiv:2611.19249v1 Announce Type: new \nAbstract: Diassociative algebras (associative dialgebras) and dendriform algebras are vector spaces with two binary operations, introduced by J.-L. Loday in the study of Leibniz algebras; their operads are Koszul dual to each other. We survey the classification problem for these two classes, including the Zinbiel algebras, the commutative dendriform algebras, which are Koszul dual to Leibniz algebras. We recall the definitions, the main examples and the Loday diagram with its extension by left-symmetric algebras and dialgebras, and describe the methods used to classify algebras of small dimension: direct computation from lists of associative algebras, annihilator (central) extensions and geometric classification by degenerations. We then collect, by dimension, the known algebraic classifications of diassociative algebras, dendriform algebras and their commutative case, the Zinbiel algebras, point out lists that later work corrected, and summarise the cohomological results that the methods rely on. We close with a list of open problems.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Sum of Powers with Matrix Coefficients",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.19228",
+    "guid": "oai:arXiv.org:2611.19228v1",
+    "author": "Prachi Saini",
+    "thumbnail": "",
+    "description": "arXiv:2611.19228v1 Announce Type: new \nAbstract: Let $F$ be an algebraically closed field of characteristic zero. We consider polynomial maps with constants $\\omega(x,y)=A_1x^k+A_2y^k$ on $M_n(F)$, where $A_1$ is invertible and $k\\geq2$. We show that the necessary condition for surjectivity obtained by Saini and Singh (Polynomial maps with constants on matrix algebra, Linear Algebra Appl. 752 (2027), 256-277) is not sufficient in any dimension $n\\geq6$. We also completely characterize surjectivity for $n=5$ and $6$.",
+    "content": "arXiv:2611.19228v1 Announce Type: new \nAbstract: Let $F$ be an algebraically closed field of characteristic zero. We consider polynomial maps with constants $\\omega(x,y)=A_1x^k+A_2y^k$ on $M_n(F)$, where $A_1$ is invertible and $k\\geq2$. We show that the necessary condition for surjectivity obtained by Saini and Singh (Polynomial maps with constants on matrix algebra, Linear Algebra Appl. 752 (2027), 256-277) is not sufficient in any dimension $n\\geq6$. We also completely characterize surjectivity for $n=5$ and $6$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "NS-bialgebras, the NS-Yang-Baxter equation and dendriform D-bialgebras",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.19107",
+    "guid": "oai:arXiv.org:2611.19107v1",
+    "author": "Shanghua Zheng, Chenyu Qiu, Xigou Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2611.19107v1 Announce Type: new \nAbstract: In this paper, we develop a bialgebra theory for NS-algebras via the Manin triple approach. We first study representations of NS-algebras and establish an equivalence among NS-bialgebras, matched pairs and Manin triples of NS-algebras. We then introduce the NS-Yang-Baxter equation (NS-YBE) and show that its symmetric solutions induce triangular NS-bialgebras. We further investigate the relationship between symmetric solutions of the NS-YBE and $\\mathcal O$-operators of NS-algebras, and characterize pre-NS-algebras in terms of invertible $\\mathcal O$-operators. As an application, we investigate the relation between NS-bialgebras and dendriform D-bialgebras via double constructions of Connes cocycles. In particular, we show that every NS-bialgebra induces a dendriform D-bialgebra structure on the direct sum of two copies of its underlying vector space.",
+    "content": "arXiv:2611.19107v1 Announce Type: new \nAbstract: In this paper, we develop a bialgebra theory for NS-algebras via the Manin triple approach. We first study representations of NS-algebras and establish an equivalence among NS-bialgebras, matched pairs and Manin triples of NS-algebras. We then introduce the NS-Yang-Baxter equation (NS-YBE) and show that its symmetric solutions induce triangular NS-bialgebras. We further investigate the relationship between symmetric solutions of the NS-YBE and $\\mathcal O$-operators of NS-algebras, and characterize pre-NS-algebras in terms of invertible $\\mathcal O$-operators. As an application, we investigate the relation between NS-bialgebras and dendriform D-bialgebras via double constructions of Connes cocycles. In particular, we show that every NS-bialgebra induces a dendriform D-bialgebra structure on the direct sum of two copies of its underlying vector space.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Weak Generators in Stable Module Categories",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.17546",
+    "guid": "oai:arXiv.org:2611.17546v2",
+    "author": "Christian Lomp",
+    "thumbnail": "",
+    "description": "arXiv:2611.17546v2 Announce Type: replace \nAbstract: The aim of this note is to show that the existence of weak generators in the stable module category of a ring, or equivalently, of $p$-indigent modules in the terminology of Holston et al., depends on the underlying model of set theory.",
+    "content": "arXiv:2611.17546v2 Announce Type: replace \nAbstract: The aim of this note is to show that the existence of weak generators in the stable module category of a ring, or equivalently, of $p$-indigent modules in the terminology of Holston et al., depends on the underlying model of set theory.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.LO"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Uniqueness of addition in Schr\\\"odinger algebras",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.16812",
+    "guid": "oai:arXiv.org:2611.16812v2",
+    "author": "Gennadiy Sosnov",
+    "thumbnail": "",
+    "description": "arXiv:2611.16812v2 Announce Type: replace \nAbstract: We obtain a criterion for the uniqueness of addition in Schr\\\"odinger Lie algebras, applicable to both bijections and injections. This allows us to construct the first example of a Lie algebra with unique addition and a non-trivial center over a field of characteristic zero. Furthermore, a necessary and sufficient condition is established for the Schr\\\"odinger algebras to have bracket width one.",
+    "content": "arXiv:2611.16812v2 Announce Type: replace \nAbstract: We obtain a criterion for the uniqueness of addition in Schr\\\"odinger Lie algebras, applicable to both bijections and injections. This allows us to construct the first example of a Lie algebra with unique addition and a non-trivial center over a field of characteristic zero. Furthermore, a necessary and sufficient condition is established for the Schr\\\"odinger algebras to have bracket width one.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Congruence density under sublattice inclusion",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.16165",
+    "guid": "oai:arXiv.org:2611.16165v2",
+    "author": "George Gr\\\"atzer",
+    "thumbnail": "",
+    "description": "arXiv:2611.16165v2 Announce Type: replace \nAbstract: Following G\\'abor Cz\\'edli, the \\emph{congruence density} of a finite lattice $A$ is $\\cd(A)=|\\Con A|/2^{|A|-1}$, where $\\Con A$ is its congruence lattice and $|A|$ is its number of elements. Cz\\'edli proved that density cannot increase under several kinds of sublattice extension and asked whether this holds for every sublattice inclusion.\n  For a sublattice $S$ of $L$, we prove the stronger inequality $\\cd(L)\\leq2^{-d}\\cd(S)$, where $d$ is the larger of the increases in the numbers of join-reducible and meet-reducible elements. The proof follows congruence labels along the chains into which prime intervals of $S$ split in $L$.\n  We also prove that $\\cd(L)=\\cd(S)$ if and only if every element of $L-S$ is comparable with every element of $L$. The theorem of G. Cz\\'edli and L.~Szab\\'o relating compatible quasiorders to pairs of congruences gives the corresponding quasiorder-density results.",
+    "content": "arXiv:2611.16165v2 Announce Type: replace \nAbstract: Following G\\'abor Cz\\'edli, the \\emph{congruence density} of a finite lattice $A$ is $\\cd(A)=|\\Con A|/2^{|A|-1}$, where $\\Con A$ is its congruence lattice and $|A|$ is its number of elements. Cz\\'edli proved that density cannot increase under several kinds of sublattice extension and asked whether this holds for every sublattice inclusion.\n  For a sublattice $S$ of $L$, we prove the stronger inequality $\\cd(L)\\leq2^{-d}\\cd(S)$, where $d$ is the larger of the increases in the numbers of join-reducible and meet-reducible elements. The proof follows congruence labels along the chains into which prime intervals of $S$ split in $L$.\n  We also prove that $\\cd(L)=\\cd(S)$ if and only if every element of $L-S$ is comparable with every element of $L$. The theorem of G. Cz\\'edli and L.~Szab\\'o relating compatible quasiorders to pairs of congruences gives the corresponding quasiorder-density results.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Spectra of gcd-graphs over a matrix ring",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2611.15026",
+    "guid": "oai:arXiv.org:2611.15026v2",
+    "author": "Tung T. Nguyen",
+    "thumbnail": "",
+    "description": "arXiv:2611.15026v2 Announce Type: replace \nAbstract: In this short note, we calculate the spectra of gcd-graphs defined over a matrix ring. Using character sums, we show that this calculation can be reduced to certain counting problems. In particular, when the underlying ring is a matrix ring with coefficients in a finite field, we calculate these spectra explicitly. We will also show that two gcd-graphs over the same matrix ring are isospectral if and only if they have the same generating set.",
+    "content": "arXiv:2611.15026v2 Announce Type: replace \nAbstract: In this short note, we calculate the spectra of gcd-graphs defined over a matrix ring. Using character sums, we show that this calculation can be reduced to certain counting problems. In particular, when the underlying ring is a matrix ring with coefficients in a finite field, we calculate these spectra explicitly. We will also show that two gcd-graphs over the same matrix ring are isospectral if and only if they have the same generating set.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Spectra of stochastic matrices with a Toeplitz interior",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2610.42072",
+    "guid": "oai:arXiv.org:2610.42072v2",
+    "author": "Brecht Verbeken, Vincent Ginis",
+    "thumbnail": "",
+    "description": "arXiv:2610.42072v2 Announce Type: replace-cross \nAbstract: For stochastic matrices of order $n$, the Karpelevi\\v{c} region is the set of all possible eigenvalues. We study matrices whose first and last $m$ rows are arbitrary probability vectors, while the remaining rows have a Toeplitz pattern. As $m$ increases, their eigenvalue regions expand, first reaching the full Karpelevi\\v{c} region at $m=\\lceil(n-1)/4\\rceil$ for $n\\ge3$. Reproducing every complete stochastic spectrum, with multiplicities, requires $m=\\lfloor n/2\\rfloor$. For a boundary arc whose endpoints have orders $q<s$ as roots of unity, the least $m$ needed to attain the whole arc is $0$ for $q=1$ and $\\left\\lceil\\frac12\\left\\lfloor n/q\\right\\rfloor\\right\\rceil$ for $q\\ge2$. For a Karpelevi\\v{c} boundary arc whose nonreal points between the endpoints first occur as stochastic eigenvalues at order $n\\ge4$, fixing any one of these eigenvalues fixes the characteristic polynomial of every stochastic matrix of order $n$ with that eigenvalue. For these arcs and $m\\ge1$, our family attains either the whole arc or only its endpoints. Further results describe the smaller eigenvalue regions and the angles at which their boundaries approach roots of unity.",
+    "content": "arXiv:2610.42072v2 Announce Type: replace-cross \nAbstract: For stochastic matrices of order $n$, the Karpelevi\\v{c} region is the set of all possible eigenvalues. We study matrices whose first and last $m$ rows are arbitrary probability vectors, while the remaining rows have a Toeplitz pattern. As $m$ increases, their eigenvalue regions expand, first reaching the full Karpelevi\\v{c} region at $m=\\lceil(n-1)/4\\rceil$ for $n\\ge3$. Reproducing every complete stochastic spectrum, with multiplicities, requires $m=\\lfloor n/2\\rfloor$. For a boundary arc whose endpoints have orders $q<s$ as roots of unity, the least $m$ needed to attain the whole arc is $0$ for $q=1$ and $\\left\\lceil\\frac12\\left\\lfloor n/q\\right\\rfloor\\right\\rceil$ for $q\\ge2$. For a Karpelevi\\v{c} boundary arc whose nonreal points between the endpoints first occur as stochastic eigenvalues at order $n\\ge4$, fixing any one of these eigenvalues fixes the characteristic polynomial of every stochastic matrix of order $n$ with that eigenvalue. For these arcs and $m\\ge1$, our family attains either the whole arc or only its endpoints. Further results describe the smaller eigenvalue regions and the angles at which their boundaries approach roots of unity.",
+    "enclosure": {},
+    "categories": [
+      "math.PR",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Nijenhuis Lie $n$-algebras",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2610.37698",
+    "guid": "oai:arXiv.org:2610.37698v2",
+    "author": "Imed Basdouri, Tarek Ben Massoud, Ahmed Zahari",
+    "thumbnail": "",
+    "description": "arXiv:2610.37698v2 Announce Type: replace \nAbstract: We introduce a homotopical framework for Nijenhuis operators on semistrict Lie $n$-algebras ($n$-term $L_\\infty$-algebras) for every $n \\ge 1$ and, more generally, on arbitrary $L_\\infty$-algebras. A Nijenhuis operator is defined as a family $N = (N_q)_{q \\ge 1}$ of multilinear maps, with $N_1$ linear, realizing an $L_\\infty$-morphism from an $N$-twisted copy of the structure to the original one. We prove that this condition is equivalent to the vanishing, at every arity $m$, of the $m$-th Nijenhuis torsion up to a correction term $\\Lambda^N_m$ formed by higher-component substitutions, and we provide a closed combinatorial formula for $\\Lambda^N_m$ as a sum over set partitions. Along the way, we show that the arity-$k$ Nijenhuis torsion factors canonically as a composite of $k$ commuting elementary slot deformations.\n  The resulting objects form a category $\\mathbf{NijLie}_n$; we establish that $\\mathbf{NijLie}_m$ embeds as the full subcategory of $\\mathbf{NijLie}_n$ on objects concentrated in the bottom $m$ degrees for all $m \\le n$. These levels assemble into a tower whose first three stages are classical Nijenhuis Lie algebras, the Nijenhuis Lie $2$-algebras of Das, and the newly introduced Nijenhuis Lie $3$-algebras. We characterize the strict and skeletal objects at every level, introduce $n$-term representations up to homotopy of a Nijenhuis Lie algebra, and prove that the semidirect product construction establishes an equivalence between the category of such representations and split abelian $\\mathbf{NijLie}_n$-extensions. Finally, two corrections to published level-three identities are documented, and all component identities up to arity five are verified via computer algebra.",
+    "content": "arXiv:2610.37698v2 Announce Type: replace \nAbstract: We introduce a homotopical framework for Nijenhuis operators on semistrict Lie $n$-algebras ($n$-term $L_\\infty$-algebras) for every $n \\ge 1$ and, more generally, on arbitrary $L_\\infty$-algebras. A Nijenhuis operator is defined as a family $N = (N_q)_{q \\ge 1}$ of multilinear maps, with $N_1$ linear, realizing an $L_\\infty$-morphism from an $N$-twisted copy of the structure to the original one. We prove that this condition is equivalent to the vanishing, at every arity $m$, of the $m$-th Nijenhuis torsion up to a correction term $\\Lambda^N_m$ formed by higher-component substitutions, and we provide a closed combinatorial formula for $\\Lambda^N_m$ as a sum over set partitions. Along the way, we show that the arity-$k$ Nijenhuis torsion factors canonically as a composite of $k$ commuting elementary slot deformations.\n  The resulting objects form a category $\\mathbf{NijLie}_n$; we establish that $\\mathbf{NijLie}_m$ embeds as the full subcategory of $\\mathbf{NijLie}_n$ on objects concentrated in the bottom $m$ degrees for all $m \\le n$. These levels assemble into a tower whose first three stages are classical Nijenhuis Lie algebras, the Nijenhuis Lie $2$-algebras of Das, and the newly introduced Nijenhuis Lie $3$-algebras. We characterize the strict and skeletal objects at every level, introduce $n$-term representations up to homotopy of a Nijenhuis Lie algebra, and prove that the semidirect product construction establishes an equivalence between the category of such representations and split abelian $\\mathbf{NijLie}_n$-extensions. Finally, two corrections to published level-three identities are documented, and all component identities up to arity five are verified via computer algebra.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "2-generation of Chevalley Lie algebras over finite fields",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2610.35537",
+    "guid": "oai:arXiv.org:2610.35537v2",
+    "author": "Ram Karan Choudhary, Harish Kishnani, Anupam Singh",
+    "thumbnail": "",
+    "description": "arXiv:2610.35537v2 Announce Type: replace \nAbstract: In this article, we prove that every split simple Chevalley Lie algebra over a finite field of characteristic $p\\neq 2$ of classical types $B_n$, $C_n$, and $D_n$, and exceptional types $G_2$, $F_4$, $E_6$, $E_7$, and $E_8$, is $2$-generated. Combined with the result of Cantor, Jezernik, and Zozaya for the classical type $A_n$ [Two-generation of traceless matrices over finite fields, Linear Algebra Appl. (2025)], this establishes $2$-generation for all split simple Chevalley Lie algebras over finite fields of characteristic $p\\neq 2$.",
+    "content": "arXiv:2610.35537v2 Announce Type: replace \nAbstract: In this article, we prove that every split simple Chevalley Lie algebra over a finite field of characteristic $p\\neq 2$ of classical types $B_n$, $C_n$, and $D_n$, and exceptional types $G_2$, $F_4$, $E_6$, $E_7$, and $E_8$, is $2$-generated. Combined with the result of Cantor, Jezernik, and Zozaya for the classical type $A_n$ [Two-generation of traceless matrices over finite fields, Linear Algebra Appl. (2025)], this establishes $2$-generation for all split simple Chevalley Lie algebras over finite fields of characteristic $p\\neq 2$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GR"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "The Auslander--Reiten Conjecture for Igusa--Todorov Algebras",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2609.14453",
+    "guid": "oai:arXiv.org:2609.14453v3",
+    "author": "Xiaojin Zhang, Panyue Zhou",
+    "thumbnail": "",
+    "description": "arXiv:2609.14453v3 Announce Type: replace-cross \nAbstract: We prove that every Igusa--Todorov Artin algebra satisfies the Auslander--Reiten conjecture. More precisely, let $V$ be an $n$-Igusa--Todorov witness, and let $t$ be the number of isomorphism classes of nonprojective indecomposable summands of $V$. If a finitely generated module $M$ satisfies $\\Ext_A^i(M,A)=0$ for every $i>0$ and $\\Ext_A^q(M,M)=0$ for $1\\leq q\\leq 2t+1$, then $M$ is projective. As applications, algebras of representation dimension at most three and algebras satisfying $J^{2m+1}=0$ for which $A/J^m$ has finite representation type satisfy the Auslander--Reiten conjecture.",
+    "content": "arXiv:2609.14453v3 Announce Type: replace-cross \nAbstract: We prove that every Igusa--Todorov Artin algebra satisfies the Auslander--Reiten conjecture. More precisely, let $V$ be an $n$-Igusa--Todorov witness, and let $t$ be the number of isomorphism classes of nonprojective indecomposable summands of $V$. If a finitely generated module $M$ satisfies $\\Ext_A^i(M,A)=0$ for every $i>0$ and $\\Ext_A^q(M,M)=0$ for $1\\leq q\\leq 2t+1$, then $M$ is projective. As applications, algebras of representation dimension at most three and algebras satisfying $J^{2m+1}=0$ for which $A/J^m$ has finite representation type satisfy the Auslander--Reiten conjecture.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Quasilinear multiplication in the Cayley-Dickson tower",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2609.11588",
+    "guid": "oai:arXiv.org:2609.11588v3",
+    "author": "Harrison Lemley",
+    "thumbnail": "",
+    "description": "arXiv:2609.11588v3 Announce Type: replace \nAbstract: Direct evaluation of the defining product of the Cayley-Dickson algebra $A_n$ of rank $N:=2^n$ over a unital commutative ring $R$ requires a quadratic number of arithmetic operations. This paper gives a uniform bilinear algorithm for multiplication in this algebra when $2 \\in R^\\times$, costing $O(N \\log N)$ arithmetic operations in $R$ and $O(N)$ auxiliary storage when the doubling parameters of $A_n$ are units whose square roots lie in a fixed commutative coefficient algebra $S$ finitely generated as an $R$-module and admitting an $R$-linear map $\\pi\\colon S \\to R$ with $\\pi(1) = 1$. In particular, the algorithm applies to every Cayley-Dickson tower over $\\mathbb{R}$ and finite fields $\\mathbb{F}_q$ of odd characteristic, and the tensor rank of multiplication in $A_n$ over these fields is at most $(36n-69)2^{n-3}+10$ when $n\\ge4$. To the author's knowledge, the algorithm presented in this paper is the first uniform subquadratic algorithm for multiplication in $A_n$. An implementation for the standard tower over $\\mathbb{R}$, $\\mathbb{C}$, and $\\mathbb{F}_q$ for $q = p^k$ with $p \\le 2^{31}-1$ an odd prime and $k \\le 12$ is available in the MIT-licensed C11 library fastCD, with a NumPy-backed Python interface pyfastcd, available on PyPI. In single-core benchmarks against direct multiplication and the uniform Cariow-Cariowa method over $\\mathbb{R}$, the quasilinear implementation had the lowest mean time of the three at every tested dimension $N\\ge32$ for both single and batched products and was over $17$ times faster than direct multiplication.",
+    "content": "arXiv:2609.11588v3 Announce Type: replace \nAbstract: Direct evaluation of the defining product of the Cayley-Dickson algebra $A_n$ of rank $N:=2^n$ over a unital commutative ring $R$ requires a quadratic number of arithmetic operations. This paper gives a uniform bilinear algorithm for multiplication in this algebra when $2 \\in R^\\times$, costing $O(N \\log N)$ arithmetic operations in $R$ and $O(N)$ auxiliary storage when the doubling parameters of $A_n$ are units whose square roots lie in a fixed commutative coefficient algebra $S$ finitely generated as an $R$-module and admitting an $R$-linear map $\\pi\\colon S \\to R$ with $\\pi(1) = 1$. In particular, the algorithm applies to every Cayley-Dickson tower over $\\mathbb{R}$ and finite fields $\\mathbb{F}_q$ of odd characteristic, and the tensor rank of multiplication in $A_n$ over these fields is at most $(36n-69)2^{n-3}+10$ when $n\\ge4$. To the author's knowledge, the algorithm presented in this paper is the first uniform subquadratic algorithm for multiplication in $A_n$. An implementation for the standard tower over $\\mathbb{R}$, $\\mathbb{C}$, and $\\mathbb{F}_q$ for $q = p^k$ with $p \\le 2^{31}-1$ an odd prime and $k \\le 12$ is available in the MIT-licensed C11 library fastCD, with a NumPy-backed Python interface pyfastcd, available on PyPI. In single-core benchmarks against direct multiplication and the uniform Cariow-Cariowa method over $\\mathbb{R}$, the quasilinear implementation had the lowest mean time of the three at every tested dimension $N\\ge32$ for both single and batched products and was over $17$ times faster than direct multiplication.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "cs.NA",
+      "cs.SC",
+      "math.NA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Differential calculus on bigraded spaces and Koszul duality",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2512.20127",
+    "guid": "oai:arXiv.org:2512.20127v3",
+    "author": "Ruobing Chen, Sirui Yu",
+    "thumbnail": "",
+    "description": "arXiv:2512.20127v3 Announce Type: replace \nAbstract: Koszul duality for superalgebras involves both the intrinsic super parity and the degree shift introduced by suspension. We study this duality while keeping the two gradings separate, using a $\\mathbb Z\\times\\mathbb Z$-graded refinement of the commutativity convention of Deligne and Morgan. In this setting, the Koszul suspension preserves the parity degree and raises the independent weight by one. We realize the polynomial superalgebr $\\mathcal O(k^{m|n})$ and its Koszul dual as function algebras on bigraded spaces and construct an isomorphism between their differential calculi of polyvector fields and mixed differential forms. For admissible quadratic Poisson structures, whose bivectors have bidegree $(0,2)$, this isomorphism descends to the differential calculi on Poisson cohomology and mixed Poisson homology. With respect to the corresponding mixed volume forms, Koszul duality preserves unimodularity and, in the unimodular case, identifies the induced Batalin--Vilkovisky algebra structures on Poisson cohomology.",
+    "content": "arXiv:2512.20127v3 Announce Type: replace \nAbstract: Koszul duality for superalgebras involves both the intrinsic super parity and the degree shift introduced by suspension. We study this duality while keeping the two gradings separate, using a $\\mathbb Z\\times\\mathbb Z$-graded refinement of the commutativity convention of Deligne and Morgan. In this setting, the Koszul suspension preserves the parity degree and raises the independent weight by one. We realize the polynomial superalgebr $\\mathcal O(k^{m|n})$ and its Koszul dual as function algebras on bigraded spaces and construct an isomorphism between their differential calculi of polyvector fields and mixed differential forms. For admissible quadratic Poisson structures, whose bivectors have bidegree $(0,2)$, this isomorphism descends to the differential calculi on Poisson cohomology and mixed Poisson homology. With respect to the corresponding mixed volume forms, Koszul duality preserves unimodularity and, in the unimodular case, identifies the induced Batalin--Vilkovisky algebra structures on Poisson cohomology.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math-ph",
+      "math.MP"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Almost-simple algebraic supergroups",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2511.16293",
+    "guid": "oai:arXiv.org:2511.16293v2",
+    "author": "S. Bouarroudj, A. N. Zubkov",
+    "thumbnail": "",
+    "description": "arXiv:2511.16293v2 Announce Type: replace \nAbstract: We investigate certain almost-simple algebraic supergroups over an algebraically closed field of characteristic zero or odd characteristic. Beyond those whose Lie superalgebras are simple and appear in Kac's classification, we construct new families of almost-simple supergroups whose Lie superalgebras are either non-simple or simple but fall outside Kac's classification.",
+    "content": "arXiv:2511.16293v2 Announce Type: replace \nAbstract: We investigate certain almost-simple algebraic supergroups over an algebraically closed field of characteristic zero or odd characteristic. Beyond those whose Lie superalgebras are simple and appear in Kac's classification, we construct new families of almost-simple supergroups whose Lie superalgebras are either non-simple or simple but fall outside Kac's classification.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Computer-assisted proofs for the fourth algebraic transfer in certain generic degrees",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2506.10232",
+    "guid": "oai:arXiv.org:2506.10232v4",
+    "author": "Dang Vo Phuc",
+    "thumbnail": "",
+    "description": "arXiv:2506.10232v4 Announce Type: replace-cross \nAbstract: This paper restructures the author's earlier article in Journal of Homotopy and Related Structures to correct its erroneous invariant-dimension calculations for the fourth Singer algebraic transfer and is written as a replacement for that article. More precisely, we determine the domain and image of the transfer in the degree families $2^{s+t+1}+2^{s+1}-3$ with $t\\ne3$ and $2^{s+t}+2^s-2$ with $t\\notin\\{2,3,4\\}$, where $s,t$ are positive integers. Divided-power spikes are basis elements dual to polynomial monomials whose exponents have the form $2^j-1$ for nonnegative integers $j$. Their translates under ${\\rm GL}_4(\\mathbb F_2)$, the group of invertible $4\\times4$ matrices over the field with two elements, generate submodules of the Steenrod kernel, the subspace annihilated by all positive Steenrod squares. We present these submodules as quotients of sums of permutation modules on complete flags, which are chains in $\\mathbb F_2^4$ containing one subspace of each dimension $0,1,2,3,4$. Identifying the relation spaces in these presentations gives explicit equivariant comparison isomorphisms. A recursion obtained by separating even and odd exponents in each variable reduces the comparisons to specified identities of finite-dimensional subspaces. These comparisons apply to both complete degree families, including the parameter values omitted from the transfer theorem. Duplication and partial flag embeddings also give theoretical comparisons in specified parameter ranges. As a consequence, Singer's injectivity conjecture holds in rank four in both degree families under the stated parameter restrictions. The cokernel is one-dimensional in homological degree $256$ and zero in every other degree in those ranges.",
+    "content": "arXiv:2506.10232v4 Announce Type: replace-cross \nAbstract: This paper restructures the author's earlier article in Journal of Homotopy and Related Structures to correct its erroneous invariant-dimension calculations for the fourth Singer algebraic transfer and is written as a replacement for that article. More precisely, we determine the domain and image of the transfer in the degree families $2^{s+t+1}+2^{s+1}-3$ with $t\\ne3$ and $2^{s+t}+2^s-2$ with $t\\notin\\{2,3,4\\}$, where $s,t$ are positive integers. Divided-power spikes are basis elements dual to polynomial monomials whose exponents have the form $2^j-1$ for nonnegative integers $j$. Their translates under ${\\rm GL}_4(\\mathbb F_2)$, the group of invertible $4\\times4$ matrices over the field with two elements, generate submodules of the Steenrod kernel, the subspace annihilated by all positive Steenrod squares. We present these submodules as quotients of sums of permutation modules on complete flags, which are chains in $\\mathbb F_2^4$ containing one subspace of each dimension $0,1,2,3,4$. Identifying the relation spaces in these presentations gives explicit equivariant comparison isomorphisms. A recursion obtained by separating even and odd exponents in each variable reduces the comparisons to specified identities of finite-dimensional subspaces. These comparisons apply to both complete degree families, including the parameter values omitted from the transfer theorem. Duplication and partial flag embeddings also give theoretical comparisons in specified parameter ranges. As a consequence, Singer's injectivity conjecture holds in rank four in both degree families under the stated parameter restrictions. The cokernel is one-dimensional in homological degree $256$ and zero in every other degree in those ranges.",
+    "enclosure": {},
+    "categories": [
+      "math.AT",
+      "math.GT",
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "$\\delta$-Poisson and transposed $\\delta$-Poisson algebras",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2411.05490",
+    "guid": "oai:arXiv.org:2411.05490v5",
+    "author": "Hani Abdelwahab, Ivan Kaygorodov, Bauyrzhan Sartayev",
+    "thumbnail": "",
+    "description": "arXiv:2411.05490v5 Announce Type: replace \nAbstract: We study two new classes of Poisson-type algebras, namely, $\\delta$-Poisson and transposed $\\delta$-Poisson algebras. We show that these algebras are related to many interesting identities; in particular, they are related to shift associative algebras, $F$-manifold algebras, algebras of Jordan brackets, etc. We classify simple $\\delta$-Poisson and transposed $\\delta$-Poisson algebras and find their depolarizations. We study the Koszulity and self-duality of the $\\delta$-Poisson and mixed-Poisson operads. Bases of the free $\\delta$-Poisson and mixed-Poisson algebras generated by a countable set $X$ are constructed.",
+    "content": "arXiv:2411.05490v5 Announce Type: replace \nAbstract: We study two new classes of Poisson-type algebras, namely, $\\delta$-Poisson and transposed $\\delta$-Poisson algebras. We show that these algebras are related to many interesting identities; in particular, they are related to shift associative algebras, $F$-manifold algebras, algebras of Jordan brackets, etc. We classify simple $\\delta$-Poisson and transposed $\\delta$-Poisson algebras and find their depolarizations. We study the Koszulity and self-duality of the $\\delta$-Poisson and mixed-Poisson operads. Bases of the free $\\delta$-Poisson and mixed-Poisson algebras generated by a countable set $X$ are constructed.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Classification of real nodal orders",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2410.05792",
+    "guid": "oai:arXiv.org:2410.05792v2",
+    "author": "Igor Burban, Yuriy Drozd",
+    "thumbnail": "",
+    "description": "arXiv:2410.05792v2 Announce Type: replace \nAbstract: In this paper, we study properties of nodal orders defined over arbitrary base fields. In particular we give a classification of complete real nodal orders.",
+    "content": "arXiv:2410.05792v2 Announce Type: replace \nAbstract: In this paper, we study properties of nodal orders defined over arbitrary base fields. In particular we give a classification of complete real nodal orders.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Shift associative algebras",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2408.07078",
+    "guid": "oai:arXiv.org:2408.07078v2",
+    "author": "Hani Abdelwahab, Ivan Kaygorodov, Bauyrzhan Sartayev",
+    "thumbnail": "",
+    "description": "arXiv:2408.07078v2 Announce Type: replace \nAbstract: We present a comprehensive study of algebras satisfying the identity $(xy)z=y(zx),$ named as shift associative algebras. Our research shows that these algebras are related to many interesting identities. In particular, they are related to anti-Poisson-Jordan algebras and algebras of associative type $\\sigma$. We study algebras of associative type $\\sigma$ to be Koszul and self-dual. A basis of the free shift associative algebra generated by a countable set $X$ was constructed. An analog of Wedderburn-Artin's theorem was established. The algebraic and geometric classifications of complex $4$-dimensional shift associative algebras are given. In particular, we proved that the first non-associative shift associative algebra appears only in dimension $5$.",
+    "content": "arXiv:2408.07078v2 Announce Type: replace \nAbstract: We present a comprehensive study of algebras satisfying the identity $(xy)z=y(zx),$ named as shift associative algebras. Our research shows that these algebras are related to many interesting identities. In particular, they are related to anti-Poisson-Jordan algebras and algebras of associative type $\\sigma$. We study algebras of associative type $\\sigma$ to be Koszul and self-dual. A basis of the free shift associative algebra generated by a countable set $X$ was constructed. An analog of Wedderburn-Artin's theorem was established. The algebraic and geometric classifications of complex $4$-dimensional shift associative algebras are given. In particular, we proved that the first non-associative shift associative algebra appears only in dimension $5$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Transposed Poisson structures on solvable and perfect Lie algebras",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2310.00624",
+    "guid": "oai:arXiv.org:2310.00624v2",
+    "author": "Ivan Kaygorodov, Abror Khudoyberdiyev",
+    "thumbnail": "",
+    "description": "arXiv:2310.00624v2 Announce Type: replace \nAbstract: We described all transposed Poisson algebra structures on oscillator Lie algebras, i.e., on one-dimensional solvable extensions of the $(2n+1)$-dimensional Heisenberg algebra; on solvable Lie algebras with naturally graded filiform nilpotent radical; on $(n+1)$-dimensional solvable extensions of the $(2n+1)$-dimensional Heisenberg algebra; and on $n$-dimensional solvable extensions of the $n$-dimensional algebra with trivial multiplication. We also answered one question on transposed Poisson algebras, posted in a paper by Beites, Ferreira and Kaygorodov. Namely, we found that the semidirect product of ${\\mathfrak sl}_2$ and an irreducible module gives a finite-dimensional Lie algebra with non-trivial $\\frac{1}{2}$-derivations, but without non-trivial transposed Poisson structures.",
+    "content": "arXiv:2310.00624v2 Announce Type: replace \nAbstract: We described all transposed Poisson algebra structures on oscillator Lie algebras, i.e., on one-dimensional solvable extensions of the $(2n+1)$-dimensional Heisenberg algebra; on solvable Lie algebras with naturally graded filiform nilpotent radical; on $(n+1)$-dimensional solvable extensions of the $(2n+1)$-dimensional Heisenberg algebra; and on $n$-dimensional solvable extensions of the $n$-dimensional algebra with trivial multiplication. We also answered one question on transposed Poisson algebras, posted in a paper by Beites, Ferreira and Kaygorodov. Namely, we found that the semidirect product of ${\\mathfrak sl}_2$ and an irreducible module gives a finite-dimensional Lie algebra with non-trivial $\\frac{1}{2}$-derivations, but without non-trivial transposed Poisson structures.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Transposed Poisson structures on Galilean and solvable Lie algebras",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2209.00264",
+    "guid": "oai:arXiv.org:2209.00264v3",
+    "author": "Ivan Kaygorodov, Viktor Lopatkin, Zerui Zhang",
+    "thumbnail": "",
+    "description": "arXiv:2209.00264v3 Announce Type: replace \nAbstract: Transposed Poisson structures on complex Galilean-type Lie algebras and superalgebras are described. It is proven that the principal Galilean Lie algebras and superalgebras do not admit nontrivial transposed Poisson structures. We also prove that each complex finite-dimensional solvable Lie algebra of dimension greater than one admits a nontrivial $\\frac{1}{2}$-derivation and a nontrivial ${\\rm Hom}$-Lie structure, and that each complex finite-dimensional non-abelian solvable Lie algebra admits a nontrivial transposed Poisson structure.",
+    "content": "arXiv:2209.00264v3 Announce Type: replace \nAbstract: Transposed Poisson structures on complex Galilean-type Lie algebras and superalgebras are described. It is proven that the principal Galilean Lie algebras and superalgebras do not admit nontrivial transposed Poisson structures. We also prove that each complex finite-dimensional solvable Lie algebra of dimension greater than one admits a nontrivial $\\frac{1}{2}$-derivation and a nontrivial ${\\rm Hom}$-Lie structure, and that each complex finite-dimensional non-abelian solvable Lie algebra admits a nontrivial transposed Poisson structure.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "$\\frac{1}{2}$-derivations of Lie algebras and transposed Poisson algebras",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/2010.00443",
+    "guid": "oai:arXiv.org:2010.00443v3",
+    "author": "Bruno Leonardo Macedo Ferreira, Ivan Kaygorodov, Viktor Lopatkin",
+    "thumbnail": "",
+    "description": "arXiv:2010.00443v3 Announce Type: replace \nAbstract: A relation between $\\frac{1}{2}$-derivations of Lie algebras and transposed Poisson algebras has been established. Some non-trivial transposed Poisson algebras with a certain Lie algebra (Witt algebra, the algebra $\\mathcal{W}(a,-1)$, the thin Lie algebra and a solvable Lie algebra with abelian nilpotent radical) have been done. In particular, we have developed an example of the transposed Poisson algebra with associative and Lie parts isomorphic to the Laurent polynomials and the Witt algebra. On the other side, it has been proved that there are no non-trivial transposed Poisson algebras with a Lie algebra part isomorphic to a semisimple finite-dimensional algebra, a simple finite-dimensional superalgebra, the Virasoro algebra, $N=1$ and $N=2$ superconformal algebras, or a semisimple finite-dimensional $n$-Lie algebra.",
+    "content": "arXiv:2010.00443v3 Announce Type: replace \nAbstract: A relation between $\\frac{1}{2}$-derivations of Lie algebras and transposed Poisson algebras has been established. Some non-trivial transposed Poisson algebras with a certain Lie algebra (Witt algebra, the algebra $\\mathcal{W}(a,-1)$, the thin Lie algebra and a solvable Lie algebra with abelian nilpotent radical) have been done. In particular, we have developed an example of the transposed Poisson algebra with associative and Lie parts isomorphic to the Laurent polynomials and the Witt algebra. On the other side, it has been proved that there are no non-trivial transposed Poisson algebras with a Lie algebra part isomorphic to a semisimple finite-dimensional algebra, a simple finite-dimensional superalgebra, the Virasoro algebra, $N=1$ and $N=2$ superconformal algebras, or a semisimple finite-dimensional $n$-Lie algebra.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "The classification of $2$-dimensional rigid algebras",
+    "pubDate": "2026-11-17 05:00:00",
+    "link": "https://arxiv.org/abs/1810.01636",
+    "guid": "oai:arXiv.org:1810.01636v2",
+    "author": "Antonio Jes\\'us Calder\\'on, Amir Fern\\'andez Ouaridi, Ivan Kaygorodov",
+    "thumbnail": "",
+    "description": "arXiv:1810.01636v2 Announce Type: replace \nAbstract: Using the algebraic classification of all $2$-dimensional algebras, we give the algebraic classification of all $2$-dimensional rigid, conservative and terminal algebras over an algebraically closed field of characteristic 0. We have the geometric classification of the variety of $2$-dimensional terminal algebras, and based on the geometric classification of these algebras we formulate some open problems.",
+    "content": "arXiv:1810.01636v2 Announce Type: replace \nAbstract: Using the algebraic classification of all $2$-dimensional algebras, we give the algebraic classification of all $2$-dimensional rigid, conservative and terminal algebras over an algebraically closed field of characteristic 0. We have the geometric classification of the variety of $2$-dimensional terminal algebras, and based on the geometric classification of these algebras we formulate some open problems.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
     "title": "No free lattice contains an infinite ascending chain of copies of FL(3)",
     "pubDate": "2026-11-16 05:00:00",
     "link": "https://arxiv.org/abs/2611.18541",
