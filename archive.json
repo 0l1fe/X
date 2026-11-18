@@ -1,5 +1,340 @@
 [
   {
+    "title": "The Cooperstein conjecture and additive alternating $d$-codes",
+    "pubDate": "2026-11-18 05:00:00",
+    "link": "https://arxiv.org/abs/2611.22622",
+    "guid": "oai:arXiv.org:2611.22622v1",
+    "author": "Paolo Santonastaso",
+    "thumbnail": "",
+    "description": "arXiv:2611.22622v1 Announce Type: cross \nAbstract: Let $\\bigwedge^2 V$ be the second exterior power of a vector space $V$ over a finite field. The Cooperstein conjecture asserts a dimension bound for flats external to varieties consisting of points of bounded rank in $\\mathrm{PG}(\\bigwedge^2 V)$. This geometric problem can be translated into a question about linear spaces of alternating matrices whose nonzero elements have rank at least a prescribed value. For matrices of odd order, the sharp cardinality bound was already established by Delsarte and Goethals (1975).\n  In this paper, we prove the Cooperstein conjecture for matrices of even order and, more generally, we prove its additive analogue by determining, for all admissible parameters, the maximum size of an additive subgroup of alternating matrices in which every nonzero matrix has at least the prescribed rank. Our proof uses Pfaffian equations to characterize alternating matrices of rank below the prescribed minimum. We study the minimal graded free resolutions of the corresponding Pfaffian rings. The Cohen--Macaulay property and the $a$-invariant of each Pfaffian ring determine the largest shift in its resolution. We use trace functions on evaluation quotients to construct polynomial indicators for the matrices of small rank in an additive subgroup. The largest shift controls their degrees, yielding the upper bound by a counting argument. Finally, we give explicit trace constructions attaining the bound.",
+    "content": "arXiv:2611.22622v1 Announce Type: cross \nAbstract: Let $\\bigwedge^2 V$ be the second exterior power of a vector space $V$ over a finite field. The Cooperstein conjecture asserts a dimension bound for flats external to varieties consisting of points of bounded rank in $\\mathrm{PG}(\\bigwedge^2 V)$. This geometric problem can be translated into a question about linear spaces of alternating matrices whose nonzero elements have rank at least a prescribed value. For matrices of odd order, the sharp cardinality bound was already established by Delsarte and Goethals (1975).\n  In this paper, we prove the Cooperstein conjecture for matrices of even order and, more generally, we prove its additive analogue by determining, for all admissible parameters, the maximum size of an additive subgroup of alternating matrices in which every nonzero matrix has at least the prescribed rank. Our proof uses Pfaffian equations to characterize alternating matrices of rank below the prescribed minimum. We study the minimal graded free resolutions of the corresponding Pfaffian rings. The Cohen--Macaulay property and the $a$-invariant of each Pfaffian ring determine the largest shift in its resolution. We use trace functions on evaluation quotients to construct polynomial indicators for the matrices of small rank in an additive subgroup. The largest shift controls their degrees, yielding the upper bound by a counting argument. Finally, we give explicit trace constructions attaining the bound.",
+    "enclosure": {},
+    "categories": [
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Constructions of reversible linear and DNA codes through $T_{D,g}^n-$set and $(n_1,c_1|n_2,c_2)-$right polycyclic codes",
+    "pubDate": "2026-11-18 05:00:00",
+    "link": "https://arxiv.org/abs/2611.22587",
+    "guid": "oai:arXiv.org:2611.22587v1",
+    "author": "Avanish Kumar Chaturvedi, Satyadeep Pandey",
+    "thumbnail": "",
+    "description": "arXiv:2611.22587v1 Announce Type: cross \nAbstract: In this paper we give a construction technique of $T_{D,g}^n-$set for reversible linear codes and reversible DNA codes with their code parameters. This technique yields many reversible MDS codes which significantly improves the $T^n-$set construction by Oztas et.al. in terms of obtained code parameters. Concatenation-based constructions are presented for reversible linear codes satisfying self-duality and linear complementary dual (LCD) conditions, giving necessary and sufficient condition for desired dual properties.\n  We introduce a new notion of $(n_1,c_1|n_2,c_2)-$ right polycyclic codes. Also, a new construction technique is developed to obtain reversible linear $(n_1,c_1|n_2,c_2)-$ right polycyclic codes with good parameters (MDS codes) over any finite commutative rings.",
+    "content": "arXiv:2611.22587v1 Announce Type: cross \nAbstract: In this paper we give a construction technique of $T_{D,g}^n-$set for reversible linear codes and reversible DNA codes with their code parameters. This technique yields many reversible MDS codes which significantly improves the $T^n-$set construction by Oztas et.al. in terms of obtained code parameters. Concatenation-based constructions are presented for reversible linear codes satisfying self-duality and linear complementary dual (LCD) conditions, giving necessary and sufficient condition for desired dual properties.\n  We introduce a new notion of $(n_1,c_1|n_2,c_2)-$ right polycyclic codes. Also, a new construction technique is developed to obtain reversible linear $(n_1,c_1|n_2,c_2)-$ right polycyclic codes with good parameters (MDS codes) over any finite commutative rings.",
+    "enclosure": {},
+    "categories": [
+      "cs.IT",
+      "math.IT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "On representation-theoretic and homological properties of distance algebras of finite graphs",
+    "pubDate": "2026-11-18 05:00:00",
+    "link": "https://arxiv.org/abs/2611.22478",
+    "guid": "oai:arXiv.org:2611.22478v1",
+    "author": "Aaron Chan, Bohan Xing",
+    "thumbnail": "",
+    "description": "arXiv:2611.22478v1 Announce Type: cross \nAbstract: Distance algebras were introduced by Asao and Ivanov to realize magnitude homology and cohomology as bigraded Tor and Ext groups. We study the representation-theoretic and homological properties of the distance algebra $\\Sigma_G$ of a finite connected graph $G$. We characterize the graphs for which $\\Sigma_G$ is representation-finite, multiserial, biserial, or self-injective by an explicit graph-theoretic classification. We also compute the finitistic, self-injective, and dominant dimensions for several natural families of graphs. For a finite modular lattice $L$, we consider the distance algebra $\\Sigma_L$ associated to the Hasse graph of $L$, and show that $\\Sigma_L$ is Auslander--Gorenstein precisely when $L$ is a finite direct product of chains. We also present a family of minimal Auslander--Gorenstein distance algebras, namely, those associated to punctured hypercubes, whose finitistic (equivalently, self-injective; equivalently, dominant) dimension can be arbitrarily large.",
+    "content": "arXiv:2611.22478v1 Announce Type: cross \nAbstract: Distance algebras were introduced by Asao and Ivanov to realize magnitude homology and cohomology as bigraded Tor and Ext groups. We study the representation-theoretic and homological properties of the distance algebra $\\Sigma_G$ of a finite connected graph $G$. We characterize the graphs for which $\\Sigma_G$ is representation-finite, multiserial, biserial, or self-injective by an explicit graph-theoretic classification. We also compute the finitistic, self-injective, and dominant dimensions for several natural families of graphs. For a finite modular lattice $L$, we consider the distance algebra $\\Sigma_L$ associated to the Hasse graph of $L$, and show that $\\Sigma_L$ is Auslander--Gorenstein precisely when $L$ is a finite direct product of chains. We also present a family of minimal Auslander--Gorenstein distance algebras, namely, those associated to punctured hypercubes, whose finitistic (equivalently, self-injective; equivalently, dominant) dimension can be arbitrarily large.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "On continuous unitriangular matrices on \\(\\mathbb R^2\\)",
+    "pubDate": "2026-11-18 05:00:00",
+    "link": "https://arxiv.org/abs/2611.22213",
+    "guid": "oai:arXiv.org:2611.22213v1",
+    "author": "J\\\"urgen Leiterer",
+    "thumbnail": "",
+    "description": "arXiv:2611.22213v1 Announce Type: new \nAbstract: Let \\(\\mathrm{SL}_2(\\C)\\) be the group of complex \\(2\\times 2\\)-matrices with determinant \\(1\\). We prove that each continuous map \\(A:\\R^2\\to\\mathrm{SL}_2(\\C)\\) can be written in the form \\[A=\\begin{pmatrix}1&f_1\\\\0&1\\end{pmatrix} \\begin{pmatrix}1&0\\\\f_2&1\\end{pmatrix} \\begin{pmatrix}1&f_3\\\\0&1\\end{pmatrix} \\begin{pmatrix}1&0\\\\f_4&1\\end{pmatrix} \\begin{pmatrix}1&f_5\\\\0&1\\end{pmatrix}, \\] where \\(f_1,\\ldots,f_5:\\R^2\\to\\C\\) are continuous functions.",
+    "content": "arXiv:2611.22213v1 Announce Type: new \nAbstract: Let \\(\\mathrm{SL}_2(\\C)\\) be the group of complex \\(2\\times 2\\)-matrices with determinant \\(1\\). We prove that each continuous map \\(A:\\R^2\\to\\mathrm{SL}_2(\\C)\\) can be written in the form \\[A=\\begin{pmatrix}1&f_1\\\\0&1\\end{pmatrix} \\begin{pmatrix}1&0\\\\f_2&1\\end{pmatrix} \\begin{pmatrix}1&f_3\\\\0&1\\end{pmatrix} \\begin{pmatrix}1&0\\\\f_4&1\\end{pmatrix} \\begin{pmatrix}1&f_5\\\\0&1\\end{pmatrix}, \\] where \\(f_1,\\ldots,f_5:\\R^2\\to\\C\\) are continuous functions.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Boxes in Infinite Words: Complexity, Automata, and Point Modules",
+    "pubDate": "2026-11-18 05:00:00",
+    "link": "https://arxiv.org/abs/2611.21772",
+    "guid": "oai:arXiv.org:2611.21772v1",
+    "author": "Jason Bell",
+    "thumbnail": "",
+    "description": "arXiv:2611.21772v1 Announce Type: cross \nAbstract: Motivated by the geometry of point modules over monomial algebras, we introduce a box-counting function associated to a right-infinite word over a finite alphabet. An extendable box is a family of finite words obtained by choosing letters independently at each position, subject to the condition that all choices admit a common infinite right continuation in the associated subshift. We prove several results for these functions for words of linearly bounded complexity. For $k$-automatic words, we show using techniques from first-order logic that the total box-counting function is $k$-regular. Finally, we apply our results to prove eventual affine growth of the number of positive-dimensional irreducible components in finite projections of point-module spaces associated to semiprime monomial algebras of at most quadratic growth.",
+    "content": "arXiv:2611.21772v1 Announce Type: cross \nAbstract: Motivated by the geometry of point modules over monomial algebras, we introduce a box-counting function associated to a right-infinite word over a finite alphabet. An extendable box is a family of finite words obtained by choosing letters independently at each position, subject to the condition that all choices admit a common infinite right continuation in the associated subshift. We prove several results for these functions for words of linearly bounded complexity. For $k$-automatic words, we show using techniques from first-order logic that the total box-counting function is $k$-regular. Finally, we apply our results to prove eventual affine growth of the number of positive-dimensional irreducible components in finite projections of point-module spaces associated to semiprime monomial algebras of at most quadratic growth.",
+    "enclosure": {},
+    "categories": [
+      "cs.FL",
+      "math.LO",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Classification problems for diassociative and dendriform algebras: a survey",
+    "pubDate": "2026-11-18 05:00:00",
+    "link": "https://arxiv.org/abs/2611.19249",
+    "guid": "oai:arXiv.org:2611.19249v2",
+    "author": "Ikrom M. Rikhsiboev",
+    "thumbnail": "",
+    "description": "arXiv:2611.19249v2 Announce Type: replace \nAbstract: Diassociative algebras (associative dialgebras) and dendriform algebras are vector spaces with two binary operations, introduced by J.-L. Loday in the study of Leibniz algebras; their operads are Koszul dual to each other. We survey the classification problem for these two classes, including the Zinbiel algebras, the commutative dendriform algebras, which are Koszul dual to Leibniz algebras. We recall the definitions, the main examples and the Loday diagram with its extension by left-symmetric algebras and dialgebras, and describe the methods used to classify algebras of small dimension: direct computation from lists of associative algebras, annihilator (central) extensions and geometric classification by degenerations. We then collect, by dimension, the known algebraic classifications of diassociative algebras, dendriform algebras and their commutative case, the Zinbiel algebras, point out lists that later work corrected, and summarise the cohomological results that the methods rely on. We close with a list of open problems.",
+    "content": "arXiv:2611.19249v2 Announce Type: replace \nAbstract: Diassociative algebras (associative dialgebras) and dendriform algebras are vector spaces with two binary operations, introduced by J.-L. Loday in the study of Leibniz algebras; their operads are Koszul dual to each other. We survey the classification problem for these two classes, including the Zinbiel algebras, the commutative dendriform algebras, which are Koszul dual to Leibniz algebras. We recall the definitions, the main examples and the Loday diagram with its extension by left-symmetric algebras and dialgebras, and describe the methods used to classify algebras of small dimension: direct computation from lists of associative algebras, annihilator (central) extensions and geometric classification by degenerations. We then collect, by dimension, the known algebraic classifications of diassociative algebras, dendriform algebras and their commutative case, the Zinbiel algebras, point out lists that later work corrected, and summarise the cohomological results that the methods rely on. We close with a list of open problems.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Bipartite Matchings, Matrix Permanents, and Zeon Power Series",
+    "pubDate": "2026-11-18 05:00:00",
+    "link": "https://arxiv.org/abs/2611.14802",
+    "guid": "oai:arXiv.org:2611.14802v2",
+    "author": "Muhammad Waqar Ul Hassan, G. Stacey Staples",
+    "thumbnail": "",
+    "description": "arXiv:2611.14802v2 Announce Type: replace-cross \nAbstract: Perfect matchings of a bipartite graph are counted by the permanent of the graph's biadjacency matrix, and permanents of sequences of structured biadjacency matrices lead to integer sequences. We consider a number of such sequences and illustrate how zeon-algebraic representations of bipartite graphs lead to recursively defined zeon sequences. Then, using formal power series methods, we show that the ``$\\Omega$-exponentials'' of these zeon sequences reveal numbers of perfect matchings in the graphs.",
+    "content": "arXiv:2611.14802v2 Announce Type: replace-cross \nAbstract: Perfect matchings of a bipartite graph are counted by the permanent of the graph's biadjacency matrix, and permanents of sequences of structured biadjacency matrices lead to integer sequences. We consider a number of such sequences and illustrate how zeon-algebraic representations of bipartite graphs lead to recursively defined zeon sequences. Then, using formal power series methods, we show that the ``$\\Omega$-exponentials'' of these zeon sequences reveal numbers of perfect matchings in the graphs.",
+    "enclosure": {},
+    "categories": [
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "What the occupation law of a finite Markov chain determines: time reversal and principal minors",
+    "pubDate": "2026-11-18 05:00:00",
+    "link": "https://arxiv.org/abs/2611.14587",
+    "guid": "oai:arXiv.org:2611.14587v2",
+    "author": "Arjun Pemmasani",
+    "thumbnail": "",
+    "description": "arXiv:2611.14587v2 Announce Type: replace-cross \nAbstract: What does the occupation law of a finite Markov chain determine about its generator $Q$? From the stationary start, the law of the occupation times at one time determines $Q$ up to time reversal and reversals of memoryless blocks, the sets of states that are all left at one rate with one landing law and are entered in proportion to the stationary law. These reversals commute and give exactly $2^k$ generators, with $k$ read off a tree of memoryless blocks. This leaves only time reversal when $Q$ has no rank-one cut, when there are at most 4 states, and generically. The law at one time determines the law at every time, and a generic start determines $Q$. A renewal block is a set of states that is left at the same rates from each of its states, is entered with one law, and is charged by the start in proportion to that law. From every start the law determines $Q$ up to lumped reversals, which lump disjoint renewal blocks to single states and reverse a memoryless block of the lumped chain. We also find every start that hides time reversal. At the scale of large deviations, the functional of Donsker and Varadhan determines exactly the principal minors of $-Q$.",
+    "content": "arXiv:2611.14587v2 Announce Type: replace-cross \nAbstract: What does the occupation law of a finite Markov chain determine about its generator $Q$? From the stationary start, the law of the occupation times at one time determines $Q$ up to time reversal and reversals of memoryless blocks, the sets of states that are all left at one rate with one landing law and are entered in proportion to the stationary law. These reversals commute and give exactly $2^k$ generators, with $k$ read off a tree of memoryless blocks. This leaves only time reversal when $Q$ has no rank-one cut, when there are at most 4 states, and generically. The law at one time determines the law at every time, and a generic start determines $Q$. A renewal block is a set of states that is left at the same rates from each of its states, is entered with one law, and is charged by the start in proportion to that law. From every start the law determines $Q$ up to lumped reversals, which lump disjoint renewal blocks to single states and reverse a memoryless block of the lumped chain. We also find every start that hides time reversal. At the scale of large deviations, the functional of Donsker and Varadhan determines exactly the principal minors of $-Q$.",
+    "enclosure": {},
+    "categories": [
+      "math.PR",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Inverse theorems and non-arithmetic critical pairs for restricted sumsets in $\\mathbb{Z}_p$",
+    "pubDate": "2026-11-18 05:00:00",
+    "link": "https://arxiv.org/abs/2609.10148",
+    "guid": "oai:arXiv.org:2609.10148v3",
+    "author": "Jiantao Li, Xinyi Liang",
+    "thumbnail": "",
+    "description": "arXiv:2609.10148v3 Announce Type: replace-cross \nAbstract: Let $A,B\\subset\\mathbb{Z}_p$ be nonempty with $|A|\\neq|B|$, and let $A\\rplus B$ be the set of sums $a+b$ with $a\\in A$, $b\\in B$ and $a\\neq b$. Alon, Nathanson and Ruzsa proved $|A\\rplus B|\\ge\\min\\{p,|A|+|B|-2\\}$. Liu and Qian conjectured that when $|A|+|B|\\le p$ equality forces $A$ and $B$ to be arithmetic progressions with a common difference, with $B$ the first or the last $|B|$ terms of $A$. We refute the conjecture. For every prime $p\\ge11$ there is a critical pair with $|A|+|B|=p$, $A+B=\\mathbb{Z}_p$ and neither set an arithmetic progression, and for $p=13$ one with $|A|+|B|=p-2$.\n  These pairs satisfy $|A|+2|B|\\ge p+2$, and the inequality $|A+B|\\le|A\\rplus B|+|A\\cap B|$ shows that no counterexample can do better. We conjecture that every critical pair with $|A|+2|B|\\le p+1$ is arithmetic, and prove this when $|A+B|=|A|+|B|-1$. In the conjectured range the statement is equivalent to the minimality of the ordinary sumset, to a defect of one element, and to the emptiness of the band $|A|+|B|\\le|A+B|\\le p-1$. We also describe all critical pairs with $A+B=\\mathbb{Z}_p$ at $p=|A|+2|B|-2$, and prove that every critical pair satisfies $|A\\cap(A+t)|\\ge|A|-|B|$ for $t\\in B-B$ and that one with a uniquely represented restricted sum is arithmetic whenever all critical pairs with a smaller second set are.",
+    "content": "arXiv:2609.10148v3 Announce Type: replace-cross \nAbstract: Let $A,B\\subset\\mathbb{Z}_p$ be nonempty with $|A|\\neq|B|$, and let $A\\rplus B$ be the set of sums $a+b$ with $a\\in A$, $b\\in B$ and $a\\neq b$. Alon, Nathanson and Ruzsa proved $|A\\rplus B|\\ge\\min\\{p,|A|+|B|-2\\}$. Liu and Qian conjectured that when $|A|+|B|\\le p$ equality forces $A$ and $B$ to be arithmetic progressions with a common difference, with $B$ the first or the last $|B|$ terms of $A$. We refute the conjecture. For every prime $p\\ge11$ there is a critical pair with $|A|+|B|=p$, $A+B=\\mathbb{Z}_p$ and neither set an arithmetic progression, and for $p=13$ one with $|A|+|B|=p-2$.\n  These pairs satisfy $|A|+2|B|\\ge p+2$, and the inequality $|A+B|\\le|A\\rplus B|+|A\\cap B|$ shows that no counterexample can do better. We conjecture that every critical pair with $|A|+2|B|\\le p+1$ is arithmetic, and prove this when $|A+B|=|A|+|B|-1$. In the conjectured range the statement is equivalent to the minimality of the ordinary sumset, to a defect of one element, and to the emptiness of the band $|A|+|B|\\le|A+B|\\le p-1$. We also describe all critical pairs with $A+B=\\mathbb{Z}_p$ at $p=|A|+2|B|-2$, and prove that every critical pair satisfies $|A\\cap(A+t)|\\ge|A|-|B|$ for $t\\in B-B$ and that one with a uniquely represented restricted sum is arithmetic whenever all critical pairs with a smaller second set are.",
+    "enclosure": {},
+    "categories": [
+      "math.NT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Self-injective dimensions and Iyama grade dualities over Noether algebras",
+    "pubDate": "2026-11-18 05:00:00",
+    "link": "https://arxiv.org/abs/2608.15974",
+    "guid": "oai:arXiv.org:2608.15974v3",
+    "author": "Dawei Shen",
+    "thumbnail": "",
+    "description": "arXiv:2608.15974v3 Announce Type: replace \nAbstract: Let $A$ be an algebra module-finite over a commutative Noetherian ring. We first establish a local criterion for the $n$-Gorenstein condition in terms of the grades and flat dimensions of injective envelopes of simple modules over central localizations. As a main application, we give an affirmative answer, in this module-finite setting, to a question of Huang on the symmetry of finite self-injective dimension under the Auslander condition. We also show that $A$ is Auslander--Gorenstein if and only if it is Iwanaga--Gorenstein and has the fiberwise Iyama grade duality. For Cohen--Macaulay algebras, central regular reductions to Artin algebras allow both the Auslander condition and the grade duality to be tested on simple modules over $A$ itself.",
+    "content": "arXiv:2608.15974v3 Announce Type: replace \nAbstract: Let $A$ be an algebra module-finite over a commutative Noetherian ring. We first establish a local criterion for the $n$-Gorenstein condition in terms of the grades and flat dimensions of injective envelopes of simple modules over central localizations. As a main application, we give an affirmative answer, in this module-finite setting, to a question of Huang on the symmetry of finite self-injective dimension under the Auslander condition. We also show that $A$ is Auslander--Gorenstein if and only if it is Iwanaga--Gorenstein and has the fiberwise Iyama grade duality. For Cohen--Macaulay algebras, central regular reductions to Artin algebras allow both the Auslander condition and the grade duality to be tested on simple modules over $A$ itself.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Extremely proximal actions and primitivity of group rings",
+    "pubDate": "2026-11-18 05:00:00",
+    "link": "https://arxiv.org/abs/2607.28316",
+    "guid": "oai:arXiv.org:2607.28316v2",
+    "author": "Felipe I. Flores",
+    "thumbnail": "",
+    "description": "arXiv:2607.28316v2 Announce Type: replace \nAbstract: We present a purely dynamical criterion for the primitivity of group rings. To be precise, we show that if $G$ is a countable group that admits a topologically free, extremely proximal action, then the group ring $KG$ is primitive for any field $K$. Our criterion recovers several of the existing results on primitivity and applies to new examples, such as the commensurator groups of torsion-free non-elementary hyperbolic groups, some Kac-Moody groups, and other weakly hyperbolic groups.",
+    "content": "arXiv:2607.28316v2 Announce Type: replace \nAbstract: We present a purely dynamical criterion for the primitivity of group rings. To be precise, we show that if $G$ is a countable group that admits a topologically free, extremely proximal action, then the group ring $KG$ is primitive for any field $K$. Our criterion recovers several of the existing results on primitivity and applies to new examples, such as the commensurator groups of torsion-free non-elementary hyperbolic groups, some Kac-Moody groups, and other weakly hyperbolic groups.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GR",
+      "math.RT"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "On concatenation of matrices for reversible linear codes over a finite commutative ring and applications to DNA codes",
+    "pubDate": "2026-11-18 05:00:00",
+    "link": "https://arxiv.org/abs/2606.10633",
+    "guid": "oai:arXiv.org:2606.10633v2",
+    "author": "Avanish Kumar Chaturvedi, Satyadeep Pandey",
+    "thumbnail": "",
+    "description": "arXiv:2606.10633v2 Announce Type: replace-cross \nAbstract: In this paper, we develop a generalized framework for constructing reversible linear, reversible self dual and reversible DNA codes using a matrix-theoretic approach based on involutory matrices. The proposed concatenation scheme gives a large class of generator matrices and yields codes with good parameters. The construction is carried out at the level of linear codes and then extended to DNA codes. Using a matrix product approach, we provide a unified method for analysis and proof. Further, we resolve an open problem raised by Oztas et.al. and also we correct and improve some results of them.",
+    "content": "arXiv:2606.10633v2 Announce Type: replace-cross \nAbstract: In this paper, we develop a generalized framework for constructing reversible linear, reversible self dual and reversible DNA codes using a matrix-theoretic approach based on involutory matrices. The proposed concatenation scheme gives a large class of generator matrices and yields codes with good parameters. The construction is carried out at the level of linear codes and then extended to DNA codes. Using a matrix product approach, we provide a unified method for analysis and proof. Further, we resolve an open problem raised by Oztas et.al. and also we correct and improve some results of them.",
+    "enclosure": {},
+    "categories": [
+      "cs.IT",
+      "math.IT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Virasoro elements in conformal algebras",
+    "pubDate": "2026-11-18 05:00:00",
+    "link": "https://arxiv.org/abs/2511.00666",
+    "guid": "oai:arXiv.org:2511.00666v2",
+    "author": "Yucai Su, Chunguang Xia",
+    "thumbnail": "",
+    "description": "arXiv:2511.00666v2 Announce Type: replace-cross \nAbstract: It is well known that Virasoro elements play an extremely important role in the theory of vertex operator algebras, and likewise a very significant role in the field of conformal algebras. In this paper, we introduce the notion of a regular action in the category of conformal modules over Lie conformal algebras with Virasoro elements. We show that a finite conformal module over the general conformal algebra $\\mathfrak{gc}_1$ (resp., $\\mathfrak{gc}_N$ with $N\\ge2$) is semisimple if and only if there exists a pair of different Virasoro elements (resp., canonical Virasoro elements) with regular actions. Along the way to finding semisimplicity criteria, we also discuss the classification of Virasoro elements of $\\mathfrak{gc}_N$ in-depth, leading us to construct a huge number of new Virasoro conformal modules.",
+    "content": "arXiv:2511.00666v2 Announce Type: replace-cross \nAbstract: It is well known that Virasoro elements play an extremely important role in the theory of vertex operator algebras, and likewise a very significant role in the field of conformal algebras. In this paper, we introduce the notion of a regular action in the category of conformal modules over Lie conformal algebras with Virasoro elements. We show that a finite conformal module over the general conformal algebra $\\mathfrak{gc}_1$ (resp., $\\mathfrak{gc}_N$ with $N\\ge2$) is semisimple if and only if there exists a pair of different Virasoro elements (resp., canonical Virasoro elements) with regular actions. Along the way to finding semisimplicity criteria, we also discuss the classification of Virasoro elements of $\\mathfrak{gc}_N$ in-depth, leading us to construct a huge number of new Virasoro conformal modules.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math-ph",
+      "math.MP",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Non-commutative crepant resolutions of toric singularities with divisor class group of rank one",
+    "pubDate": "2026-11-18 05:00:00",
+    "link": "https://arxiv.org/abs/2510.26252",
+    "guid": "oai:arXiv.org:2510.26252v4",
+    "author": "Ryu Tomonaga",
+    "thumbnail": "",
+    "description": "arXiv:2510.26252v4 Announce Type: replace-cross \nAbstract: We classify the basic reflexive modules giving toric non-commutative crepant resolutions (NCCRs) of Gorenstein toric singularities whose divisor class group has rank one. Their isomorphism classes are parametrized by nonempty proper upper sets in a partially ordered quotient of the class group. Each upper set determines a finite subset called its window, which specifies the divisorial summands. The number of summands in each such module equals the normalized volume of the associated lattice polytope, as conjectured by Van den Bergh. If two upper sets differ by one element, their modules are related by a finite sequence of Iyama--Wemyss mutations. Such sequences connect any two of the classified modules, so all toric NCCRs of a fixed singularity are derived equivalent.\n  We construct higher-dimensional analogues of dimer dual quivers when the associated $d$-dimensional lattice polytope is non-pyramidal. The same window determines a cut of a periodic quiver on the $d$-torus. The cut gives an explicit presentation of the endomorphism algebra by a quiver with relations. For $d=2$, the resulting quiver is dual to a dimer model, a bipartite tiling of the two-torus.",
+    "content": "arXiv:2510.26252v4 Announce Type: replace-cross \nAbstract: We classify the basic reflexive modules giving toric non-commutative crepant resolutions (NCCRs) of Gorenstein toric singularities whose divisor class group has rank one. Their isomorphism classes are parametrized by nonempty proper upper sets in a partially ordered quotient of the class group. Each upper set determines a finite subset called its window, which specifies the divisorial summands. The number of summands in each such module equals the normalized volume of the associated lattice polytope, as conjectured by Van den Bergh. If two upper sets differ by one element, their modules are related by a finite sequence of Iyama--Wemyss mutations. Such sequences connect any two of the classified modules, so all toric NCCRs of a fixed singularity are derived equivalent.\n  We construct higher-dimensional analogues of dimer dual quivers when the associated $d$-dimensional lattice polytope is non-pyramidal. The same window determines a cut of a periodic quiver on the $d$-torus. The cut gives an explicit presentation of the endomorphism algebra by a quiver with relations. For $d=2$, the resulting quiver is dual to a dimer model, a bipartite tiling of the two-torus.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.AC",
+      "math.AG",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Conservative algebras of $2$-dimensional algebras, V",
+    "pubDate": "2026-11-18 05:00:00",
+    "link": "https://arxiv.org/abs/2301.00388",
+    "guid": "oai:arXiv.org:2301.00388v2",
+    "author": "Ivan Kaygorodov, Dolores Mart\\'in Barquero, C\\'andido Mart\\'in Gonz\\'alez",
+    "thumbnail": "",
+    "description": "arXiv:2301.00388v2 Announce Type: replace \nAbstract: The notion of conservative algebras appeared in a paper by Kantor in 1972. Later, he defined the conservative algebra $W(n)$ of all algebras (i.e. bilinear maps) on the $n$-dimensional vector space. If $n>1$, then the algebra $W(n)$ does not belong to any well-known class of algebras (such as associative, Lie, Jordan, or Leibniz algebras). It looks like $W(n)$ in the theory of conservative algebras plays a similar role to the role of $\\mathfrak{gl}_n$ in the theory of Lie algebras. Namely, an arbitrary conservative algebra can be obtained from a universal algebra $W(n)$ for some $n \\in \\mathbb{N}.$ The present paper is a part of a series of papers, which dedicated to the study of the algebra $W(2)$ and its principal subalgebras.",
+    "content": "arXiv:2301.00388v2 Announce Type: replace \nAbstract: The notion of conservative algebras appeared in a paper by Kantor in 1972. Later, he defined the conservative algebra $W(n)$ of all algebras (i.e. bilinear maps) on the $n$-dimensional vector space. If $n>1$, then the algebra $W(n)$ does not belong to any well-known class of algebras (such as associative, Lie, Jordan, or Leibniz algebras). It looks like $W(n)$ in the theory of conservative algebras plays a similar role to the role of $\\mathfrak{gl}_n$ in the theory of Lie algebras. Namely, an arbitrary conservative algebra can be obtained from a universal algebra $W(n)$ for some $n \\in \\mathbb{N}.$ The present paper is a part of a series of papers, which dedicated to the study of the algebra $W(2)$ and its principal subalgebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Conservative algebras of $2$-dimensional algebras, IV",
+    "pubDate": "2026-11-18 05:00:00",
+    "link": "https://arxiv.org/abs/2212.00415",
+    "guid": "oai:arXiv.org:2212.00415v2",
+    "author": "Amir Fern\\'andez Ouaridi, Ivan Kaygorodov, C\\'andido Mart\\'in Gonz\\'alez",
+    "thumbnail": "",
+    "description": "arXiv:2212.00415v2 Announce Type: replace \nAbstract: The notion of conservative algebras appeared in a paper by Kantor in 1972. Later, he defined the conservative algebra $W(n)$ of all algebras (i.e. bilinear maps) on the $n$-dimensional vector space. If $n>1$, then the algebra $W(n)$ does not belong to any well-known class of algebras (such as associative, Lie, Jordan, or Leibniz algebras). It looks like $W(n)$ in the theory of conservative algebras plays a similar role to the role of $\\mathfrak{gl}_n$ in the theory of Lie algebras. Namely, an arbitrary conservative algebra can be obtained from a universal algebra $W(n)$ for some $n \\in \\mathbb{N}.$ The present paper is a part of a series of papers, dedicated to the study of the algebra $W(2)$ and its principal subalgebras.",
+    "content": "arXiv:2212.00415v2 Announce Type: replace \nAbstract: The notion of conservative algebras appeared in a paper by Kantor in 1972. Later, he defined the conservative algebra $W(n)$ of all algebras (i.e. bilinear maps) on the $n$-dimensional vector space. If $n>1$, then the algebra $W(n)$ does not belong to any well-known class of algebras (such as associative, Lie, Jordan, or Leibniz algebras). It looks like $W(n)$ in the theory of conservative algebras plays a similar role to the role of $\\mathfrak{gl}_n$ in the theory of Lie algebras. Namely, an arbitrary conservative algebra can be obtained from a universal algebra $W(n)$ for some $n \\in \\mathbb{N}.$ The present paper is a part of a series of papers, dedicated to the study of the algebra $W(2)$ and its principal subalgebras.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "On the Kantor product, II",
+    "pubDate": "2026-11-18 05:00:00",
+    "link": "https://arxiv.org/abs/2201.00174",
+    "guid": "oai:arXiv.org:2201.00174v2",
+    "author": "Renato Fehlberg J\\'unior, Ivan Kaygorodov",
+    "thumbnail": "",
+    "description": "arXiv:2201.00174v2 Announce Type: replace \nAbstract: We describe the Kantor square (and Kantor product) of multiplications, extending the classification proposed in [I. Kaygorodov, On the Kantor product, Journal of Algebra and Its Applications, 16 (2017), 9, 1750167]. Besides, we explicitly describe the Kantor square of some low dimensional algebras and give constructive methods for obtaining new transposed Poisson algebras and Poisson-Novikov algebras; and for classifying Poisson structures and commutative post-Lie structures on a given algebra.",
+    "content": "arXiv:2201.00174v2 Announce Type: replace \nAbstract: We describe the Kantor square (and Kantor product) of multiplications, extending the classification proposed in [I. Kaygorodov, On the Kantor product, Journal of Algebra and Its Applications, 16 (2017), 9, 1750167]. Besides, we explicitly describe the Kantor square of some low dimensional algebras and give constructive methods for obtaining new transposed Poisson algebras and Poisson-Novikov algebras; and for classifying Poisson structures and commutative post-Lie structures on a given algebra.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "The universal conservative superalgebra",
+    "pubDate": "2026-11-18 05:00:00",
+    "link": "https://arxiv.org/abs/1811.00985",
+    "guid": "oai:arXiv.org:1811.00985v2",
+    "author": "Ivan Kaygorodov, Yury Popov, Alexandr Pozhidaev",
+    "thumbnail": "",
+    "description": "arXiv:1811.00985v2 Announce Type: replace \nAbstract: We introduce the class of conservative superalgebras, in particular, the superalgebra $\\mathcal{U}(V)$ of bilinear operations on a superspace $V$. Moreover, we show that each conservative superalgebra modulo its maximal Jacobi ideal is embedded into $\\mathcal{U}(V)$ for a certain superspace $V$.",
+    "content": "arXiv:1811.00985v2 Announce Type: replace \nAbstract: We introduce the class of conservative superalgebras, in particular, the superalgebra $\\mathcal{U}(V)$ of bilinear operations on a superspace $V$. Moreover, we show that each conservative superalgebra modulo its maximal Jacobi ideal is embedded into $\\mathcal{U}(V)$ for a certain superspace $V$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Conservative algebras of $2$-dimensional algebras, II",
+    "pubDate": "2026-11-18 05:00:00",
+    "link": "https://arxiv.org/abs/1507.02324",
+    "guid": "oai:arXiv.org:1507.02324v2",
+    "author": "Ivan Kaygorodov, Yury Volkov",
+    "thumbnail": "",
+    "description": "arXiv:1507.02324v2 Announce Type: replace \nAbstract: In 1990, Kantor defined the conservative algebra $W(n)$ of all algebras (i.e., bilinear maps) on the $n$-dimensional vector space. If $n>1$, then the algebra $W(n)$ does not belong to any well-known class of algebras (such as associative, Lie, Jordan, or Leibniz algebras). We describe automorphisms, one-sided ideals, and idempotents of $W(2)$. Similar problems are also solved for the algebra $W_2$ of all commutative algebras on the $2$-dimensional vector space and for the algebra $S_2$ of all commutative algebras with trace-zero multiplication on the $2$-dimensional vector space.",
+    "content": "arXiv:1507.02324v2 Announce Type: replace \nAbstract: In 1990, Kantor defined the conservative algebra $W(n)$ of all algebras (i.e., bilinear maps) on the $n$-dimensional vector space. If $n>1$, then the algebra $W(n)$ does not belong to any well-known class of algebras (such as associative, Lie, Jordan, or Leibniz algebras). We describe automorphisms, one-sided ideals, and idempotents of $W(2)$. Similar problems are also solved for the algebra $W_2$ of all commutative algebras on the $2$-dimensional vector space and for the algebra $S_2$ of all commutative algebras with trace-zero multiplication on the $2$-dimensional vector space.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "On The Kantor Product",
+    "pubDate": "2026-11-18 05:00:00",
+    "link": "https://arxiv.org/abs/1506.00736",
+    "guid": "oai:arXiv.org:1506.00736v3",
+    "author": "Ivan Kaygorodov",
+    "thumbnail": "",
+    "description": "arXiv:1506.00736v3 Announce Type: replace \nAbstract: We study the algebra of bilinear multiplications of an n-dimensional vector space. In particular, we study the Kantor product of some well-known multiplications (associative, Lie, alternative, Novikov, and some others).",
+    "content": "arXiv:1506.00736v3 Announce Type: replace \nAbstract: We study the algebra of bilinear multiplications of an n-dimensional vector space. In particular, we study the Kantor product of some well-known multiplications (associative, Lie, alternative, Novikov, and some others).",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Conservative algebras of $2$-dimensional algebras",
+    "pubDate": "2026-11-18 05:00:00",
+    "link": "https://arxiv.org/abs/1411.7744",
+    "guid": "oai:arXiv.org:1411.7744v2",
+    "author": "Ivan Kaygorodov, Artem Lopatin, Yury Popov",
+    "thumbnail": "",
+    "description": "arXiv:1411.7744v2 Announce Type: replace \nAbstract: In 1990, Kantor introduced the conservative algebra $W(n)$ of all algebras (i.e., bilinear maps) on the $n$-dimensional vector space. In the case $n>1$, the algebra $W(n)$ does not belong to any of the well-known classes of algebras (such as associative, Lie, Jordan, or Leibniz algebras). We describe the algebra of all derivations of $W(2)$ and the subalgebras of $W(2)$ of codimension one. We also study similar problems for the algebra $W_2$ of all commutative algebras on the two-dimensional vector space and the algebra $S_2$ of all commutative algebras with trace-zero multiplication on the two-dimensional space.",
+    "content": "arXiv:1411.7744v2 Announce Type: replace \nAbstract: In 1990, Kantor introduced the conservative algebra $W(n)$ of all algebras (i.e., bilinear maps) on the $n$-dimensional vector space. In the case $n>1$, the algebra $W(n)$ does not belong to any of the well-known classes of algebras (such as associative, Lie, Jordan, or Leibniz algebras). We describe the algebra of all derivations of $W(2)$ and the subalgebras of $W(2)$ of codimension one. We also study similar problems for the algebra $W_2$ of all commutative algebras on the two-dimensional vector space and the algebra $S_2$ of all commutative algebras with trace-zero multiplication on the two-dimensional space.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
     "title": "Exceptional cubics on 7-manifolds",
     "pubDate": "2026-11-17 05:00:00",
     "link": "https://arxiv.org/abs/2611.21589",
