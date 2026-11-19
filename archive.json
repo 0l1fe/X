@@ -1,5 +1,219 @@
 [
   {
+    "title": "A Cubic Obstruction to Sums of Tripotent and Square-Zero Matrices",
+    "pubDate": "2026-11-19 05:00:00",
+    "link": "https://arxiv.org/abs/2611.24594",
+    "guid": "oai:arXiv.org:2611.24594v1",
+    "author": "Dang Vo Phuc, Peter V. Danchev",
+    "thumbnail": "",
+    "description": "arXiv:2611.24594v1 Announce Type: new \nAbstract: Let $R$ be a nonzero unital ring of characteristic $2$, and let $\\lambda$ be a central unit of $R$. We prove that an element $a\\in R$ satisfying $a^3+a^2+\\lambda=0$ cannot be expressed as the sum of a tripotent element and a square-zero element. The proof does not require the summands to commute. Over $\\F_2$, this gives counterexamples in every order divisible by three, including order twelve, and proves the optimality of the known uniform exponent four in those orders. We also give constructive proofs that every matrix of order four or five over $\\F_2$ is a sum of a tripotent and a square-zero matrix, and deduce a complete criterion in order three. Combining the cubic obstruction with the quartic obstruction for idempotent-plus-cube-zero decompositions, we obtain two-way incomparability of the corresponding decomposition classes in every positive order divisible by twelve.",
+    "content": "arXiv:2611.24594v1 Announce Type: new \nAbstract: Let $R$ be a nonzero unital ring of characteristic $2$, and let $\\lambda$ be a central unit of $R$. We prove that an element $a\\in R$ satisfying $a^3+a^2+\\lambda=0$ cannot be expressed as the sum of a tripotent element and a square-zero element. The proof does not require the summands to commute. Over $\\F_2$, this gives counterexamples in every order divisible by three, including order twelve, and proves the optimality of the known uniform exponent four in those orders. We also give constructive proofs that every matrix of order four or five over $\\F_2$ is a sum of a tripotent and a square-zero matrix, and deduce a complete criterion in order three. Combining the cubic obstruction with the quartic obstruction for idempotent-plus-cube-zero decompositions, we obtain two-way incomparability of the corresponding decomposition classes in every positive order divisible by twelve.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Stafford's conjecture on cyclicity of torsion modules",
+    "pubDate": "2026-11-19 05:00:00",
+    "link": "https://arxiv.org/abs/2611.24577",
+    "guid": "oai:arXiv.org:2611.24577v1",
+    "author": "Christopher Albert, Johanna Moser, Maximilian Philipp",
+    "thumbnail": "",
+    "description": "arXiv:2611.24577v1 Announce Type: new \nAbstract: We prove that over a Weyl algebra over a field of characteristic zero $A_n(k)$, every nonzero $d\\in A_n(k)$ admits $F,R,S\\in A_n(k)$ such that $1=dR+FdS$, a conjecture Stafford proposed in 1978. As a consequence, every finitely generated torsion right $A_n(k)$-module is cyclic. The proof maps $d$, by a symplectic change of variables, to a normal form $\\tilde d$ and shows that the cyclic module $Q=A_n(k)/(\\tilde dA_n(k)+x_1^N\\tilde dA_n(k))$ vanishes. We first show that right multiplication by $x_1$ is surjective on $Q$. A comparison of lengths of localized modules over the associated graded ring then gives $\\operatorname{gr}Q=x_1\\operatorname{gr}Q$, so that the characteristic variety of $Q$ is disjoint from the hyperplane $\\{x_1=0\\}$. Finally, Gabber's involutivity theorem together with an argument about conormal directions at infinity from algebraic geometry shows that such a characteristic variety must be empty and therefore, $Q = 0$.",
+    "content": "arXiv:2611.24577v1 Announce Type: new \nAbstract: We prove that over a Weyl algebra over a field of characteristic zero $A_n(k)$, every nonzero $d\\in A_n(k)$ admits $F,R,S\\in A_n(k)$ such that $1=dR+FdS$, a conjecture Stafford proposed in 1978. As a consequence, every finitely generated torsion right $A_n(k)$-module is cyclic. The proof maps $d$, by a symplectic change of variables, to a normal form $\\tilde d$ and shows that the cyclic module $Q=A_n(k)/(\\tilde dA_n(k)+x_1^N\\tilde dA_n(k))$ vanishes. We first show that right multiplication by $x_1$ is surjective on $Q$. A comparison of lengths of localized modules over the associated graded ring then gives $\\operatorname{gr}Q=x_1\\operatorname{gr}Q$, so that the characteristic variety of $Q$ is disjoint from the hyperplane $\\{x_1=0\\}$. Finally, Gabber's involutivity theorem together with an argument about conormal directions at infinity from algebraic geometry shows that such a characteristic variety must be empty and therefore, $Q = 0$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Free Products of Vector Lattices",
+    "pubDate": "2026-11-19 05:00:00",
+    "link": "https://arxiv.org/abs/2611.24528",
+    "guid": "oai:arXiv.org:2611.24528v1",
+    "author": "Gonzalo Mart\\'inez-Fern\\'andez, Pedro Tradacete",
+    "thumbnail": "",
+    "description": "arXiv:2611.24528v1 Announce Type: cross \nAbstract: We study free products of vector lattices and their relation to free products of Banach lattices. We characterize the Archimedean vector lattices whose vector lattice free product with every Archimedean vector lattice is again Archimedean: these are precisely those whose finitely generated sublattices are projective. For finitely generated lattices, this connects the free-product property with polyhedral geometry through Baker--Beynon duality. We also show that the Banach lattice free product is the completion of the Archimedean vector lattice free product under the largest lattice norm making the canonical maps contractive. For finitely many factors, the Archimedean vector lattice free product is order dense in the Banach lattice free product. Moreover, it is shown that bounded families of injective lattice homomorphisms also induce injective homomorphisms between Banach lattice free products. Finally, in analogy with the theory of separably injective Banach lattices, we study relative injectivity and universal disposition for the class of vector lattices with countably many proper prime ideals. Every vector lattice embeds into one of universal disposition for this class, while ordered ultrapowers of the real line provide relatively injective examples of cardinality continuum.",
+    "content": "arXiv:2611.24528v1 Announce Type: cross \nAbstract: We study free products of vector lattices and their relation to free products of Banach lattices. We characterize the Archimedean vector lattices whose vector lattice free product with every Archimedean vector lattice is again Archimedean: these are precisely those whose finitely generated sublattices are projective. For finitely generated lattices, this connects the free-product property with polyhedral geometry through Baker--Beynon duality. We also show that the Banach lattice free product is the completion of the Archimedean vector lattice free product under the largest lattice norm making the canonical maps contractive. For finitely many factors, the Archimedean vector lattice free product is order dense in the Banach lattice free product. Moreover, it is shown that bounded families of injective lattice homomorphisms also induce injective homomorphisms between Banach lattice free products. Finally, in analogy with the theory of separably injective Banach lattices, we study relative injectivity and universal disposition for the class of vector lattices with countably many proper prime ideals. Every vector lattice embeds into one of universal disposition for this class, while ordered ultrapowers of the real line provide relatively injective examples of cardinality continuum.",
+    "enclosure": {},
+    "categories": [
+      "math.FA",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "The algebraic classification of three-dimensional nilpotent left-symmetric dialgebras",
+    "pubDate": "2026-11-19 05:00:00",
+    "link": "https://arxiv.org/abs/2611.23945",
+    "guid": "oai:arXiv.org:2611.23945v1",
+    "author": "Ikrom M. Rikhsiboev",
+    "thumbnail": "",
+    "description": "arXiv:2611.23945v1 Announce Type: new \nAbstract: Left-symmetric dialgebras (LSDA) are to left-symmetric algebras what Leibniz algebras are to Lie algebras. We classify the three-dimensional nilpotent LSDA over the complex numbers. To do this we adapt the annihilator-extension (Skjelbred-Sund) method to dialgebras, using the annihilator with respect to both products on both sides, and we compute the second cohomology of all two-dimensional nilpotent LSDA. Up to isomorphism, besides the null and split algebras there are nine non-split algebras and families; the 2-step nilpotent families depend on four and three parameters. We give isomorphism criteria and separating invariants, identify the left-symmetric and diassociative algebras in the list, and complete the two-dimensional classification of an earlier paper.",
+    "content": "arXiv:2611.23945v1 Announce Type: new \nAbstract: Left-symmetric dialgebras (LSDA) are to left-symmetric algebras what Leibniz algebras are to Lie algebras. We classify the three-dimensional nilpotent LSDA over the complex numbers. To do this we adapt the annihilator-extension (Skjelbred-Sund) method to dialgebras, using the annihilator with respect to both products on both sides, and we compute the second cohomology of all two-dimensional nilpotent LSDA. Up to isomorphism, besides the null and split algebras there are nine non-split algebras and families; the 2-step nilpotent families depend on four and three parameters. We give isomorphism criteria and separating invariants, identify the left-symmetric and diassociative algebras in the list, and complete the two-dimensional classification of an earlier paper.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Weak Hilbert's Nullstellensatz for skew polynomials over division rings",
+    "pubDate": "2026-11-19 05:00:00",
+    "link": "https://arxiv.org/abs/2611.23745",
+    "guid": "oai:arXiv.org:2611.23745v1",
+    "author": "Dinh Van Hoang, Vo Ngoc Thieu, Phan Thanh Toan",
+    "thumbnail": "",
+    "description": "arXiv:2611.23745v1 Announce Type: new \nAbstract: We establish a weak Nullstellensatz for skew polynomial rings $R_n=D[x_1,\\ldots,x_n;\\sigma]$, where $D$ is a division ring and the commuting variables induce the same automorphism $\\sigma$ of $D$. For $n\\ge2$, we characterize the pairs $(D,\\sigma)$ for which every maximal left ideal is generated by $x_1-a_1,\\ldots,x_n-a_n$, with $\\sigma(a_j)a_i=\\sigma(a_i)a_j$. The criterion consists of right $\\sigma$-algebraic closure of $D$ and right algebraic closure of the centralizers of all commuting $(n-2)$-tuples in each twisted fixed division ring $E_a=\\{c\\in D:\\sigma(c)a=ac\\}$ for $0\\ne a\\in D$.",
+    "content": "arXiv:2611.23745v1 Announce Type: new \nAbstract: We establish a weak Nullstellensatz for skew polynomial rings $R_n=D[x_1,\\ldots,x_n;\\sigma]$, where $D$ is a division ring and the commuting variables induce the same automorphism $\\sigma$ of $D$. For $n\\ge2$, we characterize the pairs $(D,\\sigma)$ for which every maximal left ideal is generated by $x_1-a_1,\\ldots,x_n-a_n$, with $\\sigma(a_j)a_i=\\sigma(a_i)a_j$. The criterion consists of right $\\sigma$-algebraic closure of $D$ and right algebraic closure of the centralizers of all commuting $(n-2)$-tuples in each twisted fixed division ring $E_a=\\{c\\in D:\\sigma(c)a=ac\\}$ for $0\\ne a\\in D$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "The Bapat-Sunder eigenvalue conjecture fails over the reals",
+    "pubDate": "2026-11-19 05:00:00",
+    "link": "https://arxiv.org/abs/2611.23269",
+    "guid": "oai:arXiv.org:2611.23269v1",
+    "author": "Logan R. Chalmers",
+    "thumbnail": "",
+    "description": "arXiv:2611.23269v1 Announce Type: cross \nAbstract: In 1986 Bapat and Sunder asked whether $\\operatorname{per}(A)$ is the largest eigenvalue of $F_A=[a_{i,j}\\operatorname{per}(A(i,j))]$ for every positive semidefinite Hermitian $A$, where $A(i,j)$ deletes row $i$ and column $j$. Drury disproved this over the complex field in 2018 and conjectured that the property holds for real positive semidefinite matrices. We disprove Drury's conjecture with a rank-$4$, $32\\times32$ integer Gram matrix and an integer vector whose Rayleigh quotient exceeds $\\operatorname{per}(A)$; verification uses integer arithmetic. Together, the two counterexamples resolve the Bapat-Sunder eigenvalue conjecture negatively over both fields. Counterexamples exist of every order $n\\ge32$. As an application to quantum optics, the violation yields a $36$-mode orthogonal interferometer and a direction of relative arrival-time delays among $32$ photons with identical-variance Gaussian wave packets along which every sufficiently small nonzero delay increases the probability that all photons are detected within four designated output modes.",
+    "content": "arXiv:2611.23269v1 Announce Type: cross \nAbstract: In 1986 Bapat and Sunder asked whether $\\operatorname{per}(A)$ is the largest eigenvalue of $F_A=[a_{i,j}\\operatorname{per}(A(i,j))]$ for every positive semidefinite Hermitian $A$, where $A(i,j)$ deletes row $i$ and column $j$. Drury disproved this over the complex field in 2018 and conjectured that the property holds for real positive semidefinite matrices. We disprove Drury's conjecture with a rank-$4$, $32\\times32$ integer Gram matrix and an integer vector whose Rayleigh quotient exceeds $\\operatorname{per}(A)$; verification uses integer arithmetic. Together, the two counterexamples resolve the Bapat-Sunder eigenvalue conjecture negatively over both fields. Counterexamples exist of every order $n\\ge32$. As an application to quantum optics, the violation yields a $36$-mode orthogonal interferometer and a direction of relative arrival-time delays among $32$ photons with identical-variance Gaussian wave packets along which every sufficiently small nonzero delay increases the probability that all photons are detected within four designated output modes.",
+    "enclosure": {},
+    "categories": [
+      "quant-ph",
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Iso-Multiplication Modules over Noncommutative Rings: Triangular Classification and Rational Rigidity",
+    "pubDate": "2026-11-19 05:00:00",
+    "link": "https://arxiv.org/abs/2611.20073",
+    "guid": "oai:arXiv.org:2611.20073v2",
+    "author": "Askar Tuganbaev, Unsal Tekir, Suat Koc, Gulsen Ulucak",
+    "thumbnail": "",
+    "description": "arXiv:2611.20073v2 Announce Type: replace \nAbstract: A right A-module M is called iso-multiplication if for every submodule N of M there is a two-sided ideal B of A such that N ?A MB. We construct noncommutative examples of isomultiplication modules which are not multiplication modules, including triangular algebras of arbitrary dimension. We classify all iso-multiplication modules over T_2(k) without a finitegeneration assumption. For a semiprime right Goldie ring we prove that the classical localization of an iso-multiplication module is multiplicity-free. Further consequences address composition length and local rings; we distinguish these from standard Morita, Ore-localization, and chaincondition results.",
+    "content": "arXiv:2611.20073v2 Announce Type: replace \nAbstract: A right A-module M is called iso-multiplication if for every submodule N of M there is a two-sided ideal B of A such that N ?A MB. We construct noncommutative examples of isomultiplication modules which are not multiplication modules, including triangular algebras of arbitrary dimension. We classify all iso-multiplication modules over T_2(k) without a finitegeneration assumption. For a semiprime right Goldie ring we prove that the classical localization of an iso-multiplication module is multiplicity-free. Further consequences address composition length and local rings; we distinguish these from standard Morita, Ore-localization, and chaincondition results.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Quantum Generalized Cluster Algebras from Scattering Diagrams: Positivity and Mutation",
+    "pubDate": "2026-11-19 05:00:00",
+    "link": "https://arxiv.org/abs/2611.00991",
+    "guid": "oai:arXiv.org:2611.00991v2",
+    "author": "Huihui Ye, Meiling Yang",
+    "thumbnail": "",
+    "description": "arXiv:2611.00991v2 Announce Type: replace \nAbstract: We construct generalized quantum cluster scattering diagrams over a ring of formal reciprocal exchange coefficients, for compatible seeds satisfying \\(\\widetilde B^T\\Lambda=[I_n\\mid0].\\) A central lattice extension records the roots of the exchange polynomials as independent degrees. Applying Davison--Mandel positivity in this extension and proving a positive cylinder projection theorem yields positive wall factorizations and theta coefficients in the root variables. Their regular classical limits recover generalized cluster scattering diagrams. Nonvanishing under classical specialization, together with control of the mutated positive monoids, gives quantum mutation compatibility. The resulting scattering atlas has the generalized cluster fan, and every reachable cluster monomial is a theta function. Classical detection of theta coefficients gives a geometric proof of the Laurent phenomenon, with positivity after adjoining the polynomial roots. Evaluation of the exchange coefficients recovers the generalized quantum cluster algebras with this normalization. The Fock--Goncharov mutation product becomes a wall-crossing action, identifying extended \\(g\\)-vectors with leading theta exponents and \\(F\\)-polynomials with the coefficient factors on their right. Constructing these polynomials before evaluation gives the separation formula for arbitrary prescribed reciprocal Laurent polynomial coefficients, without requiring positivity at \\(t=1.\\) Positivity in the roots is distinguished throughout from positivity in the exchange coefficients.",
+    "content": "arXiv:2611.00991v2 Announce Type: replace \nAbstract: We construct generalized quantum cluster scattering diagrams over a ring of formal reciprocal exchange coefficients, for compatible seeds satisfying \\(\\widetilde B^T\\Lambda=[I_n\\mid0].\\) A central lattice extension records the roots of the exchange polynomials as independent degrees. Applying Davison--Mandel positivity in this extension and proving a positive cylinder projection theorem yields positive wall factorizations and theta coefficients in the root variables. Their regular classical limits recover generalized cluster scattering diagrams. Nonvanishing under classical specialization, together with control of the mutated positive monoids, gives quantum mutation compatibility. The resulting scattering atlas has the generalized cluster fan, and every reachable cluster monomial is a theta function. Classical detection of theta coefficients gives a geometric proof of the Laurent phenomenon, with positivity after adjoining the polynomial roots. Evaluation of the exchange coefficients recovers the generalized quantum cluster algebras with this normalization. The Fock--Goncharov mutation product becomes a wall-crossing action, identifying extended \\(g\\)-vectors with leading theta exponents and \\(F\\)-polynomials with the coefficient factors on their right. Constructing these polynomials before evaluation gives the separation formula for arbitrary prescribed reciprocal Laurent polynomial coefficients, without requiring positivity at \\(t=1.\\) Positivity in the roots is distinguished throughout from positivity in the exchange coefficients.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Every group is the automorphism group of a set-theoretic solution of the Yang-Baxter equation",
+    "pubDate": "2026-11-19 05:00:00",
+    "link": "https://arxiv.org/abs/2610.39228",
+    "guid": "oai:arXiv.org:2610.39228v3",
+    "author": "G. Militaru",
+    "thumbnail": "",
+    "description": "arXiv:2610.39228v3 Announce Type: replace-cross \nAbstract: We give an affirmative answer to the abstract group problem for the category $\\YB$ of all set-theoretic solutions of the Yang--Baxter (YB) equation: every group is isomorphic to the automorphism group of a YB-solution, which can be chosen on a finite set if the group is finite. In the terminology of L\\'aszl\\'o Babai, this means that the category $\\YB$ is universal and finitely universal, which is an analogue of Frucht's classical theorem for graphs. Furthermore, the YB-solutions can be chosen within three very small classes: the solutions of the Frobenius-Separability equation, the solutions of the Baaj--Long--Skandalis equation and the recently introduced bipartite solutions. The proof is based on new constructions which associate to any graph a YB-solution in each of these classes, with the same automorphism group as the graph. Explicit YB-solutions with automorphism groups $C_n$, $S_n$, $D_n$ and $Q_8$ are given, as well as a unitary YB-solution, constructed directly from a field $K$, whose automorphism group is ${\\rm Aut} (K)$.",
+    "content": "arXiv:2610.39228v3 Announce Type: replace-cross \nAbstract: We give an affirmative answer to the abstract group problem for the category $\\YB$ of all set-theoretic solutions of the Yang--Baxter (YB) equation: every group is isomorphic to the automorphism group of a YB-solution, which can be chosen on a finite set if the group is finite. In the terminology of L\\'aszl\\'o Babai, this means that the category $\\YB$ is universal and finitely universal, which is an analogue of Frucht's classical theorem for graphs. Furthermore, the YB-solutions can be chosen within three very small classes: the solutions of the Frobenius-Separability equation, the solutions of the Baaj--Long--Skandalis equation and the recently introduced bipartite solutions. The proof is based on new constructions which associate to any graph a YB-solution in each of these classes, with the same automorphism group as the graph. Explicit YB-solutions with automorphism groups $C_n$, $S_n$, $D_n$ and $Q_8$ are given, as well as a unitary YB-solution, constructed directly from a field $K$, whose automorphism group is ${\\rm Aut} (K)$.",
+    "enclosure": {},
+    "categories": [
+      "math.CO",
+      "math.GR",
+      "math.QA",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "PHP decompositions and primitivity of group rings",
+    "pubDate": "2026-11-19 05:00:00",
+    "link": "https://arxiv.org/abs/2609.14814",
+    "guid": "oai:arXiv.org:2609.14814v2",
+    "author": "Felipe I. Flores",
+    "thumbnail": "",
+    "description": "arXiv:2609.14814v2 Announce Type: replace \nAbstract: We show that every countable group $G$ that has Ozawa's property $\\rm PHP$ and contains a non-abelian free subgroup has the following property: the group ring $KG$ is primitive for any field $K$. As a consequence, we greatly extend the previously existing results on the primitivity of group rings. New examples include linear groups and groups of homeomorphisms of the Cantor set. Along the way, we prove that the class of groups with $\\rm PHP$ enjoys some permanence properties that are of independent interest.",
+    "content": "arXiv:2609.14814v2 Announce Type: replace \nAbstract: We show that every countable group $G$ that has Ozawa's property $\\rm PHP$ and contains a non-abelian free subgroup has the following property: the group ring $KG$ is primitive for any field $K$. As a consequence, we greatly extend the previously existing results on the primitivity of group rings. New examples include linear groups and groups of homeomorphisms of the Cantor set. Along the way, we prove that the class of groups with $\\rm PHP$ enjoys some permanence properties that are of independent interest.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.GR",
+      "math.OA",
+      "math.RT"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Proof of Rump's Retraction Conjecture for Quasilinear Cycle Sets",
+    "pubDate": "2026-11-19 05:00:00",
+    "link": "https://arxiv.org/abs/2607.08609",
+    "guid": "oai:arXiv.org:2607.08609v2",
+    "author": "Carsten Dietzel",
+    "thumbnail": "",
+    "description": "arXiv:2607.08609v2 Announce Type: replace-cross \nAbstract: Nondegenerate cycle sets were introduced by Rump as an algebraic framework for nondegenerate, involutive solutions to the Yang--Baxter equation. Nondegenerate cycle set structures on abelian groups, such as translation-invariant and quasilinear cycle sets, are of particular interest when studying the retraction problem in the theory of the Yang--Baxter equation. In this article, we solve the retraction problem for finite quasilinear cycle sets by showing that each nontrivial quasilinear cycle set is retractable, thus proving a conjecture of Rump.",
+    "content": "arXiv:2607.08609v2 Announce Type: replace-cross \nAbstract: Nondegenerate cycle sets were introduced by Rump as an algebraic framework for nondegenerate, involutive solutions to the Yang--Baxter equation. Nondegenerate cycle set structures on abelian groups, such as translation-invariant and quasilinear cycle sets, are of particular interest when studying the retraction problem in the theory of the Yang--Baxter equation. In this article, we solve the retraction problem for finite quasilinear cycle sets by showing that each nontrivial quasilinear cycle set is retractable, thus proving a conjecture of Rump.",
+    "enclosure": {},
+    "categories": [
+      "math.QA",
+      "math.GR",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Affine Supertrusses and Superbraces",
+    "pubDate": "2026-11-19 05:00:00",
+    "link": "https://arxiv.org/abs/2604.22381",
+    "guid": "oai:arXiv.org:2604.22381v5",
+    "author": "Andrew James Bruce",
+    "thumbnail": "",
+    "description": "arXiv:2604.22381v5 Announce Type: replace-cross \nAbstract: Brzezi\\'nski's trusses are ''ring-like'' algebraic structures in which the addition is replaced with an abelian heap operation and the binary product satisfies a natural distributivity rule over the ternary addition. This paper addresses the question of how to define affine super-versions of trusses. Taking our cue from the theory of algebraic supergroups, we define an affine supertruss as a representable functor from the category of unital associative supercommutative superalgebras to the category of trusses. The representing superalgebras are equipped with a ''cotruss'' structure-a new concept in itself. We show that from an affine supertruss, provided the binary product defines a supergroup, one can construct an affine two-sided superbrace, and so generalise Rump's braces to supermathematics. As an application of these constructions, we propose a generalisation of the set-theoretic Yang-Baxter equation to the setting of affine superschemes via a super-version of Adler's map.",
+    "content": "arXiv:2604.22381v5 Announce Type: replace-cross \nAbstract: Brzezi\\'nski's trusses are ''ring-like'' algebraic structures in which the addition is replaced with an abelian heap operation and the binary product satisfies a natural distributivity rule over the ternary addition. This paper addresses the question of how to define affine super-versions of trusses. Taking our cue from the theory of algebraic supergroups, we define an affine supertruss as a representable functor from the category of unital associative supercommutative superalgebras to the category of trusses. The representing superalgebras are equipped with a ''cotruss'' structure-a new concept in itself. We show that from an affine supertruss, provided the binary product defines a supergroup, one can construct an affine two-sided superbrace, and so generalise Rump's braces to supermathematics. As an application of these constructions, we propose a generalisation of the set-theoretic Yang-Baxter equation to the setting of affine superschemes via a super-version of Adler's map.",
+    "enclosure": {},
+    "categories": [
+      "math-ph",
+      "math.AG",
+      "math.MP",
+      "math.QA",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Computer-assisted proofs for the fourth algebraic transfer in certain generic degrees",
+    "pubDate": "2026-11-19 05:00:00",
+    "link": "https://arxiv.org/abs/2506.10232",
+    "guid": "oai:arXiv.org:2506.10232v5",
+    "author": "Dang Vo Phuc",
+    "thumbnail": "",
+    "description": "arXiv:2506.10232v5 Announce Type: replace-cross \nAbstract: This paper restructures the author's earlier article in Journal of Homotopy and Related Structures to correct its erroneous invariant-dimension calculations for the fourth Singer algebraic transfer and is written as a replacement for that article. More precisely, we determine the domain and image of the transfer in the degree families $2^{s+t+1}+2^{s+1}-3$ with $t\\ne3$ and $2^{s+t}+2^s-2$ with $t\\notin\\{2,3,4\\}$, where $s,t$ are positive integers. Divided-power spikes are basis elements dual to polynomial monomials whose exponents have the form $2^j-1$ for nonnegative integers $j$. Their translates under ${\\rm GL}_4(\\mathbb F_2)$, the group of invertible $4\\times4$ matrices over the field with two elements, generate submodules of the Steenrod kernel, the subspace annihilated by all positive Steenrod squares. We present these submodules as quotients of sums of permutation modules on complete flags, which are chains in $\\mathbb F_2^4$ containing one subspace of each dimension $0,1,2,3,4$. Identifying the relation spaces in these presentations gives explicit equivariant comparison isomorphisms. A recursion obtained by separating even and odd exponents in each variable reduces the comparisons to specified identities of finite-dimensional subspaces. These comparisons apply to both complete degree families, including the parameter values omitted from the transfer theorem. Duplication and partial flag embeddings also give theoretical comparisons in specified parameter ranges. As a consequence, Singer's injectivity conjecture holds in rank four in both degree families under the stated parameter restrictions. The cokernel is one-dimensional in homological degree $256$ and zero in every other degree in those ranges.",
+    "content": "arXiv:2506.10232v5 Announce Type: replace-cross \nAbstract: This paper restructures the author's earlier article in Journal of Homotopy and Related Structures to correct its erroneous invariant-dimension calculations for the fourth Singer algebraic transfer and is written as a replacement for that article. More precisely, we determine the domain and image of the transfer in the degree families $2^{s+t+1}+2^{s+1}-3$ with $t\\ne3$ and $2^{s+t}+2^s-2$ with $t\\notin\\{2,3,4\\}$, where $s,t$ are positive integers. Divided-power spikes are basis elements dual to polynomial monomials whose exponents have the form $2^j-1$ for nonnegative integers $j$. Their translates under ${\\rm GL}_4(\\mathbb F_2)$, the group of invertible $4\\times4$ matrices over the field with two elements, generate submodules of the Steenrod kernel, the subspace annihilated by all positive Steenrod squares. We present these submodules as quotients of sums of permutation modules on complete flags, which are chains in $\\mathbb F_2^4$ containing one subspace of each dimension $0,1,2,3,4$. Identifying the relation spaces in these presentations gives explicit equivariant comparison isomorphisms. A recursion obtained by separating even and odd exponents in each variable reduces the comparisons to specified identities of finite-dimensional subspaces. These comparisons apply to both complete degree families, including the parameter values omitted from the transfer theorem. Duplication and partial flag embeddings also give theoretical comparisons in specified parameter ranges. As a consequence, Singer's injectivity conjecture holds in rank four in both degree families under the stated parameter restrictions. The cokernel is one-dimensional in homological degree $256$ and zero in every other degree in those ranges.",
+    "enclosure": {},
+    "categories": [
+      "math.AT",
+      "math.GT",
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
     "title": "The Cooperstein conjecture and additive alternating $d$-codes",
     "pubDate": "2026-11-18 05:00:00",
     "link": "https://arxiv.org/abs/2611.22622",
