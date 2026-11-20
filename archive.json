@@ -1,5 +1,277 @@
 [
   {
+    "title": "Spectral isometries and invertibility preservers on Banach algebras",
+    "pubDate": "2026-11-20 05:00:00",
+    "link": "https://arxiv.org/abs/2611.26462",
+    "guid": "oai:arXiv.org:2611.26462v1",
+    "author": "Zakariae Aznay, Fadil Chabbabi",
+    "thumbnail": "",
+    "description": "arXiv:2611.26462v1 Announce Type: cross \nAbstract: We prove that every unital surjective complex-linear spectral isometry between complex unital semisimple Banach algebras is a Jordan isomorphism, thereby giving an affirmative answer to the spectrum-preserving form of Kaplansky's conjecture. We also characterize surjective complex-linear maps between arbitrary unital Banach algebras that preserve invertibility in either direction, satisfy either spectral inclusion, or preserve the spectral radius. In particular, for a complex-linear bijection between semisimple Banach algebras, preservation of invertibility in either direction implies preservation in both directions, and either spectral inclusion implies equality of spectra, even without assuming unitality. As an application, we study preservers of the Fredholm essential spectrum and essential spectral radius.",
+    "content": "arXiv:2611.26462v1 Announce Type: cross \nAbstract: We prove that every unital surjective complex-linear spectral isometry between complex unital semisimple Banach algebras is a Jordan isomorphism, thereby giving an affirmative answer to the spectrum-preserving form of Kaplansky's conjecture. We also characterize surjective complex-linear maps between arbitrary unital Banach algebras that preserve invertibility in either direction, satisfy either spectral inclusion, or preserve the spectral radius. In particular, for a complex-linear bijection between semisimple Banach algebras, preservation of invertibility in either direction implies preservation in both directions, and either spectral inclusion implies equality of spectra, even without assuming unitality. As an application, we study preservers of the Fredholm essential spectrum and essential spectral radius.",
+    "enclosure": {},
+    "categories": [
+      "math.FA",
+      "math.OA",
+      "math.RA",
+      "math.SP"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Double determinants of quaternion matrices in the P-generalized determinant framework with applications",
+    "pubDate": "2026-11-20 05:00:00",
+    "link": "https://arxiv.org/abs/2611.26061",
+    "guid": "oai:arXiv.org:2611.26061v1",
+    "author": "Jiale Gao, Qing-Wen Wang",
+    "thumbnail": "",
+    "description": "arXiv:2611.26061v1 Announce Type: new \nAbstract: Building on the P-generalized determinant over quaternions, we introduce the double determinant of arbitrary square quaternion matrices. We then apply the double determinant to obtain a determinant representation for the inverse of any invertible quaternion matrix, without the Hermitian restriction. Furthermore, we establish Cramer's rule for the unique solutions to the quaternion linear equations Ax=b and xA=b, as well as to the quaternion matrix equations AX=B, XA=B, and AXB=C. As an application, we use the determinant representation of the unique solution to AXB=C to design a color image encryption-decryption scheme. Numerical experiments demonstrate that the encryption algorithm effectively conceals the contour and color information of the original image, while the decryption algorithm restores the original image almost perfectly, thereby confirming the effectiveness and practical potential of the proposed scheme.",
+    "content": "arXiv:2611.26061v1 Announce Type: new \nAbstract: Building on the P-generalized determinant over quaternions, we introduce the double determinant of arbitrary square quaternion matrices. We then apply the double determinant to obtain a determinant representation for the inverse of any invertible quaternion matrix, without the Hermitian restriction. Furthermore, we establish Cramer's rule for the unique solutions to the quaternion linear equations Ax=b and xA=b, as well as to the quaternion matrix equations AX=B, XA=B, and AXB=C. As an application, we use the determinant representation of the unique solution to AXB=C to design a color image encryption-decryption scheme. Numerical experiments demonstrate that the encryption algorithm effectively conceals the contour and color information of the original image, while the decryption algorithm restores the original image almost perfectly, thereby confirming the effectiveness and practical potential of the proposed scheme.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Minimal primes and radicality of join-meet ideals of modular lattices with one diamond",
+    "pubDate": "2026-11-20 05:00:00",
+    "link": "https://arxiv.org/abs/2611.25997",
+    "guid": "oai:arXiv.org:2611.25997v1",
+    "author": "Takayuki Hibi, Francesco Navarra",
+    "thumbnail": "",
+    "description": "arXiv:2611.25997v1 Announce Type: cross \nAbstract: Let $L$ be a finite modular lattice with exactly one diamond, that is, exactly one interval of length two with at least three atoms. We describe the minimal primes of the join-meet ideal $I_L$ in terms of maximal closed distributive sublattices of $L$, and we show that $I_L$ has height $|L|-\\mathrm{rank}(L)$. Moreover, we characterize the radicality of $I_L$, over any field, in terms of the complements of the atoms of the diamond in their fibres. Finally, we prove that $I_L$ is unmixed if and only if all its minimal primes have the same height, if and only if the rank of every maximal closed distributive sublattice through an atom of the diamond is $\\mathrm{rank}(L)-1$; in this case $I_L$ is radical.",
+    "content": "arXiv:2611.25997v1 Announce Type: cross \nAbstract: Let $L$ be a finite modular lattice with exactly one diamond, that is, exactly one interval of length two with at least three atoms. We describe the minimal primes of the join-meet ideal $I_L$ in terms of maximal closed distributive sublattices of $L$, and we show that $I_L$ has height $|L|-\\mathrm{rank}(L)$. Moreover, we characterize the radicality of $I_L$, over any field, in terms of the complements of the atoms of the diamond in their fibres. Finally, we prove that $I_L$ is unmixed if and only if all its minimal primes have the same height, if and only if the rank of every maximal closed distributive sublattice through an atom of the diamond is $\\mathrm{rank}(L)-1$; in this case $I_L$ is radical.",
+    "enclosure": {},
+    "categories": [
+      "math.AC",
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Two Knuth orbits of order 256 without primitive semifield coordinatizations",
+    "pubDate": "2026-11-20 05:00:00",
+    "link": "https://arxiv.org/abs/2611.25982",
+    "guid": "oai:arXiv.org:2611.25982v1",
+    "author": "I. F. R\\'ua, E. F. Combarro",
+    "thumbnail": "",
+    "description": "arXiv:2611.25982v1 Announce Type: new \nAbstract: We exhibit two Knuth orbits of semifield planes of order 256 in which every coordinatizing semifield is nonprimitive on both the left and the right. Each orbit consists of two isotopy classes. The first orbit contains 168 isomorphism classes of unital semifields and the second contains 32. We give binary multiplication matrices for a representative of each orbit and an exhaustive computation that verifies nonprimitivity and the counts directly from these matrices.",
+    "content": "arXiv:2611.25982v1 Announce Type: new \nAbstract: We exhibit two Knuth orbits of semifield planes of order 256 in which every coordinatizing semifield is nonprimitive on both the left and the right. Each orbit consists of two isotopy classes. The first orbit contains 168 isomorphism classes of unital semifields and the second contains 32. We give binary multiplication matrices for a representative of each orbit and an exhaustive computation that verifies nonprimitivity and the counts directly from these matrices.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Auslander bounds under recollements and arrow removal",
+    "pubDate": "2026-11-20 05:00:00",
+    "link": "https://arxiv.org/abs/2611.25900",
+    "guid": "oai:arXiv.org:2611.25900v1",
+    "author": "Kaili Wu, Jiaqun Wei",
+    "thumbnail": "",
+    "description": "arXiv:2611.25900v1 Announce Type: new \nAbstract: Auslander bounds measure uniformity in the eventual vanishing of extension groups and are closely related to homological conjectures, including the Auslander-Reiten conjecture and finitistic dimension conjecture. We study global and finitistic Auslander bounds of finite-dimensional algebras under recollements and arrow removal. For a recollement induced by an idempotent $e$ of an algebra $\\Lambda$, we establish inequalities comparing the bounds of $\\Lambda$ with those of the quotient algebra $\\Lambda/\\Lambda e\\Lambda$ and the corner algebra $e\\Lambda e$. We also establish comparison results for cleft extensions and deduce that arrow removal preserves finiteness of both the global and finitistic Auslander bounds. Finally, we construct radical-square-zero algebras with $\\findim(\\Lambda_n)=0$ and $\\mr{fab}(\\Lambda_n)=\\mr{gb}(\\Lambda_n)=n$ for every $n\\geq1$, yielding arbitrarily large gaps between finitistic Auslander bounds and finitistic dimensions.",
+    "content": "arXiv:2611.25900v1 Announce Type: new \nAbstract: Auslander bounds measure uniformity in the eventual vanishing of extension groups and are closely related to homological conjectures, including the Auslander-Reiten conjecture and finitistic dimension conjecture. We study global and finitistic Auslander bounds of finite-dimensional algebras under recollements and arrow removal. For a recollement induced by an idempotent $e$ of an algebra $\\Lambda$, we establish inequalities comparing the bounds of $\\Lambda$ with those of the quotient algebra $\\Lambda/\\Lambda e\\Lambda$ and the corner algebra $e\\Lambda e$. We also establish comparison results for cleft extensions and deduce that arrow removal preserves finiteness of both the global and finitistic Auslander bounds. Finally, we construct radical-square-zero algebras with $\\findim(\\Lambda_n)=0$ and $\\mr{fab}(\\Lambda_n)=\\mr{gb}(\\Lambda_n)=n$ for every $n\\geq1$, yielding arbitrarily large gaps between finitistic Auslander bounds and finitistic dimensions.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Determinant Massey products",
+    "pubDate": "2026-11-20 05:00:00",
+    "link": "https://arxiv.org/abs/2611.25690",
+    "guid": "oai:arXiv.org:2611.25690v1",
+    "author": "Ois\\'in Flynn-Connolly, Jos\\'e M. Moreno-Fern\\'andez, Fernando Muro",
+    "thumbnail": "",
+    "description": "arXiv:2611.25690v1 Announce Type: cross \nAbstract: We introduce the determinant Massey product, a secondary operation on the cohomology of commutative dg algebras which is reminiscent of the classical Massey product. We prove some of the elementary properties of this product, compute several examples, and relate them to classical and matric Massey products. When 2 is invertible, a determinant Massey product is a matric Massey product, but over $\\mathbb F_2$, it is not. In this case, we produce a finite-dimensional cdga whose Harrison cohomology does not inject into its Hochschild cohomology, and a divided powers algebra which is formal as an associative dg algebra, but not as a commutative one, with an explicit determinant Massey product witnessing the failure. Over $\\mathbb Q$, we use determinant Massey products to construct a simply-connected coformal space with Koszul cohomology ring and vanishing ordinary Massey products of all orders, which is not formal.",
+    "content": "arXiv:2611.25690v1 Announce Type: cross \nAbstract: We introduce the determinant Massey product, a secondary operation on the cohomology of commutative dg algebras which is reminiscent of the classical Massey product. We prove some of the elementary properties of this product, compute several examples, and relate them to classical and matric Massey products. When 2 is invertible, a determinant Massey product is a matric Massey product, but over $\\mathbb F_2$, it is not. In this case, we produce a finite-dimensional cdga whose Harrison cohomology does not inject into its Hochschild cohomology, and a divided powers algebra which is formal as an associative dg algebra, but not as a commutative one, with an explicit determinant Massey product witnessing the failure. Over $\\mathbb Q$, we use determinant Massey products to construct a simply-connected coformal space with Koszul cohomology ring and vanishing ordinary Massey products of all orders, which is not formal.",
+    "enclosure": {},
+    "categories": [
+      "math.AT",
+      "math.KT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Total acyclicity of Q-shaped diagrams and N-stable categories",
+    "pubDate": "2026-11-20 05:00:00",
+    "link": "https://arxiv.org/abs/2611.25451",
+    "guid": "oai:arXiv.org:2611.25451v1",
+    "author": "Li Liang",
+    "thumbnail": "",
+    "description": "arXiv:2611.25451v1 Announce Type: cross \nAbstract: We study total acyclicity of $\\Q$-shaped diagrams of projective modules. We prove that an acyclic $\\Q$-shaped diagram $P$ of projective $A$-modules is totally acyclic if and only if the associated module $K_q(P)$, or equivalently $C_q(P)$, is Gorenstein projective for every $q\\in \\Q$. We also establish Frobenius structures on the categories of acyclic and totally acyclic $\\Q$-shaped diagrams of projective $A$-modules and introduce the associated defect category. Using adjunctions between $\\Q$-shaped diagrams and chain complexes, we compare this category with the classical projective defect category and show that their vanishing is equivalent under a mild condition on the Serre functor of $\\Q$. Finally, we apply our results to $N$-complexes and extend the $N$-stable equivalence of Brightbill and Miemietz beyond the Gorenstein setting, obtaining a triangle equivalence between the homotopy category of totally $N$-acyclic complexes of projective $A$-modules and the $N$-stable category of Gorenstein projective $A$-modules.",
+    "content": "arXiv:2611.25451v1 Announce Type: cross \nAbstract: We study total acyclicity of $\\Q$-shaped diagrams of projective modules. We prove that an acyclic $\\Q$-shaped diagram $P$ of projective $A$-modules is totally acyclic if and only if the associated module $K_q(P)$, or equivalently $C_q(P)$, is Gorenstein projective for every $q\\in \\Q$. We also establish Frobenius structures on the categories of acyclic and totally acyclic $\\Q$-shaped diagrams of projective $A$-modules and introduce the associated defect category. Using adjunctions between $\\Q$-shaped diagrams and chain complexes, we compare this category with the classical projective defect category and show that their vanishing is equivalent under a mild condition on the Serre functor of $\\Q$. Finally, we apply our results to $N$-complexes and extend the $N$-stable equivalence of Brightbill and Miemietz beyond the Gorenstein setting, obtaining a triangle equivalence between the homotopy category of totally $N$-acyclic complexes of projective $A$-modules and the $N$-stable category of Gorenstein projective $A$-modules.",
+    "enclosure": {},
+    "categories": [
+      "math.RT",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Nilpotent skew-symmetric tridiagonal Bohemian matrices: a proof of Corless's conjecture",
+    "pubDate": "2026-11-20 05:00:00",
+    "link": "https://arxiv.org/abs/2611.25266",
+    "guid": "oai:arXiv.org:2611.25266v1",
+    "author": "Marcel Blattner",
+    "thumbnail": "",
+    "description": "arXiv:2611.25266v1 Announce Type: cross \nAbstract: Corless studied the skew-symmetric tridiagonal matrices $T_m(u)$ with superdiagonal $u \\in \\{1, i\\}^{m-1}$. He showed that $T_m(u)$ can be nilpotent only if $m = 2^K - 1$ and that the $2^{K-1}$ vectors $u$ obtained from the empty vector by repeated application of $u \\mapsto (u, 1, i, \\rev u)$ and $u \\mapsto (u, i, 1, \\rev u)$ give nilpotent matrices, and he conjectured that there are no others. We prove this conjecture. Reducing the characteristic polynomial modulo $4$ gives a necessary condition for nilpotency that is linear over $\\F$. For $m > 1$ it forces $u = (v, 1, i, \\rev v)$ or $u = (v, i, 1, \\rev v)$, and an identity implicit in Corless's proof then reduces the problem to $v$. Since $T_m(u)$ is diagonally similar to a finite section of the Feinberg--Zee hopping matrix, the theorem also determines the nilpotent tridiagonal sign matrices. We further show that the $(1,1)$ entry of the resolvent of a nilpotent $T_m(u)$ is $\\lambda^{-1} \\pm \\lambda^{-3} \\pm \\lambda^{-7} \\pm \\dots \\pm \\lambda^{-(2^K - 1)}$, with signs that determine $u$. The proof of the main theorem has been formalised in Lean~4.",
+    "content": "arXiv:2611.25266v1 Announce Type: cross \nAbstract: Corless studied the skew-symmetric tridiagonal matrices $T_m(u)$ with superdiagonal $u \\in \\{1, i\\}^{m-1}$. He showed that $T_m(u)$ can be nilpotent only if $m = 2^K - 1$ and that the $2^{K-1}$ vectors $u$ obtained from the empty vector by repeated application of $u \\mapsto (u, 1, i, \\rev u)$ and $u \\mapsto (u, i, 1, \\rev u)$ give nilpotent matrices, and he conjectured that there are no others. We prove this conjecture. Reducing the characteristic polynomial modulo $4$ gives a necessary condition for nilpotency that is linear over $\\F$. For $m > 1$ it forces $u = (v, 1, i, \\rev v)$ or $u = (v, i, 1, \\rev v)$, and an identity implicit in Corless's proof then reduces the problem to $v$. Since $T_m(u)$ is diagonally similar to a finite section of the Feinberg--Zee hopping matrix, the theorem also determines the nilpotent tridiagonal sign matrices. We further show that the $(1,1)$ entry of the resolvent of a nilpotent $T_m(u)$ is $\\lambda^{-1} \\pm \\lambda^{-3} \\pm \\lambda^{-7} \\pm \\dots \\pm \\lambda^{-(2^K - 1)}$, with signs that determine $u$. The proof of the main theorem has been formalised in Lean~4.",
+    "enclosure": {},
+    "categories": [
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "On generalizations of the Cohen structure theorem",
+    "pubDate": "2026-11-20 05:00:00",
+    "link": "https://arxiv.org/abs/2611.25192",
+    "guid": "oai:arXiv.org:2611.25192v1",
+    "author": "Robert Dicks",
+    "thumbnail": "",
+    "description": "arXiv:2611.25192v1 Announce Type: new \nAbstract: The Cohen structure theorem is an important tool in commutative algebra and algebraic geometry. Recent work of Caviglia, Goswami, and Mesiti addresses the related question of which unital rings admit a maximal ideal for which the natural projection admits a section; for such rings, they prove a structure theorem in terms of semidirect products of rings.\n  In this paper, we extract the underlying mechanism of their structure theorem to address when unital rings admit a nonzero proper ideal whose associated projection map has this property. We also address other settings involving ideals with conditions which are determined by ring theoretic properties of the corresponding quotient.",
+    "content": "arXiv:2611.25192v1 Announce Type: new \nAbstract: The Cohen structure theorem is an important tool in commutative algebra and algebraic geometry. Recent work of Caviglia, Goswami, and Mesiti addresses the related question of which unital rings admit a maximal ideal for which the natural projection admits a section; for such rings, they prove a structure theorem in terms of semidirect products of rings.\n  In this paper, we extract the underlying mechanism of their structure theorem to address when unital rings admit a nonzero proper ideal whose associated projection map has this property. We also address other settings involving ideals with conditions which are determined by ring theoretic properties of the corresponding quotient.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Iterative constructions of semifields 2-dimensional over a nucleus",
+    "pubDate": "2026-11-20 05:00:00",
+    "link": "https://arxiv.org/abs/2611.25182",
+    "guid": "oai:arXiv.org:2611.25182v1",
+    "author": "Lukas K\\\"olsch, Paolo Santonastaso, Yue Zhou",
+    "thumbnail": "",
+    "description": "arXiv:2611.25182v1 Announce Type: cross \nAbstract: The construction of finite semifields dates back to Dickson's work in 1906. To the best of our knowledge, only two iterative constructions were previously known: those of Hiramine, Matsumoto and Oyama in 1987, and of Kantor and Williams in 2004. The latter yields, for suitable even orders, superpolynomially many pairwise non-isotopic semifields. In this paper, we use skew-polynomial rings to give a new iterative construction of finite semifields. This construction produces large families of pairwise non-isotopic semifields, each of which is $2$-dimensional over one of its nuclei. In particular, we show that this construction method yields semifields not contained in any family of semifields known so far.",
+    "content": "arXiv:2611.25182v1 Announce Type: cross \nAbstract: The construction of finite semifields dates back to Dickson's work in 1906. To the best of our knowledge, only two iterative constructions were previously known: those of Hiramine, Matsumoto and Oyama in 1987, and of Kantor and Williams in 2004. The latter yields, for suitable even orders, superpolynomially many pairwise non-isotopic semifields. In this paper, we use skew-polynomial rings to give a new iterative construction of finite semifields. This construction produces large families of pairwise non-isotopic semifields, each of which is $2$-dimensional over one of its nuclei. In particular, we show that this construction method yields semifields not contained in any family of semifields known so far.",
+    "enclosure": {},
+    "categories": [
+      "math.CO",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "When Is an OIRI-Algebra a Banach Lattice? Structure Theorems and Counterexamples",
+    "pubDate": "2026-11-20 05:00:00",
+    "link": "https://arxiv.org/abs/2611.25083",
+    "guid": "oai:arXiv.org:2611.25083v1",
+    "author": "Zied Jbeli, Mohamed Ali Toumi",
+    "thumbnail": "",
+    "description": "arXiv:2611.25083v1 Announce Type: new \nAbstract: This paper investigates the exact conditions under which a relatively uniformly complete semiprime $f$-algebra whose order ideals are ring ideals (an OIRI-algebra) admits a norm turning it into a Banach lattice or an AM-space. While recent literature claimed that this equivalence holds automatically in the presence of a weak order unit, we construct a concrete counterexample within a relatively uniformly complete vector lattice showing that this assertion fails in general. By analyzing the canonical embedding $\\psi:A\\rightarrow Orth(A)$, we prove that the equivalence between being an OIRI-algebra, admitting an AM-space or Banach lattice norm and satisfying $Orth(A)=$ $Stab(A)$ $=Z(A$) holds under the assumption that $\\psi\\left( A\\right) $ is relatively uniformly closed in $Orth(A)$ (alongside a characterization via finite elements in the unitization $A^{\\sharp}$). We also deduce immediate consequences for unital $f$-algebras and generalize our main theorem to non-semiprime $f$-algebras via the quotient modulo the nilpotent radical $N(A)$.",
+    "content": "arXiv:2611.25083v1 Announce Type: new \nAbstract: This paper investigates the exact conditions under which a relatively uniformly complete semiprime $f$-algebra whose order ideals are ring ideals (an OIRI-algebra) admits a norm turning it into a Banach lattice or an AM-space. While recent literature claimed that this equivalence holds automatically in the presence of a weak order unit, we construct a concrete counterexample within a relatively uniformly complete vector lattice showing that this assertion fails in general. By analyzing the canonical embedding $\\psi:A\\rightarrow Orth(A)$, we prove that the equivalence between being an OIRI-algebra, admitting an AM-space or Banach lattice norm and satisfying $Orth(A)=$ $Stab(A)$ $=Z(A$) holds under the assumption that $\\psi\\left( A\\right) $ is relatively uniformly closed in $Orth(A)$ (alongside a characterization via finite elements in the unitization $A^{\\sharp}$). We also deduce immediate consequences for unital $f$-algebras and generalize our main theorem to non-semiprime $f$-algebras via the quotient modulo the nilpotent radical $N(A)$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Decomposition of trilinear forme",
+    "pubDate": "2026-11-20 05:00:00",
+    "link": "https://arxiv.org/abs/2611.25058",
+    "guid": "oai:arXiv.org:2611.25058v1",
+    "author": "Elisabeth Remm, Michel Goze",
+    "thumbnail": "",
+    "description": "arXiv:2611.25058v1 Announce Type: new \nAbstract: In this work, we are interested in the decomposition of trilinear forms. We associate this decomposition with the decomposition into irreducible subspaces of the group algebra associated with the symmetric group. We have a correspondence between a ternary form and a symmetric trilinear form, in the same way that we have the correspondence between a quadratic form and a symmetric quadratic form. We are then interested in the decomposition of ternary forms into a sum of cubes of linear forms and as an application we find the Tartaglia formulae on the expression of the roots of equations of degree 3.",
+    "content": "arXiv:2611.25058v1 Announce Type: new \nAbstract: In this work, we are interested in the decomposition of trilinear forms. We associate this decomposition with the decomposition into irreducible subspaces of the group algebra associated with the symmetric group. We have a correspondence between a ternary form and a symmetric trilinear form, in the same way that we have the correspondence between a quadratic form and a symmetric quadratic form. We are then interested in the decomposition of ternary forms into a sum of cubes of linear forms and as an application we find the Tartaglia formulae on the expression of the roots of equations of degree 3.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Another Multivector Inverse Algorithm",
+    "pubDate": "2026-11-20 05:00:00",
+    "link": "https://arxiv.org/abs/2611.14549",
+    "guid": "oai:arXiv.org:2611.14549v2",
+    "author": "David Arthur Jones",
+    "thumbnail": "",
+    "description": "arXiv:2611.14549v2 Announce Type: replace \nAbstract: A numerical algorithm is described for computing the inverse of a non-singular multivector across dimensions. The method wraps a reversion-like product around a Faddeev--LeVerrier--Souriau (FLS) polynomial core. While FLS provides dimensional extensibility, the wrapper reduces the polynomial order of the FLS method, and introduces a sparse multivector which can be further exploited. The construction and essential properties of the initial involution are explained.\n  For dimensions 4--7, the optimized inverse requires fewer real multiplications than a same-dimension multivector product. Dimensions 8--11 follow easily on common hardware with similar efficiency. For dimensions 12--15, higher-precision arithmetic demonstrates the generality of the algorithm when the arithmetic can support it. Performance on common hardware is reported. Directions are included for obtaining a Python package with examples for numerical computation in Clifford algebra, supporting arbitrary signatures including degenerate cases.",
+    "content": "arXiv:2611.14549v2 Announce Type: replace \nAbstract: A numerical algorithm is described for computing the inverse of a non-singular multivector across dimensions. The method wraps a reversion-like product around a Faddeev--LeVerrier--Souriau (FLS) polynomial core. While FLS provides dimensional extensibility, the wrapper reduces the polynomial order of the FLS method, and introduces a sparse multivector which can be further exploited. The construction and essential properties of the initial involution are explained.\n  For dimensions 4--7, the optimized inverse requires fewer real multiplications than a same-dimension multivector product. Dimensions 8--11 follow easily on common hardware with similar efficiency. For dimensions 12--15, higher-precision arithmetic demonstrates the generality of the algorithm when the arithmetic can support it. Performance on common hardware is reported. Directions are included for obtaining a Python package with examples for numerical computation in Clifford algebra, supporting arbitrary signatures including degenerate cases.",
+    "enclosure": {},
+    "categories": [
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "An infinite completely normal basis theorem",
+    "pubDate": "2026-11-20 05:00:00",
+    "link": "https://arxiv.org/abs/2610.22247",
+    "guid": "oai:arXiv.org:2610.22247v2",
+    "author": "Patrik Lundstr\\\"{o}m",
+    "thumbnail": "",
+    "description": "arXiv:2610.22247v2 Announce Type: replace \nAbstract: Let $L/K$ be an arbitrary Galois extension with group $G$, equipped with the Krull topology. Let $C(G,K)$ denote the $K$-vector space of continuous functions $G\\to K$, with $K$ discrete and $G$ acting by left translation. We prove that there exists a $G$-equivariant $K$-linear isomorphism $\\varphi:C(G,K)\\to L$ such that, for every open subgroup $H$ of $G$, the map $\\varphi^H:C(H,L^H)\\to L$ induced by extension by zero and extension of scalars is an $H$-equivariant $L^H$-linear isomorphism. This gives a completely normal analogue of Lenstra's infinite normal basis theorem.",
+    "content": "arXiv:2610.22247v2 Announce Type: replace \nAbstract: Let $L/K$ be an arbitrary Galois extension with group $G$, equipped with the Krull topology. Let $C(G,K)$ denote the $K$-vector space of continuous functions $G\\to K$, with $K$ discrete and $G$ acting by left translation. We prove that there exists a $G$-equivariant $K$-linear isomorphism $\\varphi:C(G,K)\\to L$ such that, for every open subgroup $H$ of $G$, the map $\\varphi^H:C(H,L^H)\\to L$ induced by extension by zero and extension of scalars is an $H$-equivariant $L^H$-linear isomorphism. This gives a completely normal analogue of Lenstra's infinite normal basis theorem.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "math.RT"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Digraph Laplacian spectra: The 2005 polygon conjecture fails for all orders above four",
+    "pubDate": "2026-11-20 05:00:00",
+    "link": "https://arxiv.org/abs/2610.14100",
+    "guid": "oai:arXiv.org:2610.14100v4",
+    "author": "Pavel Chebotarev",
+    "thumbnail": "",
+    "description": "arXiv:2610.14100v4 Announce Type: replace-cross \nAbstract: Let $\\Lambda_n$ be the set of all eigenvalues of standardized Laplacian matrices of order $n$, equivalently, of stochastic $n\\times n$ matrices with off-diagonal entries at most $\\frac1n$. In 2005, a polygon $S_n\\subseteq\\Lambda_n$ was constructed, and it was conjectured that $\\Lambda_n=S_n$; this holds for $n\\le3$. We show that the conjecture fails for every $n\\ge5$. The vertices of $S_n$ are eigenvalues of circulant Laplacians built from powers of the directed $n$-cycle. To first order, no perturbation of these circulants moves such an eigenvalue out of $S_n$; however, adding chords with nonconstant weights moves it along an edge of $S_n$ to first order and, with an explicit coefficient, beyond the supporting line of this edge to second order. Consequently, every edge of $S_n$ not incident to $0$ or $1$ contains interior points of $\\Lambda_n$, except possibly, for even $n$, the two horizontal edges, whereas the four edges incident to $0$ or $1$ lie on $\\partial\\Lambda_n$. For $n=4$, whose only other edges are horizontal, the question has recently been settled, $\\Lambda_4=S_4$, by computer-assisted proofs of D. Z. Liu and L. Marshall; Liu also proved that $\\Lambda_n$ is not convex for $n\\ge5$. We certify an explicit weighted counterexample for $n=5$, lying only $1.5\\cdot10^{-3}$ outside $S_5$, and an unweighted one for $n=7$: the directed $6$-cycle with a duplicated vertex. Its eigenvalue outside $S_7$ is also an eigenvalue of the two-chord digraph that ends the above perturbation; for the analogous digraphs of order $n$, the excess is asymptotic to $\\frac{\\pi^2}{2n^4}$. We also observe that $S_n$ is a zonotope, describe $\\Lambda_n$ in terms of eigenvectors, and prove that $S_m\\subseteq S_n$ whenever $m\\mid n$.",
+    "content": "arXiv:2610.14100v4 Announce Type: replace-cross \nAbstract: Let $\\Lambda_n$ be the set of all eigenvalues of standardized Laplacian matrices of order $n$, equivalently, of stochastic $n\\times n$ matrices with off-diagonal entries at most $\\frac1n$. In 2005, a polygon $S_n\\subseteq\\Lambda_n$ was constructed, and it was conjectured that $\\Lambda_n=S_n$; this holds for $n\\le3$. We show that the conjecture fails for every $n\\ge5$. The vertices of $S_n$ are eigenvalues of circulant Laplacians built from powers of the directed $n$-cycle. To first order, no perturbation of these circulants moves such an eigenvalue out of $S_n$; however, adding chords with nonconstant weights moves it along an edge of $S_n$ to first order and, with an explicit coefficient, beyond the supporting line of this edge to second order. Consequently, every edge of $S_n$ not incident to $0$ or $1$ contains interior points of $\\Lambda_n$, except possibly, for even $n$, the two horizontal edges, whereas the four edges incident to $0$ or $1$ lie on $\\partial\\Lambda_n$. For $n=4$, whose only other edges are horizontal, the question has recently been settled, $\\Lambda_4=S_4$, by computer-assisted proofs of D. Z. Liu and L. Marshall; Liu also proved that $\\Lambda_n$ is not convex for $n\\ge5$. We certify an explicit weighted counterexample for $n=5$, lying only $1.5\\cdot10^{-3}$ outside $S_5$, and an unweighted one for $n=7$: the directed $6$-cycle with a duplicated vertex. Its eigenvalue outside $S_7$ is also an eigenvalue of the two-chord digraph that ends the above perturbation; for the analogous digraphs of order $n$, the excess is asymptotic to $\\frac{\\pi^2}{2n^4}$. We also observe that $S_n$ is a zonotope, describe $\\Lambda_n$ in terms of eigenvectors, and prove that $S_m\\subseteq S_n$ whenever $m\\mid n$.",
+    "enclosure": {},
+    "categories": [
+      "math.CO",
+      "math.RA",
+      "math.SP"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Quasilinear multiplication in the Cayley-Dickson tower",
+    "pubDate": "2026-11-20 05:00:00",
+    "link": "https://arxiv.org/abs/2609.11588",
+    "guid": "oai:arXiv.org:2609.11588v4",
+    "author": "Harrison Lemley",
+    "thumbnail": "",
+    "description": "arXiv:2609.11588v4 Announce Type: replace \nAbstract: Direct evaluation of the defining product of the Cayley-Dickson algebra $A_n$ of rank $N:=2^n$ requires a quadratic number of arithmetic operations. This paper gives a uniform bilinear algorithm that computes multiplication in $A_n$ using $O(N\\log N)$ arithmetic operations and $O(N)$ auxiliary storage over any unital commutative ring $R$ with $2\\in R^\\times$, with doubling parameters that are units with square roots in a fixed finite commutative $R$-algebra admitting an $R$-linear surjection onto $R$ preserving the identity. This covers every Cayley-Dickson tower over $\\mathbb{R}$ and over finite fields of odd characteristic, where the tensor rank of multiplication in $A_n$ is at most $(36n-69)2^{n-3}+10$ for $n\\ge4$. To the author's knowledge, this is the first uniform subquadratic algorithm for multiplication in $A_n$. In single-core benchmarks over $\\mathbb{R}$, an open-source implementation in the library fastCD is over $17$ times faster than direct multiplication at $N=1024$.",
+    "content": "arXiv:2609.11588v4 Announce Type: replace \nAbstract: Direct evaluation of the defining product of the Cayley-Dickson algebra $A_n$ of rank $N:=2^n$ requires a quadratic number of arithmetic operations. This paper gives a uniform bilinear algorithm that computes multiplication in $A_n$ using $O(N\\log N)$ arithmetic operations and $O(N)$ auxiliary storage over any unital commutative ring $R$ with $2\\in R^\\times$, with doubling parameters that are units with square roots in a fixed finite commutative $R$-algebra admitting an $R$-linear surjection onto $R$ preserving the identity. This covers every Cayley-Dickson tower over $\\mathbb{R}$ and over finite fields of odd characteristic, where the tensor rank of multiplication in $A_n$ is at most $(36n-69)2^{n-3}+10$ for $n\\ge4$. To the author's knowledge, this is the first uniform subquadratic algorithm for multiplication in $A_n$. In single-core benchmarks over $\\mathbb{R}$, an open-source implementation in the library fastCD is over $17$ times faster than direct multiplication at $N=1024$.",
+    "enclosure": {},
+    "categories": [
+      "math.RA",
+      "cs.NA",
+      "cs.SC",
+      "math.NA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
+    "title": "Regularity of the Semigroup of Regular Probability Measures on Locally Compact Hausdorff Topological Groups in which every element is of finite order",
+    "pubDate": "2026-11-20 05:00:00",
+    "link": "https://arxiv.org/abs/2410.10520",
+    "guid": "oai:arXiv.org:2410.10520v3",
+    "author": "M N N Namboodiri",
+    "thumbnail": "",
+    "description": "arXiv:2410.10520v3 Announce Type: replace-cross \nAbstract: Let $\\mathcal{G}$ be a locally compact Hausdorff group in which every element is of finite order, and let $P(\\mathcal{G})$ denote the class of all regular probability measures on $\\mathcal{G}$. In this note, it is observed that a characterization of algebraically regular elements in certain subsemigroups of $P(\\mathcal{G})$ (Theorem~4.1 \\cite{MNN}) for compact $\\mathcal{G}$ remains true for locally compact $\\mathcal{G}$. The results presented rely very much on Wendel's support theorem and the theory of doubly stochastic matrices (\\cite{PLC} \\cite{WEN}). A more general situation in which the assumption that every element is of finite order is not satisfied is also considered and illustrated with an example. This short article is a followup of \\cite{MNN}.In addition,the random walk on an infinite discrete group associated with the generalised inverse of a probability measure is also studied.The last section is devoted to Fourier transform techniques to study the same problem using Bochner-type theorem in harmonic analysis.",
+    "content": "arXiv:2410.10520v3 Announce Type: replace-cross \nAbstract: Let $\\mathcal{G}$ be a locally compact Hausdorff group in which every element is of finite order, and let $P(\\mathcal{G})$ denote the class of all regular probability measures on $\\mathcal{G}$. In this note, it is observed that a characterization of algebraically regular elements in certain subsemigroups of $P(\\mathcal{G})$ (Theorem~4.1 \\cite{MNN}) for compact $\\mathcal{G}$ remains true for locally compact $\\mathcal{G}$. The results presented rely very much on Wendel's support theorem and the theory of doubly stochastic matrices (\\cite{PLC} \\cite{WEN}). A more general situation in which the assumption that every element is of finite order is not satisfied is also considered and illustrated with an example. This short article is a followup of \\cite{MNN}.In addition,the random walk on an infinite discrete group associated with the generalised inverse of a probability measure is also studied.The last section is devoted to Fourier transform techniques to study the same problem using Bochner-type theorem in harmonic analysis.",
+    "enclosure": {},
+    "categories": [
+      "math.FA",
+      "math.RA"
+    ],
+    "__source": "https://rss.arxiv.org/rss/math.RA"
+  },
+  {
     "title": "A Cubic Obstruction to Sums of Tripotent and Square-Zero Matrices",
     "pubDate": "2026-11-19 05:00:00",
     "link": "https://arxiv.org/abs/2611.24594",
